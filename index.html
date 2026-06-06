@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maulud.net — Lowongan Kerja Terbaru Indonesia</title>
+  <meta name="description" content="Portal lowongan kerja Indonesia. Temukan pekerjaan impianmu dari berbagai perusahaan terpercaya. Update lowongan baru setiap hari.">
+  <meta property="og:title" content="Maulud.net — Lowongan Kerja Terbaru Indonesia">
+  <meta property="og:description" content="Portal lowongan kerja Indonesia. Temukan pekerjaan impianmu dari berbagai perusahaan terpercaya.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80">
+  <meta property="og:url" content="https://maulud.net">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Maulud.net">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Maulud.net — Lowongan Kerja Terbaru Indonesia">
+  <meta name="twitter:description" content="Portal lowongan kerja Indonesia. Temukan pekerjaan impianmu.">
+  <meta name="twitter:image" content="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80">
+  <link rel="canonical" href="https://maulud.net/">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <div class="container">
+    <a href="/" class="logo">Maulud<span>.net</span></a>
+    <div class="nav-links">
+      <a href="/" class="active">🏠 Beranda</a>
+      <a href="/#daftar-lowongan">📋 Lowongan</a>
+      <a href="/tentang">ℹ️ Tentang</a>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="container">
+    <h1>🚀 Temukan Lowongan Kerja Impianmu</h1>
+    <p>Ribuan lowongan kerja dari perusahaan terpercaya di Indonesia. Diperbarui setiap hari. Cari, klik, lamar — semudah itu.</p>
+  </div>
+</section>
+
+<div class="stats" id="stats"></div>
+
+<section class="filters" id="daftar-lowongan">
+  <div class="container">
+    <div class="filter-bar">
+      <input type="text" id="searchInput" placeholder="🔍 Cari lowongan..." oninput="filterJobs()">
+      <select id="categoryFilter" onchange="filterJobs()">
+        <option value="">Semua Kategori</option>
+      </select>
+      <select id="typeFilter" onchange="filterJobs()">
+        <option value="">Semua Tipe</option>
+        <option value="Full-time">Full-time</option>
+        <option value="Part-time">Part-time</option>
+        <option value="Contract">Contract</option>
+        <option value="Internship">Internship</option>
+        <option value="Freelance">Freelance</option>
+      </select>
+    </div>
+  </div>
+</section>
+
+<section class="job-list">
+  <div class="container">
+    <div class="job-grid" id="jobGrid"></div>
+    <div id="noResults" class="hidden" style="text-align:center;padding:60px 20px;color:var(--text-muted)">
+      <p style="font-size:1.2rem">😕 Lowongan tidak ditemukan</p>
+      <p>Coba keyword atau filter yang berbeda</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2026 <a href="https://maulud.net">Maulud.net</a> — Portal Lowongan Kerja Indonesia</p>
+    <p>Dibangun dengan ❤️</p>
+  </div>
+</footer>
+
+<script>
+let jobs = [];
+
+async function loadJobs() {
+  try {
+    const res = await fetch('lowongan.json');
+    const data = await res.json();
+    jobs = data.jobs;
+    const categories = data.categories;
+    
+    // Stats
+    const totalJobs = jobs.length;
+    const remoteJobs = jobs.filter(j => j.location.toLowerCase().includes('remote')).length;
+    const companies = [...new Set(jobs.map(j => j.company))].length;
+    document.getElementById('stats').innerHTML = `
+      <div class="stat-card"><div class="stat-num">${totalJobs}</div><div class="stat-label">Total Lowongan</div></div>
+      <div class="stat-card"><div class="stat-num">${remoteJobs}</div><div class="stat-label">Remote</div></div>
+      <div class="stat-card"><div class="stat-num">${companies}</div><div class="stat-label">Perusahaan</div></div>
+      <div class="stat-card"><div class="stat-num">${new Date().toLocaleDateString('id-ID', {day:'numeric',month:'short',year:'numeric'})}</div><div class="stat-label">Update Terakhir</div></div>
+    `;
+    
+    // Categories
+    const catSelect = document.getElementById('categoryFilter');
+    categories.forEach(cat => {
+      const opt = document.createElement('option');
+      opt.value = cat;
+      opt.textContent = cat;
+      catSelect.appendChild(opt);
+    });
+    
+    renderJobs(jobs);
+  } catch(e) {
+    document.getElementById('jobGrid').innerHTML = '<p style="text-align:center;padding:40px;color:var(--text-muted)">Gagal memuat data lowongan</p>';
+  }
+}
+
+function renderJobs(list) {
+  const grid = document.getElementById('jobGrid');
+  const noResults = document.getElementById('noResults');
+  
+  if (list.length === 0) {
+    grid.innerHTML = '';
+    noResults.classList.remove('hidden');
+    return;
+  }
+  noResults.classList.add('hidden');
+  
+  // Sort: featured first, then by date
+  list.sort((a, b) => {
+    if (a.featured && !b.featured) return -1;
+    if (!a.featured && b.featured) return 1;
+    return 0;
+  });
+  
+  grid.innerHTML = list.map(job => {
+    const typeClass = job.type?.toLowerCase().replace(/[\s-]/g, '') || 'fulltime';
+    const locationIcon = job.location.toLowerCase().includes('remote') ? '🌐' : '📍';
+    return `
+      <a href="/post/${job.slug}" style="text-decoration:none;color:inherit">
+        <div class="job-card">
+          <h2>${job.featured ? '⭐ ' : ''}${job.title}</h2>
+          <div class="company">${job.company}</div>
+          <div class="job-meta">
+            <span>${locationIcon} ${job.location}</span>
+            <span>💼 ${job.type}</span>
+            <span>💰 ${job.salary}</span>
+          </div>
+          <div class="job-tags">
+            <span class="tag ${typeClass}">${job.type}</span>
+            <span class="tag">${job.category}</span>
+          </div>
+          <div class="job-date">📅 ${job.posted}</div>
+        </div>
+      </a>
+    `;
+  }).join('');
+}
+
+function filterJobs() {
+  const search = document.getElementById('searchInput').value.toLowerCase();
+  const category = document.getElementById('categoryFilter').value;
+  const type = document.getElementById('typeFilter').value;
+  
+  let filtered = jobs.filter(job => {
+    const matchSearch = !search || 
+      job.title.toLowerCase().includes(search) ||
+      job.company.toLowerCase().includes(search) ||
+      job.description.toLowerCase().includes(search) ||
+      job.location.toLowerCase().includes(search);
+    const matchCategory = !category || job.category === category;
+    const matchType = !type || job.type === type;
+    return matchSearch && matchCategory && matchType;
+  });
+  
+  renderJobs(filtered);
+}
+
+loadJobs();
+</script>
+
+</body>
+</html>
