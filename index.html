@@ -3,20 +3,55 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Maulud.net — Lowongan Kerja Terbaru Indonesia</title>
-  <meta name="description" content="Portal lowongan kerja Indonesia. Temukan pekerjaan impianmu dari berbagai perusahaan terpercaya. Update lowongan baru setiap hari.">
-  <meta property="og:title" content="Maulud.net — Lowongan Kerja Terbaru Indonesia">
-  <meta property="og:description" content="Portal lowongan kerja Indonesia. Temukan pekerjaan impianmu dari berbagai perusahaan terpercaya.">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80">
+  <title>Maulud.net — Indra Mauludin</title>
+  <meta name="description" content="Indra Mauludin — personal website. Portal lowongan kerja dan personal branding.">
+  <meta property="og:title" content="Maulud.net — Indra Mauludin">
+  <meta property="og:description" content="Personal website Indra Mauludin. Portal lowongan kerja Indonesia.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80">
   <meta property="og:url" content="https://maulud.net">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Maulud.net">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Maulud.net — Lowongan Kerja Terbaru Indonesia">
-  <meta name="twitter:description" content="Portal lowongan kerja Indonesia. Temukan pekerjaan impianmu.">
-  <meta name="twitter:image" content="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80">
   <link rel="canonical" href="https://maulud.net/">
   <link rel="stylesheet" href="style.css">
+  <style>
+    .hero-personal {
+      background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+      color: white;
+      padding: 80px 0 60px;
+      text-align: center;
+    }
+    .hero-personal h1 { font-size: 2.5rem; margin-bottom: 8px; }
+    .hero-personal .subtitle { font-size: 1.2rem; opacity: .8; margin-bottom: 24px; }
+    .hero-personal .tagline { font-size: 1.1rem; opacity: .7; max-width: 550px; margin: 0 auto; line-height: 1.6; }
+    .avatar {
+      width: 120px; height: 120px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #2563eb, #7c3aed);
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto 20px;
+      font-size: 3rem; color: white; font-weight: 800;
+      border: 4px solid rgba(255,255,255,.2);
+    }
+    .sections { padding: 50px 0; }
+    .section-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px; }
+    .section-card {
+      background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 32px; text-align: center; transition: all .2s;
+    }
+    .section-card:hover { border-color: var(--primary); transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.06); }
+    .section-card .icon { font-size: 2.5rem; margin-bottom: 12px; }
+    .section-card h3 { margin-bottom: 8px; font-size: 1.2rem; }
+    .section-card p { color: var(--text-muted); font-size: .95rem; margin-bottom: 16px; line-height: 1.5; }
+    .section-card a {
+      display: inline-block; color: var(--primary); font-weight: 600; text-decoration: none;
+    }
+    .section-card a:hover { text-decoration: underline; }
+    @media (max-width: 640px) {
+      .hero-personal h1 { font-size: 1.8rem; }
+      .hero-personal { padding: 50px 0 40px; }
+    }
+  </style>
 </head>
 <body>
 
@@ -25,156 +60,47 @@
     <a href="/" class="logo">Maulud<span>.net</span></a>
     <div class="nav-links">
       <a href="/" class="active">🏠 Beranda</a>
-      <a href="/#daftar-lowongan">📋 Lowongan</a>
+      <a href="/loker/">📋 Lowongan</a>
       <a href="/tentang">ℹ️ Tentang</a>
     </div>
   </div>
 </nav>
 
-<section class="hero">
+<section class="hero-personal">
   <div class="container">
-    <h1>🚀 Temukan Lowongan Kerja Impianmu</h1>
-    <p>Ribuan lowongan kerja dari perusahaan terpercaya di Indonesia. Diperbarui setiap hari. Cari, klik, lamar — semudah itu.</p>
-  </div>
-</section>
-
-<div class="stats" id="stats"></div>
-
-<section class="filters" id="daftar-lowongan">
-  <div class="container">
-    <div class="filter-bar">
-      <input type="text" id="searchInput" placeholder="🔍 Cari lowongan..." oninput="filterJobs()">
-      <select id="categoryFilter" onchange="filterJobs()">
-        <option value="">Semua Kategori</option>
-      </select>
-      <select id="typeFilter" onchange="filterJobs()">
-        <option value="">Semua Tipe</option>
-        <option value="Full-time">Full-time</option>
-        <option value="Part-time">Part-time</option>
-        <option value="Contract">Contract</option>
-        <option value="Internship">Internship</option>
-        <option value="Freelance">Freelance</option>
-      </select>
+    <div class="avatar">IM</div>
+    <h1>Indra Mauludin</h1>
+    <div class="subtitle">@maulud</div>
+    <div class="tagline">
+      Personal website &mdash; tempat berbagi informasi lowongan kerja dan hal-hal menarik seputar teknologi.
     </div>
   </div>
 </section>
 
-<section class="job-list">
+<section class="sections">
   <div class="container">
-    <div class="job-grid" id="jobGrid"></div>
-    <div id="noResults" class="hidden" style="text-align:center;padding:60px 20px;color:var(--text-muted)">
-      <p style="font-size:1.2rem">😕 Lowongan tidak ditemukan</p>
-      <p>Coba keyword atau filter yang berbeda</p>
+    <div class="section-grid">
+      <div class="section-card">
+        <div class="icon">📋</div>
+        <h3>Portal Lowongan Kerja</h3>
+        <p>Kumpulan lowongan kerja terbaru dari berbagai perusahaan. Diupdate secara rutin.</p>
+        <a href="/loker/">Lihat Lowongan →</a>
+      </div>
+      <div class="section-card">
+        <div class="icon">👤</div>
+        <h3>Tentang Saya</h3>
+        <p>Kenali lebih dekat siapa Indra Mauludin dan apa yang dikerjakan.</p>
+        <a href="/tentang">Baca Selengkapnya →</a>
+      </div>
     </div>
   </div>
 </section>
 
 <footer>
   <div class="container">
-    <p>© 2026 <a href="https://maulud.net">Maulud.net</a> — Portal Lowongan Kerja Indonesia</p>
-    <p>Dibangun dengan ❤️</p>
+    <p>© 2026 <a href="https://maulud.net">Maulud.net</a> — Indra Mauludin</p>
   </div>
 </footer>
-
-<script>
-let jobs = [];
-
-async function loadJobs() {
-  try {
-    const res = await fetch('lowongan.json');
-    const data = await res.json();
-    jobs = data.jobs;
-    const categories = data.categories;
-    
-    // Stats
-    const totalJobs = jobs.length;
-    const remoteJobs = jobs.filter(j => j.location.toLowerCase().includes('remote')).length;
-    const companies = [...new Set(jobs.map(j => j.company))].length;
-    document.getElementById('stats').innerHTML = `
-      <div class="stat-card"><div class="stat-num">${totalJobs}</div><div class="stat-label">Total Lowongan</div></div>
-      <div class="stat-card"><div class="stat-num">${remoteJobs}</div><div class="stat-label">Remote</div></div>
-      <div class="stat-card"><div class="stat-num">${companies}</div><div class="stat-label">Perusahaan</div></div>
-      <div class="stat-card"><div class="stat-num">${new Date().toLocaleDateString('id-ID', {day:'numeric',month:'short',year:'numeric'})}</div><div class="stat-label">Update Terakhir</div></div>
-    `;
-    
-    // Categories
-    const catSelect = document.getElementById('categoryFilter');
-    categories.forEach(cat => {
-      const opt = document.createElement('option');
-      opt.value = cat;
-      opt.textContent = cat;
-      catSelect.appendChild(opt);
-    });
-    
-    renderJobs(jobs);
-  } catch(e) {
-    document.getElementById('jobGrid').innerHTML = '<p style="text-align:center;padding:40px;color:var(--text-muted)">Gagal memuat data lowongan</p>';
-  }
-}
-
-function renderJobs(list) {
-  const grid = document.getElementById('jobGrid');
-  const noResults = document.getElementById('noResults');
-  
-  if (list.length === 0) {
-    grid.innerHTML = '';
-    noResults.classList.remove('hidden');
-    return;
-  }
-  noResults.classList.add('hidden');
-  
-  // Sort: featured first, then by date
-  list.sort((a, b) => {
-    if (a.featured && !b.featured) return -1;
-    if (!a.featured && b.featured) return 1;
-    return 0;
-  });
-  
-  grid.innerHTML = list.map(job => {
-    const typeClass = job.type?.toLowerCase().replace(/[\s-]/g, '') || 'fulltime';
-    const locationIcon = job.location.toLowerCase().includes('remote') ? '🌐' : '📍';
-    return `
-      <a href="/post/${job.slug}" style="text-decoration:none;color:inherit">
-        <div class="job-card">
-          <h2>${job.featured ? '⭐ ' : ''}${job.title}</h2>
-          <div class="company">${job.company}</div>
-          <div class="job-meta">
-            <span>${locationIcon} ${job.location}</span>
-            <span>💼 ${job.type}</span>
-            <span>💰 ${job.salary}</span>
-          </div>
-          <div class="job-tags">
-            <span class="tag ${typeClass}">${job.type}</span>
-            <span class="tag">${job.category}</span>
-          </div>
-          <div class="job-date">📅 ${job.posted}</div>
-        </div>
-      </a>
-    `;
-  }).join('');
-}
-
-function filterJobs() {
-  const search = document.getElementById('searchInput').value.toLowerCase();
-  const category = document.getElementById('categoryFilter').value;
-  const type = document.getElementById('typeFilter').value;
-  
-  let filtered = jobs.filter(job => {
-    const matchSearch = !search || 
-      job.title.toLowerCase().includes(search) ||
-      job.company.toLowerCase().includes(search) ||
-      job.description.toLowerCase().includes(search) ||
-      job.location.toLowerCase().includes(search);
-    const matchCategory = !category || job.category === category;
-    const matchType = !type || job.type === type;
-    return matchSearch && matchCategory && matchType;
-  });
-  
-  renderJobs(filtered);
-}
-
-loadJobs();
-</script>
 
 </body>
 </html>

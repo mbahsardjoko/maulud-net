@@ -5,25 +5,22 @@ import os
 import re
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent.parent
+BASE = Path(__file__).resolve().parent.parent.parent
 
-with open(BASE / 'lowongan.json') as f:
+with open(BASE / 'loker' / 'lowongan.json') as f:
     data = json.load(f)
 
 jobs = data['jobs']
 site = data['site']
 
-os.makedirs(BASE / 'post', exist_ok=True)
+os.makedirs(BASE / 'loker' / 'post', exist_ok=True)
 
-LOCATION_ICON = '\U0001f310'  # globe
-COMPANY_ICON = '\U0001f3e2'
+LOCATION = '\U0001f310'
+COMPANY = '\U0001f3e2'
 BRIEFCASE = '\U0001f4bc'
 MONEY = '\U0001f4b0'
 CALENDAR = '\U0001f4c5'
 STAR = '\u2b50'
-CHECK = '\u2714\ufe0f'
-TARGET = '\U0001f3af'
-GIFT = '\U0001f381'
 PENCIL = '\U0001f4dd'
 BACK = '\u2190'
 PIN = '\U0001f4cd'
@@ -34,7 +31,7 @@ INFO = '\u2139\ufe0f'
 for job in jobs:
     slug = job['slug']
     type_class = job['type'].lower().replace(' ', '').replace('-', '') if job.get('type') else 'fulltime'
-    loc_icon = LOCATION_ICON if 'remote' in job['location'].lower() else PIN
+    loc_icon = LOCATION if 'remote' in job['location'].lower() else PIN
 
     reqs = '\n'.join(f'      <li>{r}</li>' for r in job.get('requirements', []))
     resp = '\n'.join(f'      <li>{r}</li>' for r in job.get('responsibilities', []))
@@ -45,15 +42,14 @@ for job in jobs:
         f'            <span class="tag">{job["category"]}</span>'
     )
 
-    # Related jobs
     related = [j for j in jobs if j['category'] == job['category'] and j['slug'] != slug][:3]
     related_html = ''
     if related:
         related_cards = ''
         for r in related:
-            r_loc_icon = LOCATION_ICON if 'remote' in r['location'].lower() else PIN
+            r_loc_icon = LOCATION if 'remote' in r['location'].lower() else PIN
             related_cards += (
-                f'      <a href="/post/{r["slug"]}" style="text-decoration:none;color:inherit">\n'
+                f'      <a href="/loker/post/{r["slug"]}" style="text-decoration:none;color:inherit">\n'
                 f'        <div class="job-card">\n'
                 f'          <h2>{r["title"]}</h2>\n'
                 f'          <div class="company">{r["company"]}</div>\n'
@@ -76,7 +72,6 @@ for job in jobs:
             f'</section>'
         )
 
-    # Apply box
     apply_html = ''
     if job.get('how_to_apply') or job.get('apply_url'):
         apply_html = (
@@ -100,13 +95,13 @@ for job in jobs:
         f'  <meta property="og:title" content="{job["title"]} &mdash; {site["title"]}">\n'
         f'  <meta property="og:description" content="{job["description"][:150]}">\n'
         '  <meta property="og:image" content="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80">\n'
-        f'  <meta property="og:url" content="{site["url"]}/post/{slug}">\n'
+        f'  <meta property="og:url" content="{site["url"]}/loker/post/{slug}">\n'
         '  <meta property="og:type" content="article">\n'
         f'  <meta property="og:site_name" content="{site["title"]}">\n'
         '  <meta name="twitter:card" content="summary_large_image">\n'
         f'  <meta name="twitter:title" content="{job["title"]} &mdash; {site["title"]}">\n'
         f'  <meta name="twitter:description" content="{job["description"][:150]}">\n'
-        f'  <link rel="canonical" href="{site["url"]}/post/{slug}">\n'
+        f'  <link rel="canonical" href="{site["url"]}/loker/post/{slug}">\n'
         '  <link rel="stylesheet" href="/style.css">\n'
         '</head>\n'
         '<body>\n'
@@ -116,7 +111,7 @@ for job in jobs:
         f'    <a href="/" class="logo">{site["title"]}</a>\n'
         '    <div class="nav-links">\n'
         f'      <a href="/">{HOME} Beranda</a>\n'
-        f'      <a href="/#daftar-lowongan">{LIST} Lowongan</a>\n'
+        f'      <a href="/loker/">{LIST} Lowongan</a>\n'
         f'      <a href="/tentang">{INFO} Tentang</a>\n'
         '    </div>\n'
         '  </div>\n'
@@ -124,10 +119,10 @@ for job in jobs:
         '\n'
         '<section class="article-header">\n'
         '  <div class="container">\n'
-        '    <a href="/#daftar-lowongan" class="back-link">\u2190 Kembali ke daftar lowongan</a>\n'
+        '    <a href="/loker/#daftar-lowongan" class="back-link">\u2190 Kembali ke daftar lowongan</a>\n'
         f'    <h1>{featured_badge}{job["title"]}</h1>\n'
         '    <div class="article-meta">\n'
-        f'      <span>{COMPANY_ICON} {job["company"]}</span>\n'
+        f'      <span>{COMPANY} {job["company"]}</span>\n'
         f'      <span>{loc_icon} {job["location"]}</span>\n'
         f'      <span>{BRIEFCASE} {job["type"]}</span>\n'
         f'      <span>{MONEY} {job["salary"]}</span>\n'
@@ -174,8 +169,8 @@ for job in jobs:
         '</html>\n'
     )
 
-    with open(BASE / 'post' / f'{slug}.html', 'w') as f:
+    with open(BASE / 'loker' / 'post' / f'{slug}.html', 'w') as f:
         f.write(html)
-    print(f'OK: post/{slug}.html')
+    print(f'OK: loker/post/{slug}.html')
 
 print(f'\nDone! Generated {len(jobs)} job pages.')

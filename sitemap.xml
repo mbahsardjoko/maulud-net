@@ -11,12 +11,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://maulud.net/post/contoh-lowongan-frontend-developer</loc>
+    <loc>https://maulud.net/loker/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://maulud.net/loker/post/contoh-lowongan-frontend-developer</loc>
     <lastmod>2026-06-06</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maulud.net/post/contoh-lowongan-content-writer</loc>
+    <loc>https://maulud.net/loker/post/contoh-lowongan-content-writer</loc>
     <lastmod>2026-06-06</lastmod>
     <priority>0.8</priority>
   </url>
