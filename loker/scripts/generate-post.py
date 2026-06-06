@@ -28,18 +28,22 @@ HOME = '\U0001f3e0'
 LIST = '\U0001f4cb'
 INFO = '\u2139\ufe0f'
 
+def esc(s):
+    """Escape HTML entities in a string."""
+    return str(s).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&#39;')
+
 for job in jobs:
     slug = job['slug']
     type_class = job['type'].lower().replace(' ', '').replace('-', '') if job.get('type') else 'fulltime'
     loc_icon = LOCATION if 'remote' in job['location'].lower() else PIN
 
-    reqs = '\n'.join(f'      <li>{r}</li>' for r in job.get('requirements', []))
-    resp = '\n'.join(f'      <li>{r}</li>' for r in job.get('responsibilities', []))
-    benefits = '\n'.join(f'      <li>{b}</li>' for b in job.get('benefits', []))
+    reqs = '\n'.join(f'      <li>{esc(r)}</li>' for r in job.get('requirements', []))
+    resp = '\n'.join(f'      <li>{esc(r)}</li>' for r in job.get('responsibilities', []))
+    benefits = '\n'.join(f'      <li>{esc(b)}</li>' for b in job.get('benefits', []))
 
     tags_html = (
-        f'<span class="tag {type_class}">{job["type"]}</span>\n'
-        f'            <span class="tag">{job["category"]}</span>'
+        f'<span class="tag {type_class}">{esc(job["type"])}</span>\n'
+        f'            <span class="tag">{esc(job["category"])}</span>'
     )
 
     related = [j for j in jobs if j['category'] == job['category'] and j['slug'] != slug][:3]
@@ -49,14 +53,14 @@ for job in jobs:
         for r in related:
             r_loc_icon = LOCATION if 'remote' in r['location'].lower() else PIN
             related_cards += (
-                f'      <a href="/loker/post/{r["slug"]}" style="text-decoration:none;color:inherit">\n'
+                f'      <a href="/loker/post/{esc(r["slug"])}" style="text-decoration:none;color:inherit">\n'
                 f'        <div class="job-card">\n'
-                f'          <h2>{r["title"]}</h2>\n'
-                f'          <div class="company">{r["company"]}</div>\n'
+                f'          <h2>{esc(r["title"])}</h2>\n'
+                f'          <div class="company">{esc(r["company"])}</div>\n'
                 f'          <div class="job-meta">\n'
-                f'            <span>{r_loc_icon} {r["location"]}</span>\n'
-                f'            <span>{BRIEFCASE} {r["type"]}</span>\n'
-                f'            <span>{MONEY} {r["salary"]}</span>\n'
+                f'            <span>{r_loc_icon} {esc(r["location"])}</span>\n'
+                f'            <span>{BRIEFCASE} {esc(r["type"])}</span>\n'
+                f'            <span>{MONEY} {esc(r["salary"])}</span>\n'
                 f'          </div>\n'
                 f'        </div>\n'
                 f'      </a>\n'
@@ -77,10 +81,18 @@ for job in jobs:
         apply_html = (
             f'<div class="apply-box">\n'
             f'  <h3>{PENCIL} Cara Melamar</h3>\n'
-            f'  <p>{job.get("how_to_apply", "")}</p>\n'
-            f'  <a href="{job["apply_url"]}" class="apply-btn" target="_blank" rel="noopener">Kirim Lamaran {BACK}</a>\n'
+            f'  <p>{esc(job.get("how_to_apply", ""))}</p>\n'
+            f'  <a href="{esc(job["apply_url"])}" class="apply-btn" target="_blank" rel="noopener">Kirim Lamaran {BACK}</a>\n'
             f'</div>'
         )
+
+    # Source info
+    source = job.get('source', 'Website resmi perusahaan')
+    source_html = (
+        f'<div style="background:#f8fafc;border:1px solid #e2e8f0;'
+        f'border-radius:8px;padding:16px;margin:24px 0;font-size:.9rem;color:#64748b">'
+        f'\U0001f4ce Sumber: {esc(source)}</div>'
+    )
 
     featured_badge = f'{STAR} ' if job.get('featured') else ''
 
@@ -90,25 +102,25 @@ for job in jobs:
         '<head>\n'
         '  <meta charset="UTF-8">\n'
         '  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
-        f'  <title>{job["title"]} &mdash; {site["title"]}</title>\n'
-        f'  <meta name="description" content="{job["description"][:150]}">\n'
-        f'  <meta property="og:title" content="{job["title"]} &mdash; {site["title"]}">\n'
-        f'  <meta property="og:description" content="{job["description"][:150]}">\n'
+        f'  <title>{esc(job["title"])} &mdash; {esc(site["title"])}</title>\n'
+        f'  <meta name="description" content="{esc(job["description"][:150])}">\n'
+        f'  <meta property="og:title" content="{esc(job["title"])} &mdash; {esc(site["title"])}">\n'
+        f'  <meta property="og:description" content="{esc(job["description"][:150])}">\n'
         '  <meta property="og:image" content="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80">\n'
-        f'  <meta property="og:url" content="{site["url"]}/loker/post/{slug}">\n'
+        f'  <meta property="og:url" content="{esc(site["url"])}/loker/post/{esc(slug)}">\n'
         '  <meta property="og:type" content="article">\n'
-        f'  <meta property="og:site_name" content="{site["title"]}">\n'
+        f'  <meta property="og:site_name" content="{esc(site["title"])}">\n'
         '  <meta name="twitter:card" content="summary_large_image">\n'
-        f'  <meta name="twitter:title" content="{job["title"]} &mdash; {site["title"]}">\n'
-        f'  <meta name="twitter:description" content="{job["description"][:150]}">\n'
-        f'  <link rel="canonical" href="{site["url"]}/loker/post/{slug}">\n'
+        f'  <meta name="twitter:title" content="{esc(job["title"])} &mdash; {esc(site["title"])}">\n'
+        f'  <meta name="twitter:description" content="{esc(job["description"][:150])}">\n'
+        f'  <link rel="canonical" href="{esc(site["url"])}/loker/post/{esc(slug)}">\n'
         '  <link rel="stylesheet" href="/style.css">\n'
         '</head>\n'
         '<body>\n'
         '\n'
         '<nav>\n'
         '  <div class="container">\n'
-        f'    <a href="/" class="logo">{site["title"]}</a>\n'
+        f'    <a href="/" class="logo">{esc(site["title"])}</a>\n'
         '    <div class="nav-links">\n'
         f'      <a href="/">{HOME} Beranda</a>\n'
         f'      <a href="/loker/">{LIST} Lowongan</a>\n'
@@ -120,13 +132,13 @@ for job in jobs:
         '<section class="article-header">\n'
         '  <div class="container">\n'
         '    <a href="/loker/#daftar-lowongan" class="back-link">\u2190 Kembali ke daftar lowongan</a>\n'
-        f'    <h1>{featured_badge}{job["title"]}</h1>\n'
+        f'    <h1>{featured_badge}{esc(job["title"])}</h1>\n'
         '    <div class="article-meta">\n'
-        f'      <span>{COMPANY} {job["company"]}</span>\n'
-        f'      <span>{loc_icon} {job["location"]}</span>\n'
-        f'      <span>{BRIEFCASE} {job["type"]}</span>\n'
-        f'      <span>{MONEY} {job["salary"]}</span>\n'
-        f'      <span>{CALENDAR} {job["posted"]}</span>\n'
+        f'      <span>{COMPANY} {esc(job["company"])}</span>\n'
+        f'      <span>{loc_icon} {esc(job["location"])}</span>\n'
+        f'      <span>{BRIEFCASE} {esc(job["type"])}</span>\n'
+        f'      <span>{MONEY} {esc(job["salary"])}</span>\n'
+        f'      <span>{CALENDAR} {esc(job["posted"])}</span>\n'
         '    </div>\n'
         '    <div class="article-tags">\n'
         f'      {tags_html}\n'
@@ -136,7 +148,9 @@ for job in jobs:
         '\n'
         '<div class="article-content">\n'
         '  <div class="container">\n'
-        f'    <p>{job["description"]}</p>\n'
+        f'    <p>{esc(job["description"])}</p>\n'
+        '\n'
+        f'{source_html}\n'
         '\n'
         '    <h2>Kualifikasi</h2>\n'
         '    <ul>\n'
@@ -161,7 +175,7 @@ for job in jobs:
         '\n'
         '<footer>\n'
         '  <div class="container">\n'
-        f'    <p>\u00a9 2026 <a href="{site["url"]}">{site["title"]}</a> &mdash; Portal Lowongan Kerja Indonesia</p>\n'
+        f'    <p>\u00a9 2026 <a href="{esc(site["url"])}">{esc(site["title"])}</a> &mdash; Portal Lowongan Kerja Indonesia</p>\n'
         '  </div>\n'
         '</footer>\n'
         '\n'

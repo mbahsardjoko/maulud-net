@@ -42,7 +42,8 @@
       ],
       "how_to_apply": "Kirim CV dan portfolio ke email: hiring@teknologi.id dengan subjek: Frontend Developer - [Nama Kamu]",
       "apply_url": "mailto:hiring@teknologi.id",
-      "featured": true
+      "featured": true,
+      "source": "LinkedIn Indonesia — linkedin.com/jobs"
     },
     {
       "slug": "contoh-lowongan-content-writer",
@@ -76,7 +77,8 @@
       ],
       "how_to_apply": "Kirim portofolio tulisan ke karir@medianusantara.id",
       "apply_url": "mailto:karir@medianusantara.id",
-      "featured": true
+      "featured": true,
+      "source": "LinkedIn Indonesia — linkedin.com/jobs"
     }
   ],
   "categories": [
