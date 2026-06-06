@@ -32,3 +32,4 @@ Auto-deploy via Netlify ✅
 - Email: fmindrayana@gmail.com
 - Git user: CR7
 - Netlify: connected via GitHub
+
