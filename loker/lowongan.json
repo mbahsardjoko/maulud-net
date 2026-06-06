@@ -7,7 +7,212 @@
     "lang": "id",
     "locale": "id_ID"
   },
-  "jobs": [],
+  "jobs": [
+    {
+      "slug": "frontend-developer-indico-telkomsel",
+      "title": "Frontend Developer",
+      "company": "INDICO by Telkomsel",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta",
+      "posted": "07 Juni 2026",
+      "expires": "07 Juli 2026",
+      "description": "INDICO, anak perusahaan digital Telkomsel, mencari Frontend Developer berpengalaman untuk bergabung dalam tim pengembangan platform digital yang melayani jutaan pengguna di Indonesia. Posisi ini fokus pada pengembangan antarmuka pengguna menggunakan React.js serta kolaborasi dengan tim backend untuk mengintegrasikan API. Kamu akan bekerja dengan design system Minimals.cc dan berkontribusi dalam menciptakan solusi digital yang inovatif untuk ekosistem digital Indonesia.",
+      "requirements": [
+        "Proficient dalam React.js dengan pengalaman minimal 2 tahun",
+        "Memahami JavaScript modern (ES6+) dan TypeScript",
+        "Pengalaman dengan state management library (Redux atau sejenisnya)",
+        "Mahir membuat UI responsif dan aksesibel menggunakan HTML5, CSS3, TailwindCSS atau Material-UI",
+        "Pengalaman slicing design dari Figma atau tool UI/UX lainnya",
+        "Familiar dengan RESTful API dan WebSocket",
+        "Pengetahuan tentang frontend testing framework (Jest, React Testing Library)",
+        "Terbiasa menggunakan Git dan build tools (Webpack, Vite, Parcel)"
+      ],
+      "responsibilities": [
+        "Mengimplementasikan user interface berdasarkan desain dari Figma",
+        "Mengembangkan dan memelihara web application menggunakan React.js",
+        "Berkolaborasi dengan backend developer untuk integrasi API",
+        "Memastikan kualitas kode dengan menulis test dan mengikuti best practices",
+        "Mengoptimalkan UI untuk performa dan skalabilitas",
+        "Mengikuti dan berkontribusi pada design system Minimals.cc"
+      ],
+      "benefits": [
+        "Bekerja di anak perusahaan digital Telkomsel terkemuka",
+        "Lingkungan kerja yang inovatif dan dinamis",
+        "Kesempatan mengembangkan karir di ekosistem digital",
+        "Gaji dan tunjangan kompetitif",
+        "BPJS Kesehatan & Ketenagakerjaan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan.",
+      "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-indico-by-telkomsel-4408212274",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-indico-by-telkomsel-4408212274",
+      "featured": true
+    },
+    {
+      "slug": "full-stack-developer-indosaku",
+      "title": "Full Stack Developer",
+      "company": "Indosaku",
+      "location": "Tangerang Selatan",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 7-12 Juta",
+      "posted": "07 Juni 2026",
+      "expires": "07 Juli 2026",
+      "description": "Indosaku, perusahaan financial technology (fintech) yang berkembang pesat, mencari Full Stack Developer untuk merancang dan mengembangkan arsitektur aplikasi end-to-end. Posisi ini membutuhkan penguasaan Java dengan Spring Boot di sisi backend dan salah satu framework frontend modern. Kamu akan bertanggung jawab dalam mengembangkan fitur baru, integrasi API, dan memastikan keamanan aplikasi dari sisi backend maupun frontend.",
+      "requirements": [
+        "Pendidikan minimal D3/S1 di bidang IT atau terkait",
+        "Pengalaman kerja 2-3 tahun sebagai Software Developer",
+        "Menguasai Java dan konsep OOP",
+        "Berpengalaman dengan Spring Boot (REST API, Spring Data JPA/Hibernate, Spring Security)",
+        "Memahami database MySQL dan optimasi query",
+        "Menguasai HTML, CSS, JavaScript serta framework frontend (React, Angular, atau Vue)",
+        "Terbiasa menggunakan Git untuk version control",
+        "Memahami RESTful API, JSON, XML, dan dasar keamanan aplikasi"
+      ],
+      "responsibilities": [
+        "Merancang arsitektur aplikasi end-to-end",
+        "Mengembangkan fitur baru sesuai kebutuhan bisnis",
+        "Memastikan keamanan aplikasi dari sisi backend dan frontend",
+        "Melakukan troubleshooting dan bug fixing",
+        "Mengintegrasikan API dan layanan eksternal",
+        "Menyusun serta memelihara dokumentasi teknis aplikasi"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai pengalaman",
+        "Lingkungan kerja startup yang dinamis",
+        "BPJS Kesehatan & Ketenagakerjaan",
+        "Kesempatan pengembangan karir",
+        "Tunjangan transportasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan.",
+      "apply_url": "https://id.linkedin.com/jobs/view/full-stack-developer-at-indosaku-4415112619",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/full-stack-developer-at-indosaku-4415112619",
+      "featured": false
+    },
+    {
+      "slug": "content-executive-intrepid-asia",
+      "title": "Content Executive",
+      "company": "Intrepid Asia",
+      "location": "Yogyakarta",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 5-8 Juta",
+      "posted": "07 Juni 2026",
+      "expires": "07 Juli 2026",
+      "description": "Intrepid Asia, perusahaan penyedia solusi e-commerce dan digital terkemuka di Asia Tenggara, mencari Content Executive kreatif dan dinamis untuk bergabung dengan tim Merchandising & Creative. Kamu akan bertanggung jawab dalam mengoptimalkan konten produk e-commerce, meningkatkan SEO platform, dan menciptakan copywriting yang menarik untuk brand-brand internasional ternama. Posisi ini menawarkan lingkungan kerja hybrid dan kesempatan bekerja dengan teknologi terkini.",
+      "requirements": [
+        "Kemampuan creative copywriting dan analitik yang kuat",
+        "Familiar dengan HTML-based working tools",
+        "Pengalaman langsung dengan SEO platform e-commerce (diutamakan)",
+        "Teliti terhadap detail dan mampu bekerja dalam tim",
+        "Pengalaman di industri e-commerce/tech (nilai tambah)",
+        "Visi inovatif dan mampu berpikir di luar kotak"
+      ],
+      "responsibilities": [
+        "Mengoptimalkan konten produk di berbagai kategori untuk meningkatkan performa",
+        "Meningkatkan hasil pencarian organik produk dalam platform",
+        "Upload banner di platform e-commerce berbasis HTML",
+        "Menyelesaikan permintaan ad-hoc dari klien terkait manajemen produk dan dekorasi toko",
+        "Berkolaborasi dengan tim kreatif untuk menghasilkan konten yang menarik"
+      ],
+      "benefits": [
+        "Working hybrid (WFH + WFO)",
+        "Peralatan desain lengkap (PC/laptop/MacBook dan Adobe suite)",
+        "Pelatihan desain dan AI berkelanjutan",
+        "Asuransi komprehensif",
+        "Lingkungan kerja kolaboratif dan mendukung",
+        "Akses ke Intrepid Academy untuk pengembangan diri"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-executive-at-intrepid-asia-4409850396",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/content-executive-at-intrepid-asia-4409850396",
+      "featured": false
+    },
+    {
+      "slug": "digital-marketing-ecommerce-specialist-tnp-group",
+      "title": "Digital Marketing & Ecommerce Specialist",
+      "company": "TNP Group (Mooimom)",
+      "location": "Jakarta Utara",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 8-15 Juta",
+      "posted": "07 Juni 2026",
+      "expires": "07 Juli 2026",
+      "description": "PT TNP Maternity & Baby Trading (Mooimom) mencari E-Commerce Specialist handal yang paham cara meningkatkan penjualan online, mengoptimalkan performa marketplace, dan mengubah data menjadi revenue. Posisi ini cocok untuk kamu yang akrab dengan Shopee, Tokopedia, TikTok Shop, Meta Ads, Google Ads, dan strategi performance marketing. Kamu akan bertanggung jawab mengelola campaign, budget iklan, dan menganalisis performa toko online di berbagai marketplace.",
+      "requirements": [
+        "Minimal S1 di bidang Manajemen Bisnis, Finance, Marketing, atau terkait",
+        "Minimal 3 tahun pengalaman di E-commerce, Marketplace, atau Digital Marketing",
+        "Terbukti berhasil dalam mendorong pertumbuhan penjualan online",
+        "Pemahaman kuat tentang operasional marketplace, digital advertising, dan budget management",
+        "Kemampuan analitis, leadership, dan attention to detail yang baik",
+        "Bahasa Inggris aktif (lisan dan tulisan)",
+        "Bersedia WFO di Kelapa Gading, Jakarta Utara"
+      ],
+      "responsibilities": [
+        "Merencanakan dan mengeksekusi kalender promosi bulanan dan campaign marketplace",
+        "Mengelola budget iklan di Marketplace, Sosial Media, dan Google",
+        "Mendorong pertumbuhan toko online melalui optimasi campaign dan strategi keyword",
+        "Monitor performa penjualan, iklan, dan SEO untuk perbaikan berkelanjutan",
+        "Menyusun laporan mingguan dan bulanan performa bisnis",
+        "Mengawasi operasional e-commerce harian dan membimbing anggota tim"
+      ],
+      "benefits": [
+        "Gaji dan bonus kompetitif",
+        "BPJS Kesehatan & Ketenagakerjaan",
+        "Lingkungan kerja industri fast-moving consumer goods",
+        "Kesempatan pengembangan karir",
+        "Tunjangan makan dan transportasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan.",
+      "apply_url": "https://id.linkedin.com/jobs/view/digital-marketing-ecommerce-specialist-at-tnp-group-mooimom-4419245778",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/digital-marketing-ecommerce-specialist-at-tnp-group-mooimom-4419245778",
+      "featured": false
+    },
+    {
+      "slug": "copywriter-trans-tv",
+      "title": "Copywriter",
+      "company": "TRANS TV",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 7-12 Juta",
+      "posted": "07 Juni 2026",
+      "expires": "07 Juli 2026",
+      "description": "TRANS TV, stasiun televisi nasional terkemuka di Indonesia, mencari Copywriter kreatif dan detail-oriented dengan latar belakang kuat di agency kreatif atau production house. Posisi ini bertanggung jawab mengembangkan konten tulisan yang menarik untuk berbagai platform media mulai dari iklan TV, konten digital, script video, hingga branded storytelling. Kamu akan bekerja sama dengan tim kreatif untuk menciptakan campaign yang berdampak dan relevan dengan audiens.",
+      "requirements": [
+        "3-5 tahun pengalaman sebagai Copywriter di Creative Agency, Broadcasting, Digital Agency, atau Production House",
+        "Portofolio kuat yang menunjukkan ragam karya kreatif (iklan, script, campaign, konten digital)",
+        "Kemampuan bahasa Inggris yang sangat baik (Bahasa Indonesia nilai tambah)",
+        "Familiar dengan timeline produksi yang cepat dan workflow kreatif kolaboratif",
+        "Kemampuan menulis dengan gaya yang menarik, jelas, dan persuasif"
+      ],
+      "responsibilities": [
+        "Membuat copy orisinal dan engaging untuk iklan, campaign brand, materi promosi, dan konten digital",
+        "Menulis script untuk konten video, iklan komersial, video digital, dan branded storytelling",
+        "Berkolaborasi dengan producer, motion grapher, dan strategis untuk brainstorming ide",
+        "Mengadaptasi pesan dan tone untuk berbagai platform (TV, sosial media, TVC, PSA)",
+        "Memberikan pengawasan script di lokasi syuting atau studio jika diperlukan",
+        "Menginterpretasikan brief klien/internal menjadi copy kreatif yang tepat sasaran"
+      ],
+      "benefits": [
+        "Bekerja di stasiun TV nasional terkemuka",
+        "Lingkungan kerja kreatif dan dinamis",
+        "BPJS Kesehatan & Ketenagakerjaan",
+        "Kesempatan mengerjakan project dengan brand besar",
+        "Pengembangan karir di industri broadcasting dan media"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan.",
+      "apply_url": "https://id.linkedin.com/jobs/view/copywriter-at-trans-tv-4424072423",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/copywriter-at-trans-tv-4424072423",
+      "featured": false
+    }
+  ],
   "categories": [
     "Teknologi",
     "Konten & Kreatif",
