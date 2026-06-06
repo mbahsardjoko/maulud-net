@@ -86,13 +86,24 @@ for job in jobs:
             f'</div>'
         )
 
-    # Source info
-    source = job.get('source', 'Website resmi perusahaan')
-    source_html = (
-        f'<div style="background:#f8fafc;border:1px solid #e2e8f0;'
-        f'border-radius:8px;padding:16px;margin:24px 0;font-size:.9rem;color:#64748b">'
-        f'\U0001f4ce Sumber: {esc(source)}</div>'
-    )
+    # Source info with clickable link
+    source = job.get('source', '')
+    source_url = job.get('source_url', '')
+    if source_url:
+        source_html = (
+            f'<div style="background:#f8fafc;border:1px solid #e2e8f0;'
+            f'border-radius:8px;padding:16px;margin:24px 0;font-size:.9rem;color:#64748b">'
+            f'\U0001f4ce Sumber: <a href="{esc(source_url)}" target="_blank" rel="noopener" style="color:#2563eb;font-weight:500;text-decoration:none">'
+            f'{esc(source if source else source_url)}</a></div>'
+        )
+    elif source:
+        source_html = (
+            f'<div style="background:#f8fafc;border:1px solid #e2e8f0;'
+            f'border-radius:8px;padding:16px;margin:24px 0;font-size:.9rem;color:#64748b">'
+            f'\U0001f4ce Sumber: {esc(source)}</div>'
+        )
+    else:
+        source_html = ''
 
     featured_badge = f'{STAR} ' if job.get('featured') else ''
 
