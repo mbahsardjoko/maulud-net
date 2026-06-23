@@ -9,6 +9,166 @@
   },
   "jobs": [
     {
+      "slug": "senior-software-engineer-web-fullstack-economist",
+      "title": "Senior Software Engineer - Web Fullstack",
+      "company": "The Economist",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (standar global media)",
+      "posted": "22 May 2026",
+      "expires": "22 July 2026",
+      "description": "The Economist Group, rumah bagi publikasi jurnalistik independen kelas dunia, membuka lowongan untuk posisi Senior Software Engineer – Web Fullstack yang akan ditempatkan di Jakarta. Posisi ini bertanggung jawab merancang dan membangun produk web berkualitas tinggi beserta layanan yang mendukungnya, bekerja lintas sistem frontend dan backend untuk membentuk solusi yang andal dan skalabel bagi audiens global. Kandidat ideal akan berkolaborasi dengan tim engineering dan product untuk menghadirkan fitur-fitur yang berdampak langsung pada pengalaman jutaan pembaca setia The Economist di seluruh dunia.",
+      "requirements": [
+        "Pengalaman fullstack yang kuat dengan JavaScript atau TypeScript di sisi frontend maupun backend",
+        "Terbukti membangun aplikasi production dengan React.js dan Next.js",
+        "Pengalaman mendesain dan mengembangkan RESTful API, idealnya dengan Node.js atau teknologi serupa",
+        "Pemahaman mendalam tentang arsitektur web modern, performance optimization, dan CI/CD",
+        "Mampu menulis kode yang bersih, teruji, terdokumentasi, dan mudah dipelihara",
+        "Pengalaman kerja kolaboratif dengan tim produk, desain, dan engineering lintas region"
+      ],
+      "responsibilities": [
+        "Merancang dan membangun produk web serta layanan pendukung dengan standar kualitas tinggi",
+        "Bekerja lintas sistem frontend dan backend untuk membentuk solusi yang andal dan skalabel",
+        "Berkontribusi dalam arsitektur teknis, code review, dan best practice engineering",
+        "Berkolaborasi erat dengan product manager, designer, dan stakeholder global",
+        "Memimpin atau mentoring engineer junior dalam pengerjaan fitur kompleks",
+        "Menjaga keandalan, performa, dan keamanan layanan pada level produksi"
+      ],
+      "benefits": [
+        "Bekerja untuk brand media global yang ikonik dan independen",
+        "Lingkungan kerja remote-first dengan tim lintas negara",
+        "Akses ke training dan pengembangan profesional kelas dunia",
+        "Kompensasi dan benefit kompetitif standar perusahaan global",
+        "Kesempatan berdampak pada produk yang dipakai jutaan pembaca di seluruh dunia"
+      ],
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan The Economist dan lengkapi formulir aplikasi resmi mereka.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4412253450/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4412253450/",
+      "featured": true
+    },
+    {
+      "slug": "mobile-engineer-ios-android-ant-international",
+      "title": "Mobile Engineer (Native iOS/Android)",
+      "company": "Ant International",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (standar fintech global)",
+      "posted": "18 May 2026",
+      "expires": "18 July 2026",
+      "description": "Ant International, perusahaan teknologi finansial global di balik ekosistem pembayaran digital seperti Alipay, membuka lowongan untuk posisi Mobile Engineer (Native iOS/Android) yang akan ditempatkan di Jakarta. Posisi ini bertanggung jawab merancang dan mengembangkan aplikasi pembayaran mobile serta platform SDK yang dipakai jutaan merchant dan pengguna di seluruh Asia, Eropa, Timur Tengah, dan Amerika Latin. Kandidat akan bekerja sama dengan tim lintas departemen dan partner strategis global untuk membangun produk dengan performa dan user experience terbaik di kelasnya.",
+      "requirements": [
+        "Mahir dalam pengembangan iOS (Swift) atau Android (Kotlin/Java), paham performance optimization, networking, dan memory management",
+        "Pengalaman membangun SDK atau library yang digunakan aplikasi lain",
+        "Familiar dengan mobile architecture patterns (MVVM, MVP, Clean Architecture)",
+        "Memiliki pemahaman kuat tentang API integration, security best practices, dan data persistence",
+        "Fresh graduate dengan portofolio aplikasi mobile yang kuat tetap dipertimbangkan",
+        "Mampu bekerja dalam tim global dengan komunikasi bahasa Inggris yang baik"
+      ],
+      "responsibilities": [
+        "Merancang dan mengembangkan aplikasi pembayaran mobile serta platform SDK",
+        "Bekerja sama dengan departemen lain dan partner strategis global untuk membangun produk berperforma tinggi",
+        "Mengoptimalkan performa aplikasi dan memastikan pengalaman pengguna terbaik",
+        "Menulis kode yang bersih, terdokumentasi, dan mengikuti best practice engineering",
+        "Berkontribusi dalam arsitektur teknis dan code review",
+        "Meneliti serta mengadopsi teknologi mobile terbaru yang relevan dengan produk"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan fintech global dengan dampak ke jutaan merchant dan pengguna",
+        "Lingkungan kerja multinasional dan inklusif",
+        "Kompensasi dan benefit kompetitif standar industri fintech global",
+        "Akses ke teknologi terkini dan project dengan skala internasional",
+        "Kesempatan pengembangan karier di grup Ant International secara global"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Ant International.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4390920841/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4390920841/",
+      "featured": false
+    },
+    {
+      "slug": "data-scientist-intern-goto-gojek",
+      "title": "Data Scientist Intern (Gojek)",
+      "company": "GoTo Group (Gojek)",
+      "location": "Jakarta, Indonesia",
+      "type": "Internship",
+      "category": "Teknologi",
+      "salary": "Sesuai standar program internship GoTo",
+      "posted": "15 May 2026",
+      "expires": "15 July 2026",
+      "description": "GoTo Group, perusahaan teknologi terbesar di Indonesia yang menaungi Gojek, GoTo Financial, dan GoPay, membuka kesempatan magang sebagai Data Scientist Intern. Posisi ini akan bergabung dengan KYC Data Science Team dan berkesempatan hadir di daily standup, berkolaborasi pada project production yang berjalan, hingga berkontribusi pada pengembangan prototype machine learning. Kamu akan bekerja dengan beragam tipe data dan belajar langsung dari data scientist profesional yang menyelesaikan tantangan bisnis nyata di salah satu super app terbesar di Asia Tenggara.",
+      "requirements": [
+        "Mahasiswa aktif atau fresh graduate dari bidang Computer Science, Statistics, Mathematics, atau bidang terkait",
+        "Tersedia mengikuti program internship minimal 5 bulan",
+        "Menguasai pemrograman Python dan dasar-dasar data processing",
+        "Teliti dan fokus pada standar kualitas data yang tinggi",
+        "Kemampuan komunikasi yang baik untuk kolaborasi dan dokumentasi",
+        "Mampu bekerja secara mandiri maupun dalam tim"
+      ],
+      "responsibilities": [
+        "Mengikuti daily standup dan berkolaborasi dengan KYC Data Science Team",
+        "Berkontribusi pada project production dan pengembangan prototype model",
+        "Bekerja dengan beragam tipe data untuk kebutuhan analisis dan modeling",
+        "Mendukung validasi, preprocessing, dan dokumentasi data",
+        "Menyusun insight dan laporan yang dapat dipahami oleh stakeholder non-teknis",
+        "Belajar serta mengaplikasikan teknik machine learning untuk permasalahan bisnis nyata"
+      ],
+      "benefits": [
+        "Pengalaman kerja nyata di data team super app terbesar di Indonesia",
+        "Bimbingan langsung dari data scientist profesional",
+        "Kompetensi sesuai standar program internship GoTo",
+        "Akses ke lingkungan kerja tech company berskala regional",
+        "Potensi jalur karier ke posisi full-time setelah program berakhir"
+      ],
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan GoTo Group atau melalui situs karier resmi GoTo.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4364100025/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4364100025/",
+      "featured": false
+    },
+    {
+      "slug": "product-manager-semaai",
+      "title": "Product Manager",
+      "company": "Semaai",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-18 Juta (sesuai pengalaman)",
+      "posted": "23 June 2026",
+      "expires": "23 July 2026",
+      "description": "Semaai, startup agri-tech yang bertujuan meningkatkan mata pencaharian petani dan UMKM pertanian di pedesaan Indonesia melalui teknologi, membuka lowongan Product Manager yang akan ditempatkan di Jakarta. Didirikan oleh tim dengan pengalaman dari Entrepreneurs, Goldman Sachs, World Bank, dan Schlumberger, Semaai menawarkan lingkungan startup yang dinamis di mana kamu akan mendefinisikan dan mengomunikasikan product requirements dengan berpikir kreatif sekaligus rigor untuk memecahkan masalah bagi pengguna internal maupun eksternal. Posisi ini cocok untuk profesional yang ingin memberi dampak sosial nyata di industri pertanian Indonesia.",
+      "requirements": [
+        "Minimal 1 tahun pengalaman di Product Management, pengalaman di agri-tech atau edtech startup menjadi nilai plus besar",
+        "Pemahaman menengah tentang product management dan best practice industri",
+        "Kemampuan mendefinisikan dan mengomunikasikan product requirements dengan jelas",
+        "Berpikir kreatif dan rigor dalam memecahkan masalah untuk pengguna internal dan eksternal",
+        "Keterampilan kolaborasi yang kuat dengan tim engineering, design, dan bisnis",
+        "Komitmen terhadap misi Semaai untuk meningkatkan kesejahteraan petani dan UMKM pertanian Indonesia"
+      ],
+      "responsibilities": [
+        "Mendefinisikan dan mengomunikasikan product requirements serta spesifikasi",
+        "Berpikir kreatif dan rigor dalam memecahkan masalah untuk pengguna internal dan eksternal",
+        "Berkolaborasi dengan tim engineering, design, dan business untuk delivery fitur",
+        "Menyusun product roadmap berdasarkan riset pengguna dan prioritas bisnis",
+        "Mengukur dan menganalisis dampak fitur terhadap metrik produk dan outcome pengguna",
+        "Menjembatani insight dari lapangan (petani, UMKM) menjadi solusi produk yang relevan"
+      ],
+      "benefits": [
+        "Bekerja di agri-tech startup dengan dampak sosial nyata bagi petani Indonesia",
+        "Lingkungan kerja startup yang cepat, kolaboratif, dan penuh ownership",
+        "Kompetitif sesuai pengalaman dan standar industri startup",
+        "Kesempatan belajar langsung dari founder dengan background global",
+        "Akses ke jaringan investor dan ecosystem agri-tech regional"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Semaai.",
+      "apply_url": "https://www.linkedin.com/jobs/view/product-manager-at-semaai-3859870716",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/product-manager-at-semaai-3859870716",
+      "featured": false
+    },
+    {
       "slug": "brand-digital-media-community-loreal",
       "title": "Brand Digital Media & Community - HFI 2026 (Batch 2)",
       "company": "L'Oréal Indonesia",
