@@ -9,6 +9,206 @@
   },
   "jobs": [
     {
+      "slug": "senior-backend-developer-golang-glints",
+      "title": "Senior Backend Developer (Golang)",
+      "company": "Glints",
+      "location": "Indonesia (Remote-friendly)",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (standar Glints/fintech regional)",
+      "posted": "24 June 2026",
+      "expires": "24 July 2026",
+      "description": "Glints, platform talent dan career discovery terbesar di Asia Tenggara, membuka lowongan untuk posisi Senior Backend Developer (Golang) yang akan terlibat dalam pembangunan sistem pembayaran lintas negara (cross-border payment platform) secara real-time. Kandidat akan bertanggung jawab merancang dan membangun layanan Go yang bersih, aman, dan skalabel untuk menopang miliaran transaksi finansial. Posisi ini cocok bagi engineer yang ingin bekerja di level sistem terdistribusi dengan dampak langsung ke jutaan pengguna di berbagai negara.",
+      "requirements": [
+        "Minimal 5 tahun pengalaman di backend development, dengan track record membangun layanan production",
+        "Mahir menggunakan Go (Golang) untuk membangun service berkinerja tinggi",
+        "Pengalaman solid dengan PostgreSQL, termasuk schema design, query optimization, dan migration",
+        "Pernah menangani message broker seperti Kafka atau Google Pub/Sub untuk sistem event-driven",
+        "Familiar dengan arsitektur microservices, API gateway, dan pola async communication",
+        "Nyaman bekerja dengan tim lintas negara menggunakan bahasa Inggris"
+      ],
+      "responsibilities": [
+        "Merancang dan mengimplementasikan backend services berbasis Go untuk payment platform real-time",
+        "Membangun integrasi lintas negara yang aman, cepat, dan dapat diandalkan",
+        "Mengelola schema database, optimasi query, dan strategi caching",
+        "Berkontribusi pada code review, unit testing, dan integration testing",
+        "Bekerja sama dengan product manager dan stakeholder global untuk menerjemahkan kebutuhan bisnis menjadi solusi teknis",
+        "Mendokumentasikan arsitektur dan best practice untuk tim engineering"
+      ],
+      "benefits": [
+        "Bekerja pada produk dengan dampak ke jutaan pengguna di Asia Tenggara",
+        "Lingkungan kerja remote-friendly dengan tim lintas negara",
+        "Kompensasi dan benefit kompetitif standar industri tech regional",
+        "Akses ke teknologi modern dan project dengan skala internasional",
+        "Kesempatan pengembangan karier di Glints Group yang sedang bertumbuh pesat"
+      ],
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan Glints dan lengkapi formulir aplikasi resmi mereka.",
+      "apply_url": "https://id.linkedin.com/jobs/view/senior-backend-developer-golang-at-glints-4430371772",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/senior-backend-developer-golang-at-glints-4430371772",
+      "featured": true
+    },
+    {
+      "slug": "devops-engineer-paperid-west-jakarta",
+      "title": "DevOps Engineer",
+      "company": "Paper.id",
+      "location": "West Jakarta, Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta (standar SaaS fintech Indonesia)",
+      "posted": "24 June 2026",
+      "expires": "24 July 2026",
+      "description": "Paper.id, platform SaaS invoice dan pembayaran B2B terkemuka di Indonesia, membuka lowongan untuk posisi DevOps Engineer yang akan ditempatkan di West Jakarta. Posisi ini berperan penting dalam memastikan kelancaran operasi sistem software Paper.id yang melayani puluhan ribu bisnis di seluruh Indonesia. Kandidat akan bertanggung jawab membangun dan memelihara infrastruktur, pipeline CI/CD, serta monitoring yang menopang produkPaper.id agar tetap andal, aman, dan scalable.",
+      "requirements": [
+        "Familiar dengan Docker, Kubernetes, dan pipeline CI/CD (GitHub Actions, GitLab CI, atau Jenkins)",
+        "Pengalaman mengelola infrastruktur cloud (AWS, GCP, atau Alibaba Cloud)",
+        "Memahami konsep web-related technologies (Web Applications, Web Services, dan Service-Oriented Architectures)",
+        "Pengetahuan tentang protokol jaringan seperti HTTP, TCP/IP, dan DNS",
+        "Mampu menulis skrip otomatisasi menggunakan Bash, Python, atau Go",
+        "Lulusan S1 Teknik Informatika atau bidang terkait, pengalaman DevOps minimal 1-2 tahun"
+      ],
+      "responsibilities": [
+        "Membangun dan mengelola CI/CD pipeline untuk seluruh layanan Paper.id",
+        "Mengelola infrastruktur cloud dan cluster Kubernetes untuk environment staging dan production",
+        "Membangun sistem monitoring, logging, dan alerting yang proaktif",
+        "Bekerja sama dengan tim engineering untuk memastikan deployment berjalan mulus dan dapat di-rollback dengan cepat",
+        "Menerapkan best practice keamanan dan keandalan pada level infrastruktur",
+        "Mendokumentasikan SOP operasional untuk kebutuhan on-call dan incident response"
+      ],
+      "benefits": [
+        "Bekerja di startup SaaS B2B fintech yang sudah profitable dan berkembang pesat",
+        "Lingkungan kerja kolaboratif dengan tim engineering yang solid",
+        "Kompensasi dan benefit standar industri SaaS Indonesia",
+        "Asuransi kesehatan dan tunjangan lain sesuai kebijakan perusahaan",
+        "Kesempatan belajar teknologi DevOps modern di production environment"
+      ],
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan Paper dan lengkapi formulir aplikasi resmi mereka.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423923506/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4423923506/",
+      "featured": false
+    },
+    {
+      "slug": "ui-ux-designer-kyc-kyb-dana-indonesia",
+      "title": "UI/UX Designer (KYB/KYC)",
+      "company": "DANA Indonesia",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 10-18 Juta (standar fintech Dompet Digital Indonesia)",
+      "posted": "24 June 2026",
+      "expires": "24 July 2026",
+      "description": "DANA Indonesia, salah satu dompet digital terbesar di Indonesia dengan lebih dari 200 juta pengguna, membuka lowongan untuk posisi UI/UX Designer (KYB/KYC) yang akan ditempatkan di Jakarta. Posisi ini bertanggung jawab menerjemahkan proses bisnis dan regulasi yang kompleks — seperti Know Your Business (KYB) dan Know Your Customer (KYC) — menjadi pengalaman pengguna yang sederhana, mulus, dan menarik. Kandidat akan berkolaborasi erat dengan product manager dan engineer untuk meningkatkan efisiensi operasional sekaligus kepuasan pengguna merchant dan customer DANA.",
+      "requirements": [
+        "Minimal 3 tahun pengalaman sebagai UI/UX Designer di produk digital",
+        "Menguasai Figma dan tools desain modern lainnya (Sketch, Adobe XD)",
+        "Memiliki portofolio yang menunjukkan proses design thinking dan problem solving",
+        "Pengalaman merancang workflow untuk proses onboarding, verifikasi, atau compliance menjadi nilai tambah",
+        "Familiar dengan design system dan ability menulis guideline yang jelas",
+        "Mampu berkomunikasi efektif dengan product manager, engineer, dan stakeholder bisnis"
+      ],
+      "responsibilities": [
+        "Merancang antarmuka dan pengalaman untuk fitur KYB/KYC di aplikasi DANA",
+        "Mengubah proses bisnis dan regulasi yang rumit menjadi alur yang intuitif bagi pengguna",
+        "Menyusun wireframe, user flow, dan high-fidelity mockup untuk kebutuhan product",
+        "Berkolaborasi dengan product manager dan engineer dari discovery hingga iterasi",
+        "Berkontribusi dalam pengembangan design system DANA yang konsisten",
+        "Melakukan usability testing dan menggunakan insight pengguna untuk memperbaiki desain"
+      ],
+      "benefits": [
+        "Bekerja di salah satu fintech unicorn Indonesia dengan dampak ke ratusan juta pengguna",
+        "Lingkungan kerja kolaboratif dan design-driven",
+        "Kompensasi dan benefit kompetitif standar industri fintech",
+        "Akses ke program pengembangan profesional dan tech talk rutin",
+        "Asuransi kesehatan dan tunjangan lain sesuai kebijakan DANA"
+      ],
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan DANA Indonesia dan lengkapi formulir aplikasi resmi mereka.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4415996108/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4415996108/",
+      "featured": false
+    },
+    {
+      "slug": "senior-ux-ui-designer-ocbc-indonesia",
+      "title": "Senior UX/UI Designer",
+      "company": "OCBC Indonesia",
+      "location": "Tangerang, Banten, Indonesia",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 18-30 Juta (standar bank multinasional)",
+      "posted": "24 June 2026",
+      "expires": "24 July 2026",
+      "description": "OCBC Indonesia, bagian dari OCBC Group — salah satu grup perbankan terbesar di Asia Tenggara — membuka lowongan untuk posisi Senior UX/UI Designer yang akan ditempatkan di Tangerang. Posisi ini memiliki peran strategis dalam membuat alur perbankan yang kompleks menjadi lebih cepat, minim error, dan mudah dipelajari, sehingga frontline staff dapat lebih fokus melayani nasabah. Kandidat akan bekerja dalam tim desain digital banking yang impact-nya langsung terasa pada pengalaman jutaan nasabah OCBC di Indonesia.",
+      "requirements": [
+        "Minimal 5 tahun pengalaman sebagai UI/UX Designer dengan track record di produk digital",
+        "Pengalaman di industri perbankan atau financial services menjadi nilai tambah signifikan",
+        "Menguasai Figma, prototyping tools, dan design system thinking",
+        "Mampu bekerja dalam environment yang cepat dengan otonomi tinggi dan pemecahan masalah secara kreatif",
+        "Memiliki portfolio yang menunjukkan end-to-end design process",
+        "Komunikasi yang baik untuk berkolaborasi dengan product, engineering, dan business stakeholder"
+      ],
+      "responsibilities": [
+        "Merancang dan mengembangkan UX/UI untuk aplikasi digital banking OCBC Indonesia",
+        "Menyederhanakan workflow internal agar lebih efisien bagi frontline staff dan lebih mudah dipahami nasabah",
+        "Berkontribusi pada design system dan konsistensi visual lintas produk",
+        "Melakukan user research, usability testing, dan iterasi berbasis data",
+        "Berkolaborasi erat dengan product manager, engineer, dan tim bisnis lintas unit",
+        "Mendukung inisiatif transformasi digital OCBC Group di Indonesia"
+      ],
+      "benefits": [
+        "Bekerja di grup perbankan multinasional dengan reputasi kuat di Asia Tenggara",
+        "Kompensasi dan benefit kompetitif standar bank besar Indonesia",
+        "Asuransi kesehatan keluarga, tunjangan pensiun, dan benefit banking khusus karyawan",
+        "Program pengembangan profesional dan kesempatan eksposur ke regional OCBC Group",
+        "Lingkungan kerja modern di kantor pusat Tangerang dengan standar multinational"
+      ],
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan OCBC Indonesia dan lengkapi formulir aplikasi resmi mereka.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423615678/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4423615678/",
+      "featured": false
+    },
+    {
+      "slug": "accounting-staff-indofood-cbp-noodle-division",
+      "title": "Accounting Staff",
+      "company": "PT Indofood CBP Sukses Makmur Tbk - Noodle Division",
+      "location": "South Jakarta, Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Finance",
+      "salary": "Rp 5-8 Juta (standar FMCG besar Indonesia)",
+      "posted": "24 June 2026",
+      "expires": "24 July 2026",
+      "description": "PT Indofood CBP Sukses Makmur Tbk, salah satu perusahaan makanan dan minuman terbesar di Indonesia yang menaungi brand-brand ikonik seperti Indomie, membuka lowongan untuk posisi Accounting Staff di divisi Noodle yang akan ditempatkan di South Jakarta. Posisi ini bertanggung jawab mendukung aktivitas pencatatan transaksi, penyusunan laporan keuangan, dan rekonsiliasi di unit bisnis Noodle Division. Cocok untuk fresh graduate Sarjana Akuntansi yang ingin memulai karier di perusahaan FMCG berskala nasional dengan exposure ke proses finansial yang terstandarisasi.",
+      "requirements": [
+        "Pendidikan minimal S1 program studi Ekonomi, Akuntansi, atau Manajemen Keuangan",
+        "Pengalaman kerja minimal 1 tahun di bidang accounting (fresh graduates dipersilakan melamar)",
+        "Memiliki kemampuan memadai dalam pencatatan transaksi, jurnal umum, dan general ledger",
+        "Familiar dengan Microsoft Excel tingkat lanjut (pivot table, VLOOKUP, formula kompleks)",
+        "Teliti, jujur, dan memiliki integritas tinggi dalam mengelola data finansial",
+        "Mampu bekerja dalam tim dan berkomunikasi dengan baik lintas departemen"
+      ],
+      "responsibilities": [
+        "Melakukan pencatatan transaksi keuangan ke dalam sistem akuntansi perusahaan",
+        "Menyusun laporan keuangan periodik (harian, mingguan, bulanan) sesuai standar PSAK",
+        "Melakukan rekonsiliasi bank dan rekonsiliasi akun-akun besar",
+        "Mendukung proses audit internal maupun eksternal",
+        "Bekerja sama dengan tim finance dan operasional untuk kelengkapan dokumen",
+        "Mengelola administrasi perpajakan dasar (PPh, PPN) terkait unit Noodle Division"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan FMCG terbesar di Indonesia dengan brand Indomie dan lainnya",
+        "Gaji pokok dan tunjangan sesuai standar perusahaan multinasional Indonesia",
+        "Asuransi kesehatan, BPJS Ketenagakerjaan, dan BPJS Kesehatan",
+        "Lingkungan kerja profesional dengan SOP yang jelas",
+        "Kesempatan pengembangan karier di grup Indofood yang memiliki banyak unit bisnis"
+      ],
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan PT Indofood CBP Sukses Makmur Tbk dan lengkapi formulir aplikasi resmi mereka.",
+      "apply_url": "https://www.linkedin.com/jobs/view/accounting-staff-at-pt-indofood-cbp-sukses-makmur-tbk-noodle-division-4430083183",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/accounting-staff-at-pt-indofood-cbp-sukses-makmur-tbk-noodle-division-4430083183",
+      "featured": false
+    },
+    {
       "slug": "senior-software-engineer-web-fullstack-economist",
       "title": "Senior Software Engineer - Web Fullstack",
       "company": "The Economist",
