@@ -9,6 +9,211 @@
   },
   "jobs": [
     {
+      "slug": "brand-digital-media-community-loreal",
+      "title": "Brand Digital Media & Community - HFI 2026 (Batch 2)",
+      "company": "L'Oréal Indonesia",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Kompetitif (sesuai standar industri)",
+      "posted": "23 June 2026",
+      "expires": "23 July 2026",
+      "description": "L'Oréal, grup kecantikan terbesar di dunia, membuka peluang karier untuk program Human Future Initiative (HFI) 2026 Batch 2 di Indonesia. Program ini dirancang untuk mencetak profesional muda yang siap memimpin di industri beauty, media, dan digital. Sebagai Brand Digital Media & Community, kandidat akan bertanggung jawab atas pengelolaan narasi merek di kanal digital, membangun engagement dengan komunitas online, serta menerjemahkan strategi brand ke dalam konten yang relevan untuk audiens Indonesia. Posisi ini cocok untuk talenta digital-savvy yang passionate di bidang content, social media, dan brand storytelling.",
+      "requirements": [
+        "Lulusan S1 dari berbagai disiplin ilmu (fresh graduate atau pengalaman 0-2 tahun)",
+        "Memiliki ketertarikan kuat di bidang digital media, social media, dan brand communication",
+        "Aktif di platform digital dan paham tren konten terkini",
+        "Kemampuan menulis dan bercerita yang baik dalam Bahasa Indonesia dan Inggris",
+        "Kreatif, inisiatif tinggi, dan nyaman bekerja dengan timeline cepat",
+        "Pengalaman organisasi atau komunitas menjadi nilai tambah",
+        "Mampu bekerja dalam tim lintas fungsi"
+      ],
+      "responsibilities": [
+        "Mengelola akun media sosial brand dan membangun komunitas online yang aktif",
+        "Menyusun content calendar dan brief创意 untuk tim kreatif",
+        "Memantau performa konten, sentiment audiens, dan insight platform",
+        "Berkolaborasi dengan brand manager dan tim media untuk aktivasi digital",
+        "Menyusun laporan berkala terkait reach, engagement, dan pertumbuhan komunitas",
+        "Mendukung campaign launch dan event digital lintas brand L'Oréal Indonesia"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan FMCG/beauty global dengan brand-brand ikonik",
+        "Akses ke training dan pengembangan karier kelas dunia",
+        "Lingkungan kerja yang dinamis, kreatif, dan inklusif",
+        "Networking dengan profesional lintas negara",
+        "Benefit dan kompensasi sesuai standar industri"
+      ],
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan L'Oréal Indonesia dan lengkapi formulir pendaftaran program HFI 2026 Batch 2.",
+      "apply_url": "https://id.linkedin.com/jobs/view/brand-digital-media-community-hfi-2026-batch-2-at-l-or%C3%A9al-4427736063",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/brand-digital-media-community-hfi-2026-batch-2-at-l-or%C3%A9al-4427736063",
+      "featured": true
+    },
+    {
+      "slug": "finance-accounting-graduate-lemonilo",
+      "title": "Finance & Accounting Graduate",
+      "company": "Lemonilo",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Finance",
+      "salary": "Kompetitif (sesuai standar industri)",
+      "posted": "23 June 2026",
+      "expires": "23 July 2026",
+      "description": "Lemonilo, brand FMCG kesehatan berbasis teknologi yang fokus pada produk makanan dan minuman sehat, membuka peluang untuk posisi Finance & Accounting Graduate. Kandidat terpilih akan bergabung dengan tim Finance & Accounting untuk mengelola transaksi harian, penyusunan laporan keuangan, dan mendukung kepatuhan pajak. Program ini dirancang untuk fresh graduate yang ingin membangun fondasi karier di bidang finance, accounting, dan controlling di industri consumer goods yang berkembang pesat di Indonesia.",
+      "requirements": [
+        "Lulusan S1 Akuntansi, Keuangan, atau bidang terkait (fresh graduate atau pengalaman 0-1 tahun)",
+        "Memahami dasar-dasar PSAK dan perpajakan Indonesia",
+        "Teliti, analitis, dan terbiasa bekerja dengan angka",
+        "Mampu mengoperasikan Microsoft Excel dengan baik (pivot table, VLOOKUP, dsb)",
+        "Familiar dengan Accurate, Jurnal, atau software accounting lainnya menjadi nilai plus",
+        "Komunikatif dan mampu bekerja sama dalam tim",
+        "Bersedia ditempatkan di kantor pusat Lemonilo di Jakarta"
+      ],
+      "responsibilities": [
+        "Membantu proses pencatatan transaksi keuangan harian (jurnal umum, AP/AR)",
+        "Mendukung proses month-end closing dan rekonsiliasi bank",
+        "Menyiapkan dokumen pendukung untuk pelaporan pajak (PPN, PPh)",
+        "Mengelola dokumen audit dan membantu tim eksternal saat diperlukan",
+        "Membuat laporan operasional dan mendukung kebutuhan data finance tim lain",
+        "Berkontribusi pada perbaikan proses dan otomasi kerja tim finance"
+      ],
+      "benefits": [
+        "Bergabung dengan brand FMCG sehat yang sedang bertumbuh",
+        "Kesempatan belajar langsung dari tim finance senior",
+        "Lingkungan kerja kolaboratif dan suportif",
+        "Program pengembangan karier yang terstruktur",
+        "Kompensasi dan benefit sesuai standar industri"
+      ],
+      "how_to_apply": "Lamar melalui halaman LinkedIn lowongan Lemonilo dan lampirkan CV terbaru kamu.",
+      "apply_url": "https://id.linkedin.com/jobs/view/finance-accounting-graduate-jakarta-at-lemonilo-4426048285",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/finance-accounting-graduate-jakarta-at-lemonilo-4426048285",
+      "featured": false
+    },
+    {
+      "slug": "data-engineer-infranexia",
+      "title": "Data Engineer",
+      "company": "Infranexia (Telkom Infrastruktur Indonesia)",
+      "location": "Jakarta (On-site, occasional remote)",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (sesuai standar industri)",
+      "posted": "23 June 2026",
+      "expires": "23 July 2026",
+      "description": "Infranexia, bagian dari Telkom Infrastruktur Indonesia, sedang membangun centralized data platform untuk mengotomatisasi KPI enterprise dan inisiatif AI. Posisi Data Engineer akan bertanggung jawab merancang serta memelihara pipeline data dan data warehouse yang mengubah data operasional dari berbagai source system menjadi informasi yang andal dan siap pakai untuk kebutuhan analytics. Peran ini cocok untuk engineer yang ingin berkontribusi pada transformasi data di salah satu perusahaan infrastruktur telekomunikasi terbesar di Indonesia.",
+      "requirements": [
+        "Pengalaman 2-4 tahun sebagai Data Engineer atau posisi terkait",
+        "Mahir SQL dan salah satu bahasa pemrograman data (Python/Scala)",
+        "Pengalaman dengan tools ETL/ELT modern (Airflow, dbt, Spark, atau Kafka)",
+        "Paham arsitektur data warehouse, data lake, dan data modeling (star/snowflake schema)",
+        "Familiar dengan cloud platform (GCP, AWS, atau Azure) dan layanan data-nya",
+        "Pengalaman dengan BigQuery, Snowflake, atau Redshift menjadi nilai tambah",
+        "Mampu berkomunikasi dengan stakeholder bisnis dan menerjemahkan kebutuhan menjadi solusi data"
+      ],
+      "responsibilities": [
+        "Merancang, membangun, dan memelihara pipeline data (ETL/ELT) dari multiple sources",
+        "Mengembangkan data warehouse yang reliable, scalable, dan terdokumentasi",
+        "Berkolaborasi dengan tim analytics, data science, dan product dalam menyediakan dataset siap pakai",
+        "Menjaga kualitas data, monitoring pipeline, dan menangani incident data",
+        "Mengoptimasi performa query dan efisiensi penyimpanan data",
+        "Mendukung inisiatif AI enterprise dengan menyediakan infrastruktur data yang siap"
+      ],
+      "benefits": [
+        "Bekerja pada proyek data strategis di infrastruktur telekomunikasi nasional",
+        "Akses ke stack data modern dan cloud platform",
+        "Tim engineering yang fokus pada kualitas dan best practice",
+        "Lingkungan kerja hybrid dengan fleksibilitas remote occasional",
+        "Kompensasi dan benefit sesuai standar industri"
+      ],
+      "how_to_apply": "Klik Lamar di halaman LinkedIn lowongan Infranexia dan lampirkan CV serta portofolio proyek data engineering yang relevan.",
+      "apply_url": "https://id.linkedin.com/jobs/view/data-engineer-at-infranexia-4399134343",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/data-engineer-at-infranexia-4399134343",
+      "featured": false
+    },
+    {
+      "slug": "ui-ux-designer-sagara-technology",
+      "title": "UI/UX Designer",
+      "company": "Sagara Technology",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Kompetitif (sesuai standar industri)",
+      "posted": "23 June 2026",
+      "expires": "23 July 2026",
+      "description": "Sagara Technology, perusahaan teknologi yang fokus pada pengembangan software dan solusi digital untuk klien enterprise dan startup, membuka lowongan untuk posisi UI/UX Designer. Kandidat terpilih akan bertanggung jawab atas riset pengguna, perancangan alur dan wireframe, serta membuat antarmuka visual yang menarik untuk berbagai produk digital Sagara. Posisi ini membutuhkan keseimbangan antara estetika, usability, dan business goal, dan akan berkolaborasi erat dengan product manager, developer, dan klien.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai UI/UX Designer (portfolio wajib dilampirkan)",
+        "Mahir Figma, dan familiar dengan tools desain/prototyping lainnya",
+        "Memahami proses design thinking dan user-centered design",
+        "Mampu membuat wireframe, user flow, mockup, dan design system",
+        "Paham prinsip responsive design, accessibility, dan usability",
+        "Kemampuan komunikasi yang baik untuk presentasi dan kolaborasi lintas fungsi",
+        "Nilai plus: pengalaman dengan proyek enterprise atau produk B2B"
+      ],
+      "responsibilities": [
+        "Melakukan user research, competitive analysis, dan merangkum insight menjadi rekomendasi desain",
+        "Membuat wireframe, user flow, dan prototype interaktif",
+        "Merancang high-fidelity UI yang konsisten dengan brand dan design system",
+        "Berkolaborasi dengan developer untuk memastikan implementasi desain sesuai intended design",
+        "Mengumpulkan feedback pengguna dan iterasi desain berdasarkan data",
+        "Berkontribusi pada pengembangan dan pemeliharaan design system internal Sagara"
+      ],
+      "benefits": [
+        "Bekerja di software house dengan exposure ke berbagai industri dan proyek",
+        "Tim desain dan engineering yang kolaboratif",
+        "Kesempatan mengasah skill di berbagai tipe produk (web, mobile, dashboard)",
+        "Lingkungan kerja yang menjunjung craft dan kreativitas",
+        "Kompensasi dan benefit sesuai standar industri"
+      ],
+      "how_to_apply": "Lamar via LinkedIn lowongan Sagara Technology. Pastikan portofolio (Behance/Dribbble/website) sudah terpasang di CV kamu.",
+      "apply_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-at-sagara-technology-4407408796",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-at-sagara-technology-4407408796",
+      "featured": false
+    },
+    {
+      "slug": "tnt-consultant-field-marketing-deloitte",
+      "title": "T&T Consultant - Deloitte Digital (Enterprise Field Marketing ID-TH)",
+      "company": "Deloitte",
+      "location": "Indonesia / Thailand",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Kompetitif (sesuai standar industri)",
+      "posted": "23 June 2026",
+      "expires": "23 July 2026",
+      "description": "Deloitte, salah satu firma konsultan Big Four dunia, membuka lowongan untuk T&T Consultant di Deloitte Digital dengan fokus Enterprise Field Marketing untuk region Indonesia dan Thailand. Posisi ini akan membantu membangun dan mengeksekusi strategi field marketing di kedua negara untuk mendorong product consideration, adopsi, dan customer success melalui program go-to-market online, offline, direct, dan indirect. Cocok untuk profesional marketing/konsultan yang ingin berkarier di lingkungan multi-klien berskala regional.",
+      "requirements": [
+        "Pengalaman 2-4 tahun di bidang marketing, consulting, atau project management",
+        "Pemahaman tentang B2B/B2C marketing, field activation, dan digital channels",
+        "Mampu mengelola multiple projects dan stakeholders di lintas negara",
+        "Kemampuan analitis untuk mengukur efektivitas campaign dan menyusun insight",
+        "Kemampuan komunikasi dan presentasi yang kuat dalam Bahasa Inggris (Indonesia & Thai menjadi nilai plus)",
+        "Latar belakang S1 dari universitas terkemuka, bidang marketing/business/engineering lebih disukai",
+        "Bersedia melakukan perjalanan bisnis ke Thailand secara berkala"
+      ],
+      "responsibilities": [
+        "Membantu merancang strategi field marketing end-to-end untuk Indonesia dan Thailand",
+        "Mengoordinasikan eksekusi campaign lintas online-offline dengan tim lokal dan regional",
+        "Berkolaborasi dengan tim sales, product, dan creative untuk memastikan konsistensi pesan",
+        "Menganalisis data campaign dan menyusun laporan performa untuk klien internal/eksternal",
+        "Mengelola budget, timeline, dan risiko program marketing",
+        "Mendukung klien dalam memilih channel, messaging, dan program yang paling efektif"
+      ],
+      "benefits": [
+        "Bekerja di Deloitte Digital dengan exposure ke klien enterprise regional",
+        "Lingkungan kerja multinasional dan profesional",
+        "Akses ke training dan sertifikasi kelas dunia (Deloitte University)",
+        "Jalur karier yang jelas di consulting, marketing, atau technology",
+        "Kompensasi, bonus, dan benefit sesuai standar Big Four"
+      ],
+      "how_to_apply": "Klik Lamar di halaman LinkedIn lowongan Deloitte dan lengkapi formulir aplikasi. Siapkan CV dan jawaban essay singkat sesuai instruksi.",
+      "apply_url": "https://id.linkedin.com/jobs/view/t-t-consultant-deloitte-digital-enterprise-field-marketing-id-th-at-deloitte-4430596741",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/t-t-consultant-deloitte-digital-enterprise-field-marketing-id-th-at-deloitte-4430596741",
+      "featured": false
+    },
+    {
       "slug": "backend-engineer-bukuwarung",
       "title": "Backend Engineer",
       "company": "Bukuwarung",
