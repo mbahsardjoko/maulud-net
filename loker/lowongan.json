@@ -9,6 +9,174 @@
   },
   "jobs": [
     {
+      "slug": "frontend-engineer-paintpro-indonesia",
+      "title": "Frontend Engineer",
+      "company": "PaintPro Indonesia",
+      "location": "Jakarta (On-site, Tech Hub Tanah Kusir)",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "PaintPro Indonesia, perusahaan teknologi di bidang manufaktur, sedang mencari Frontend Engineer untuk bergabung di tim pengembangan produk mereka. Posisi ini melibatkan pengembangan end-to-end aplikasi frontend dengan fokus pada kualitas, performa, dan usability. Kamu akan berkolaborasi dengan tim backend, product, design, dan operasional untuk membangun solusi terintegrasi pada sistem manufaktur. Lokasi kerja di Tech Hub Tanah Kusir, Jakarta.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman di pengembangan frontend",
+        "Menguasai React.js atau Vue.js",
+        "Familiar dengan Figma untuk design handoff",
+        "Bonus: Node.js, React Native, TypeScript, atau pengalaman dengan sistem manufaktur/operasional",
+        "Pemahaman kuat tentang fundamental pemrograman dan design patterns",
+        "Problem-solving skills yang baik, mau belajar, dan adaptif",
+        "Bersedia bekerja on-site di Tech Hub Tanah Kusir, Jakarta"
+      ],
+      "responsibilities": [
+        "Bertanggung jawab atas pengembangan end-to-end tingkat menengah di domain frontend",
+        "Memastikan kualitas tinggi, performa, dan usability sistem frontend",
+        "Merancang, membangun, menguji, dan mengintegrasikan aplikasi frontend",
+        "Berkolaborasi dengan tim lintas fungsi (backend, product, design, operasional)",
+        "Mengidentifikasi dan menyelesaikan masalah serta bug frontend secara tepat waktu",
+        "Melakukan code review secara rutin dan berkontribusi pada peningkatan kualitas kode"
+      ],
+      "benefits": [
+        "Kesempatan bekerja di perusahaan teknologi manufaktur yang inovatif",
+        "Lingkungan kerja kolaboratif dengan tim lintas fungsi",
+        "Pengembangan karir di bidang frontend engineering",
+        "Proyek menarik di bidang sistem manufaktur"
+      ],
+      "how_to_apply": "Lamar melalui LinkedIn dengan mengklik link di bawah",
+      "apply_url": "https://id.linkedin.com/jobs/view/frontend-engineer-at-paintpro-indonesia-4309753426",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/frontend-engineer-at-paintpro-indonesia-4309753426",
+      "featured": true
+    },
+    {
+      "slug": "talent-acquisition-officer-tech-indodana",
+      "title": "Talent Acquisition Officer - Tech Role",
+      "company": "Indodana",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Administrasi",
+      "salary": "Rp 8-14 Juta",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "Indodana, perusahaan fintech yang sedang berkembang pesat, membutuhkan Talent Acquisition Officer yang berfokus pada rekrutmen role teknologi. Posisi ini menangani proses rekrutmen end-to-end untuk posisi engineering, data, dan product. Kamu akan bertugas mencari kandidat dari berbagai channel, melakukan seleksi, wawancara culture-fit, dan menyiapkan laporan untuk hiring manager. Pengalaman minimal 3 tahun di rekrutmen role tech diperlukan.",
+      "requirements": [
+        "Minimal 3 tahun pengalaman menangani proses rekrutmen end-to-end untuk role teknologi (engineering, data, product, dll)",
+        "Kemampuan terbukti dalam mengelola pencarian kandidat kompleks di lingkungan cepat dan berkembang",
+        "Team player yang baik dengan motivasi tinggi untuk memberikan dampak",
+        "Kemampuan wawancara yang excellent untuk mengidentifikasi talenta, motivasi, dan kesesuaian budaya",
+        "Mampu menangani volume lamaran dan wawancara yang besar setiap hari",
+        "Komunikasi dan time management yang sangat baik",
+        "Nyaman dengan ambiguitas dan perubahan cepat",
+        "Proaktif, ambisius, dan gigih",
+        "Pengalaman rekrutmen di e-commerce, marketplace, software house, atau fintech menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Mencari kandidat dari berbagai channel dan merekomendasikan channel baru",
+        "Mengelola pipeline kandidat untuk memastikan aliran kandidat yang berkelanjutan",
+        "Menyaring kandidat dan memilih yang terbaik dari pool pelamar",
+        "Mengidentifikasi talenta berpotensi untuk kebutuhan masa depan perusahaan",
+        "Melakukan wawancara untuk proses seleksi culture-fit",
+        "Melacak dan menyiapkan laporan untuk hiring manager",
+        "Berpartisipasi dalam berbagai proyek HR"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan fintech yang berkembang pesat",
+        "Lingkungan kerja dinamis dan penuh tantangan",
+        "Kesempatan berkontribusi pada pertumbuhan tim teknologi",
+        "Pengembangan karir di bidang talent acquisition"
+      ],
+      "how_to_apply": "Lamar melalui LinkedIn dengan mengklik link di bawah",
+      "apply_url": "https://id.linkedin.com/jobs/view/talent-acquisition-officer-tech-role-at-indodana-4432239162",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/talent-acquisition-officer-tech-role-at-indodana-4432239162",
+      "featured": false
+    },
+    {
+      "slug": "cost-estimator-elnusa-jakarta",
+      "title": "Cost Estimator (Electrical & Instrument)",
+      "company": "PT Elnusa Tbk",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Finance",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "PT Elnusa Tbk, perusahaan terkemuka di sektor energi dan jasa minyak & gas, membuka lowongan untuk posisi Cost Estimator dengan fokus pada pekerjaan Electrical & Instrument. Kamu akan bertanggung jawab menyusun estimasi biaya berdasarkan dokumen tender, melakukan perhitungan kuantitas, menganalisa harga satuan, serta berkoordinasi dengan tim engineering untuk klarifikasi teknis. Posisi ini memerlukan latar belakang pendidikan S1 Teknik Elektro atau Instrumentasi dengan pengalaman minimal 3 tahun di estimasi proyek EPC.",
+      "requirements": [
+        "Pendidikan minimal S1 Teknik Elektro atau Teknik Instrumentasi",
+        "Pengalaman minimal 3 tahun di bidang estimasi atau cost control proyek EPC",
+        "Memahami standar dan praktik pekerjaan Electrical & Instrument di industri Oil & Gas",
+        "Mampu membaca gambar teknik (SLD, wiring diagram, layout, dll)",
+        "Menguasai Microsoft Office terutama Excel",
+        "Kemampuan analisa yang baik, teliti, dan mampu bekerja sesuai target waktu",
+        "Mampu berbahasa Inggris secara lisan dan tulisan"
+      ],
+      "responsibilities": [
+        "Menyusun estimasi biaya berdasarkan dokumen tender (gambar, spesifikasi, BOQ, lingkup kerja)",
+        "Melakukan perhitungan kuantitas (quantity take-off) pekerjaan Electrical & Instrument",
+        "Menyusun analisa harga satuan (material, tenaga kerja, peralatan, subkontraktor)",
+        "Berkoordinasi dengan tim engineering untuk klarifikasi teknis dan lingkup kerja",
+        "Evaluasi penawaran vendor/supplier dari aspek teknis dan komersial",
+        "Menyusun breakdown cost, contingency, dan asumsi estimasi",
+        "Mendukung proses klarifikasi tender hingga penetapan anggaran proyek",
+        "Mengelola dan memperbarui database harga referensi estimasi"
+      ],
+      "benefits": [
+        "Bergabung dengan BUMN terkemuka di sektor energi",
+        "Kesempatan terlibat dalam proyek-proyek EPC berskala besar",
+        "Pengembangan karir di industri Oil & Gas",
+        "Paket kompetitif dan tunjangan lengkap"
+      ],
+      "how_to_apply": "Lamar melalui LinkedIn dengan mengklik link di bawah",
+      "apply_url": "https://www.linkedin.com/jobs/view/4430170757",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4430170757",
+      "featured": false
+    },
+    {
+      "slug": "product-marketing-development-lumei",
+      "title": "Product Marketing Development",
+      "company": "LUMEI",
+      "location": "Jakarta (Cempaka Putih)",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "LUMEI, perusahaan di bidang kemasan dan kecantikan, sedang mencari Product Marketing Development yang akan menjadi jembatan antara tim R&D/Product, Marketing, dan Sales. Posisi ini bertanggung jawab merumuskan strategi peluncuran produk (Go-to-Market), menentukan positioning dan messaging, serta memastikan produk diterima dengan baik oleh target konsumen. Kamu akan memantau tren industri kemasan dan kecantikan, melakukan riset pasar, serta mengembangkan produk kemasan sesuai kebutuhan pasar.",
+      "requirements": [
+        "Lulusan S1 Pemasaran, Farmasi, Bisnis, Teknik, atau bidang relevan",
+        "Pengalaman 1-5 tahun di Product Marketing & Development",
+        "Pengalaman di sektor kecantikan, lifestyle, manufaktur, FMCG, atau Flavours & Fragrances menjadi nilai tambah",
+        "Pengetahuan tentang Brand Management",
+        "Mampu menerjemahkan data dan riset pasar menjadi insight dan strategi yang dieksekusi",
+        "Kemampuan komunikasi dan copywriting yang tajam",
+        "Terbiasa memimpin proyek lintas divisi dengan tenggat waktu dinamis",
+        "Mahir mengoperasikan software desain (Canva, Adobe, dll)"
+      ],
+      "responsibilities": [
+        "Memantau produk kemasan baru dari kompetitor dan tren kecantikan terkini",
+        "Mengembangkan produk kemasan sesuai tren dan kebutuhan pasar",
+        "Melakukan riset pasar untuk mengidentifikasi tren industri, kebutuhan konsumen, dan pergerakan kompetitor",
+        "Merancang dan mengeksekusi strategi peluncuran produk secara end-to-end",
+        "Menciptakan narasi, USP, dan pesan utama produk yang menarik bagi target audiens",
+        "Bekerja sama dengan tim Pengembangan Produk dan Sales",
+        "Menyusun konten pemasaran teknis (presentasi, brosur, landing page, studi kasus)",
+        "Memantau metrik performa produk setelah peluncuran dan merekomendasikan perbaikan"
+      ],
+      "benefits": [
+        "Kesempatan terlibat dalam pengembangan produk dari konsep hingga pasar",
+        "Lingkungan kerja kreatif dan inovatif",
+        "Pengembangan karir di bidang product marketing",
+        "Bekerja di industri yang terus berkembang"
+      ],
+      "how_to_apply": "Lamar melalui LinkedIn dengan mengklik link di bawah",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424037652",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4424037652",
+      "featured": false
+    },
+    {
       "slug": "senior-backend-developer-golang-glints",
       "title": "Senior Backend Developer (Golang)",
       "company": "Glints",
