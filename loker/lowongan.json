@@ -9,6 +9,210 @@
   },
   "jobs": [
     {
+      "slug": "software-engineer-dexa-group",
+      "title": "Software Engineer (Junior/Middle/Senior)",
+      "company": "Dexa Group",
+      "location": "Tangerang Selatan",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (Negotiable)",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "Dexa Group, salah satu perusahaan farmasi etikal terbesar di Indonesia, sedang membuka kesempatan bagi Software Engineer di semua level (Junior, Middle, Senior). Posisi ini berlokasi di Bintaro, Tangerang Selatan, dan terbuka untuk fresh graduate maupun yang sudah berpengalaman. Kamu akan bertanggung jawab merancang dan mengembangkan fitur baru untuk aplikasi web dan mobile, serta memastikan performa dan kestabilan aplikasi tetap optimal.",
+      "requirements": [
+        "Sarjana Teknologi Informasi dari universitas terkemuka",
+        "Fresh graduate dipersilakan melamar, atau pengalaman 1-5+ tahun",
+        "Pemahaman mendalam tentang backend: Node.js, NestJS",
+        "Pemahaman mendalam tentang frontend: Tailwind, JavaScript, TypeScript, React",
+        "Pengalaman dengan database: MySQL, Redis, MongoDB, atau PostgreSQL",
+        "Kepemimpinan dan kemampuan mentoring yang kuat",
+        "Pengetahuan tentang ERP (Manufacturing, SCM, PLM) menjadi nilai tambah",
+        "Bersedia bekerja on-site dan full-time di Bintaro, Tangerang Selatan"
+      ],
+      "responsibilities": [
+        "Merancang dan mengembangkan fitur baru untuk aplikasi web dan mobile",
+        "Memelihara dan memperbarui kode sumber aplikasi untuk menjaga stabilitas dan performa",
+        "Membuat antarmuka pengguna yang responsif dan menarik menggunakan Tailwind, JavaScript, dan/atau TypeScript",
+        "Mengembangkan layanan backend menggunakan Node.js, NestJS, dan/atau Express.js",
+        "Mengelola dan mengoptimalkan database aplikasi",
+        "Melakukan pengujian dan debugging untuk memastikan kualitas dan keamanan aplikasi",
+        "Berkolaborasi dengan tim produk dan desain untuk memahami kebutuhan pengguna"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "THR / Bonus",
+        "Asuransi kesehatan",
+        "Makan siang gratis",
+        "Paparan internasional"
+      ],
+      "how_to_apply": "Lamar langsung melalui platform Dealls dengan mengklik tombol 'Lamar Cepat'. Tidak perlu sign up.",
+      "apply_url": "https://dealls.com/loker/software-engineer-juniormiddlesenior-1~dexa-group",
+      "source": "Dealls",
+      "source_url": "https://dealls.com/loker/software-engineer-juniormiddlesenior-1~dexa-group",
+      "featured": true
+    },
+    {
+      "slug": "full-stack-developer-java-lawencon",
+      "title": "Full Stack Developer (Java)",
+      "company": "PT Lawencon Internasional",
+      "location": "Jakarta Selatan",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (Negotiable)",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "PT Lawencon Internasional, perusahaan IT yang berkembang pesat di Jakarta Selatan, mencari Full Stack Developer dengan keahlian Java. Posisi ini terbuka untuk kandidat junior hingga mid-level. Kamu akan terlibat dalam pengembangan, pemeliharaan, dan peningkatan aplikasi berbasis web, serta berkolaborasi dengan tim untuk merancang dan mengimplementasikan fitur baru.",
+      "requirements": [
+        "Pengalaman dalam pengembangan software/aplikasi web",
+        "Familiar dan berpengalaman dengan backend development menggunakan Java minimal 6 bulan",
+        "Familiar dengan framework frontend modern seperti Angular/React/Vue.js",
+        "Pengalaman full-stack development menjadi nilai tambah",
+        "Terbuka untuk kandidat Junior hingga Mid-level",
+        "Pemahaman tentang integrasi API dan konsep database",
+        "Kemampuan analitis dan problem-solving yang baik",
+        "Familiar dengan version control tools dan workflow pengembangan"
+      ],
+      "responsibilities": [
+        "Mengembangkan, memelihara, dan meningkatkan aplikasi berbasis web",
+        "Berkolaborasi dengan anggota tim untuk merancang dan mengimplementasikan fitur baru",
+        "Membangun dan mengintegrasikan layanan backend dan API",
+        "Mengembangkan antarmuka frontend yang responsif dan user-friendly",
+        "Melakukan troubleshooting, debugging, dan optimasi performa aplikasi",
+        "Berpartisipasi dalam diskusi teknis, code review, dan pemecahan masalah",
+        "Memastikan kualitas kode, maintainability, dan standar dokumentasi"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "Lingkungan kerja yang dinamis dan inovatif",
+        "Kesempatan pengembangan karir"
+      ],
+      "how_to_apply": "Lamar langsung melalui platform Dealls dengan mengklik tombol 'Lamar Cepat'.",
+      "apply_url": "https://dealls.com/loker/full-stack-developer-75~pt-lawencon-internasional",
+      "source": "Dealls",
+      "source_url": "https://dealls.com/loker/full-stack-developer-75~pt-lawencon-internasional",
+      "featured": false
+    },
+    {
+      "slug": "full-stack-developer-amartek-jakarta",
+      "title": "Full Stack Developer",
+      "company": "PT Bumi Amartha Teknologi Mandiri (AMARTEK)",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (Negotiable)",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "AMARTEK, perusahaan solusi teknologi informasi yang berpengalaman, membuka lowongan Full Stack Developer. Posisi ini membutuhkan kandidat dengan pengalaman minimal 3 tahun yang mahir di frontend (React, TypeScript) dan backend (Go, Java, Python, atau PHP). Kamu akan bekerja dengan stack modern termasuk Clean Architecture, DDD, dan monorepo tooling.",
+      "requirements": [
+        "3+ tahun pengalaman profesional dalam pengembangan software",
+        "Minimal 2 tahun menggunakan React dan TypeScript",
+        "Minimal 2 tahun menggunakan Go di production",
+        "Pengalaman dengan monorepo tooling (pnpm, Nx, Turborepo)",
+        "Pemahaman kuat tentang Clean Architecture dan DDD",
+        "Kemampuan membangun API yang robust dan komponen UI yang testable",
+        "Familiar dengan Docker, Kubernetes, dan cloud platforms (AWS, GCP, Azure)",
+        "Komunikasi dan kolaborasi lintas fungsi yang baik"
+      ],
+      "responsibilities": [
+        "Frontend: Membangun dan memelihara aplikasi React production-grade menggunakan TypeScript dan React Router v7",
+        "Backend: Merancang dan mengembangkan layanan backend yang scalable menggunakan Go/Java/PHP/Python dengan Clean Architecture dan DDD",
+        "Membangun RESTful API yang aman untuk aplikasi high-throughput, low-latency",
+        "Berkolaborasi dengan desainer, engineer, dan DevOps untuk mengirim fitur end-to-end",
+        "Menjaga kualitas kode melalui code review, unit testing, dan linting rules",
+        "Berpartisipasi dalam diskusi arsitektur sistem dan infrastruktur"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "Asuransi kesehatan dan gigi",
+        "THR / Bonus",
+        "Transportasi",
+        "Team building activity"
+      ],
+      "how_to_apply": "Lamar langsung melalui platform Dealls dengan mengklik tombol 'Lamar Cepat'.",
+      "apply_url": "https://dealls.com/loker/full-stack-developer-76~pt-bumi-amartha-teknologi-mandiri",
+      "source": "Dealls",
+      "source_url": "https://dealls.com/loker/full-stack-developer-76~pt-bumi-amartha-teknologi-mandiri",
+      "featured": false
+    },
+    {
+      "slug": "ui-ux-designer-esb-tangerang",
+      "title": "UI/UX Designer",
+      "company": "PT Esensi Solusi Buana (ESB)",
+      "location": "Tangerang (Hybrid)",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 7 - 10.5 Juta",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "ESB, perusahaan teknologi restoran terdepan di Indonesia yang mendukung brand besar seperti Starbucks dan Bakerzin, sedang mencari UI/UX Designer. Posisi ini bersifat hybrid dan cocok untuk desainer yang ingin mengambil ownership penuh, berpikir kritis, dan membentuk pengalaman produk yang berdampak nyata bagi pengguna dan bisnis.",
+      "requirements": [
+        "1-3 tahun pengalaman dalam Product atau Digital Design",
+        "Portofolio yang menunjukkan proses desain, karya yang sudah dipublish, dan dampak terukur",
+        "Fundamental kuat dalam interaction dan visual design",
+        "Pengalaman bekerja dalam tim produk lintas fungsi",
+        "Familiar dengan usability testing tools (Maze atau sejenisnya)",
+        "Familiar dengan Jira dan workflow produk",
+        "Pemahaman baik tentang standar desain mobile dan web",
+        "Mahir menggunakan Figma (wajib)",
+        "Komunikasi yang baik dalam Bahasa Indonesia dan Inggris"
+      ],
+      "responsibilities": [
+        "Mengelola tugas desain end-to-end dari konsep hingga handoff",
+        "Menerjemahkan kebutuhan produk menjadi user flow, wireframe, dan desain UI high-fidelity",
+        "Berkolaborasi dengan UX Writer, Product Manager, dan Engineer",
+        "Berpartisipasi dalam upaya discovery, riset pengguna, dan usability testing",
+        "Membuat prototipe interaktif untuk validasi konsep",
+        "Menghasilkan dokumentasi desain yang jelas dan terstruktur",
+        "Menerapkan dan berkontribusi pada design system"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 7-10.5 Juta)",
+        "THR / Bonus",
+        "Lingkungan kerja hybrid",
+        "Kesempatan berkontribusi pada produk yang digunakan brand besar"
+      ],
+      "how_to_apply": "Lamar langsung melalui platform Dealls dengan mengklik tombol 'Lamar Cepat'.",
+      "apply_url": "https://dealls.com/loker/uiux-designer-52~esb",
+      "source": "Dealls",
+      "source_url": "https://dealls.com/loker/uiux-designer-52~esb",
+      "featured": false
+    },
+    {
+      "slug": "digital-marketing-specialist-orang-tua-group",
+      "title": "Digital Marketing Specialist",
+      "company": "Orang Tua Group",
+      "location": "Jakarta Barat",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Kompetitif (Negotiable)",
+      "posted": "2026-06-24",
+      "expires": "2026-07-24",
+      "description": "Orang Tua Group, perusahaan consumer goods terkemuka di Indonesia (pemilik brand Formula, Tango, Teh Gelas, dan lainnya), sedang mencari Digital Marketing Specialist untuk divisi beauty retail dan outlet. Kamu akan bertanggung jawab membuat konten media sosial, mengelola iklan digital, serta membangun hubungan dengan vendor dan creator.",
+      "requirements": [
+        "Pendidikan minimal S1 Komunikasi/Public Relations/Manajemen atau jurusan lain dengan IPK min. 3.00",
+        "Pengalaman minimal 1 tahun di bidang digital marketing",
+        "Familiar dengan aplikasi edit foto dan video",
+        "Diutamakan memiliki ketertarikan di bidang estetika/beauty",
+        "Bersedia ditempatkan di Jakarta Barat"
+      ],
+      "responsibilities": [
+        "Membuat konten media sosial untuk kategori baru (beauty retail dan outlet)",
+        "Menyeleksi vendor digital yang berpotensi untuk memperluas inventory digital",
+        "Mengeksekusi, monitoring, dan membuat laporan Digital Ads di semua platform",
+        "Membangun hubungan baik dengan pihak eksternal (vendor dan creator)"
+      ],
+      "benefits": [
+        "Asuransi kesehatan",
+        "Bergabung dengan perusahaan FMCG multinasional terkemuka",
+        "Kesempatan pengembangan karir"
+      ],
+      "how_to_apply": "Lamar langsung melalui platform Dealls dengan mengklik tombol 'Lamar Cepat'.",
+      "apply_url": "https://dealls.com/loker/digital-marketing-specialist-29~pt-cs2-pola-sehat",
+      "source": "Dealls",
+      "source_url": "https://dealls.com/loker/digital-marketing-specialist-29~pt-cs2-pola-sehat",
+      "featured": false
+    },
+    {
       "slug": "frontend-engineer-paintpro-indonesia",
       "title": "Frontend Engineer",
       "company": "PaintPro Indonesia",
