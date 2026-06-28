@@ -9,6 +9,215 @@
   },
   "jobs": [
     {
+      "slug": "product-manager-servier-indonesia-jakarta",
+      "title": "Product Manager",
+      "company": "Servier Indonesia",
+      "location": "Jakarta (Jakarta Timur)",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Kompetitif (sesuai standar industri farmasi multinasional)",
+      "posted": "2026-06-28",
+      "expires": "2026-07-28",
+      "description": "Servier Indonesia, bagian dari Grup Servier — perusahaan farmasi multinasional asal Prancis yang telah beroperasi di lebih dari 150 negara — membuka lowongan untuk posisi Product Manager yang akan ditempatkan di Jakarta. Posisi ini akan bertanggung jawab mengelola portofolio produk farmasi secara strategis dan otonom, mulai dari menganalisis permintaan pasar, data penjualan, dan pergerakan kompetitor, hingga mengusulkan target penjualan dan positioning produk. Kamu akan memastikan bauran produk dan kesesuaian aktivitas pemasaran dengan strategi perusahaan. Cocok untuk profesional marketing farmasi yang ingin berkarier di perusahaan farmasi global dengan standar internasional.",
+      "requirements": [
+        "Pendidikan minimal S1 Farmasi, Kedokteran, atau bidang sains terkait",
+        "Pengalaman minimal 2-3 tahun sebagai Product Manager di industri farmasi",
+        "Pemahaman mendalam tentang pasar farmasi Indonesia dan regulasi BPOM",
+        "Kemampuan analitis yang kuat untuk menganalisis data pasar, penjualan, dan kompetitor",
+        "Kemampuan komunikasi dan presentasi yang baik dalam Bahasa Indonesia dan Inggris",
+        "Mampu bekerja secara otonom dan dalam tim lintas fungsi",
+        "Pengalaman dalam peluncuran produk baru menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Menganalisis permintaan pasar, data penjualan, dan informasi kompetitor secara otonom",
+        "Mengusulkan target penjualan dan positioning pasar untuk setiap produk",
+        "Memastikan bauran produk dan kesesuaian aktivitas dengan strategi perusahaan",
+        "Mengembangkan dan mengeksekusi rencana pemasaran tahunan untuk brand yang dikelola",
+        "Berkolaborasi dengan tim sales, medical, dan regulasi untuk pelaksanaan program",
+        "Memantau performa produk dan melakukan evaluasi berkala",
+        "Mengelola budget marketing dan memastikan efisiensi pengeluaran"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan farmasi multinasional global",
+        "Standar kerja internasional dengan exposure regional",
+        "Pengembangan karier di industri farmasi yang stabil dan berkembang",
+        "Kompensasi dan benefit kompetitif standar perusahaan multinasional",
+        "Program pelatihan dan pengembangan profesional berkelanjutan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Servier Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-servier-indonesia-4416092425",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-servier-indonesia-4416092425",
+      "featured": true
+    },
+    {
+      "slug": "software-engineer-ayo-indonesia-jakarta",
+      "title": "Software Engineer",
+      "company": "AYO Indonesia (PT Ayo Indonesia Maju)",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (sesuai standar industri startup teknologi)",
+      "posted": "2026-06-28",
+      "expires": "2026-07-28",
+      "description": "AYO Indonesia (ayo.co.id), perusahaan startup teknologi yang bergerak di bidang platform digital inovatif, sedang mencari Software Engineer berpengalaman untuk bergabung dengan tim pengembangan. Posisi ini akan memainkan peran penting dalam mengembangkan dan meningkatkan platform serta aplikasi digital mutakhir perusahaan. Kamu akan bekerja dalam lingkungan yang dinamis, mengerjakan proyek-proyek inovatif yang mendorong kesuksesan perusahaan. Cocok untuk software engineer yang memiliki semangat tinggi, suka tantangan teknis, dan ingin tumbuh bersama startup yang berkembang pesat.",
+      "requirements": [
+        "Minimal 2-4 tahun pengalaman sebagai Software Engineer atau Software Developer",
+        "Mahir dalam salah satu bahasa pemrograman: JavaScript/TypeScript, Python, Go, atau Java",
+        "Pengalaman dengan framework modern (React.js, Node.js, atau Django)",
+        "Pemahaman tentang database relasional dan NoSQL",
+        "Familiar dengan RESTful API design dan integrasi",
+        "Pengalaman dengan version control (Git) dan workflow kolaborasi",
+        "Kemampuan problem-solving dan komunikasi yang baik",
+        "Lulusan S1 Ilmu Komputer, Teknik Informatika, atau bidang terkait"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan meningkatkan platform digital serta aplikasi perusahaan",
+        "Menulis kode yang bersih, teruji, dan mudah dipelihara",
+        "Berkolaborasi dengan tim product, desain, dan engineering dalam pengembangan fitur",
+        "Melakukan code review dan berbagi pengetahuan dengan tim",
+        "Mengoptimalkan performa dan skalabilitas aplikasi",
+        "Berpartisipasi dalam perencanaan teknis dan arsitektur sistem",
+        "Melakukan troubleshooting dan debugging secara berkala"
+      ],
+      "benefits": [
+        "Bekerja di startup teknologi yang berkembang pesat dengan produk inovatif",
+        "Lingkungan kerja dinamis dan kolaboratif",
+        "Kesempatan mengerjakan proyek dengan teknologi modern",
+        "Pengembangan karier dan pembelajaran berkelanjutan",
+        "Kompensasi dan benefit kompetitif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan AYO Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-at-ayo-4432625010",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/software-engineer-at-ayo-4432625010",
+      "featured": false
+    },
+    {
+      "slug": "customer-service-specialist-anker-indonesia",
+      "title": "Customer Service Specialist",
+      "company": "ANKER INDONESIA (PT Integritas Dinamika)",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Customer Service",
+      "salary": "Kompetitif (sesuai standar industri konsumen elektronik)",
+      "posted": "2026-06-28",
+      "expires": "2026-07-28",
+      "description": "ANKER INDONESIA, mitra resmi dan distributor tunggal produk Anker Innovations di Indonesia — brand global terkemuka untuk aksesoris gadget seperti powerbank, charger, kabel data, speaker, dan earphone — sedang membuka lowongan untuk posisi Customer Service Specialist. Posisi ini akan menjadi garda terdepan dalam memberikan layanan pelanggan terbaik, menangani pertanyaan, keluhan, dan kebutuhan konsumen terkait produk Anker di Indonesia. Cocok untuk kamu yang komunikatif, ramah, dan memiliki semangat memberikan solusi terbaik bagi pelanggan.",
+      "requirements": [
+        "Pendidikan minimal D3/S1 segala jurusan",
+        "Pengalaman minimal 1 tahun di bidang customer service atau peran terkait",
+        "Kemampuan komunikasi yang sangat baik, lisan maupun tulisan",
+        "Ramah, sabar, dan memiliki orientasi pelayanan yang tinggi",
+        "Mampu mengoperasikan komputer dan platform customer service tools",
+        "Bersedia bekerja on-site di kantor Jakarta",
+        "Nilai tambah: familiar dengan produk elektronik konsumen"
+      ],
+      "responsibilities": [
+        "Menangani pertanyaan dan keluhan pelanggan melalui telepon, email, WhatsApp, dan chat",
+        "Memberikan informasi produk, garansi, dan solusi teknis kepada konsumen",
+        "Mencatat dan memantau tiket layanan pelanggan hingga selesai",
+        "Berkolaborasi dengan tim teknis dan operasional untuk menyelesaikan masalah pelanggan",
+        "Menyusun laporan berkala tentang isu dan tren keluhan pelanggan",
+        "Menjaga standar kualitas layanan sesuai SOP perusahaan",
+        "Memberikan masukan untuk perbaikan produk dan proses layanan"
+      ],
+      "benefits": [
+        "Bergabung dengan brand elektronik konsumen global terkemuka",
+        "Lingkungan kerja profesional dan suportif",
+        "Kesempatan pengembangan karir di perusahaan multinasional",
+        "Produk-produk teknologi terbaru untuk dipelajari dan digunakan",
+        "Kompensasi dan benefit sesuai standar industri"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan ANKER INDONESIA. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4430063759/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4430063759/",
+      "featured": false
+    },
+    {
+      "slug": "graphic-designer-stockbit-bibit-jakarta",
+      "title": "Graphic Designer (for Stockbit)",
+      "company": "Stockbit (Bibit.id)",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Kompetitif (sesuai standar industri fintech)",
+      "posted": "2026-06-28",
+      "expires": "2026-07-28",
+      "description": "Stockbit, platform investasi saham sosial terkemuka di Indonesia yang juga menaungi Bibit.id, sedang mencari Graphic Designer kreatif dan detail-oriented yang passionate tentang visual storytelling di dunia investasi dan finansial. Posisi ini akan membantu menerjemahkan misi Stockbit — membuat investasi sederhana dan mudah diakses — menjadi konten visual yang menarik dan menginspirasi pengguna. Kamu akan berkolaborasi erat dengan tim Marketing untuk mengembangkan konsep kreatif yang memperkuat brand identity dan engagement di berbagai platform digital.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai Graphic Designer atau peran serupa",
+        "Portofolio yang kuat menunjukkan karya desain visual untuk media digital dan sosial",
+        "Mahir menggunakan Adobe Creative Suite (Photoshop, Illustrator, After Effects) dan/atau Figma",
+        "Pemahaman tentang brand identity, tipografi, dan komposisi visual yang baik",
+        "Kreatif, up-to-date dengan tren desain terkini",
+        "Mampu bekerja dalam tim dan menerima feedback secara konstruktif",
+        "Nilai tambah: pengalaman di industri fintech, investasi, atau startup"
+      ],
+      "responsibilities": [
+        "Membuat desain visual untuk kebutuhan marketing, media sosial, dan campaign brand Stockbit",
+        "Mengembangkan konsep kreatif yang selaras dengan brand identity dan tujuan campaign",
+        "Mendesain aset digital seperti banner, infografis, ilustrasi, dan materi promosi",
+        "Berkolaborasi dengan tim marketing, content, dan product untuk eksekusi desain",
+        "Menjaga konsistensi visual di seluruh touchpoint brand",
+        "Mengikuti tren desain dan teknologi terbaru untuk meningkatkan kualitas karya"
+      ],
+      "benefits": [
+        "Bekerja di platform investasi sosial terkemuka di Indonesia",
+        "Lingkungan kerja kreatif dan kolaboratif",
+        "Produk yang berdampak langsung pada literasi finansial masyarakat",
+        "Akses ke tools desain dan teknologi modern",
+        "Kompensasi dan benefit kompetitif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Stockbit. Pastikan portofolio desain kamu sudah dilampirkan. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4427340930/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4427340930/",
+      "featured": false
+    },
+    {
+      "slug": "data-analyst-icube-jakarta",
+      "title": "Data Analyst",
+      "company": "ICUBE",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (sesuai standar industri data)",
+      "posted": "2026-06-28",
+      "expires": "2026-07-28",
+      "description": "ICUBE, perusahaan konsultan dan solusi data yang berbasis di Jakarta, sedang membuka lowongan untuk posisi Data Analyst. Posisi ini akan bertanggung jawab mengumpulkan, membersihkan, dan menganalisis data dari berbagai sumber untuk mengidentifikasi pola, tren, dan insight yang bisa ditindaklanjuti. Kamu akan bekerja sama dengan tim lintas fungsi untuk menyajikan rekomendasi berbasis data yang membantu klien membuat keputusan strategis. Cocok untuk analis data yang memiliki kemampuan analitis kuat dan ingin berkembang di lingkungan yang dinamis serta berbasis data-driven culture.",
+      "requirements": [
+        "Pendidikan minimal S1 di bidang Data Science, Statistika, Ekonomi, atau bidang terkait",
+        "Pengalaman minimal 1-2 tahun sebagai Data Analyst atau peran serupa",
+        "Mahir SQL dan Excel untuk pengolahan dan analisis data",
+        "Pengalaman dengan tools visualisasi data seperti Tableau, Power BI, atau Looker",
+        "Nilai tambah: pengalaman dengan Python atau R untuk analisis statistik",
+        "Kemampuan komunikasi yang baik untuk menyajikan insight kepada stakeholder",
+        "Teliti, analitis, dan memiliki kemampuan problem-solving yang kuat"
+      ],
+      "responsibilities": [
+        "Mengumpulkan dan membersihkan data dari berbagai sumber internal dan eksternal",
+        "Menganalisis data untuk mengidentifikasi pola, tren, dan insight bisnis",
+        "Membuat dashboard dan laporan visual untuk mendukung pengambilan keputusan",
+        "Berkolaborasi dengan tim client dan internal untuk memahami kebutuhan analisis",
+        "Menyusun rekomendasi berbasis data untuk strategi bisnis klien",
+        "Memelihara dan meningkatkan kualitas data serta proses analisis"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan konsultan data yang berkembang pesat",
+        "Exposure ke berbagai industri dan klien",
+        "Lingkungan kerja data-driven dan kolaboratif",
+        "Kesempatan mengembangkan skill analisis dan tools data modern",
+        "Kompensasi dan benefit sesuai standar industri"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan ICUBE. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425604460/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4425604460/",
+      "featured": false
+    },
+    {
       "slug": "front-end-developer-scout-inc-yogyakarta",
       "title": "Front End Developer",
       "company": "Scout.inc",
