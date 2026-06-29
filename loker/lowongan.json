@@ -9,6 +9,256 @@
   },
   "jobs": [
     {
+      "slug": "product-manager-indonesian-market-transsion-jakarta",
+      "title": "Product Manager (Indonesian Market)",
+      "company": "Transsion Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (sesuai standar industri smartphone)",
+      "posted": "2026-06-29",
+      "expires": "2026-07-29",
+      "description": "Transsion Indonesia, perusahaan di balik brand smartphone populer seperti Infinix, Tecno, dan Itel, sedang mencari Product Manager untuk fokus pada pasar Indonesia. Posisi ini akan bertanggung jawab melakukan riset pasar dan pengguna untuk memahami perilaku, preferensi, dan gaya hidup digital pengguna smartphone di Indonesia. Kamu akan menganalisis kebutuhan pengguna, memantau tren industri dan kompetitor, serta mengidentifikasi peluang pasar untuk pengembangan fitur produk. Cocok untuk product manager yang memiliki pemahaman mendalam tentang ekosistem mobile dan digital di Indonesia.",
+      "requirements": [
+        "Pengalaman minimal 2-3 tahun sebagai Product Manager di industri teknologi, smartphone, atau digital",
+        "Pemahaman mendalam tentang pasar smartphone Indonesia dan tren digital",
+        "Kemampuan analitis yang kuat untuk riset pasar dan analisis data pengguna",
+        "Pengalaman bekerja dengan tim engineering dan desain dalam pengembangan fitur",
+        "Kemampuan komunikasi dan presentasi yang baik dalam Bahasa Indonesia dan Inggris",
+        "Berorientasi pada pengguna (user-centric) dan data-driven decision making",
+        "Pengalaman di perusahaan teknologi atau brand smartphone menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Melakukan riset pasar dan pengguna untuk memahami kebutuhan dan preferensi pengguna smartphone",
+        "Menganalisis tren industri, produk kompetitor, dan teknologi emerging",
+        "Menyusun product roadmap dan prioritas fitur berdasarkan insight data",
+        "Berkolaborasi dengan tim engineering, desain, dan bisnis dalam pengembangan produk",
+        "Memantau performa fitur dan produk setelah diluncurkan",
+        "Menjembatani kebutuhan pasar Indonesia dengan tim global di HQ"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan smartphone global dengan pangsa pasar besar di Indonesia",
+        "Lingkungan kerja dinamis di industri mobile dan teknologi",
+        "Exposure ke produk yang digunakan jutaan orang setiap hari",
+        "Pengembangan karier di product management dan industri smartphone",
+        "Kompensasi dan benefit kompetitif standar perusahaan multinasional"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Transsion Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/product-manager-indonesian-market-at-transsion-indonesia-4431208366",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/product-manager-indonesian-market-at-transsion-indonesia-4431208366",
+      "featured": true
+    },
+    {
+      "slug": "full-stack-developer-pt-mandiri-international-technology",
+      "title": "Full Stack Developer",
+      "company": "PT Mandiri International Technology",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (sesuai standar industri IT)",
+      "posted": "2026-06-29",
+      "expires": "2026-07-29",
+      "description": "PT Mandiri International Technology, perusahaan solusi teknologi informasi yang sedang berkembang, membuka lowongan untuk posisi Full Stack Developer. Posisi ini akan bertanggung jawab mengembangkan dan memelihara aplikasi web dari sisi frontend hingga backend. Kamu akan bekerja dalam tim pengembangan yang kolaboratif untuk merancang, membangun, dan mengimplementasikan fitur-fitur baru yang mendukung pertumbuhan bisnis perusahaan. Cocok untuk developer yang versatile, memiliki semangat belajar tinggi, dan ingin berkembang di lingkungan kerja yang dinamis.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai Full Stack Developer atau Software Engineer",
+        "Mahir dengan framework frontend modern (React.js, Vue.js, atau Angular)",
+        "Pengalaman backend dengan Node.js, PHP (Laravel/CodeIgniter), atau Python",
+        "Pemahaman tentang database relasional seperti MySQL atau PostgreSQL",
+        "Familiar dengan RESTful API design dan integrasi",
+        "Pengalaman dengan version control (Git)",
+        "Kemampuan problem-solving dan komunikasi yang baik",
+        "Lulusan S1 Ilmu Komputer, Teknik Informatika, atau bidang terkait"
+      ],
+      "responsibilities": [
+        "Mengembangkan fitur aplikasi web end-to-end dari frontend hingga backend",
+        "Merancang dan membangun API yang scalable dan mudah dipelihara",
+        "Berkolaborasi dengan tim produk dan desain dalam perencanaan fitur",
+        "Melakukan debugging, troubleshooting, dan optimasi performa aplikasi",
+        "Menulis kode yang bersih, terstruktur, dan terdokumentasi dengan baik",
+        "Berpartisipasi dalam code review dan diskusi teknis tim"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan IT yang berkembang pesat",
+        "Lingkungan kerja yang mendukung pengembangan skill teknis",
+        "Kesempatan mengerjakan proyek dengan teknologi modern",
+        "Pengembangan karier yang jelas di bidang software engineering",
+        "Kompensasi dan benefit kompetitif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PT Mandiri International Technology. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/full-stack-developer-at-pt-mandiri-international-technology-4368746024",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/full-stack-developer-at-pt-mandiri-international-technology-4368746024",
+      "featured": false
+    },
+    {
+      "slug": "graphic-designer-imprint-now-indonesia",
+      "title": "Graphic Designer",
+      "company": "Imprint Now Indonesia",
+      "location": "Indonesia (Remote-friendly)",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Kompetitif (sesuai standar industri kreatif)",
+      "posted": "2026-06-29",
+      "expires": "2026-07-29",
+      "description": "Imprint Now Indonesia sedang mencari Graphic Designer berbakat untuk bergabung dengan tim Proof mereka. Posisi ini sangat penting dalam operasional perusahaan — kamu akan bertanggung jawab membuat artwork proof yang presisi dan siap produksi untuk produk-produk promotional dan customizable. Kamu akan bekerja dengan berbagai macam produk, memastikan setiap desain sesuai spesifikasi dan siap cetak. Cocok untuk desainer grafis yang teliti, memiliki pemahaman teknis tentang print production, dan ingin bekerja di lingkungan yang menantang dan kreatif.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai Graphic Designer, khususnya di bidang print production",
+        "Mahir menggunakan Adobe Illustrator dan Adobe Photoshop (wajib)",
+        "Pemahaman kuat tentang prinsip desain grafis dan workflow produksi cetak",
+        "Teliti, detail-oriented, dan mampu bekerja dengan tenggat waktu yang ketat",
+        "Kemampuan komunikasi yang baik untuk berkoordinasi dengan tim",
+        "Portofolio yang menunjukkan karya desain grafis dan proofing",
+        "Pengalaman dengan produk promotional atau customizable menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Membuat precision artwork proofs untuk produk promotional dan customizable",
+        "Memastikan setiap desain sesuai dengan spesifikasi teknis dan siap produksi",
+        "Melakukan proofing dan quality control pada artwork sebelum produksi",
+        "Berkolaborasi dengan tim produksi untuk memastikan hasil cetak sesuai desain",
+        "Mengelola dan mengorganisir file desain untuk efisiensi workflow",
+        "Menjaga standar kualitas dan konsistensi di setiap artwork yang dikerjakan"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan kreatif dengan produk yang beragam dan menarik",
+        "Lingkungan kerja yang mendukung kreativitas dan pengembangan skill",
+        "Kesempatan mengerjakan desain untuk berbagai macam produk",
+        "Pengembangan karier di bidang graphic design dan print production",
+        "Kompensasi dan benefit kompetitif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Imprint Now Indonesia. Lampirkan portofolio desain grafis terbaru. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/graphic-designer-at-imprint-now-4375660381",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/graphic-designer-at-imprint-now-4375660381",
+      "featured": false
+    },
+    {
+      "slug": "finance-accounting-staff-blibli-jakarta",
+      "title": "Finance and Accounting Staff",
+      "company": "Blibli",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Finance",
+      "salary": "Kompetitif (sesuai standar industri e-commerce)",
+      "posted": "2026-06-29",
+      "expires": "2026-07-29",
+      "description": "Blibli, platform e-commerce terkemuka di Indonesia yang bertransformasi menjadi ekosistem digital masa depan, sedang membuka lowongan untuk posisi Finance and Accounting Staff. Posisi ini akan bergabung dengan tim finance yang bertanggung jawab atas pencatatan transaksi keuangan, rekonsiliasi akun, dan penyusunan laporan keuangan. Kamu akan bekerja dalam lingkungan yang dinamis dan fast-paced, berkontribusi langsung pada pertumbuhan ekosistem digital Blibli. Cocok untuk profesional finance yang teliti, memiliki integritas tinggi, dan ingin berkarier di perusahaan e-commerce terkemuka.",
+      "requirements": [
+        "Pendidikan minimal S1 Akuntansi atau Manajemen Keuangan",
+        "Pengalaman minimal 1-2 tahun di bidang Finance atau Accounting",
+        "Pemahaman yang baik tentang standar akuntansi (PSAK/IFRS)",
+        "Mahir menggunakan Microsoft Excel dan software akuntansi",
+        "Teliti, detail-oriented, dan memiliki kemampuan analitis yang baik",
+        "Mampu bekerja dalam tim dan mengelola multiple task secara simultan",
+        "Pengalaman di perusahaan e-commerce atau startup menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Melakukan pencatatan transaksi keuangan harian secara akurat dan tepat waktu",
+        "Menyusun laporan keuangan periodik (bulanan, triwulanan, tahunan)",
+        "Melakukan rekonsiliasi bank dan akun-akun lainnya",
+        "Membantu proses audit internal dan eksternal",
+        "Mengelola dokumen dan arsip keuangan dengan tertib",
+        "Berkolaborasi dengan tim lain untuk memastikan kelancaran proses finance",
+        "Mematuhi kebijakan dan prosedur keuangan perusahaan"
+      ],
+      "benefits": [
+        "Bergabung dengan platform e-commerce terkemuka di Indonesia",
+        "Lingkungan kerja dinamis dan fast-paced di industri digital",
+        "Kesempatan pengembangan karier di bidang finance",
+        "Paparan terhadap ekosistem bisnis digital yang komprehensif",
+        "Kompensasi dan benefit kompetitif standar industri e-commerce"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Blibli. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/finance-and-accounting-staff-at-blibli-4391687556",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/finance-and-accounting-staff-at-blibli-4391687556",
+      "featured": false
+    },
+    {
+      "slug": "content-copywriter-biota-smart-home-jakarta",
+      "title": "Content & Copywriter",
+      "company": "BIOTA Smart Home",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Kompetitif (sesuai standar industri teknologi)",
+      "posted": "2026-06-29",
+      "expires": "2026-07-29",
+      "description": "BIOTA Smart Home, perusahaan teknologi yang bergerak di bidang smart home dan Internet of Things (IoT), sedang mencari Content & Copywriter berbakat untuk bergabung dengan tim di Jakarta. Posisi ini akan memainkan peran penting dalam mengangkat komunikasi brand dan storytelling perusahaan. Kamu akan menciptakan konten copywriting yang menarik untuk berbagai platform, membantu membangun brand awareness, dan mendorong engagement dengan audiens. Cocok untuk penulis kreatif yang memiliki passion di bidang teknologi dan smart home innovation.",
+      "requirements": [
+        "Pengalaman minimal 1-2 tahun sebagai Content Writer, Copywriter, atau peran serupa",
+        "Kemampuan menulis copy yang menarik dalam Bahasa Indonesia dan Inggris",
+        "Pemahaman tentang brand communication dan storytelling",
+        "Kreatif, detail-oriented, dan mampu menulis untuk berbagai platform",
+        "Familiar dengan SEO writing dan content strategy dasar",
+        "Mampu bekerja dalam tim dan menerima feedback secara konstruktif",
+        "Nilai tambah: pengalaman di industri teknologi atau smart home"
+      ],
+      "responsibilities": [
+        "Menulis copy untuk website, social media, email marketing, dan materi promosi",
+        "Mengembangkan konsep konten dan storytelling yang selaras dengan brand identity",
+        "Berkolaborasi dengan tim marketing dan desain dalam pembuatan konten",
+        "Melakukan riset topik dan tren untuk menghasilkan konten yang relevan",
+        "Mengedit dan proofreading konten sebelum publikasi",
+        "Memantau performa konten dan memberikan rekomendasi optimasi"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan teknologi smart home yang inovatif",
+        "Lingkungan kerja kreatif dan kolaboratif",
+        "Kesempatan untuk belajar tentang IoT dan smart home technology",
+        "Pengembangan karier di bidang content writing dan copywriting",
+        "Kompensasi dan benefit kompetitif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan BIOTA Smart Home. Lampirkan portofolio tulisan atau contoh copy yang pernah dibuat. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-copywriter-placement-biota-at-biota-smart-home-4378757355",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/content-copywriter-placement-biota-at-biota-smart-home-4378757355",
+      "featured": false
+    },
+    {
+      "slug": "fullstack-engineer-volantis-technology-yogyakarta",
+      "title": "Fullstack Engineer",
+      "company": "Volantis Technology",
+      "location": "Yogyakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (sesuai standar industri teknologi Yogyakarta)",
+      "posted": "2026-06-29",
+      "expires": "2026-07-29",
+      "description": "Volantis Technology, perusahaan pengembangan software yang berbasis di Yogyakarta, sedang membuka lowongan Fullstack Engineer. Posisi ini akan bergabung dengan tim engineering yang solid untuk mengembangkan produk-produk digital inovatif. Kamu akan bekerja dengan stack teknologi modern, terlibat dalam seluruh siklus pengembangan dari perencanaan hingga deployment, dan berkontribusi pada arsitektur teknis produk. Cocok untuk fullstack developer yang ingin bekerja di kota Yogyakarta dengan lingkungan kerja yang mendukung pertumbuhan teknis dan kreativitas.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Fullstack Developer atau Software Engineer",
+        "Mahir menggunakan React.js atau Vue.js untuk frontend development",
+        "Pengalaman backend dengan Node.js, PHP, atau Python",
+        "Pemahaman tentang database relasional dan NoSQL",
+        "Familiar dengan RESTful API design dan integrasi",
+        "Pengalaman dengan version control (Git)",
+        "Bersedia bekerja dari Yogyakarta atau sekitarnya",
+        "Lulusan S1 Ilmu Komputer, Teknik Informatika, atau bidang terkait"
+      ],
+      "responsibilities": [
+        "Mengembangkan fitur aplikasi web dari frontend hingga backend",
+        "Merancang dan membangun API yang scalable dan terstruktur",
+        "Berkolaborasi dengan tim produk dan desain dalam pengembangan fitur",
+        "Melakukan code review dan menjaga kualitas kode",
+        "Melakukan troubleshooting dan debugging secara berkala",
+        "Berpartisipasi dalam perencanaan teknis dan arsitektur sistem",
+        "Mendokumentasikan kode dan proses pengembangan"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan teknologi di Yogyakarta, kota kreatif dan nyaman",
+        "Lingkungan kerja yang mendukung work-life balance",
+        "Kesempatan mengerjakan proyek dengan teknologi modern",
+        "Tim engineering yang solid dan kolaboratif",
+        "Kompensasi dan benefit kompetitif standar industri teknologi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Volantis Technology. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4330612255/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4330612255/",
+      "featured": false
+    },
+    {
       "slug": "product-manager-servier-indonesia-jakarta",
       "title": "Product Manager",
       "company": "Servier Indonesia",
