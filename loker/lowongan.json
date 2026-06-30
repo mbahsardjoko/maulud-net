@@ -9,6 +9,256 @@
   },
   "jobs": [
     {
+      "slug": "product-manager-pt-bank-sinarmas-tbk-jakarta",
+      "title": "Product Manager",
+      "company": "PT Bank Sinarmas Tbk",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (sesuai standar industri perbankan)",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "PT Bank Sinarmas Tbk, salah satu bank terkemuka di Indonesia yang terus bertransformasi digital, sedang membuka lowongan untuk posisi Product Manager. Posisi ini akan bertanggung jawab menciptakan, mengelola, dan mengembangkan produk perbankan digital yang sesuai dengan kebutuhan nasabah. Kamu akan berkolaborasi dengan tim lintas fungsi — mulai dari engineering, desain, marketing, hingga compliance — untuk menghadirkan produk yang inovatif dan kompetitif di pasar. Cocok untuk product manager yang memiliki pengalaman di industri financial services dan ingin berkontribusi pada transformasi digital perbankan Indonesia.",
+      "requirements": [
+        "Minimal 2-3 tahun pengalaman sebagai Product Manager, khususnya di industri fintech, perbankan, atau financial services",
+        "Pemahaman tentang product lifecycle management dan agile methodology",
+        "Kemampuan analitis untuk menganalisis data pasar, perilaku pengguna, dan metrik produk",
+        "Pengalaman bekerja dengan tim engineering dan desain dalam pengembangan fitur",
+        "Kemampuan komunikasi dan presentasi yang baik dalam Bahasa Indonesia dan Inggris",
+        "Berorientasi pada pengguna (user-centric) dan data-driven decision making",
+        "Pengalaman di perusahaan perbankan atau fintech menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Menciptakan, mengelola, dan mengembangkan produk perbankan digital sesuai kebutuhan nasabah",
+        "Menyusun product roadmap dan prioritas fitur berdasarkan insight data dan riset pasar",
+        "Berkolaborasi dengan tim engineering, desain, marketing, dan compliance dalam pengembangan produk",
+        "Melakukan riset pengguna dan analisis kompetitor untuk mengidentifikasi peluang",
+        "Memantau performa produk setelah diluncurkan dan melakukan iterasi berbasis data",
+        "Menjembatani kebutuhan bisnis dengan tim teknis untuk memastikan delivery yang tepat waktu"
+      ],
+      "benefits": [
+        "Bergabung dengan bank terkemuka yang sedang bertransformasi digital",
+        "Lingkungan kerja profesional dengan standar industri perbankan",
+        "Kesempatan berkontribusi pada produk digital yang digunakan jutaan nasabah",
+        "Pengembangan karier di bidang product management dan digital banking",
+        "Kompensasi dan benefit kompetitif standar industri perbankan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PT Bank Sinarmas Tbk. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-pt-bank-sinarmas-tbk-4413535222",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-pt-bank-sinarmas-tbk-4413535222",
+      "featured": false
+    },
+    {
+      "slug": "software-developer-scg-indonesia-jakarta",
+      "title": "Software Developer",
+      "company": "SCG Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Kompetitif (sesuai standar industri manufaktur multinasional)",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "SCG, perusahaan manufaktur dan bahan bangunan multinasional asal Thailand yang telah berinvestasi di Indonesia selama lebih dari tiga dekade, membuka lowongan untuk posisi Software Developer. Posisi ini akan berkontribusi pada transformasi digital SCG Indonesia dengan merancang, mengembangkan, dan memelihara solusi software yang meningkatkan operasional bisnis. Kamu akan bekerja dengan teknologi modern untuk membangun aplikasi yang mendukung berbagai fungsi bisnis — dari supply chain hingga customer engagement. Cocok untuk developer yang ingin bekerja di lingkungan perusahaan multinasional dengan exposure ke transformasi digital skala enterprise.",
+      "requirements": [
+        "Pendidikan minimal S1 Ilmu Komputer, Teknik Informatika, atau bidang terkait",
+        "Pengalaman minimal 2 tahun sebagai Software Developer atau peran serupa",
+        "Menguasai salah satu bahasa pemrograman: JavaScript/TypeScript, Python, Java, atau Go",
+        "Pengalaman dengan framework frontend (React.js, Vue.js) atau backend (Node.js, Django, Spring Boot)",
+        "Familiar dengan database relasional (MySQL, PostgreSQL) dan RESTful API design",
+        "Pengalaman dengan version control (Git) dan workflow pengembangan kolaboratif",
+        "Kemampuan problem-solving dan komunikasi yang baik dalam Bahasa Indonesia dan Inggris"
+      ],
+      "responsibilities": [
+        "Merancang, mengembangkan, dan memelihara solusi software yang mendukung operasional bisnis",
+        "Berkolaborasi dengan tim lintas fungsi untuk menerjemahkan kebutuhan bisnis menjadi solusi teknis",
+        "Menulis kode yang bersih, teruji, dan terdokumentasi dengan baik",
+        "Melakukan debugging, troubleshooting, dan optimasi performa aplikasi",
+        "Berpartisipasi dalam code review dan diskusi teknis tim",
+        "Mendukung proses deployment dan maintenance aplikasi di production environment"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan multinasional dengan reputasi global",
+        "Kesempatan berkontribusi pada transformasi digital skala enterprise",
+        "Lingkungan kerja profesional dengan standar internasional",
+        "Pengembangan karier dan pelatihan berkelanjutan",
+        "Kompensasi dan benefit kompetitif standar perusahaan multinasional"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan SCG Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/software-developer-–-scg-indonesia-at-scg-4288198628",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/software-developer-–-scg-indonesia-at-scg-4288198628",
+      "featured": false
+    },
+    {
+      "slug": "finance-data-analyst-akulaku-indonesia-jakarta",
+      "title": "Finance Data Analyst",
+      "company": "Akulaku Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Finance",
+      "salary": "Kompetitif (sesuai standar industri fintech)",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "Akulaku Indonesia, perusahaan fintech terkemuka yang menyediakan platform layanan keuangan digital, sedang mencari Finance Data Analyst untuk bergabung dengan tim data dan finance. Posisi ini akan bertanggung jawab menganalisis data keuangan, menyusun laporan performa bisnis, dan memberikan insight yang dapat ditindaklanjuti untuk mendukung pengambilan keputusan strategis. Kamu akan bekerja dengan data skala besar dari berbagai sumber, menggunakan tools analisis modern, dan berkolaborasi dengan tim finance, product, dan risk. Cocok untuk analis data yang memiliki pemahaman kuat tentang data keuangan dan ingin berkembang di ekosistem fintech yang dinamis.",
+      "requirements": [
+        "Pendidikan minimal S1 di bidang Finance, Akuntansi, Data Science, Statistika, atau bidang terkait",
+        "Pengalaman minimal 1-2 tahun sebagai Data Analyst, Finance Analyst, atau peran serupa",
+        "Mahir SQL dan tools visualisasi data (Tableau, Power BI, atau Looker)",
+        "Pengalaman dengan Python atau R untuk analisis data dan statistik",
+        "Pemahaman tentang laporan keuangan, metrik bisnis, dan konsep data modeling",
+        "Teliti, analitis, dan mampu menerjemahkan data menjadi insight bisnis",
+        "Nilai tambah: pengalaman di industri fintech, P2P lending, atau perbankan"
+      ],
+      "responsibilities": [
+        "Menganalisis data keuangan dan performa bisnis untuk mendukung pengambilan keputusan strategis",
+        "Membangun dashboard dan laporan berkala untuk memantau KPI keuangan dan operasional",
+        "Berkolaborasi dengan tim finance, product, dan risk dalam menyediakan data-driven insights",
+        "Melakukan analisis tren, forecasting, dan identifikasi peluang optimasi bisnis",
+        "Menjaga kualitas data dan memastikan akurasi laporan keuangan",
+        "Menyusun rekomendasi berbasis data untuk perbaikan proses dan strategi bisnis"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan fintech terkemuka di Indonesia",
+        "Exposure ke data keuangan skala besar dan tools analisis modern",
+        "Lingkungan kerja yang dinamis dan data-driven",
+        "Kesempatan pengembangan karier di bidang data analytics dan finance",
+        "Kompensasi dan benefit kompetitif standar industri fintech"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Akulaku Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/finance-data-analyst-at-akulaku-indonesia-4430583862",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/finance-data-analyst-at-akulaku-indonesia-4430583862",
+      "featured": false
+    },
+    {
+      "slug": "accounting-staff-pt-astra-international-jakarta",
+      "title": "Accounting Staff - FTI",
+      "company": "PT Astra International Tbk",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Finance",
+      "salary": "Kompetitif (sesuai standar industri otomotif multinasional)",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "PT Astra International Tbk, salah satu perusahaan terbesar dan terkemuka di Indonesia dengan bisnis di bidang otomotif, alat berat, agribisnis, infrastruktur, dan jasa keuangan, membuka lowongan untuk posisi Accounting Staff di divisi FTI (Financial Technology & Infrastructure). Posisi ini akan bertanggung jawab dalam pencatatan transaksi keuangan, penyusunan laporan keuangan, rekonsiliasi akun, serta mendukung proses audit internal dan eksternal. Cocok untuk lulusan akuntansi yang teliti, memiliki integritas tinggi, dan ingin membangun karier di perusahaan grup terbesar di Indonesia.",
+      "requirements": [
+        "Pendidikan minimal S1 Akuntansi dari universitas terkemuka dengan IPK minimal 3.00",
+        "Pengalaman minimal 1 tahun di bidang accounting (fresh graduate dengan prestasi akademik baik dipersilakan melamar)",
+        "Pemahaman tentang PSAK, laporan keuangan, dan siklus akuntansi",
+        "Mahir Microsoft Excel (pivot table, vlookup, formula lanjutan)",
+        "Familiar dengan software akuntansi (SAP menjadi nilai tambah)",
+        "Teliti, jujur, dan memiliki integritas tinggi",
+        "Kemampuan komunikasi dan kerja tim yang baik"
+      ],
+      "responsibilities": [
+        "Melakukan pencatatan transaksi keuangan harian secara akurat dan tepat waktu",
+        "Menyusun laporan keuangan periodik sesuai standar akuntansi yang berlaku",
+        "Melakukan rekonsiliasi bank dan akun-akun terkait secara berkala",
+        "Mendukung proses audit internal dan eksternal",
+        "Mengelola dokumen dan arsip keuangan dengan tertib dan sistematis",
+        "Berkolaborasi dengan tim finance dan operasional untuk kelengkapan data keuangan",
+        "Mematuhi kebijakan dan prosedur keuangan perusahaan"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan grup terbesar di Indonesia",
+        "Lingkungan kerja profesional dengan standar corporate yang tinggi",
+        "Kesempatan pengembangan karier di grup Astra yang memiliki banyak lini bisnis",
+        "Asuransi kesehatan, BPJS Ketenagakerjaan, dan tunjangan lengkap",
+        "Program pelatihan dan pengembangan profesional berkelanjutan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PT Astra International Tbk. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425666610/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4425666610/",
+      "featured": false
+    },
+    {
+      "slug": "social-media-specialist-tentang-anak-jakarta",
+      "title": "Social Media Specialist",
+      "company": "Tentang Anak",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Kompetitif (sesuai standar industri startup parenting)",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "Tentang Anak, perusahaan parenting terkemuka di Indonesia yang berkomitmen pada kesejahteraan dan perkembangan 80 juta anak Indonesia, sedang mencari Social Media Specialist untuk memperkuat tim pemasaran digital. Posisi ini akan bertanggung jawab membangun sistem konten yang kredibel dan berdampak tinggi yang menjangkau jutaan orang tua di Indonesia — bukan sekadar menambah followers. Kamu akan mengelola akun media sosial, membuat konten yang engaging, dan membangun komunitas yang mendukung misi Tentang Anak. Cocok untuk kreatif konten yang memiliki passion di bidang parenting, edukasi anak, dan social media marketing.",
+      "requirements": [
+        "Pengalaman minimal 1-2 tahun sebagai Social Media Specialist, Content Creator, atau peran serupa",
+        "Pemahaman tentang strategi social media, algoritma platform, dan community management",
+        "Kemampuan membuat konten visual dan copywriting yang menarik dan sesuai brand",
+        "Kreatif, up-to-date dengan tren media sosial dan konten terkini",
+        "Familiar dengan tools social media management dan analytics",
+        "Kemampuan komunikasi yang baik dalam Bahasa Indonesia dan Inggris",
+        "Nilai tambah: pengalaman di industri parenting, edukasi, atau FMCG"
+      ],
+      "responsibilities": [
+        "Mengelola akun media sosial Tentang Anak di berbagai platform (Instagram, TikTok, Facebook, YouTube)",
+        "Membuat dan menjadwalkan konten yang engaging dan sesuai dengan brand voice",
+        "Membangun dan menjaga engagement dengan komunitas orang tua melalui konten kreatif",
+        "Memantau performa konten dan menyusun laporan berkala",
+        "Berkolaborasi dengan tim konten, desain, dan produk dalam pengembangan campaign",
+        "Mengikuti tren media sosial terkini dan mengadaptasikannya untuk brand",
+        "Menjaga konsistensi brand identity di seluruh platform sosial media"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan parenting yang berdampak pada jutaan anak Indonesia",
+        "Lingkungan kerja kreatif, fast-paced, dan kolaboratif",
+        "Kesempatan mengembangkan karier di bidang social media dan content marketing",
+        "Produk yang bermakna dan didukung oleh tim ahli pediatri dan psikologi anak",
+        "Kompensasi dan benefit kompetitif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Tentang Anak. Lampirkan portofolio konten media sosial yang pernah dibuat. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/social-media-specialist-at-tentang-anak-4415105720",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/social-media-specialist-at-tentang-anak-4415105720",
+      "featured": false
+    },
+    {
+      "slug": "brand-manager-bukalapak-jakarta",
+      "title": "Brand Manager",
+      "company": "Bukalapak",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Kompetitif (sesuai standar industri e-commerce)",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "Bukalapak, salah satu platform e-commerce terkemuka di Indonesia yang telah bertransformasi menjadi perusahaan teknologi yang mendukung ekosistem UMKM dan ritel tradisional, membuka lowongan untuk posisi Brand Manager di Mitra Bukalapak. Posisi ini akan memimpin pengembangan dan pertumbuhan brand FMCG yang fokus pada pasar General Trade Indonesia. Kamu akan bertanggung jawab merumuskan strategi brand, mengelola portofolio produk, dan mengeksekusi campaign pemasaran yang meningkatkan brand awareness dan pangsa pasar. Cocok untuk brand manager yang memiliki pengalaman di industri FMCG dan siap berkontribusi pada ekosistem digital yang memberdayakan jutaan mitra usaha di Indonesia.",
+      "requirements": [
+        "Minimal 3-5 tahun pengalaman sebagai Brand Manager, Associate Brand Manager, atau peran serupa di industri FMCG",
+        "Pemahaman mendalam tentang pasar General Trade dan kanal distribusi tradisional di Indonesia",
+        "Kemampuan analitis untuk menganalisis data penjualan, pangsa pasar, dan tren konsumen",
+        "Pengalaman dalam pengembangan brand strategy, positioning, dan brand communication",
+        "Kreatif dan mampu mengembangkan campaign marketing yang inovatif",
+        "Kemampuan komunikasi, presentasi, dan negosiasi yang baik",
+        "Lulusan S1 Marketing, Manajemen Bisnis, atau bidang terkait",
+        "Pengalaman di e-commerce atau platform digital menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Memimpin pengembangan dan pertumbuhan brand FMCG untuk pasar General Trade",
+        "Merumuskan brand strategy, positioning, dan go-to-market plan",
+        "Mengelola portofolio produk dan mengidentifikasi peluang pengembangan produk baru",
+        "Mengeksekusi campaign marketing dan brand activation di berbagai kanal",
+        "Menganalisis performa brand, pangsa pasar, dan tren konsumen secara berkala",
+        "Berkolaborasi dengan tim sales, digital, dan product untuk mencapai target bisnis",
+        "Mengelola budget marketing dan memastikan efisiensi pengeluaran"
+      ],
+      "benefits": [
+        "Bergabung dengan platform e-commerce terkemuka yang mendukung jutaan UMKM",
+        "Lingkungan kerja yang dinamis, inovatif, dan fast-paced",
+        "Kesempatan berkontribusi pada ekosistem digital yang berdampak luas",
+        "Pengembangan karier di bidang brand management dan e-commerce",
+        "Kompensasi dan benefit kompetitif standar industri e-commerce"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Bukalapak. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/brand-manager-at-bukalapak-4411427747",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/brand-manager-at-bukalapak-4411427747",
+      "featured": true
+    },
+    {
       "slug": "influx-customer-service-representative-indonesia",
       "title": "Customer Service Representative",
       "company": "Influx",
