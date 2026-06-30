@@ -9,6 +9,213 @@
   },
   "jobs": [
     {
+      "slug": "digital-marketing-specialist-tanamduit-jakarta",
+      "title": "Digital Marketing Specialist",
+      "company": "tanamduit",
+      "location": "Jakarta Selatan",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 5-8 Juta",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "tanamduit, platform investasi dan wealth management yang berkembang pesat di Indonesia, sedang mencari Digital Marketing Specialist untuk bergabung dengan tim marketing di Jakarta Selatan. Posisi ini akan bertanggung jawab merancang, menjalankan, dan mengoptimalkan kampanye pemasaran digital di berbagai kanal untuk meningkatkan brand awareness dan akuisisi pengguna. Kamu akan bekerja dalam lingkungan startup yang dinamis, berkolaborasi dengan tim produk dan kreatif untuk menciptakan strategi marketing yang efektif dan terukur. Cocok untuk digital marketer yang data-driven, kreatif, dan punya semangat untuk mendorong pertumbuhan platform investasi digital.",
+      "requirements": [
+        "Pengalaman minimal 1-2 tahun sebagai Digital Marketing Specialist atau peran serupa",
+        "Pemahaman tentang digital marketing channels (Google Ads, Meta Ads, SEO, SEM)",
+        "Kemampuan analitis untuk mengukur dan mengoptimalkan performa kampanye",
+        "Familiar dengan tools marketing seperti Google Analytics, Facebook Business Manager",
+        "Kreatif dan mampu mengembangkan strategi konten digital yang engaging",
+        "Kemampuan komunikasi dan kolaborasi tim yang baik",
+        "Nilai tambah: pengalaman di industri fintech atau investasi"
+      ],
+      "responsibilities": [
+        "Merancang dan mengeksekusi kampanye digital marketing di berbagai platform",
+        "Mengelola dan mengoptimalkan budget iklan untuk mencapai target ROI",
+        "Menganalisis data kampanye dan menyusun laporan performa berkala",
+        "Berkolaborasi dengan tim content dan desain untuk materi promosi",
+        "Melakukan riset pasar dan kompetitor untuk mengidentifikasi peluang",
+        "Menjaga konsistensi brand identity di seluruh kanal digital"
+      ],
+      "benefits": [
+        "Bergabung dengan platform investasi digital yang berkembang pesat",
+        "Lingkungan kerja startup yang dinamis dan kolaboratif",
+        "Exposure ke industri fintech dan wealth management",
+        "Kesempatan pengembangan karier dan pembelajaran berkelanjutan",
+        "Kompensasi dan benefit kompetitif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan tanamduit. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/3669963341",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/3669963341",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-shoutvox-jakarta",
+      "title": "Content Writer",
+      "company": "ShoutVox",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 4-7 Juta",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "ShoutVox, perusahaan yang bergerak di bidang layanan konten dan komunikasi digital, sedang membuka lowongan untuk posisi Content Writer di Jakarta. Posisi ini akan bertanggung jawab menulis konten berkualitas tinggi untuk berbagai kebutuhan klien, mulai dari artikel website, konten media sosial, materi marketing, hingga copywriting untuk campaign. Kamu akan bekerja dalam tim kreatif yang solid, mengerjakan proyek dari berbagai industri dan klien. Cocok untuk penulis kreatif yang memiliki kemampuan riset bagus, fleksibel dengan berbagai topik, dan punya semangat untuk menghasilkan konten yang impactful.",
+      "requirements": [
+        "Pengalaman minimal 1 tahun sebagai Content Writer, Copywriter, atau peran serupa",
+        "Kemampuan menulis yang sangat baik dalam Bahasa Indonesia (formal dan informal)",
+        "Kemampuan menulis dalam Bahasa Inggris menjadi nilai tambah",
+        "Mampu melakukan riset topik secara mandiri dan mendalam",
+        "Familiar dengan SEO writing dan content strategy dasar",
+        "Kreatif dan mampu menulis dengan berbagai gaya dan tone",
+        "Teliti dan memiliki kemampuan editing dan proofreading yang baik"
+      ],
+      "responsibilities": [
+        "Menulis konten artikel, blog, dan website untuk berbagai klien",
+        "Membuat copy untuk media sosial, email marketing, dan materi promosi",
+        "Melakukan riset topik untuk memastikan konten akurat dan relevan",
+        "Berkolaborasi dengan tim desain dan marketing dalam produksi konten",
+        "Mengedit dan proofreading konten sebelum publikasi",
+        "Menjaga konsistensi kualitas dan brand voice di setiap konten"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan konten digital yang berkembang",
+        "Lingkungan kerja kreatif dan kolaboratif",
+        "Exposure ke berbagai industri dan klien",
+        "Kesempatan mengembangkan portofolio tulisan",
+        "Kompensasi dan benefit sesuai standar industri"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan ShoutVox. Lampirkan portofolio tulisan atau contoh konten yang pernah dibuat. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-shoutvox-3726903511",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-shoutvox-3726903511",
+      "featured": false
+    },
+    {
+      "slug": "backend-developer-nestjs-tech-union-grok",
+      "title": "Backend Developer (NestJS)",
+      "company": "Tech Union Grok (TUG)",
+      "location": "Remote / Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "Tech Union Grok (TUG) adalah perusahaan teknologi yang fokus pada pengembangan solusi digital inovatif. Saat ini mereka sedang mencari Backend Developer berpengalaman dengan spesialisasi NestJS untuk bergabung dengan tim engineering. Posisi ini akan menjadi pemain kunci dalam merancang, mengembangkan, dan memelihara backend architecture aplikasi menggunakan Node.js dan NestJS. Kamu akan bekerja dalam tim yang menggunakan teknologi modern seperti TypeScript, Docker, dan CI/CD pipelines. Cocok untuk backend developer yang memiliki pengalaman solid dengan NestJS dan ingin bekerja secara remote dengan tim yang dinamis.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman dengan Node.js, minimal 1 tahun dengan NestJS",
+        "Pemahaman kuat tentang TypeScript dan JavaScript ES6+",
+        "Pengalaman dengan relational database (MySQL/PostgreSQL) dan ORM (TypeORM)",
+        "Familiar dengan Docker dan containerization",
+        "Pengalaman dengan CI/CD pipelines (GitHub Actions)",
+        "Pemahaman tentang RESTful API design dan microservices architecture",
+        "Pengalaman dengan cloud services (AWS/GCP/Firebase) menjadi nilai tambah",
+        "Kemampuan problem-solving dan komunikasi yang baik"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara backend services menggunakan NestJS",
+        "Merancang dan membangun RESTful API yang scalable dan terstruktur",
+        "Menulis kode yang bersih, terstruktur, dan terdokumentasi dengan baik",
+        "Berkolaborasi dengan tim frontend dan DevOps dalam integrasi dan deployment",
+        "Melakukan code review dan memastikan standar kualitas kode",
+        "Mengoptimalkan performa database dan backend services",
+        "Berpartisipasi dalam perencanaan arsitektur teknis"
+      ],
+      "benefits": [
+        "Bekerja secara remote dari mana saja di Indonesia",
+        "Tim engineering yang solid dengan standar teknis tinggi",
+        "Teknologi modern: NestJS, TypeScript, Docker, CI/CD",
+        "Lingkungan kerja yang fleksibel dan mendukung growth",
+        "Kompensasi dan benefit kompetitif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Tech Union Grok. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/backend-developer-nestjs-at-tech-union-grok-tug-4350573564",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/backend-developer-nestjs-at-tech-union-grok-tug-4350573564",
+      "featured": true
+    },
+    {
+      "slug": "ui-ux-designer-mobile-app-appfuxion-jakarta",
+      "title": "UI/UX Designer for Mobile App",
+      "company": "PT Appfuxion Consulting Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "PT Appfuxion Consulting Indonesia, perusahaan konsultan pengembangan aplikasi mobile dan digital, sedang mencari UI/UX Designer berbakat untuk bergabung dengan tim mereka di Jakarta. Posisi ini akan bertanggung jawab penuh atas desain UI/UX fitur aplikasi — dari riset hingga peluncuran. Kamu akan membuat design artifacts seperti personas, user journeys, wireframes, high-fidelity UI, dan prototype. Bekerja dalam tim yang kolaboratif, kamu akan menjembatani kebutuhan pengguna dengan tujuan bisnis melalui desain yang intuitif dan engaging. Cocok untuk UI/UX designer yang memiliki pemahaman mendalam tentang mobile design pattern dan user-centered design.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai UI/UX Designer, khususnya untuk mobile apps",
+        "Mahir menggunakan Figma untuk desain dan prototyping",
+        "Pemahaman kuat tentang design systems, wireframing, dan responsive design",
+        "Pengalaman membuat design artifacts: personas, user journeys, high-fidelity UI",
+        "Pemahaman tentang user research dan usability testing",
+        "Kreatif, detail-oriented, dan memiliki portfolio yang kuat",
+        "Kemampuan komunikasi yang baik untuk kolaborasi dengan tim product dan engineering"
+      ],
+      "responsibilities": [
+        "Memimpin desain UI/UX untuk fitur mobile app dari riset hingga launch",
+        "Membuat design artifacts: personas, journey maps, wireframes, dan prototype",
+        "Melakukan user research dan usability testing untuk validasi desain",
+        "Berkolaborasi dengan product manager dan engineer dalam pengembangan fitur",
+        "Menjaga konsistensi design system dan standar UI di seluruh aplikasi",
+        "Melakukan iterasi desain berdasarkan feedback user dan data analytics"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan konsultan aplikasi mobile yang berpengalaman",
+        "Exposure ke berbagai proyek dan klien dari berbagai industri",
+        "Lingkungan kerja yang mendukung kreativitas dan inovasi desain",
+        "Kesempatan mengembangkan portofolio dengan proyek-proyek beragam",
+        "Kompensasi dan benefit kompetitif standar industri"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PT Appfuxion Consulting Indonesia. Lampirkan portofolio desain UI/UX terbaru. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-for-mobile-app-at-pt-appfuxion-consulting-indonesia-4404303492",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-for-mobile-app-at-pt-appfuxion-consulting-indonesia-4404303492",
+      "featured": false
+    },
+    {
+      "slug": "staff-accounting-pt-anugerah-cahayamas-jakarta",
+      "title": "Accounting Staff",
+      "company": "PT Anugerah Cahayamas Abadi",
+      "location": "Jakarta Utara",
+      "type": "Full-time",
+      "category": "Finance",
+      "salary": "Rp 4.5-6.5 Juta",
+      "posted": "2026-06-30",
+      "expires": "2026-07-30",
+      "description": "PT Anugerah Cahayamas Abadi, perusahaan yang bergerak di bidang pelayaran niaga di Indonesia, sedang membutuhkan segera seorang Accounting Staff yang akan ditempatkan di kantor Jakarta Utara. Posisi ini akan bertanggung jawab atas pencatatan transaksi keuangan sehari-hari, pembuatan invoice, monitoring penagihan, serta pengelolaan dokumen perpajakan. Kamu akan bekerja dalam tim finance yang solid dan mendukung. Cocok untuk lulusan akuntansi yang teliti, memiliki integritas tinggi, dan siap bekerja dalam lingkungan bisnis yang dinamis.",
+      "requirements": [
+        "Pendidikan minimal D3 atau S1 Akuntansi / Perpajakan",
+        "Pengalaman minimal 1 tahun sebagai Accounting Staff (fresh graduate dipersilakan)",
+        "Menguasai software akuntansi (Accurate menjadi nilai tambah)",
+        "Pemahaman tentang jurnal akuntansi dan pembuatan laporan keuangan",
+        "Mengerti perpajakan dasar (PPN, PPh) dan pembuatan faktur pajak",
+        "Teliti, jujur, dan mampu bekerja dengan tenggat waktu",
+        "Mahir Microsoft Excel (VLOOKUP, Pivot Table)"
+      ],
+      "responsibilities": [
+        "Membuat journal voucher dan mencatat transaksi keuangan sehari-hari",
+        "Membuat invoice penjualan dan memonitor penagihan ke customer",
+        "Membuat faktur pajak PPN dan melaporkan SPT Masa",
+        "Melakukan rekonsiliasi bank dan akun-akun terkait",
+        "Menyusun laporan keuangan periodik",
+        "Mengelola dokumen dan arsip keuangan dengan tertib"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan pelayaran niaga yang stabil",
+        "Lingkungan kerja profesional dan suportif",
+        "Pengalaman di industri pelayaran dan logistik",
+        "Kesempatan pengembangan karier di bidang finance dan accounting",
+        "Kompensasi sesuai standar industri"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PT Anugerah Cahayamas Abadi. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/accounting-staff-at-pt-anugerah-cahayamas-abadi-4433636537",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/accounting-staff-at-pt-anugerah-cahayamas-abadi-4433636537",
+      "featured": false
+    },
+    {
       "slug": "product-manager-indonesian-market-transsion-jakarta",
       "title": "Product Manager (Indonesian Market)",
       "company": "Transsion Indonesia",
