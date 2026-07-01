@@ -9,6 +9,206 @@
   },
   "jobs": [
     {
+      "slug": "backend-developer-dua-digital-solutions-denpasar",
+      "title": "Backend Developer",
+      "company": "DUA Digital Solutions",
+      "location": "Denpasar, Bali",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "DUA Digital Solutions, studio software Skandinavia berbasis di Bali yang mengembangkan solusi software custom dan AI automation untuk scale-up di seluruh dunia, membuka lowongan untuk Backend Developer yang passionate. Tim kami mencari developer yang bersemangat tentang teknologi, suka belajar hal baru, dan siap menghadapi tantangan setiap hari. Anda akan berkontribusi dalam mengembangkan aplikasi standar internasional dengan teknologi terkini.",
+      "requirements": [
+        "Passionate tentang teknologi dan tertarik belajar hal-hal baru",
+        "Pengalaman dalam pengembangan backend dengan bahasa pemrograman modern (Node.js, Python, Go, atau Java)",
+        "Pemahaman tentang database relasional dan NoSQL",
+        "Familiar dengan REST APIs dan microservices architecture",
+        "Git proficiency dan collaborative development workflow",
+        "Kemampuan problem-solving yang kuat"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara backend services untuk aplikasi web dan mobile",
+        "Desain dan implementasi API yang scalable dan maintainable",
+        "Berkolaborasi dengan frontend team dan product manager",
+        "Code review dan knowledge sharing dengan tim",
+        "Mengoptimalkan performa dan security aplikasi"
+      ],
+      "benefits": [
+        "Bekerja di Bali dengan tim internasional",
+        "Kesempatan berkontribusi pada proyek-proyek global",
+        "Professional development dan training opportunities",
+        "Flexible working arrangements",
+        "Kompensasi kompetitif dan benefit menarik"
+      ],
+      "how_to_apply": "Kirim lamaran dan portofolio melalui LinkedIn atau email ke careers@duadigital.com. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://glints.com/id/opportunities/jobs/backend-developer/fafcbc25-43b1-4367-bb02-be9d757a23d6",
+      "source": "Glints Indonesia",
+      "source_url": "https://glints.com/id/opportunities/jobs/backend-developer/fafcbc25-43b1-4367-bb02-be9d757a23d6",
+      "featured": true
+    },
+    {
+      "slug": "content-writer-binus-group-jakarta",
+      "title": "Content Writer - Knowledge Base",
+      "company": "BINUS Group",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "BINUS Group, institusi pendidikan terkemuka di Indonesia, membuka lowongan untuk Content Writer yang akan fokus mengembangkan dan memelihara Knowledge Base serta Service Articles. Posisi ini memerlukan penulis yang detail-oriented, mampu menerjemahkan konsep teknis menjadi bahasa yang mudah dipahami, dan memiliki passion dalam menciptakan konten edukatif berkualitas tinggi.",
+      "requirements": [
+        "Minimal 1-3 tahun pengalaman sebagai Content Writer atau Technical Writer",
+        "Kemampuan menulis yang excellent dalam Bahasa Indonesia dan Inggris",
+        "Pengalaman mengembangkan Knowledge Base content dan Service Articles",
+        "Strong organizational skills dan attention to detail",
+        "Familiar dengan content management systems (CMS)",
+        "Kemampuan research dan mengumpulkan informasi teknis"
+      ],
+      "responsibilities": [
+        "Mengembangkan, memelihara, dan meningkatkan Knowledge Base content secara berkelanjutan",
+        "Menulis Service Articles yang clear, concise, dan user-friendly",
+        "Berkolaborasi dengan tim teknis untuk mendapatkan informasi akurat",
+        "Melakukan editing dan proofreading untuk memastikan kualitas konten",
+        "Memperbarui dokumentasi sesuai dengan updates produk atau layanan",
+        "Menganalisis user feedback untuk improvement konten"
+      ],
+      "benefits": [
+        "Bekerja di institusi pendidikan terkemuka Indonesia",
+        "Lingkungan kerja yang supportive dan collaborative",
+        "Kesempatan mengembangkan skill writing dan technical knowledge",
+        "Health insurance dan tunjangan lengkap",
+        "Peluang pengembangan karier di organisasi yang besar"
+      ],
+      "how_to_apply": "Kirim lamaran lengkap dengan portfolio atau contoh tulisan melalui LinkedIn atau email. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4379403606/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4379403606/",
+      "featured": false
+    },
+    {
+      "slug": "devops-engineer-2-mekari-jakarta",
+      "title": "DevOps Engineer 2",
+      "company": "Mekari",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 16-24 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "Mekari, perusahaan fintech terkemuka Indonesia yang menyediakan platform akuntansi dan manajemen bisnis cloud-based, membuka lowongan untuk DevOps Engineer 2. Kami mencari engineer yang berpengalaman dalam container orchestration dan infrastructure automation untuk membantu scaling platform kami. Posisi ini membutuhkan deep knowledge tentang Kubernetes, Docker, dan CI/CD pipeline.",
+      "requirements": [
+        "Minimal 3-4 tahun pengalaman sebagai DevOps Engineer atau Infrastructure Engineer",
+        "Deep knowledge tentang container orchestration (Docker, Kubernetes, Helm Chart)",
+        "Experience dalam CI/CD tools dan automation",
+        "Strong scripting skills (Shell, Python, Go, atau Ruby)",
+        "Pengalaman dengan cloud platforms (AWS, GCP, atau Azure)",
+        "Understanding tentang microservices architecture dan monitoring tools"
+      ],
+      "responsibilities": [
+        "Merancang dan mengimplementasikan infrastructure solutions yang scalable dan reliable",
+        "Mengelola dan mengoptimalkan Kubernetes clusters",
+        "Mengembangkan automation scripts dan tools untuk deployment dan monitoring",
+        "Implementing CI/CD pipelines dan deployment strategies",
+        "Troubleshooting dan resolusi issues pada production environment",
+        "Collaborating dengan engineering team untuk best practices dan optimization"
+      ],
+      "benefits": [
+        "Bergabung dengan fintech company terkemuka Indonesia",
+        "Kesempatan bekerja dengan teknologi cloud terdepan",
+        "Professional development dan training budget",
+        "Remote-friendly working environment",
+        "Competitive compensation dengan equity"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan highlight pengalaman Kubernetes dan CI/CD. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4381225406/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4381225406/",
+      "featured": false
+    },
+    {
+      "slug": "fullstack-engineer-cloudetica-solutions-remote",
+      "title": "Fullstack Engineer - Remote (Part-time)",
+      "company": "Cloudetica Solutions",
+      "location": "Remote",
+      "type": "Part-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta (project-based)",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "Cloudetica Solutions, cloud consulting leader yang menyediakan solusi inovatif di AWS, Azure, dan Google Cloud, sedang mencari Fullstack Engineer untuk project-based remote work. Posisi ini ideal untuk developer yang ingin menambah income sambil mengembangkan skill, dengan fleksibilitas bekerja dari mana saja. Anda akan mengembangkan scalable web applications dengan fokus pada AWS integration.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai Fullstack Developer atau Software Engineer",
+        "Proficiency dalam JavaScript/TypeScript dan framework frontend (React, Vue, Angular)",
+        "Backend skills dengan Node.js, Python, atau Java",
+        "Strong knowledge tentang AWS services (DynamoDB, Lambda, API Gateway, S3)",
+        "Familiar dengan REST APIs dan database design",
+        "Collaborative team player dengan strong communication skills"
+      ],
+      "responsibilities": [
+        "Mengembangkan scalable web applications di AWS",
+        "Mengintegrasikan AWS services untuk backend dan infrastructure",
+        "Mengimplementasikan frontend features dengan modern frameworks",
+        "API development dan integration",
+        "Testing dan code quality assurance",
+        "Berkolaborasi dengan product team dalam project delivery"
+      ],
+      "benefits": [
+        "Project-based dengan flexible schedule",
+        "Work from anywhere",
+        "Competitive project rates",
+        "Kesempatan mengembangkan expertise di AWS cloud",
+        "Potential untuk long-term collaboration"
+      ],
+      "how_to_apply": "Kirim portfolio dan CV melalui LinkedIn atau aplikasi langsung. Siapkan portfolio project-project yang sudah dibuat. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/fullstack-engineer-at-cloudetica-solutions-4287030672",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/fullstack-engineer-at-cloudetica-solutions-4287030672",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-saas-education-jubelio-jakarta",
+      "title": "Content Writer - SaaS Education Content",
+      "company": "Jubelio",
+      "location": "Jakarta Selatan",
+      "type": "Contract",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "Jubelio, platform SaaS terkemuka untuk manajemen bisnis ritel di Indonesia, membuka lowongan untuk Content Writer khusus untuk mengembangkan educational content. Anda akan membuat dokumentasi komprehensif, training materials, tutorial, e-books, dan artikel yang membantu users memaksimalkan penggunaan produk Jubelio. Posisi ini cocok untuk penulis yang tertarik pada edukasi dan SaaS product documentation.",
+      "requirements": [
+        "Minimal 1-3 tahun pengalaman sebagai Content Writer atau Educational Content Creator",
+        "Kemampuan menulis yang excellent untuk educational materials",
+        "Pemahaman tentang SaaS products dan user education",
+        "Pengalaman membuat training materials, curriculum, dan learning content",
+        "Strong research skills dan detail-oriented",
+        "Familiar dengan content management dan learning management systems"
+      ],
+      "responsibilities": [
+        "Mengembangkan comprehensive educational documentation sesuai organizational standards",
+        "Membuat training dan education content (curriculum, syllabus, learning materials)",
+        "Menghasilkan articles, e-books, magazines, dan tutorial videos",
+        "Menciptakan quiz dan interactive learning materials",
+        "Berkolaborasi dengan product dan support team untuk content accuracy",
+        "Memperbarui dan maintain documentation saat ada product updates",
+        "Menganalisis user feedback untuk improvement konten"
+      ],
+      "benefits": [
+        "Bekerja di SaaS company yang inovatif dan growing",
+        "Hybrid working arrangement (kantor di Jakarta Selatan)",
+        "Kontrak dengan potential untuk panjang term",
+        "Kesempatan membuat impact pada product adoption",
+        "Professional development opportunities"
+      ],
+      "how_to_apply": "Kirim lamaran dengan portfolio konten edukasi yang pernah dibuat melalui LinkedIn atau email. Lampirkan contoh artikel, tutorial, atau educational materials yang pernah buat. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-saas-education-content-at-jubelio-4397284264",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-saas-education-content-at-jubelio-4397284264",
+      "featured": true
+    },
+    {
       "slug": "data-analyst-business-intelligence-shopee-jakarta",
       "title": "Data Analyst - Business Intelligence",
       "company": "Shopee",
