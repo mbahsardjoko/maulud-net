@@ -9,6 +9,189 @@
   },
   "jobs": [
     {
+      "slug": "data-analyst-business-intelligence-shopee-jakarta",
+      "title": "Data Analyst - Business Intelligence",
+      "company": "Shopee",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "Shopee sedang mencari Data Analyst yang berpengalaman untuk bergabung dengan tim Business Intelligence kami. Dalam peran ini, Anda akan membantu berbagai unit bisnis dalam merencanakan, menstrategi, dan mengembangkan bisnis Shopee melalui pengambilan keputusan berbasis data. Anda akan berfungsi sebagai konsultan internal yang menyederhanakan terminologi kompleks menjadi insight yang mudah dipahami untuk stakeholder internal. Tim kami mengumpulkan, membersihkan, dan menganalisis dataset besar untuk mendukung keputusan bisnis strategis.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Data Analyst atau Business Intelligence Analyst",
+        "Kemampuan analisis data yang kuat menggunakan SQL, Python, atau R",
+        "Pengalaman dengan tools visualisasi data (Tableau, Power BI, atau Looker)",
+        "Pemahaman tentang metodologi analisis statistik dan A/B testing",
+        "Kemampuan komunikasi yang baik untuk menyajikan insight kepada non-technical stakeholders"
+      ],
+      "responsibilities": [
+        "Mengumpulkan, membersihkan, dan memvalidasi data dari berbagai sumber",
+        "Melakukan analisis mendalam terhadap data bisnis untuk mengidentifikasi insight dan peluang",
+        "Mengembangkan dan mendeploy dashboard untuk monitoring performa bisnis real-time",
+        "Berkolaborasi dengan stakeholder bisnis untuk memahami kebutuhan"
+      ],
+      "benefits": [
+        "Bergabung dengan unicorn e-commerce terkemuka Asia Tenggara",
+        "Kesempatan belajar dari data scientist dan analyst berpengalaman",
+        "Akses ke teknologi dan tools analytics terdepan di industri",
+        "Kompensasi kompetitif dengan benefit lengkap"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Shopee. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/data-analyst-business-intelligence-at-shopee-4417137616",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/data-analyst-business-intelligence-at-shopee-4417137616",
+      "featured": true
+    },
+    {
+      "slug": "frontend-developer-react-js-pasarpolis-jakarta",
+      "title": "Frontend Developer (React JS)",
+      "company": "PasarPolis",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "PasarPolis, platform asuransi digital terdepan di Indonesia, membuka peluang untuk Frontend Developer yang berpengalaman dengan React JS. Kami mencari developer yang passionate tentang menciptakan user experience terbaik dan interface yang intuitif untuk platform asuransi kami. Anda akan bekerja dengan tim engineering yang terampil menggunakan teknologi terkini.",
+      "requirements": [
+        "Minimal 2-3 tahun pengalaman sebagai Frontend Developer dengan fokus React JS",
+        "Pemahaman mendalam tentang JavaScript ES6+, HTML5, dan CSS3",
+        "Pengalaman dengan state management (Redux, Context API) dan REST APIs",
+        "Familiar dengan testing frameworks (Jest, React Testing Library)",
+        "Git proficiency dan experience dengan collaborative development workflow"
+      ],
+      "responsibilities": [
+        "Mengembangkan komponen React yang reusable dan maintainable",
+        "Berkolaborasi dengan designer dan backend team dalam mengimplementasikan fitur baru",
+        "Melakukan code review dan debugging untuk memastikan code quality",
+        "Mengoptimalkan performa aplikasi dan user experience"
+      ],
+      "benefits": [
+        "Bekerja pada platform fintech yang berkembang pesat",
+        "Kesempatan untuk belajar dari engineer berpengalaman di industri asuransi digital",
+        "Flexible working arrangements dan modern development environment",
+        "Kompensasi kompetitif dan benefit lengkap"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PasarPolis. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4368962579/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4368962579/",
+      "featured": false
+    },
+    {
+      "slug": "senior-backend-engineer-goat-indonesia",
+      "title": "Senior Backend Engineer",
+      "company": "GOAT",
+      "location": "Jakarta / Remote",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 18-28 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "GOAT, platform digital yang berkembang pesat, membuka lowongan untuk Senior Backend Engineer yang berpengalaman. Kami mencari engineer yang telah bekerja di perusahaan skala besar untuk membantu membangun dan scaling infrastruktur backend kami. Dalam posisi ini, Anda akan merancang sistem yang scalable, reliable, dan maintainable.",
+      "requirements": [
+        "Minimal 4+ tahun pengalaman sebagai Backend Engineer di perusahaan tech besar",
+        "Strong proficiency dalam bahasa pemrograman (Go, Java, Python, atau Node.js)",
+        "Pengalaman dengan microservices architecture dan cloud platforms (AWS, GCP, Azure)",
+        "Deep understanding tentang database design (relational dan NoSQL)",
+        "Experience dengan message queues, caching, dan distributed systems",
+        "Leadership experience dalam mentoring junior engineers"
+      ],
+      "responsibilities": [
+        "Merancang dan mengimplementasikan solusi backend yang scalable dan robust",
+        "Memimpin technical discussions dan architectural decisions",
+        "Mentoring dan code review untuk junior dan mid-level engineers",
+        "Collaborating dengan product dan infrastructure teams"
+      ],
+      "benefits": [
+        "Bergabung dengan leadership team di perusahaan yang berkembang",
+        "Kesempatan untuk membuat dampak teknis yang signifikan",
+        "Remote-friendly working environment",
+        "Professional development budget untuk courses dan conferences",
+        "Highly competitive compensation package dengan equity"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan GOAT. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4135909490/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4135909490/",
+      "featured": false
+    },
+    {
+      "slug": "software-engineer-voip-asterisk-jakarta",
+      "title": "Software Engineer (VoIP & Asterisk)",
+      "company": "PT Telekomunikasi Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "PT Telekomunikasi Indonesia sedang mencari Software Engineer yang spesialis dalam teknologi VoIP dan Asterisk. Anda akan bertanggung jawab untuk mengembangkan dan memelihara sistem komunikasi berbasis VoIP yang mendukung jutaan pengguna di seluruh Indonesia. Posisi ini memerlukan pemahaman mendalam tentang protokol telepon digital.",
+      "requirements": [
+        "Minimal 2+ tahun pengalaman sebagai Backend/VoIP Developer atau Software Engineer",
+        "Strong proficiency dalam C, C++, atau Python untuk backend development",
+        "Deep knowledge tentang Asterisk, SIP, RTP, dan VoIP protocols",
+        "Experience dengan Linux/Unix systems dan network programming",
+        "Understanding tentang telephony concepts dan PBX systems",
+        "Experience dengan database dan message queue systems"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan mengmaintain VoIP services dan Asterisk-based solutions",
+        "Troubleshooting call quality issues dan network problems",
+        "Implementing new features dan improvements untuk VoIP platform",
+        "Performing load testing dan optimization untuk system scalability"
+      ],
+      "benefits": [
+        "Bekerja di perusahaan telekomunikasi terbesar di Indonesia",
+        "Kesempatan untuk belajar infrastruktur skala national",
+        "Stable career path dalam tech infrastructure",
+        "Comprehensive benefits dan pension plan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PT Telekomunikasi. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429614770/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4429614770/",
+      "featured": false
+    },
+    {
+      "slug": "ui-ux-designer-archipelago-international-jakarta",
+      "title": "UI/UX Designer - Product",
+      "company": "Archipelago International",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 9-14 Juta",
+      "posted": "2026-07-01",
+      "expires": "2026-08-01",
+      "description": "Archipelago International, chain hotel terkemuka di Indonesia, membuka lowongan untuk UI/UX Designer yang berbakat. Kami sedang mentransformasi digital experience kami untuk guests dan internal stakeholders. Dalam peran ini, Anda akan merancang interface yang user-friendly dan engaging untuk platform hotel kami.",
+      "requirements": [
+        "Minimal 2-3 tahun pengalaman sebagai UI/UX Designer atau Product Designer",
+        "Proficiency dalam design tools (Figma, Adobe XD, atau Sketch)",
+        "Strong understanding tentang UX principles, user research, dan usability testing",
+        "Experience dengan responsive design dan mobile-first approach",
+        "Ability untuk create wireframes, prototypes, dan high-fidelity mockups"
+      ],
+      "responsibilities": [
+        "Conducting user research dan competitive analysis untuk inform design decisions",
+        "Creating wireframes, prototypes, dan design specifications",
+        "Collaborating dengan product dan engineering teams dalam implementation",
+        "Performing usability testing dan iterating based on feedback"
+      ],
+      "benefits": [
+        "Bekerja dengan hotel chain internasional terkemuka",
+        "Kesempatan untuk shape digital experience untuk jutaan guests",
+        "Collaborative dan creative working environment",
+        "Access ke design tools dan resources terbaru"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Archipelago International. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-at-archipelago-international-4347477256",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-at-archipelago-international-4347477256",
+      "featured": false
+    },
+    {
       "slug": "product-manager-pt-bank-sinarmas-tbk-jakarta",
       "title": "Product Manager",
       "company": "PT Bank Sinarmas Tbk",
