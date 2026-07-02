@@ -2,12 +2,258 @@
   "site": {
     "title": "Maulud.net",
     "tagline": "Temukan Lowongan Kerja Terbaru",
-    "description": "Portal lowongan kerja Indonesia — temukan pekerjaan impianmu dari berbagai perusahaan terpercaya",
+    "description": "Portal lowongan kerja Indonesia \u2014 temukan pekerjaan impianmu dari berbagai perusahaan terpercaya",
     "url": "https://maulud.net",
     "lang": "id",
     "locale": "id_ID"
   },
   "jobs": [
+    {
+      "slug": "fresh-graduate-hiring-byd-indonesia-bandung",
+      "title": "2026 Indonesia Fresh Graduate Hiring - Bandung",
+      "company": "BYD Indonesia",
+      "location": "Bandung",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "BYD Indonesia, perusahaan mobil listrik global asal China yang kini berekspansi besar-besaran di Indonesia, membuka program Campus Hiring 2026 untuk fresh graduate di Bandung. Program ini dirancang untuk lulusan baru yang siap memulai karir di industri kendaraan listrik dan energi terbarukan. Kamu akan mendapatkan kesempatan belajar dari para ahli industri sambil berkontribusi langsung dalam proyek-proyek strategis BYD di Indonesia. Posisi ini cocok banget buat kamu yang lulusan baru dan pengen langsung terjun ke dunia kerja dengan bimbingan intensif.",
+      "requirements": [
+        "Fresh graduate atau lulusan tahun 2026 (max 1 tahun setelah lulus)",
+        "Minimal S1 dari semua jurusan (diutamakan Teknik, IT, Business)",
+        "IPK minimal 3.00 dari skala 4.00",
+        "Bersedia ditempatkan di Bandung",
+        "Kemampuan komunikasi Bahasa Inggris aktif",
+        "Passionate di bidang sustainable energy dan teknologi",
+        "Bersedia mengikuti program rotasi dan pelatihan intensif"
+      ],
+      "responsibilities": [
+        "Mengikuti program pengembangan dan pelatihan terstruktur selama periode onboarding",
+        "Belajar langsung dari mentor dan senior engineer di berbagai departemen",
+        "Berkontribusi dalam proyek-proyek strategis perusahaan",
+        "Berpartisipasi dalam rotasi antar divisi untuk memahami bisnis secara holistic",
+        "Menyelesaikan tugas dan project assignment sesuai target yang ditentukan"
+      ],
+      "benefits": [
+        "Program pengembangan karir terstruktur selama 1-2 tahun",
+        "Mentorship dari profesional berpengalaman",
+        "Gaji kompetitif dengan review tahunan",
+        "BPJS Ketenagakerjaan dan Kesehatan",
+        "Kesempatan berkembang pesat di industri EV yang sedang booming",
+        "Lingkungan kerja internasional"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan BYD Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4400089141",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4400089141",
+      "featured": true
+    },
+    {
+      "slug": "product-manager-adecco-jakarta",
+      "title": "Product Manager",
+      "company": "Adecco Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "Adecco Indonesia, perusahaan penyedia solusi SDM dan rekrutmen terkemuka di Indonesia, mencari seorang Product Manager yang komersial dan hands-on. Kamu akan memimpin aktivitas manajemen produk dan trade marketing untuk brand ternama di Indonesia. Posisi ini membutuhkan seseorang yang memiliki jiwa kepemimpinan kuat dan mampu mengelola seluruh lifecycle produk, dari perencanaan strategis hingga eksekusi di lapangan. Kamu akan bekerja sama dengan tim sales, marketing, dan operasional untuk memastikan produk mencapai target pasar.",
+      "requirements": [
+        "Minimal 3-5 tahun pengalaman sebagai Product Manager atau Brand Manager",
+        "Pengalaman di industri FMCG atau konsumen menjadi nilai tambah",
+        "Kemampuan analitis yang kuat untuk membaca data pasar dan tren",
+        "Pengalaman dalam trade marketing dan kerjasama dengan distributor/retailer",
+        "Kemampuan komunikasi dan presentasi excellent",
+        "Familiar dengan tools marketing analytics dan campaign management",
+        "S1 semua jurusan (Marketing/Business lebih disukai)"
+      ],
+      "responsibilities": [
+        "Mengembangkan strategi produk jangka pendek dan jangka panjang",
+        "Melakukan riset pasar untuk mengidentifikasi peluang dan ancaman kompetitif",
+        "Mengelola budget marketing dan memonitor ROI setiap campaign",
+        "Berkolaborasi dengan tim sales untuk mengoptimalkan distribusi produk",
+        "Memonitor performa produk dan menyusun laporan berkala",
+        "Mengelola lifecycle produk dari launch hingga evaluasi"
+      ],
+      "benefits": [
+        "Gaji kompetitif di atas rata-rata industri",
+        "Bekerja dengan tim profesional di perusahaan global",
+        "Kesempatan mengelola brand strategis",
+        "Program pelatihan pengembangan karir",
+        "BPJS Ketenagakerjaan dan Kesehatan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Adecco Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4433649213",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4433649213",
+      "featured": false
+    },
+    {
+      "slug": "graphic-designer-monee-jakarta",
+      "title": "Graphic Designer",
+      "company": "Monee",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 6-12 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "Monee, platform teknologi finansial yang berkembang pesat di Indonesia, membuka lowongan untuk Graphic Designer kreatif. Sebagai Graphic Designer di Monee, kamu akan bertanggung jawab untuk menciptakan aset visual yang engaging di seluruh touchpoint digital \u2014 mulai dari in-app visuals, campaign marketing, hingga brand communications. Posisi ini akan sangat cocok buat kamu yang punya jiwa kreatif tinggi, eye untuk detail, dan bisa bekerja cepat tanpa mengorbankan kualitas. Kamu akan jadi bagian dari tim kreatif yang mendukung pertumbuhan brand Monee.",
+      "requirements": [
+        "Minimal 1-2 tahun pengalaman sebagai Graphic Designer (digital portfolio wajib)",
+        "Proficiency di Adobe Creative Suite (Photoshop, Illustrator, After Effects)",
+        "Pengalaman mendesain untuk platform digital (mobile app, web, social media)",
+        "Pemahaman tentang brand identity dan visual consistency",
+        "Kreatif, up-to-date dengan tren desain terkini",
+        "Kemampuan komunikasi dan menerima feedback dengan baik",
+        "Pengalaman dengan tools prototyping (Figma/Principle) nilai tambah"
+      ],
+      "responsibilities": [
+        "Membuat desain visual untuk campaign marketing di berbagai channel",
+        "Mendesain in-app visuals, ilustrasi, dan aset brand",
+        "Berkolaborasi dengan tim product dan marketing untuk campaign kreatif",
+        "Menjaga brand consistency di semua touchpoint",
+        "Membantu pengembangan brand assets dan guidelines",
+        "Berpartisipasi dalam brainstorming ide kreatif untuk campaign"
+      ],
+      "benefits": [
+        "Lingkungan kerja startup yang dinamis dan kreatif",
+        "Kesempatan untuk bereksperimen dengan desain inovatif",
+        "Gaji dan benefit kompetitif",
+        "BPJS Ketenagakerjaan dan Kesehatan",
+        "Pengembangan portofolio dan skill desain"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Monee. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/graphic-designer-at-monee-4382977790",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/graphic-designer-at-monee-4382977790",
+      "featured": false
+    },
+    {
+      "slug": "account-executive-cnn-indonesia-jakarta",
+      "title": "Account Executive",
+      "company": "CNN Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 7-14 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "CNN Indonesia, salah satu media berita terkemuka di Indonesia, membuka lowongan untuk Account Executive yang berbakat dan energetic. Posisi ini adalah jantung dari aktivitas komersial CNN Indonesia, dimana kamu akan bertanggung jawab mengelola hubungan dengan klien, menjual solusi advertising dan sponsorship, serta memastikan pendapatan perusahaan terus bertumbuh. Cocok untuk kamu yang punya jiwa sales, networking yang luas, dan paham industri media dan periklanan di Indonesia. Kamu akan bekerja dengan brand-brand besar dan membantu mereka mencapai target marketing.",
+      "requirements": [
+        "Minimal S1 di bidang Marketing, Business, Management atau setara",
+        "Pengalaman 1-2 tahun di Account Executive, Sales, atau Business Development",
+        "Memiliki network di industri media/advertising menjadi nilai tambah",
+        "Kemampuan negosiasi dan komunikasi yang sangat baik",
+        "Target oriented dan mampu manage multiple clients",
+        "Memahami industri media, TV, dan digital advertising",
+        "Fasih Bahasa Inggris aktif"
+      ],
+      "responsibilities": [
+        "Mengelola dan mengembangkan hubungan dengan klien existing dan potensial",
+        "Menjual produk iklan dan sponsorship CNN Indonesia",
+        "Membuat proposal dan presentasi untuk calon klien",
+        "Berkolaborasi dengan tim internal (produksi, konten, marketing)",
+        "Memonitor performa campaign klien dan memberikan laporan",
+        "Mencapai target penjualan yang ditetapkan setiap periode"
+      ],
+      "benefits": [
+        "Bekerja di salah satu media ternama di Indonesia",
+        "Komisi dan bonus berdasarkan pencapaian target",
+        "Eksposur ke brand-brand besar nasional dan internasional",
+        "Lingkungan kerja profesional dan fast-paced",
+        "BPJS Ketenagakerjaan dan Kesehatan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan CNN Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/account-executive-at-cnn-indonesia-4424077857",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/account-executive-at-cnn-indonesia-4424077857",
+      "featured": false
+    },
+    {
+      "slug": "junior-data-analyst-pt-sarimelati-kencana-jakarta",
+      "title": "Junior Data Analyst",
+      "company": "PT Sarimelati Kencana Tbk",
+      "location": "Jakarta Selatan",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "PT Sarimelati Kencana Tbk, perusahaan waralaba restoran Pizza Hut terbesar di Indonesia, membuka lowongan untuk Junior Data Analyst. Sebagai Junior Data Analyst, kamu akan menjadi jembatan antara data dan pengambilan keputusan bisnis. Kamu akan bertanggung jawab mengolah data dari berbagai sumber, menyediakan insight untuk tim manajemen, dan memastikan data warehouse perusahaan siap mendukung kebutuhan reporting dan analisis. Posisi ini cocok untuk fresh graduate atau junior analyst yang ingin berkembang di industri F&B dan retail dengan skala operasional nasional.",
+      "requirements": [
+        "Minimal S1 di bidang Statistika, Matematika, Ilmu Komputer, atau setara",
+        "Pengalaman 0-1 tahun sebagai Data Analyst (fresh graduate dipersilahkan)",
+        "Proficiency di SQL dan data manipulation",
+        "Familiar dengan tools visualisasi data (Power BI, Tableau, atau Looker)",
+        "Pemahaman dasar tentang data warehouse dan ETL process",
+        "Analitis dan detail-oriented",
+        "Kemampuan komunikasi data secara verbal dan tulisan"
+      ],
+      "responsibilities": [
+        "Menarik data dari berbagai sumber ke dalam data warehouse",
+        "Berkoordinasi dengan berbagai fungsi untuk kebutuhan data mereka",
+        "Membuat dashboard dan laporan untuk mendukung pengambilan keputusan",
+        "Melakukan data cleaning dan validasi untuk memastikan akurasi data",
+        "Menganalisis data penjualan, inventori, dan operasional",
+        "Menyusun rekomendasi berbasis data untuk tim bisnis"
+      ],
+      "benefits": [
+        "Bergabung dengan perusahaan F&B terbesar di Indonesia",
+        "Exposure ke data operasional skala nasional",
+        "Program pelatihan dan pengembangan skill data",
+        "BPJS Ketenagakerjaan dan Kesehatan",
+        "Jenjang karir yang jelas di bidang data analytics"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PT Sarimelati Kencana Tbk. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/junior-data-analyst-at-pt-sarimelati-kencana-tbk-4274081191",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/junior-data-analyst-at-pt-sarimelati-kencana-tbk-4274081191",
+      "featured": false
+    },
+    {
+      "slug": "b2b-sales-executive-kulina-jakarta",
+      "title": "B2B Sales Executive",
+      "company": "Kulina",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 6-12 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "Kulina, startup foodtech asal Indonesia yang fokus pada layanan katering korporat dan subscription meal plan, sedang mencari B2B Sales Executive yang energik untuk memperluas jangkauan bisnis. Kamu akan menjadi ujung tombak dalam mengakuisisi dan mengelola klien korporat untuk layanan B2B Kulina. Posisi ini cocok buat kamu yang memiliki jiwa entrepreneur, suka tantangan, dan ingin menjadi bagian dari startup yang mengubah cara orang Indonesia makan. Dengan lingkungan kerja yang fast-paced dan kolaboratif, kamu akan punya kesempatan besar untuk berkembang bersama perusahaan.",
+      "requirements": [
+        "Minimal 1-2 tahun pengalaman di Sales, Business Development, atau Account Management",
+        "Pengalaman di B2B sales (lebih disukai F&B atau korporat)",
+        "Kemampuan negosiasi dan komunikasi yang excellent",
+        "Target-oriented dan self-motivated",
+        "Memiliki SIM dan kendaraan pribadi untuk field visit",
+        "Pengalaman menggunakan CRM tools (HubSpot, Salesforce) nilai tambah",
+        "S1 semua jurusan"
+      ],
+      "responsibilities": [
+        "Mengidentifikasi dan mengakuisisi klien korporat baru untuk B2B catering",
+        "Melakukan presentasi, negosiasi, dan closing deals dengan calon klien",
+        "Mengelola hubungan dengan klien existing untuk memastikan retensi",
+        "Mengatur jadwal trial meeting dan product sampling",
+        "Mencapai target revenue bulanan yang sudah ditentukan",
+        "Berkolaborasi dengan tim operasional untuk kelancaran delivery"
+      ],
+      "benefits": [
+        "Bergabung di startup foodtech yang sedang growing fast",
+        "Kompetitif gaji pokok plus komisi sales",
+        "Pengalaman bekerja di lingkungan startup yang dinamis",
+        "Kesempatan pengembangan karir cepat",
+        "BPJS Ketenagakerjaan dan Kesehatan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Kulina. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/b2b-sales-executive-at-kulina-4322762874",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/b2b-sales-executive-at-kulina-4322762874",
+      "featured": false
+    },
     {
       "slug": "product-designer-bibit-id-jakarta",
       "title": "Product Designer (UI/UX)",
@@ -98,7 +344,7 @@
       "salary": "Rp 7-12 Juta",
       "posted": "2026-07-02",
       "expires": "2026-08-01",
-      "description": "Qpon Indonesia, platform diskon dan promo lifestyle terkemuka, membuka lowongan untuk Business Development - Non F&B. Posisi ini adalah motor pertumbuhan untuk kategori non-makanan dan minuman — mulai dari fashion, elektronik, kesehatan, hingga jasa. Kamu akan bertanggung jawab mengidentifikasi, mendekati, dan menjalin kemitraan strategis dengan merchant-merchant potensial. Cocok untuk kamu yang memiliki jiwa sales, negosiasi yang kuat, dan target-oriented.",
+      "description": "Qpon Indonesia, platform diskon dan promo lifestyle terkemuka, membuka lowongan untuk Business Development - Non F&B. Posisi ini adalah motor pertumbuhan untuk kategori non-makanan dan minuman \u2014 mulai dari fashion, elektronik, kesehatan, hingga jasa. Kamu akan bertanggung jawab mengidentifikasi, mendekati, dan menjalin kemitraan strategis dengan merchant-merchant potensial. Cocok untuk kamu yang memiliki jiwa sales, negosiasi yang kuat, dan target-oriented.",
       "requirements": [
         "Minimal 1-2 tahun pengalaman di Business Development, Sales, atau Partnership",
         "Kemampuan komunikasi dan negosiasi yang excellent",
@@ -604,7 +850,7 @@
       "salary": "Kompetitif (sesuai standar industri perbankan)",
       "posted": "2026-06-30",
       "expires": "2026-07-30",
-      "description": "PT Bank Sinarmas Tbk, salah satu bank terkemuka di Indonesia yang terus bertransformasi digital, sedang membuka lowongan untuk posisi Product Manager. Posisi ini akan bertanggung jawab menciptakan, mengelola, dan mengembangkan produk perbankan digital yang sesuai dengan kebutuhan nasabah. Kamu akan berkolaborasi dengan tim lintas fungsi — mulai dari engineering, desain, marketing, hingga compliance — untuk menghadirkan produk yang inovatif dan kompetitif di pasar. Cocok untuk product manager yang memiliki pengalaman di industri financial services dan ingin berkontribusi pada transformasi digital perbankan Indonesia.",
+      "description": "PT Bank Sinarmas Tbk, salah satu bank terkemuka di Indonesia yang terus bertransformasi digital, sedang membuka lowongan untuk posisi Product Manager. Posisi ini akan bertanggung jawab menciptakan, mengelola, dan mengembangkan produk perbankan digital yang sesuai dengan kebutuhan nasabah. Kamu akan berkolaborasi dengan tim lintas fungsi \u2014 mulai dari engineering, desain, marketing, hingga compliance \u2014 untuk menghadirkan produk yang inovatif dan kompetitif di pasar. Cocok untuk product manager yang memiliki pengalaman di industri financial services dan ingin berkontribusi pada transformasi digital perbankan Indonesia.",
       "requirements": [
         "Minimal 2-3 tahun pengalaman sebagai Product Manager, khususnya di industri fintech, perbankan, atau financial services",
         "Pemahaman tentang product lifecycle management dan agile methodology",
@@ -645,7 +891,7 @@
       "salary": "Kompetitif (sesuai standar industri manufaktur multinasional)",
       "posted": "2026-06-30",
       "expires": "2026-07-30",
-      "description": "SCG, perusahaan manufaktur dan bahan bangunan multinasional asal Thailand yang telah berinvestasi di Indonesia selama lebih dari tiga dekade, membuka lowongan untuk posisi Software Developer. Posisi ini akan berkontribusi pada transformasi digital SCG Indonesia dengan merancang, mengembangkan, dan memelihara solusi software yang meningkatkan operasional bisnis. Kamu akan bekerja dengan teknologi modern untuk membangun aplikasi yang mendukung berbagai fungsi bisnis — dari supply chain hingga customer engagement. Cocok untuk developer yang ingin bekerja di lingkungan perusahaan multinasional dengan exposure ke transformasi digital skala enterprise.",
+      "description": "SCG, perusahaan manufaktur dan bahan bangunan multinasional asal Thailand yang telah berinvestasi di Indonesia selama lebih dari tiga dekade, membuka lowongan untuk posisi Software Developer. Posisi ini akan berkontribusi pada transformasi digital SCG Indonesia dengan merancang, mengembangkan, dan memelihara solusi software yang meningkatkan operasional bisnis. Kamu akan bekerja dengan teknologi modern untuk membangun aplikasi yang mendukung berbagai fungsi bisnis \u2014 dari supply chain hingga customer engagement. Cocok untuk developer yang ingin bekerja di lingkungan perusahaan multinasional dengan exposure ke transformasi digital skala enterprise.",
       "requirements": [
         "Pendidikan minimal S1 Ilmu Komputer, Teknik Informatika, atau bidang terkait",
         "Pengalaman minimal 2 tahun sebagai Software Developer atau peran serupa",
@@ -671,9 +917,9 @@
         "Kompensasi dan benefit kompetitif standar perusahaan multinasional"
       ],
       "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan SCG Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
-      "apply_url": "https://id.linkedin.com/jobs/view/software-developer-–-scg-indonesia-at-scg-4288198628",
+      "apply_url": "https://id.linkedin.com/jobs/view/software-developer-\u2013-scg-indonesia-at-scg-4288198628",
       "source": "LinkedIn Indonesia",
-      "source_url": "https://id.linkedin.com/jobs/view/software-developer-–-scg-indonesia-at-scg-4288198628",
+      "source_url": "https://id.linkedin.com/jobs/view/software-developer-\u2013-scg-indonesia-at-scg-4288198628",
       "featured": false
     },
     {
@@ -769,7 +1015,7 @@
       "salary": "Kompetitif (sesuai standar industri startup parenting)",
       "posted": "2026-06-30",
       "expires": "2026-07-30",
-      "description": "Tentang Anak, perusahaan parenting terkemuka di Indonesia yang berkomitmen pada kesejahteraan dan perkembangan 80 juta anak Indonesia, sedang mencari Social Media Specialist untuk memperkuat tim pemasaran digital. Posisi ini akan bertanggung jawab membangun sistem konten yang kredibel dan berdampak tinggi yang menjangkau jutaan orang tua di Indonesia — bukan sekadar menambah followers. Kamu akan mengelola akun media sosial, membuat konten yang engaging, dan membangun komunitas yang mendukung misi Tentang Anak. Cocok untuk kreatif konten yang memiliki passion di bidang parenting, edukasi anak, dan social media marketing.",
+      "description": "Tentang Anak, perusahaan parenting terkemuka di Indonesia yang berkomitmen pada kesejahteraan dan perkembangan 80 juta anak Indonesia, sedang mencari Social Media Specialist untuk memperkuat tim pemasaran digital. Posisi ini akan bertanggung jawab membangun sistem konten yang kredibel dan berdampak tinggi yang menjangkau jutaan orang tua di Indonesia \u2014 bukan sekadar menambah followers. Kamu akan mengelola akun media sosial, membuat konten yang engaging, dan membangun komunitas yang mendukung misi Tentang Anak. Cocok untuk kreatif konten yang memiliki passion di bidang parenting, edukasi anak, dan social media marketing.",
       "requirements": [
         "Pengalaman minimal 1-2 tahun sebagai Social Media Specialist, Content Creator, atau peran serupa",
         "Pemahaman tentang strategi social media, algoritma platform, dan community management",
@@ -1224,7 +1470,7 @@
       "salary": "Rp 7-12 Juta",
       "posted": "2026-06-30",
       "expires": "2026-07-30",
-      "description": "PT Appfuxion Consulting Indonesia, perusahaan konsultan pengembangan aplikasi mobile dan digital, sedang mencari UI/UX Designer berbakat untuk bergabung dengan tim mereka di Jakarta. Posisi ini akan bertanggung jawab penuh atas desain UI/UX fitur aplikasi — dari riset hingga peluncuran. Kamu akan membuat design artifacts seperti personas, user journeys, wireframes, high-fidelity UI, dan prototype. Bekerja dalam tim yang kolaboratif, kamu akan menjembatani kebutuhan pengguna dengan tujuan bisnis melalui desain yang intuitif dan engaging. Cocok untuk UI/UX designer yang memiliki pemahaman mendalam tentang mobile design pattern dan user-centered design.",
+      "description": "PT Appfuxion Consulting Indonesia, perusahaan konsultan pengembangan aplikasi mobile dan digital, sedang mencari UI/UX Designer berbakat untuk bergabung dengan tim mereka di Jakarta. Posisi ini akan bertanggung jawab penuh atas desain UI/UX fitur aplikasi \u2014 dari riset hingga peluncuran. Kamu akan membuat design artifacts seperti personas, user journeys, wireframes, high-fidelity UI, dan prototype. Bekerja dalam tim yang kolaboratif, kamu akan menjembatani kebutuhan pengguna dengan tujuan bisnis melalui desain yang intuitif dan engaging. Cocok untuk UI/UX designer yang memiliki pemahaman mendalam tentang mobile design pattern dan user-centered design.",
       "requirements": [
         "Pengalaman minimal 2 tahun sebagai UI/UX Designer, khususnya untuk mobile apps",
         "Mahir menggunakan Figma untuk desain dan prototyping",
@@ -1389,7 +1635,7 @@
       "salary": "Kompetitif (sesuai standar industri kreatif)",
       "posted": "2026-06-29",
       "expires": "2026-07-29",
-      "description": "Imprint Now Indonesia sedang mencari Graphic Designer berbakat untuk bergabung dengan tim Proof mereka. Posisi ini sangat penting dalam operasional perusahaan — kamu akan bertanggung jawab membuat artwork proof yang presisi dan siap produksi untuk produk-produk promotional dan customizable. Kamu akan bekerja dengan berbagai macam produk, memastikan setiap desain sesuai spesifikasi dan siap cetak. Cocok untuk desainer grafis yang teliti, memiliki pemahaman teknis tentang print production, dan ingin bekerja di lingkungan yang menantang dan kreatif.",
+      "description": "Imprint Now Indonesia sedang mencari Graphic Designer berbakat untuk bergabung dengan tim Proof mereka. Posisi ini sangat penting dalam operasional perusahaan \u2014 kamu akan bertanggung jawab membuat artwork proof yang presisi dan siap produksi untuk produk-produk promotional dan customizable. Kamu akan bekerja dengan berbagai macam produk, memastikan setiap desain sesuai spesifikasi dan siap cetak. Cocok untuk desainer grafis yang teliti, memiliki pemahaman teknis tentang print production, dan ingin bekerja di lingkungan yang menantang dan kreatif.",
       "requirements": [
         "Pengalaman minimal 2 tahun sebagai Graphic Designer, khususnya di bidang print production",
         "Mahir menggunakan Adobe Illustrator dan Adobe Photoshop (wajib)",
@@ -1556,7 +1802,7 @@
       "salary": "Kompetitif (sesuai standar industri farmasi multinasional)",
       "posted": "2026-06-28",
       "expires": "2026-07-28",
-      "description": "Servier Indonesia, bagian dari Grup Servier — perusahaan farmasi multinasional asal Prancis yang telah beroperasi di lebih dari 150 negara — membuka lowongan untuk posisi Product Manager yang akan ditempatkan di Jakarta. Posisi ini akan bertanggung jawab mengelola portofolio produk farmasi secara strategis dan otonom, mulai dari menganalisis permintaan pasar, data penjualan, dan pergerakan kompetitor, hingga mengusulkan target penjualan dan positioning produk. Kamu akan memastikan bauran produk dan kesesuaian aktivitas pemasaran dengan strategi perusahaan. Cocok untuk profesional marketing farmasi yang ingin berkarier di perusahaan farmasi global dengan standar internasional.",
+      "description": "Servier Indonesia, bagian dari Grup Servier \u2014 perusahaan farmasi multinasional asal Prancis yang telah beroperasi di lebih dari 150 negara \u2014 membuka lowongan untuk posisi Product Manager yang akan ditempatkan di Jakarta. Posisi ini akan bertanggung jawab mengelola portofolio produk farmasi secara strategis dan otonom, mulai dari menganalisis permintaan pasar, data penjualan, dan pergerakan kompetitor, hingga mengusulkan target penjualan dan positioning produk. Kamu akan memastikan bauran produk dan kesesuaian aktivitas pemasaran dengan strategi perusahaan. Cocok untuk profesional marketing farmasi yang ingin berkarier di perusahaan farmasi global dengan standar internasional.",
       "requirements": [
         "Pendidikan minimal S1 Farmasi, Kedokteran, atau bidang sains terkait",
         "Pengalaman minimal 2-3 tahun sebagai Product Manager di industri farmasi",
@@ -1641,7 +1887,7 @@
       "salary": "Kompetitif (sesuai standar industri konsumen elektronik)",
       "posted": "2026-06-28",
       "expires": "2026-07-28",
-      "description": "ANKER INDONESIA, mitra resmi dan distributor tunggal produk Anker Innovations di Indonesia — brand global terkemuka untuk aksesoris gadget seperti powerbank, charger, kabel data, speaker, dan earphone — sedang membuka lowongan untuk posisi Customer Service Specialist. Posisi ini akan menjadi garda terdepan dalam memberikan layanan pelanggan terbaik, menangani pertanyaan, keluhan, dan kebutuhan konsumen terkait produk Anker di Indonesia. Cocok untuk kamu yang komunikatif, ramah, dan memiliki semangat memberikan solusi terbaik bagi pelanggan.",
+      "description": "ANKER INDONESIA, mitra resmi dan distributor tunggal produk Anker Innovations di Indonesia \u2014 brand global terkemuka untuk aksesoris gadget seperti powerbank, charger, kabel data, speaker, dan earphone \u2014 sedang membuka lowongan untuk posisi Customer Service Specialist. Posisi ini akan menjadi garda terdepan dalam memberikan layanan pelanggan terbaik, menangani pertanyaan, keluhan, dan kebutuhan konsumen terkait produk Anker di Indonesia. Cocok untuk kamu yang komunikatif, ramah, dan memiliki semangat memberikan solusi terbaik bagi pelanggan.",
       "requirements": [
         "Pendidikan minimal D3/S1 segala jurusan",
         "Pengalaman minimal 1 tahun di bidang customer service atau peran terkait",
@@ -1683,7 +1929,7 @@
       "salary": "Kompetitif (sesuai standar industri fintech)",
       "posted": "2026-06-28",
       "expires": "2026-07-28",
-      "description": "Stockbit, platform investasi saham sosial terkemuka di Indonesia yang juga menaungi Bibit.id, sedang mencari Graphic Designer kreatif dan detail-oriented yang passionate tentang visual storytelling di dunia investasi dan finansial. Posisi ini akan membantu menerjemahkan misi Stockbit — membuat investasi sederhana dan mudah diakses — menjadi konten visual yang menarik dan menginspirasi pengguna. Kamu akan berkolaborasi erat dengan tim Marketing untuk mengembangkan konsep kreatif yang memperkuat brand identity dan engagement di berbagai platform digital.",
+      "description": "Stockbit, platform investasi saham sosial terkemuka di Indonesia yang juga menaungi Bibit.id, sedang mencari Graphic Designer kreatif dan detail-oriented yang passionate tentang visual storytelling di dunia investasi dan finansial. Posisi ini akan membantu menerjemahkan misi Stockbit \u2014 membuat investasi sederhana dan mudah diakses \u2014 menjadi konten visual yang menarik dan menginspirasi pengguna. Kamu akan berkolaborasi erat dengan tim Marketing untuk mengembangkan konsep kreatif yang memperkuat brand identity dan engagement di berbagai platform digital.",
       "requirements": [
         "Pengalaman minimal 2 tahun sebagai Graphic Designer atau peran serupa",
         "Portofolio yang kuat menunjukkan karya desain visual untuk media digital dan sosial",
@@ -2682,7 +2928,7 @@
       "salary": "Rp 10-18 Juta (standar fintech Dompet Digital Indonesia)",
       "posted": "24 June 2026",
       "expires": "24 July 2026",
-      "description": "DANA Indonesia, salah satu dompet digital terbesar di Indonesia dengan lebih dari 200 juta pengguna, membuka lowongan untuk posisi UI/UX Designer (KYB/KYC) yang akan ditempatkan di Jakarta. Posisi ini bertanggung jawab menerjemahkan proses bisnis dan regulasi yang kompleks — seperti Know Your Business (KYB) dan Know Your Customer (KYC) — menjadi pengalaman pengguna yang sederhana, mulus, dan menarik. Kandidat akan berkolaborasi erat dengan product manager dan engineer untuk meningkatkan efisiensi operasional sekaligus kepuasan pengguna merchant dan customer DANA.",
+      "description": "DANA Indonesia, salah satu dompet digital terbesar di Indonesia dengan lebih dari 200 juta pengguna, membuka lowongan untuk posisi UI/UX Designer (KYB/KYC) yang akan ditempatkan di Jakarta. Posisi ini bertanggung jawab menerjemahkan proses bisnis dan regulasi yang kompleks \u2014 seperti Know Your Business (KYB) dan Know Your Customer (KYC) \u2014 menjadi pengalaman pengguna yang sederhana, mulus, dan menarik. Kandidat akan berkolaborasi erat dengan product manager dan engineer untuk meningkatkan efisiensi operasional sekaligus kepuasan pengguna merchant dan customer DANA.",
       "requirements": [
         "Minimal 3 tahun pengalaman sebagai UI/UX Designer di produk digital",
         "Menguasai Figma dan tools desain modern lainnya (Sketch, Adobe XD)",
@@ -2722,7 +2968,7 @@
       "salary": "Rp 18-30 Juta (standar bank multinasional)",
       "posted": "24 June 2026",
       "expires": "24 July 2026",
-      "description": "OCBC Indonesia, bagian dari OCBC Group — salah satu grup perbankan terbesar di Asia Tenggara — membuka lowongan untuk posisi Senior UX/UI Designer yang akan ditempatkan di Tangerang. Posisi ini memiliki peran strategis dalam membuat alur perbankan yang kompleks menjadi lebih cepat, minim error, dan mudah dipelajari, sehingga frontline staff dapat lebih fokus melayani nasabah. Kandidat akan bekerja dalam tim desain digital banking yang impact-nya langsung terasa pada pengalaman jutaan nasabah OCBC di Indonesia.",
+      "description": "OCBC Indonesia, bagian dari OCBC Group \u2014 salah satu grup perbankan terbesar di Asia Tenggara \u2014 membuka lowongan untuk posisi Senior UX/UI Designer yang akan ditempatkan di Tangerang. Posisi ini memiliki peran strategis dalam membuat alur perbankan yang kompleks menjadi lebih cepat, minim error, dan mudah dipelajari, sehingga frontline staff dapat lebih fokus melayani nasabah. Kandidat akan bekerja dalam tim desain digital banking yang impact-nya langsung terasa pada pengalaman jutaan nasabah OCBC di Indonesia.",
       "requirements": [
         "Minimal 5 tahun pengalaman sebagai UI/UX Designer dengan track record di produk digital",
         "Pengalaman di industri perbankan atau financial services menjadi nilai tambah signifikan",
@@ -2802,7 +3048,7 @@
       "salary": "Kompetitif (standar global media)",
       "posted": "22 May 2026",
       "expires": "22 July 2026",
-      "description": "The Economist Group, rumah bagi publikasi jurnalistik independen kelas dunia, membuka lowongan untuk posisi Senior Software Engineer – Web Fullstack yang akan ditempatkan di Jakarta. Posisi ini bertanggung jawab merancang dan membangun produk web berkualitas tinggi beserta layanan yang mendukungnya, bekerja lintas sistem frontend dan backend untuk membentuk solusi yang andal dan skalabel bagi audiens global. Kandidat ideal akan berkolaborasi dengan tim engineering dan product untuk menghadirkan fitur-fitur yang berdampak langsung pada pengalaman jutaan pembaca setia The Economist di seluruh dunia.",
+      "description": "The Economist Group, rumah bagi publikasi jurnalistik independen kelas dunia, membuka lowongan untuk posisi Senior Software Engineer \u2013 Web Fullstack yang akan ditempatkan di Jakarta. Posisi ini bertanggung jawab merancang dan membangun produk web berkualitas tinggi beserta layanan yang mendukungnya, bekerja lintas sistem frontend dan backend untuk membentuk solusi yang andal dan skalabel bagi audiens global. Kandidat ideal akan berkolaborasi dengan tim engineering dan product untuk menghadirkan fitur-fitur yang berdampak langsung pada pengalaman jutaan pembaca setia The Economist di seluruh dunia.",
       "requirements": [
         "Pengalaman fullstack yang kuat dengan JavaScript atau TypeScript di sisi frontend maupun backend",
         "Terbukti membangun aplikasi production dengan React.js dan Next.js",
@@ -2955,14 +3201,14 @@
     {
       "slug": "brand-digital-media-community-loreal",
       "title": "Brand Digital Media & Community - HFI 2026 (Batch 2)",
-      "company": "L'Oréal Indonesia",
+      "company": "L'Or\u00e9al Indonesia",
       "location": "Jakarta Raya, Indonesia",
       "type": "Full-time",
       "category": "Marketing",
       "salary": "Kompetitif (sesuai standar industri)",
       "posted": "23 June 2026",
       "expires": "23 July 2026",
-      "description": "L'Oréal, grup kecantikan terbesar di dunia, membuka peluang karier untuk program Human Future Initiative (HFI) 2026 Batch 2 di Indonesia. Program ini dirancang untuk mencetak profesional muda yang siap memimpin di industri beauty, media, dan digital. Sebagai Brand Digital Media & Community, kandidat akan bertanggung jawab atas pengelolaan narasi merek di kanal digital, membangun engagement dengan komunitas online, serta menerjemahkan strategi brand ke dalam konten yang relevan untuk audiens Indonesia. Posisi ini cocok untuk talenta digital-savvy yang passionate di bidang content, social media, dan brand storytelling.",
+      "description": "L'Or\u00e9al, grup kecantikan terbesar di dunia, membuka peluang karier untuk program Human Future Initiative (HFI) 2026 Batch 2 di Indonesia. Program ini dirancang untuk mencetak profesional muda yang siap memimpin di industri beauty, media, dan digital. Sebagai Brand Digital Media & Community, kandidat akan bertanggung jawab atas pengelolaan narasi merek di kanal digital, membangun engagement dengan komunitas online, serta menerjemahkan strategi brand ke dalam konten yang relevan untuk audiens Indonesia. Posisi ini cocok untuk talenta digital-savvy yang passionate di bidang content, social media, dan brand storytelling.",
       "requirements": [
         "Lulusan S1 dari berbagai disiplin ilmu (fresh graduate atau pengalaman 0-2 tahun)",
         "Memiliki ketertarikan kuat di bidang digital media, social media, dan brand communication",
@@ -2974,11 +3220,11 @@
       ],
       "responsibilities": [
         "Mengelola akun media sosial brand dan membangun komunitas online yang aktif",
-        "Menyusun content calendar dan brief创意 untuk tim kreatif",
+        "Menyusun content calendar dan brief\u521b\u610f untuk tim kreatif",
         "Memantau performa konten, sentiment audiens, dan insight platform",
         "Berkolaborasi dengan brand manager dan tim media untuk aktivasi digital",
         "Menyusun laporan berkala terkait reach, engagement, dan pertumbuhan komunitas",
-        "Mendukung campaign launch dan event digital lintas brand L'Oréal Indonesia"
+        "Mendukung campaign launch dan event digital lintas brand L'Or\u00e9al Indonesia"
       ],
       "benefits": [
         "Bekerja di perusahaan FMCG/beauty global dengan brand-brand ikonik",
@@ -2987,7 +3233,7 @@
         "Networking dengan profesional lintas negara",
         "Benefit dan kompensasi sesuai standar industri"
       ],
-      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan L'Oréal Indonesia dan lengkapi formulir pendaftaran program HFI 2026 Batch 2.",
+      "how_to_apply": "Klik tombol Lamar di halaman LinkedIn lowongan L'Or\u00e9al Indonesia dan lengkapi formulir pendaftaran program HFI 2026 Batch 2.",
       "apply_url": "https://id.linkedin.com/jobs/view/brand-digital-media-community-hfi-2026-batch-2-at-l-or%C3%A9al-4427736063",
       "source": "LinkedIn Indonesia",
       "source_url": "https://id.linkedin.com/jobs/view/brand-digital-media-community-hfi-2026-batch-2-at-l-or%C3%A9al-4427736063",
@@ -3189,7 +3435,7 @@
       ],
       "benefits": [
         "Bekerja di salah satu startup fintech/UMKM terbesar di Indonesia",
-        "Dampak sosial yang nyata — melayani jutaan pelaku UMKM",
+        "Dampak sosial yang nyata \u2014 melayani jutaan pelaku UMKM",
         "Tim engineering yang kuat dan suportif",
         "Lingkungan fast-paced dengan banyak ruang untuk ownership",
         "Akses ke teknologi dan tooling modern",
@@ -3296,10 +3542,10 @@
       "salary": "Kompetitif (sesuai standar industri)",
       "posted": "22 Juni 2026",
       "expires": "22 Juli 2026",
-      "description": "PT Ctrip Technology Indonesia, bagian dari grup Trip.com — salah satu perusahaan OTA (Online Travel Agency) terbesar di dunia — sedang membuka lowongan untuk posisi Content Writer. Kandidat yang terpilih akan bertanggung jawab menulis konten berkualitas tinggi untuk berbagai channel digital Ctrip Indonesia, mulai dari artikel perjalanan, deskripsi destinasi, hingga copy untuk kampanye pemasaran. Posisi ini cocok untuk penulis yang passionate di industri travel dan ingin karier di perusahaan teknologi global.",
+      "description": "PT Ctrip Technology Indonesia, bagian dari grup Trip.com \u2014 salah satu perusahaan OTA (Online Travel Agency) terbesar di dunia \u2014 sedang membuka lowongan untuk posisi Content Writer. Kandidat yang terpilih akan bertanggung jawab menulis konten berkualitas tinggi untuk berbagai channel digital Ctrip Indonesia, mulai dari artikel perjalanan, deskripsi destinasi, hingga copy untuk kampanye pemasaran. Posisi ini cocok untuk penulis yang passionate di industri travel dan ingin karier di perusahaan teknologi global.",
       "requirements": [
         "Minimal 1-2 tahun pengalaman menulis konten (pengalaman travel/lifestyle menjadi nilai plus)",
-        "Kemampuan menulis Bahasa Indonesia yang baik dan benar;熟悉 English adalah nilai tambah",
+        "Kemampuan menulis Bahasa Indonesia yang baik dan benar;\u719f\u6089 English adalah nilai tambah",
         "Mampu menghasilkan artikel SEO-friendly dan copy yang menarik",
         "Cekatan dalam riset topik travel, destinasi, dan tren industri",
         "Familiar dengan CMS (WordPress atau sejenis) dan tools SEO dasar",
@@ -3338,7 +3584,7 @@
       "salary": "Kompetitif (sesuai standar industri)",
       "posted": "22 Juni 2026",
       "expires": "22 Juli 2026",
-      "description": "Fit Hub, jaringan pusat kebugaran dan gym yang berkembang pesat di Jakarta, membuka lowongan untuk posisi Customer Service di cabang Jakarta Selatan. Kandidat terpilih akan menjadi titik kontak utama bagi member dan calon member — menangani pertanyaan, pendaftaran, complaints, dan kebutuhan administrasi operasional cabang. Posisi ini cocok untuk kamu yang komunikatif, senang bersosialisasi, dan ingin bekerja di industri fitness & lifestyle.",
+      "description": "Fit Hub, jaringan pusat kebugaran dan gym yang berkembang pesat di Jakarta, membuka lowongan untuk posisi Customer Service di cabang Jakarta Selatan. Kandidat terpilih akan menjadi titik kontak utama bagi member dan calon member \u2014 menangani pertanyaan, pendaftaran, complaints, dan kebutuhan administrasi operasional cabang. Posisi ini cocok untuk kamu yang komunikatif, senang bersosialisasi, dan ingin bekerja di industri fitness & lifestyle.",
       "requirements": [
         "Minimal 1 tahun pengalaman di customer service, front office, atau peran terkait",
         "Komunikasi verbal dan tertulis yang baik dalam Bahasa Indonesia (English dasar menjadi nilai plus)",
