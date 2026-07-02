@@ -9,6 +9,209 @@
   },
   "jobs": [
     {
+      "slug": "product-designer-bibit-id-jakarta",
+      "title": "Product Designer (UI/UX)",
+      "company": "Bibit.id",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "Bibit.id, platform investasi digital terkemuka di Indonesia yang membantu masyarakat memulai investasi sejak dini, membuka lowongan untuk Product Designer (UI/UX) yang passionate. Kami mencari desainer yang bisa menciptakan pengalaman pengguna yang seamless dan bermakna, khususnya untuk platform investasi dan trading digital. Kamu akan bekerja sama dengan product manager dan engineer untuk merancang fitur-fitur yang memudahkan pengguna dalam mengelola investasi mereka.",
+      "requirements": [
+        "Minimal 2-3 tahun pengalaman sebagai Product Designer atau UI/UX Designer",
+        "Portfolio yang menunjukkan strong visual design dan interaction design skills",
+        "Proficiency dalam design tools (Figma, Sketch, atau Adobe XD)",
+        "Pemahaman tentang user research dan usability testing",
+        "Kemampuan komunikasi dan presentasi yang baik",
+        "Experience dengan design system dan component libraries"
+      ],
+      "responsibilities": [
+        "Merancang user interface dan user experience untuk platform web dan mobile Bibit.id",
+        "Melakukan user research dan usability testing untuk menginformasikan design decisions",
+        "Berkolaborasi dengan product manager, engineer, dan stakeholder lainnya",
+        "Membuat wireframes, prototypes, dan high-fidelity mockups",
+        "Mengembangkan dan maintain design system yang konsisten"
+      ],
+      "benefits": [
+        "Bekerja di salah satu fintech startup terkemuka di Indonesia",
+        "Kesempatan berdampak langsung pada jutaan pengguna",
+        "Lingkungan kerja yang kolaboratif dan inovatif",
+        "Gaji dan benefit kompetitif",
+        "Pengembangan karier dan akses ke learning resources"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Bibit.id. Siapkan portfolio yang menunjukkan hasil kerja terbaik kamu. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/product-designer-at-bibit-id-4350694547",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/product-designer-at-bibit-id-4350694547",
+      "featured": true
+    },
+    {
+      "slug": "devops-engineer-agriaku-jakarta",
+      "title": "DevOps Engineer",
+      "company": "AgriAku",
+      "location": "Jakarta Metropolitan Area",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "AgriAku, perusahaan agritech terdepan di Indonesia yang menghubungkan petani dengan pasar dan layanan keuangan, membuka lowongan untuk DevOps Engineer. Kami mencari engineer yang berpengalaman dalam mengelola infrastruktur cloud berskala besar. Kamu akan bertanggung jawab membangun dan memelihara CI/CD pipeline, mengelola container orchestration, dan memastikan sistem kami berjalan dengan reliable dan scalable. Posisi ini cocok untuk engineer yang ingin berkontribusi pada sektor pertanian digital Indonesia.",
+      "requirements": [
+        "Minimal 2-3 tahun pengalaman sebagai DevOps Engineer atau Infrastructure Engineer",
+        "Pengalaman dengan cloud platforms (AWS, GCP, atau Azure)",
+        "Kemampuan containerization dengan Docker dan orchestration dengan Kubernetes",
+        "Pengalaman dengan CI/CD tools (GitLab CI, Jenkins, atau GitHub Actions)",
+        "Scripting skills (Bash, Python, atau Go)",
+        "Familiar dengan monitoring tools (Prometheus, Grafana, atau Datadog)",
+        "Pemahaman tentang networking dan security best practices"
+      ],
+      "responsibilities": [
+        "Merancang dan mengelola infrastruktur cloud yang scalable dan secure",
+        "Mengembangkan dan memelihara CI/CD pipeline untuk deployment otomatis",
+        "Memonitor performa sistem dan melakukan troubleshooting issue",
+        "Mengelola container orchestration dengan Kubernetes dan Docker",
+        "Berkolaborasi dengan tim engineering untuk optimasi infrastruktur",
+        "Mengimplementasikan automation untuk operational tasks"
+      ],
+      "benefits": [
+        "Bergabung dengan agritech startup yang berdampak di sektor pertanian",
+        "Kesempatan bekerja dengan teknologi cloud terkini",
+        "Flexible working environment",
+        "Professional development opportunities",
+        "Kompensasi kompetitif dengan benefit tambahan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan AgriAku. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4344373715",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4344373715",
+      "featured": false
+    },
+    {
+      "slug": "business-development-non-fb-qpon-indonesia-jakarta",
+      "title": "Business Development - Non F&B",
+      "company": "Qpon Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "Qpon Indonesia, platform diskon dan promo lifestyle terkemuka, membuka lowongan untuk Business Development - Non F&B. Posisi ini adalah motor pertumbuhan untuk kategori non-makanan dan minuman — mulai dari fashion, elektronik, kesehatan, hingga jasa. Kamu akan bertanggung jawab mengidentifikasi, mendekati, dan menjalin kemitraan strategis dengan merchant-merchant potensial. Cocok untuk kamu yang memiliki jiwa sales, negosiasi yang kuat, dan target-oriented.",
+      "requirements": [
+        "Minimal 1-2 tahun pengalaman di Business Development, Sales, atau Partnership",
+        "Kemampuan komunikasi dan negosiasi yang excellent",
+        "Target-oriented dan mampu bekerja dalam tekanan",
+        "Memiliki network yang luas di industri non-F&B menjadi nilai tambah",
+        "Kemampuan analisis untuk mengevaluasi potensi partnership",
+        "Bersedia melakukan field visit ke merchant"
+      ],
+      "responsibilities": [
+        "Mengidentifikasi dan mendekati merchant potensial di berbagai kategori non-F&B",
+        "Melakukan presentasi dan negosiasi kerjasama dengan merchant",
+        "Mengelola hubungan dengan merchant existing dan memastikan performa mereka",
+        "Memonitor tren pasar dan kompetitor untuk mengidentifikasi peluang baru",
+        "Berkolaborasi dengan tim marketing untuk mengoptimalkan campaign merchant",
+        "Mencapai target akuisisi merchant bulanan"
+      ],
+      "benefits": [
+        "Bekerja di startup yang berkembang pesat di industri lifestyle",
+        "Komisi dan bonus berdasarkan pencapaian target",
+        "Pengalaman networking dengan berbagai brand dan merchant",
+        "Lingkungan kerja yang dinamis dan suportif",
+        "BPJS Ketenagakerjaan dan Kesehatan",
+        "Kesempatan pengembangan karier ke posisi senior"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Qpon Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/bd-non-f-b-at-qpon-indonesia-4371378168",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/bd-non-f-b-at-qpon-indonesia-4371378168",
+      "featured": false
+    },
+    {
+      "slug": "customer-service-fit-hub-jakarta-selatan",
+      "title": "Customer Service - Jakarta Selatan",
+      "company": "FIT HUB",
+      "location": "Jakarta Selatan",
+      "type": "Full-time",
+      "category": "Customer Service",
+      "salary": "Rp 5-8 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "FIT HUB, jaringan fitness center modern dengan cabang di berbagai kota Indonesia, membuka lowongan untuk Customer Service di Jakarta Selatan. Sebagai CS FIT HUB, kamu akan menjadi wajah pertama yang menyambut member dan calon member. Kamu bertanggung jawab memberikan customer experience terbaik, mulai dari registrasi, informasi produk, hingga penanganan keluhan. Posisi ini cocok untuk kamu yang ramah, komunikatif, dan memiliki passion di industri fitness.",
+      "requirements": [
+        "Pendidikan minimal SMA/SMK atau D3 semua jurusan",
+        "Pengalaman di customer service atau front desk lebih disukai",
+        "Kemampuan komunikasi yang baik dan ramah",
+        "Penampilan rapi dan profesional",
+        "Mampu bekerja dalam tim dan under pressure",
+        "Passion di bidang fitness dan gaya hidup sehat menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Menyambut member dan calon member dengan ramah dan profesional",
+        "Menjelaskan produk membership dan promo yang tersedia",
+        "Melakukan proses registrasi member baru",
+        "Menjawab pertanyaan dan menangani keluhan member dengan solusi terbaik",
+        "Menjaga kebersihan dan kerapian area front desk",
+        "Berkolaborasi dengan tim personal trainer dan operasional"
+      ],
+      "benefits": [
+        "Akses gratis ke semua cabang FIT HUB",
+        "Lingkungan kerja yang positif dan energik",
+        "Pelatihan customer service dan product knowledge",
+        "BPJS Ketenagakerjaan dan Kesehatan",
+        "Kesempatan jenjang karier di industri fitness"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan FIT HUB. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/customer-service-jakarta-selatan-at-fit-hub-4359107592",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/customer-service-jakarta-selatan-at-fit-hub-4359107592",
+      "featured": false
+    },
+    {
+      "slug": "ios-developer-floq-jakarta",
+      "title": "iOS Developer",
+      "company": "FLOQ",
+      "location": "Area DKI Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-02",
+      "expires": "2026-08-01",
+      "description": "FLOQ, perusahaan teknologi yang bergerak di bidang solusi digital untuk bisnis, sedang mencari iOS Developer yang berbakat untuk bergabung dengan tim engineering kami. Kamu akan bertanggung jawab mengembangkan dan memelihara aplikasi iOS yang inovatif dan user-friendly. Kami mencari developer yang memiliki pemahaman mendalam tentang ekosistem Apple, mindset product-minded, dan selalu update dengan teknologi terbaru di dunia iOS development.",
+      "requirements": [
+        "Minimal 2-3 tahun pengalaman sebagai iOS Developer",
+        "Strong proficiency di Swift dan Objective-C",
+        "Pengalaman dengan UIKit, SwiftUI, dan Core Data",
+        "Familiar dengan RESTful APIs dan integrasi third-party services",
+        "Pengalaman dengan App Store submission process dan App Review guidelines",
+        "Memahami prinsip-prinsip clean architecture dan design patterns (MVVM, MVC, Coordinator)",
+        "Git dan version control yang baik"
+      ],
+      "responsibilities": [
+        "Mengembangkan fitur-fitur baru untuk aplikasi iOS dengan kode yang bersih dan maintainable",
+        "Berkolaborasi dengan designer dan backend engineer untuk implementasi fitur",
+        "Melakukan code review dan testing untuk memastikan kualitas aplikasi",
+        "Mengoptimalkan performa aplikasi dan memperbaiki bug",
+        "Menjaga compatibility dengan versi iOS terbaru",
+        "Berpartisipasi dalam perencanaan teknis dan architectural decisions"
+      ],
+      "benefits": [
+        "Bergabung dengan tim teknologi yang inovatif dan kolaboratif",
+        "Kesempatan mengerjakan produk yang digunakan oleh banyak pengguna",
+        "Flexible working hours",
+        "Perangkat kerja (MacBook Pro) disediakan",
+        "Professional development dan conference budget",
+        "Gaji kompetitif dengan review tahunan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan FLOQ. Sertakan link portfolio atau GitHub. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/ios-developer-at-floq-4366583479",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/ios-developer-at-floq-4366583479",
+      "featured": false
+    },
+    {
       "slug": "backend-developer-dua-digital-solutions-denpasar",
       "title": "Backend Developer",
       "company": "DUA Digital Solutions",
