@@ -9,6 +9,253 @@
   },
   "jobs": [
     {
+      "slug": "frontend-developer-mega-giga-solusindo-jakarta-timur",
+      "title": "Frontend Developer",
+      "company": "Mega Giga Solusindo",
+      "location": "Jakarta Timur",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-14 Juta",
+      "posted": "2026-07-03",
+      "expires": "2026-08-02",
+      "description": "Mega Giga Solusindo membuka lowongan Frontend Developer di Jakarta Timur untuk bergabung dalam tim pengembangan produk digital mereka. Posisi ini membutuhkan pengalaman 1-2 tahun dengan keahlian Vue.js (Vue 2 atau Vue 3) dan latar belakang pendidikan S1 Ilmu Komputer atau Teknik Informatika. Kamu akan bertanggung jawab membangun antarmuka pengguna yang responsif dan modern menggunakan teknologi frontend terkini.",
+      "requirements": [
+        "Pendidikan minimal S1 Ilmu Komputer, Teknik Informatika, atau setara",
+        "Pengalaman 1-2 tahun sebagai Frontend Developer",
+        "Mahir Vue.js (Vue 2 atau Vue 3)",
+        "Menguasai JavaScript (ES6+), HTML5, CSS3",
+        "Memahami responsive design dan cross-browser compatibility",
+        "Familiar dengan Git dan workflow kolaboratif tim"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara antarmuka web aplikasi menggunakan Vue.js",
+        "Berkolaborasi dengan UI/UX Designer untuk implementasi desain ke kode",
+        "Mengoptimalkan performa frontend (loading time, bundle size)",
+        "Menulis kode yang clean, modular, dan well-documented",
+        "Melakukan code review dan berbagi pengetahuan dengan tim",
+        "Berpartisipasi dalam perencanaan sprint dan estimasi tugas"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai industri",
+        "BPJS Ketenagakerjaan dan Kesehatan",
+        "Flexible working hours",
+        "Budget pembelajaran dan sertifikasi",
+        "Laptop dan peralatan kerja disediakan",
+        "Tim yang suportif dan lingkungan belajar"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Frontend Developer di Mega Giga Solusindo. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-mega-giga-solusindo-4299301983",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-mega-giga-solusindo-4299301983",
+      "featured": false
+    },
+    {
+      "slug": "backend-developer-python-php-kazokku-jakarta",
+      "title": "Backend Developer (Python/PHP)",
+      "company": "KAZOKKU",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-07-03",
+      "expires": "2026-08-02",
+      "description": "KAZOKKU mencari Middle Backend Developer untuk mendukung inisiatif transformasi digital bagi klien BUMN mereka. Posisi ini cocok untuk developer yang memiliki pengalaman dengan Python dan/atau PHP, serta antusias untuk membangun aplikasi standar internasional. Kamu akan bekerja pada proyek-proyek menantang dengan tim yang kompeten.",
+      "requirements": [
+        "Pengalaman minimal 3 tahun sebagai Backend Developer",
+        "Mahir Python dan/atau PHP untuk pengembangan backend",
+        "Paham database relational (PostgreSQL/MySQL) dan NoSQL",
+        "Pengalaman dengan framework modern (Django, Laravel, FastAPI, dll)",
+        "Memahami arsitektur microservices dan RESTful API",
+        "Familiar dengan Docker, CI/CD, dan cloud platform (AWS/GCP/Azure)"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara backend API dengan Python/PHP",
+        "Merancang dan mengoptimalkan database untuk performa tinggi",
+        "Membangun microservices yang scalable dan maintainable",
+        "Implementasi keamanan API (autentikasi, otorisasi, rate limiting)",
+        "Berkolaborasi dengan frontend developer dan DevOps",
+        "Menulis unit test dan integration test untuk memastikan kualitas kode"
+      ],
+      "benefits": [
+        "Gaji kompetitif + bonus performa",
+        "BPJS Ketenagakerjaan dan Kesehatan lengkap",
+        "Proyek transformasi digital skala besar (BUMN)",
+        "Flexible work arrangement",
+        "Budget pembelajaran dan sertifikasi teknologi",
+        "Tim engineering yang solid dan kolaboratif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Backend Developer Python/PHP di KAZOKKU. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/backend-developer-python-php-at-kazokku-4251844114",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/backend-developer-python-php-at-kazokku-4251844114",
+      "featured": false
+    },
+    {
+      "slug": "qa-engineer-krom-jakarta",
+      "title": "QA Engineer",
+      "company": "Krom",
+      "location": "Jakarta Raya",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta",
+      "posted": "2026-07-03",
+      "expires": "2026-08-02",
+      "description": "Krom membuka lowongan QA Engineer di Jakarta Raya untuk bergabung dalam tim yang passionate tentang kualitas perangkat lunak. Kamu akan bertanggung jawab memastikan produk memenuhi standar kualitas tinggi melalui pengujian manual dan otomatis. Posisi ini cocok untuk QA Engineer yang peduli detail dan suka tantangan teknis.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai QA Engineer",
+        "Paham metodologi testing (black box, white box, grey box)",
+        "Berpengalaman test automation (Selenium, Katalon, Cypress, Playwright)",
+        "Menguasai API testing (Postman, RestAssured)",
+        "Memahami SQL untuk validasi data backend",
+        "Familiar dengan CI/CD pipeline dan integrasi testing otomatis"
+      ],
+      "responsibilities": [
+        "Merancang dan mengeksekusi test plan serta test case komprehensif",
+        "Melakukan functional testing, regression testing, dan UAT",
+        "Mengembangkan dan memelihara test automation scripts",
+        "Melakukan API testing dan validasi response backend",
+        "Melaporkan bug dengan detail (steps to reproduce, severity, priority)",
+        "Berkolaborasi dengan developer untuk root cause analysis dan verifikasi fix"
+      ],
+      "benefits": [
+        "Gaji kompetitif + THR + bonus tahunan",
+        "BPJS Ketenagakerjaan dan Kesehatan",
+        "Flexible hybrid work (WFO/WFH)",
+        "Budget alat testing dan sertifikasi (ISTQB, dll)",
+        "MacBook Pro disediakan",
+        "Tim QA dan engineering yang kolaboratif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan QA Engineer di Krom. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/qa-engineer-at-krom-4298968922",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/qa-engineer-at-krom-4298968922",
+      "featured": false
+    },
+    {
+      "slug": "finance-intern-vidio-jakarta",
+      "title": "Finance Intern",
+      "company": "Vidio",
+      "location": "Jakarta",
+      "type": "Internship",
+      "category": "Finance",
+      "salary": "Rp 2-4 Juta",
+      "posted": "2026-07-03",
+      "expires": "2026-08-02",
+      "description": "Vidio, platform streaming terkemuka di Indonesia, membuka lowongan Finance Intern untuk mahasiswa atau fresh graduate yang ingin belajar administrasi keuangan di industri media digital. Kamu akan membantu tim finance dalam tugas administrasi keuangan harian, rekonsiliasi bank, pencatatan jurnal, dan persiapan laporan keuangan. Kesempatan bagus untuk memulai karir di finance di perusahaan teknologi skala besar.",
+      "requirements": [
+        "Mahasiswa S1 jurusan Akuntansi, Keuangan, atau setara (semester akhir)",
+        "Atau fresh graduate maksimal 1 tahun lulus",
+        "Memahami dasar-dasar akuntansi dan jurnal",
+        "Detail-oriented, teliti, dan rapi dalam administrasi",
+        "Menguasai Microsoft Excel (VLOOKUP, Pivot Table)",
+        "Bersedia magang full-time minimal 3-6 bulan"
+      ],
+      "responsibilities": [
+        "Membantu pencatatan jurnal keuangan harian",
+        "Melakukan rekonsiliasi bank dan verifikasi transaksi",
+        "Membantu persiapan laporan keuangan bulanan/kuartalan",
+        "Mengelola arsip dokumen keuangan (fisik dan digital)",
+        "Support tim finance dalam audit internal dan eksternal",
+        "Belajar proses accounts payable/receivable dan pajak"
+      ],
+      "benefits": [
+        "Uang saku magang kompetitif",
+        "Sertifikat magang dan surat rekomendasi",
+        "Mentoring dari senior finance di industri tech",
+        "Pelatihan tools accounting modern",
+        "Kesempatan karyawan tetap berprestasi",
+        "Akses Vidio Premium gratis selama magang"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Finance Intern di Vidio. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/finance-intern-at-vidio-4366484257",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/finance-intern-at-vidio-4366484257",
+      "featured": true
+    },
+    {
+      "slug": "staf-operasional-administrasi-pt-moringa-indonesia-jakarta",
+      "title": "Staf Operasional & Administrasi Umum Kantor",
+      "company": "PT Moringa Indonesia Fangardana",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Administrasi",
+      "salary": "Rp 5-8 Juta",
+      "posted": "2026-07-03",
+      "expires": "2026-08-02",
+      "description": "PT Moringa Indonesia Fangardana mencari Staf Operasional & Administrasi Umum Kantor yang proaktif, rapi, dan mampu menangani berbagai tugas operasional lintas departemen. Posisi ini berperan mendukung kelancaran operasional perusahaan, administrasi perkantoran, serta kebutuhan umum kantor. Cocok untuk yang suka multitasking dan memiliki attention to detail tinggi.",
+      "requirements": [
+        "Pendidikan minimal D3/S1 segala jurusan",
+        "Pengalaman minimal 1 tahun di administrasi/operasional kantor",
+        "Terorganisir, detail-oriented, dan mampu multitasking",
+        "Menguasai Microsoft Office (Word, Excel, PowerPoint)",
+        "Komunikasi baik (lisan dan tulisan)",
+        "Bersedia bekerja on-site di kantor Jakarta"
+      ],
+      "responsibilities": [
+        "Mengelola administrasi perkantoran (surat menyurat, arsip, inventaris)",
+        "Koordinasi kebutuhan umum kantor (ATK, perlengkapan, maintenance)",
+        "Support operasional lintas departemen (HR, Finance, Marketing)",
+        "Mengatur jadwal meeting room dan fasilitas kantor",
+        "Menangani tamu dan komunikasi eksternal (kurir, vendor, dll)",
+        "Membantu persiapan event internal dan rapat perusahaan"
+      ],
+      "benefits": [
+        "Gaji pokok + tunjangan makan + transport",
+        "BPJS Ketenagakerjaan dan Kesehatan",
+        "Jam kerja standar (Senin-Jumat)",
+        "Tunjangan hari raya (THR)",
+        "Cuti tahunan dan cuti sakit",
+        "Lingkungan kerja profesional dan ramah"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Staf Operasional & Administrasi di PT Moringa Indonesia Fangardana. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/staf-operasional-administrasi-umum-kantor-ga-at-pt-moringa-indonesia-fangardana-4408636365",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/staf-operasional-administrasi-umum-kantor-ga-at-pt-moringa-indonesia-fangardana-4408636365",
+      "featured": false
+    },
+    {
+      "slug": "customer-care-b2b-cartrack-jakarta",
+      "title": "Customer Care (B2B)",
+      "company": "Cartrack",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Customer Service",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-07-03",
+      "expires": "2026-08-02",
+      "description": "Cartrack, perusahaan global smart mobility SaaS dengan 2 juta+ pelanggan di 23 negara, membuka lowongan Customer Care (B2B) di Jakarta. Kamu akan menjadi titik kontak utama untuk klien bisnis, menangani inquiry, troubleshooting, dan memastikan kepuasan pelanggan enterprise. Posisi ini cocok untuk yang memiliki background customer service B2B dan minat pada industri teknologi IoT/fleet management.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun Customer Service/Account Management B2B",
+        "Paham CRM tools (Zendesk, Salesforce, HubSpot, dll)",
+        "Komunikasi ekselen bahasa Indonesia dan Inggris (lisan/tulis)",
+        "Kemampuan problem-solving dan troubleshooting teknis dasar",
+        "Customer-oriented dengan empati tinggi",
+        "Bersedia kerja shift (jika diperlukan) dan on-site di Jakarta"
+      ],
+      "responsibilities": [
+        "Menangani inquiry dan complaint pelanggan B2B via phone/email/chat",
+        "Troubleshooting masalah device/fleet management platform",
+        "Koordinasi dengan tim teknis untuk eskalasi kasus kompleks",
+        "Mengelola onboarding klien baru dan training platform",
+        "Memantau SLA dan KPI kepuasan pelanggan (CSAT, NPS)",
+        "Membuat laporan performa customer care mingguan/bulanan"
+      ],
+      "benefits": [
+        "Gaji kompetitif + bonus performa",
+        "BPJS Ketenagakerjaan dan Kesehatan lengkap",
+        "Asuransi kesehatan ekstended untuk keluarga",
+        "Flexible hybrid work arrangement",
+        "Budget pembelajaran dan pengembangan karir",
+        "Laptop dan tools kerja disediakan",
+        "Perusahaan global dengan kultur inklusif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Customer Care B2B di Cartrack. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/customer-care-b2b-at-cartrack-4351806273",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/customer-care-b2b-at-cartrack-4351806273",
+      "featured": false
+    },
+    {
       "slug": "front-end-developer-scout-inc-yogyakarta",
       "title": "Front End Developer",
       "company": "Scout.inc",
