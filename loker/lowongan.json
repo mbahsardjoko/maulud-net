@@ -9,6 +9,246 @@
     },
     "jobs": [
         {
+            "slug": "software-developer-pt-softorb-technology-indonesia",
+            "title": "Software Developer",
+            "company": "PT Softorb Technology Indonesia",
+            "location": "Jakarta",
+            "type": "Full-time",
+            "category": "Teknologi",
+            "salary": "Rp 8-15 Juta",
+            "posted": "2026-07-05",
+            "expires": "2026-08-04",
+            "description": "PT Softorb Technology Indonesia sedang mencari Software Developer untuk bergabung dengan tim teknis kami di Jakarta. Kamu bakal bertanggung jawab ngembangin aplikasi-aplikasi keren menggunakan teknologi terbaru. Tim kami butuh developer yang suka tantangan, bisa kerja sama, dan punya semangat belajar tinggi. Di sini kamu bakal ngerjain project dari client lokal dan internasional dengan standar kualitas tinggi.",
+            "requirements": [
+                "Pengalaman minimal 2 tahun sebagai Software Developer",
+                "Menguasai minimal satu bahasa pemrograman (Python, PHP, atau JavaScript)",
+                "Pengalaman dengan framework Laravel, Django, atau React.js",
+                "Memahami konsep database relasional (MySQL/PostgreSQL)",
+                "Familiar dengan Git dan alur kerja kolaboratif",
+                "Punya kemampuan komunikasi dan problem-solving yang baik"
+            ],
+            "responsibilities": [
+                "Mengembangkan dan memelihara aplikasi web sesuai kebutuhan client",
+                "Menulis kode yang bersih, terstruktur, dan mudah dipelihara",
+                "Melakukan debugging dan testing untuk memastikan kualitas aplikasi",
+                "Berkolaborasi dengan tim desain dan project manager",
+                "Mengikuti development best practices dan coding standards"
+            ],
+            "benefits": [
+                "Gaji kompetitif dengan review tahunan",
+                "BPJS Ketenagakerjaan & Kesehatan",
+                "Flexible working hours",
+                "Laptop dan peralatan kerja disediakan",
+                "Kesempatan mengikuti kursus dan sertifikasi",
+                "Lingkungan kerja yang supportive dan kekeluargaan"
+            ],
+            "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Software Developer di PT Softorb Technology Indonesia.",
+            "apply_url": "https://id.linkedin.com/jobs/view/software-developer-at-pt-softorb-technology-indonesia-4367246423",
+            "source": "LinkedIn",
+            "source_url": "https://id.linkedin.com/jobs/view/software-developer-at-pt-softorb-technology-indonesia-4367246423",
+            "featured": true
+        },
+        {
+            "slug": "data-analyst-vidio",
+            "title": "Data Analyst",
+            "company": "Vidio",
+            "location": "Jakarta",
+            "type": "Full-time",
+            "category": "Teknologi",
+            "salary": "Rp 8-14 Juta",
+            "posted": "2026-07-05",
+            "expires": "2026-08-04",
+            "description": "Vidio, platform streaming nomor satu di Indonesia, lagi nyari Data Analyst buat gabung tim data kami! Posisi ini strategis banget karena kamu bakal bantu tim subscription business ngelahap data, ngasih insight, dan bikin rekomendasi yang bisa ningkatin performa bisnis. Cocok buat kamu yang suka ngulik data dan punya kemampuan analisis yang tajam.",
+            "requirements": [
+                "Pengalaman minimal 1-2 tahun sebagai Data Analyst",
+                "Mahir dalam SQL dan Python untuk data analysis",
+                "Pengalaman dengan tools visualisasi seperti Tableau, Looker, atau Metabase",
+                "Paham konsep ETL dan data warehousing",
+                "Memiliki kemampuan analisis statistik dasar",
+                "Teliti, detail-oriented, dan bisa presentasi insight dengan jelas"
+            ],
+            "responsibilities": [
+                "Melakukan exploratory data analysis pada metrik subscription bisnis",
+                "Menyusun laporan dan dashboard untuk tim manajemen",
+                "Mengidentifikasi tren, pola, dan anomali dalam data bisnis",
+                "Berkolaborasi dengan tim produk dan marketing untuk optimasi",
+                "Memberikan rekomendasi berbasis data untuk pengambilan keputusan"
+            ],
+            "benefits": [
+                "Gaji kompetitif dengan bonus performa",
+                "BPJS Ketenagakerjaan & Kesehatan",
+                "Asuransi kesehatan tambahan",
+                "Remote working arrangement (hybrid)",
+                "Akses gratis ke platform Vidio",
+                "Budget untuk pengembangan diri dan kursus"
+            ],
+            "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Data Analyst di Vidio.",
+            "apply_url": "https://id.linkedin.com/jobs/view/data-analyst-at-vidio-4374609237",
+            "source": "LinkedIn",
+            "source_url": "https://id.linkedin.com/jobs/view/data-analyst-at-vidio-4374609237",
+            "featured": false
+        },
+        {
+            "slug": "marketing-executive-ismaya-group",
+            "title": "Marketing Executive",
+            "company": "ISMAYA GROUP",
+            "location": "Jakarta",
+            "type": "Full-time",
+            "category": "Marketing",
+            "salary": "Rp 6-10 Juta",
+            "posted": "2026-07-05",
+            "expires": "2026-08-04",
+            "description": "ISMAYA GROUP, perusahaan F&B dan lifestyle ternama di Indonesia, lagi nyari Marketing Executive berbakat buat ngelola brand restonya. Kamu bakal jadi ujung tombak strategi marketing, ngurus campaign dari konsep sampe eksekusi, dan pastiin brand awareness tetap terjaga. Cocok buat kamu yang kreatif, punya jiwa leadership, dan suka dunia kuliner!",
+            "requirements": [
+                "Pengalaman minimal 2 tahun di bidang marketing, terutama F&B atau lifestyle",
+                "Memahami strategi digital marketing (SEO, SEM, social media ads)",
+                "Kemampuan copywriting dan content creation yang baik",
+                "Paham analisis data marketing dan reporting",
+                "Kreatif, inisiatif, dan mampu bekerja dalam tim",
+                "Mahir menggunakan tools marketing dan Microsoft Office"
+            ],
+            "responsibilities": [
+                "Merencanakan dan mengeksekusi strategi marketing brand restoran",
+                "Mengelola konten media sosial dan campaign digital",
+                "Melakukan riset pasar dan analisis kompetitor",
+                "Berkolaborasi dengan tim kreatif dan vendor eksternal",
+                "Memantau dan melaporkan performa campaign secara berkala"
+            ],
+            "benefits": [
+                "Gaji kompetitif dengan insentif",
+                "BPJS Ketenagakerjaan & Kesehatan",
+                "Meal allowance",
+                "Kesempatan berkembang di perusahaan F&B terkemuka",
+                "Lingkungan kerja yang dinamis dan kreatif",
+                "Event dan gathering rutin"
+            ],
+            "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Marketing Executive di ISMAYA GROUP.",
+            "apply_url": "https://id.linkedin.com/jobs/view/marketing-executive-at-ismaya-group-4373431488",
+            "source": "LinkedIn",
+            "source_url": "https://id.linkedin.com/jobs/view/marketing-executive-at-ismaya-group-4373431488",
+            "featured": false
+        },
+        {
+            "slug": "account-receivable-english-speaker-odoo",
+            "title": "Account Receivable (English Speaker)",
+            "company": "Odoo",
+            "location": "Jakarta",
+            "type": "Full-time",
+            "category": "Finance",
+            "salary": "Rp 7-12 Juta",
+            "posted": "2026-07-05",
+            "expires": "2026-08-04",
+            "description": "Odoo, perusahaan software ERP global asal Belgia, mencari Account Receivable specialist yang bisa bahasa Inggris aktif. Posisi ini bakal handle proses penagihan dan collection untuk klien internasional. Kamu bakal jadi bagian dari tim finance yang dinamis dan fast-paced. Kalau kamu lulusan akuntansi yang pengen kerja di perusahaan teknologi global, ini kesempatanmu!",
+            "requirements": [
+                "Minimal S1 Akuntansi atau Keuangan",
+                "Pengalaman 1-3 tahun di bidang Account Receivable atau collection",
+                "Familiar dengan proses AR collection di industri jasa",
+                "Bahasa Inggris aktif (lisan dan tulisan) — wajib!",
+                "Teliti, disiplin, dan bisa kerja dengan target",
+                "Menguasai Excel dan ERP software (pengalaman Odoo nilai plus)"
+            ],
+            "responsibilities": [
+                "Melakukan proses penagihan dan collection ke klien internasional",
+                "Memantau dan merekonsiliasi pembayaran masuk",
+                "Menyusun laporan aging AR secara periodik",
+                "Berkomunikasi dengan klien terkait status pembayaran",
+                "Berkolaborasi dengan tim sales dan customer support"
+            ],
+            "benefits": [
+                "Gaji kompetitif dengan review berkala",
+                "BPJS Ketenagakerjaan & Kesehatan",
+                "Asuransi kesehatan swasta",
+                "International working environment",
+                "Kesempatan belajar dan pelatihan ERP",
+                "Flexible hybrid working arrangement"
+            ],
+            "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Account Receivable di Odoo.",
+            "apply_url": "https://id.linkedin.com/jobs/view/account-receivable-english-speaker-at-odoo-4234845578",
+            "source": "LinkedIn",
+            "source_url": "https://id.linkedin.com/jobs/view/account-receivable-english-speaker-at-odoo-4234845578",
+            "featured": false
+        },
+        {
+            "slug": "ppic-staff-pt-indofood-cbp-sukses-makmur-tbk",
+            "title": "PPIC Staff",
+            "company": "PT Indofood CBP Sukses Makmur Tbk",
+            "location": "Jakarta",
+            "type": "Full-time",
+            "category": "Administrasi",
+            "salary": "Rp 5-8 Juta",
+            "posted": "2026-07-05",
+            "expires": "2026-08-04",
+            "description": "PT Indofood CBP Sukses Makmur Tbk - Noodle Division, salah satu perusahaan FMCG terbesar di Indonesia, membuka kesempatan buat kamu yang mau bergabung sebagai PPIC Staff. Posisi ini bakal ngurus perencanaan produksi, kontrol inventaris, dan koordinasi dengan berbagai divisi. Cocok buat lulusan baru atau yang punya pengalaman di bidang supply chain dan manufaktur.",
+            "requirements": [
+                "Minimal D3/S1 Teknik Industri, Manajemen, atau jurusan terkait",
+                "Fresh graduate dipersilakan melamar",
+                "Memahami konsep production planning dan inventory control",
+                "Menguasai Microsoft Excel (pivot table, vlookup)",
+                "Teliti, mampu bekerja di bawah tekanan, dan punya kemampuan analisis",
+                "Bisa bekerja dalam tim dan komunikatif"
+            ],
+            "responsibilities": [
+                "Menyusun jadwal produksi harian berdasarkan permintaan",
+                "Memantau ketersediaan bahan baku dan stok produk jadi",
+                "Melakukan koordinasi dengan bagian gudang, produksi, dan quality control",
+                "Menganalisis kapasitas produksi dan efisiensi mesin",
+                "Menyusun laporan produksi dan inventaris secara periodik"
+            ],
+            "benefits": [
+                "Gaji sesuai UMR dengan tunjangan",
+                "BPJS Ketenagakerjaan & Kesehatan",
+                "THR dan bonus tahunan",
+                "Asuransi kesehatan tambahan",
+                "Makan siang disediakan",
+                "Kesempatan karir di perusahaan FMCG terbesar"
+            ],
+            "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan PPIC Staff di PT Indofood CBP Sukses Makmur Tbk.",
+            "apply_url": "https://id.linkedin.com/jobs/view/ppic-staff-at-pt-indofood-cbp-sukses-makmur-tbk-noodle-division-4415125415",
+            "source": "LinkedIn",
+            "source_url": "https://id.linkedin.com/jobs/view/ppic-staff-at-pt-indofood-cbp-sukses-makmur-tbk-noodle-division-4415125415",
+            "featured": false
+        },
+        {
+            "slug": "graphic-designer-skintific",
+            "title": "Graphic Designer",
+            "company": "SKINTIFIC",
+            "location": "Jakarta",
+            "type": "Full-time",
+            "category": "Desain",
+            "salary": "Rp 6-10 Juta",
+            "posted": "2026-07-05",
+            "expires": "2026-08-04",
+            "description": "SKINTIFIC, brand skincare yang lagi naik daun, mencari Graphic Designer kreatif buat gabung tim! Kamu bakal bikin visual dan motion designs yang keren abis sesuai creative direction brand. Kalau kamu punya mata yang tajam buat desain, paham tren visual terkini, dan pengen kerja di industri beauty yang lagi booming, yuk lamar!",
+            "requirements": [
+                "Pengalaman minimal 1-2 tahun sebagai Graphic Designer",
+                "Mahir menggunakan Adobe Creative Suite (Photoshop, Illustrator, After Effects)",
+                "Punya portfolio desain visual dan motion yang kuat",
+                "Memahami prinsip desain, tipografi, dan color theory",
+                "Kreatif, up-to-date dengan tren desain terkini",
+                "Mampu bekerja dalam deadline dan multi-tasking"
+            ],
+            "responsibilities": [
+                "Membuat desain visual untuk social media, website, dan campaign marketing",
+                "Mengembangkan motion graphics dan konten video pendek",
+                "Menjaga konsistensi brand identity di semua platform",
+                "Berkolaborasi dengan tim marketing dan content creator",
+                "Menyiapkan file-file desain untuk cetak dan digital"
+            ],
+            "benefits": [
+                "Gaji kompetitif dengan review tahunan",
+                "BPJS Ketenagakerjaan & Kesehatan",
+                "Produk SKINTIFIC gratis setiap bulan",
+                "Lingkungan kerja kreatif dan supportive",
+                "Kesempatan ikut workshop dan event industri",
+                "Flexible working arrangement"
+            ],
+            "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Graphic Designer di SKINTIFIC.",
+            "apply_url": "https://id.linkedin.com/jobs/view/graphic-designer-at-skintific-4426725394",
+            "source": "LinkedIn",
+            "source_url": "https://id.linkedin.com/jobs/view/graphic-designer-at-skintific-4426725394",
+            "featured": false
+        },
+        {
             "slug": "frontend-developer-ntt-data-inc",
             "title": "Frontend Developer",
             "company": "NTT DATA, Inc.",
