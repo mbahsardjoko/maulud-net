@@ -84,11 +84,11 @@ async function loadJobs() {
     const res = await fetch('lowongan.json');
     const data = await res.json();
     jobs = data.jobs;
-    const categories = data.categories;
-
     const totalJobs = jobs.length;
     const remoteJobs = jobs.filter(j => j.location.toLowerCase().includes('remote')).length;
     const companies = [...new Set(jobs.map(j => j.company))].length;
+    // Compute categories from jobs if not in JSON
+    const categories = data.categories && data.categories.length ? data.categories : [...new Set(jobs.map(j => j.category))].filter(Boolean).sort();
     document.getElementById('stats').innerHTML = `
       <div class="stat-card"><div class="stat-num">${totalJobs}</div><div class="stat-label">Total Lowongan</div></div>
       <div class="stat-card"><div class="stat-num">${remoteJobs}</div><div class="stat-label">Remote</div></div>
