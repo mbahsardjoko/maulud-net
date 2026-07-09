@@ -2,12 +2,282 @@
   "site": {
     "title": "Maulud.net",
     "tagline": "Temukan Lowongan Kerja Terbaru",
-    "description": "Portal lowongan kerja Indonesia \u2014 temukan pekerjaan impianmu dari berbagai perusahaan terpercaya",
+    "description": "Portal lowongan kerja Indonesia — temukan pekerjaan impianmu dari berbagai perusahaan terpercaya",
     "url": "https://maulud.net",
     "lang": "id",
     "locale": "id_ID"
   },
   "jobs": [
+    {
+      "slug": "shell-graduate-programme-2026-indonesia",
+      "title": "Shell Graduate Programme 2026 – Indonesia",
+      "company": "Shell",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-07-09",
+      "expires": "2026-08-08",
+      "description": "Shell membuka program Graduate Programme 2026 di Indonesia untuk lulusan terbaik yang ingin memulai karir di industri energi global. Program 2-3 tahun ini menawarkan rotasi lintas fungsi (Engineering, Commercial, Projects & Technology, Digital), mentorship dari senior leader, dan eksposur proyek transisi energi. Cocok untuk fresh graduate STEM yang punya ambisi besar dan ingin berkembang di perusahaan multinasional yang komitmen net-zero 2050.",
+      "requirements": [
+        "Fresh graduate S1/S2 (max 3 tahun lulus) jurusan Teknik, Geologi, IT, Bisnis, atau terkait",
+        "IPK minimal 3.00/4.00",
+        "Bahasa Inggris aktif (lisan & tulisan) - wajib",
+        "Leadership potential: pengalaman organisasi, komunitas, atau project signifikan",
+        "Bersedia ditempatkan di Jakarta dan/atau site operasi Shell Indonesia",
+        "Warga Negara Indonesia (WNI)",
+        "Passion pada energy transition, sustainability, dan inovasi teknologi"
+      ],
+      "responsibilities": [
+        "Mengikuti program onboarding & technical training intensif 6-12 bulan pertama",
+        "Bekerja pada 2-3 assignment rotasi di fungsi/fungsi bisnis berbeda",
+        "Berkontribusi pada proyek nyata: energy transition, digitalisasi, operational excellence",
+        "Dibimbing oleh mentor senior & buddy untuk percepat kurva belajar",
+        "Mengembangkan business acumen melalui exposure ke stakeholder global",
+        "Menyelesaikan capstone project akhir program sebagai evaluasi kelayakan posisi tetap"
+      ],
+      "benefits": [
+        "Gaji kompetitif + sign-on bonus + annual bonus",
+        "BPJS Ketenagakerjaan & Kesehatan lengkap",
+        "Asuransi kesehatan global (Cigna/Aetna) untuk karyawan & keluarga",
+        "Relocation package & housing allowance (jika ditempatkan di luar kota)",
+        "Program pengembangan kepemimpinan global (Shell Graduate Development Framework)",
+        "Akses ke jaringan alumni Shell di 70+ negara",
+        "Flexible working arrangement & well-being support"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Shell Graduate Programme 2026. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/shell-graduate-programme-2026-indonesia-at-shell-4405928961",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/shell-graduate-programme-2026-indonesia-at-shell-4405928961",
+      "featured": true
+    },
+    {
+      "slug": "devops-engineer-ordent-jakarta",
+      "title": "DevOps Engineer",
+      "company": "Ordent",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-07-09",
+      "expires": "2026-08-08",
+      "description": "Ordent, startup healthtech Indonesia yang membangun platform manajemen klinik & rumah sakit digital, mencari DevOps Engineer untuk mengotomatisasi infrastruktur dan pipeline deployment mereka. Kamu akan bertanggung jawab atas reliability, scalability, dan security dari sistem yang melayani ribuan tenaga medis dan pasien harian. Ini kesempatan untuk build infra dari ground up di startup yang fast-growing dengan mission impact nyata di kesehatan.",
+      "requirements": [
+        "Pengalaman 3+ tahun sebagai DevOps / SRE / Platform Engineer",
+        "Mahir Kubernetes (EKS/GKE/AKS), Docker, Helm, Kustomize",
+        "Strong Infrastructure as Code: Terraform (wajib), Ansible/Terragrunt (plus)",
+        "Cloud platform: AWS (primary) / GCP — production-grade experience",
+        "CI/CD: GitLab CI / GitHub Actions / ArgoCD — pipeline design & maintenance",
+        "Observability: Prometheus, Grafana, Loki, Tempo, Alertmanager (hands-on)",
+        "Scripting: Python/Bash/Go untuk automation & tooling internal",
+        "Paham security best practices: secrets management, network policies, RBAC"
+      ],
+      "responsibilities": [
+        "Merancang, membangun, dan memelihara Kubernetes clusters di AWS (EKS)",
+        "Mengembangkan & mengelola CI/CD pipeline untuk microservices (monorepo/polyrepo)",
+        "Implementasi Infrastructure as Code (Terraform) untuk semua resource cloud",
+        "Setup & maintain observability stack: metrics, logs, traces, alerting",
+        "Berkolaborasi dengan backend engineer untuk service mesh, API gateway, canary deploy",
+        "Mengelola database cloud (RDS, ElastiCache, DocumentDB) — backup, scaling, tuning",
+        "Menjalankan incident response, root cause analysis, dan postmortem",
+        "Membangun internal developer platform (self-serve infra untuk tim engineering)"
+      ],
+      "benefits": [
+        "Gaji kompetitif + bonus tahunan + ESOP (stock options)",
+        "BPJS Ketenagakerjaan dan Kesehatan lengkap",
+        "Asuransi kesehatan swasta untuk karyawan & keluarga",
+        "Flexible hybrid: WFO 2x/minggu di Jakarta Selatan, sisanya remote",
+        "MacBook Pro M-series + monitor + budget peripherals",
+        "Budget sertifikasi AWS/Kubernetes/CKA/CKAD + conference budget",
+        "Learning budget bulanan (buku, kursus, platform)",
+        "Tim engineering kecil, senior, high-autonomy, low-meeting culture"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan DevOps Engineer di Ordent. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4274017614",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4274017614",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-firstsource-remote",
+      "title": "Content Writer – Bahasa (Remote, Freelance)",
+      "company": "Firstsource",
+      "location": "Remote (Indonesia)",
+      "type": "Freelance",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 4-8 Juta (per project/bulanan)",
+      "posted": "2026-07-09",
+      "expires": "2026-08-08",
+      "description": "Firstsource, perusahaan BPM (Business Process Management) global, membuka kesempatan freelance/remote untuk Content Writer berbahasa Indonesia. Kamu akan menulis konten untuk klien internasional di vertikal: teknologi, keuangan, kesehatan, dan e-commerce. Posisi ini fully remote, fleksibel, cocok untuk penulis yang ingin side income atau freelancer full-time dengan klien global.",
+      "requirements": [
+        "Pengalaman minimal 1 tahun content writing (freelance, agency, atau in-house)",
+        "Kemampuan menulis Bahasa Indonesia native-level (EYD baku, engaging, persuasif)",
+        "Paham SEO basics: keyword placement, heading structure, meta description",
+        "Bisa riset topik cepat dan menghasilkan draft bersih minimal revisi",
+        "Portfolio wajib: minimal 5 artikel live (blog, website, Medium, LinkedIn)",
+        "Koneksi internet stabil, laptop sendiri, bisa kerja async (timezone flexible)",
+        "Komunikasi responsif via Slack/Email/Notion untuk koordinasi project"
+      ],
+      "responsibilities": [
+        "Menulis artikel blog, landing page, dan konten website untuk klien global",
+        "Mengadaptasi tone of voice sesuai brand guidelines tiap klien",
+        "Melakukan riset keyword & kompetitor sederhana sebelum menulis",
+        "Menyusun outline → draft → final edit sesuai deadline project",
+        "Mengintegrasikan feedback editor/klien dengan cepat",
+        "Melaporkan progress mingguan: jumlah kata, topik, status"
+      ],
+      "benefits": [
+        "Fully remote — kerja dari mana saja di Indonesia",
+        "Fleksibel: pilih project yang cocok dengan jadwal & keahlianmu",
+        "Bayaran per project / per kata — transparan & dibayar tepat waktu",
+        "Akses ke klien internasional & berbagai industri (portfolio building)",
+        "Tidak ada jam kerja tetap — output-based",
+        "Kemungkinan kontrak panjang / retainer untuk penulis konsisten berkualitas"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Content Writer di Firstsource. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/content-writer-at-firstsource-4223694869",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/content-writer-at-firstsource-4223694869",
+      "featured": false
+    },
+    {
+      "slug": "ux-ui-designer-the-flex-jakarta",
+      "title": "UX/UI Designer",
+      "company": "The Flex",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-09",
+      "expires": "2026-08-08",
+      "description": "The Flex mencari UX/UI Designer untuk bergabung dengan tim produk Base360.ai — platform B2B SaaS yang mempermudah manajemen supply chain. Kamu akan merancang pengalaman pengguna yang intuitif untuk workflow kompleks, mulai dari dashboard analitik, manajemen vendor, hingga procurement automation. Posisi ini cocok untuk desainer yang suka tantangan UX enterprise, data-dense interfaces, dan kolaborasi dekat dengan product & engineering.",
+      "requirements": [
+        "Pengalaman 3+ tahun sebagai UX/UI Designer / Product Designer (B2B SaaS nilai plus)",
+        "Portfolio kuat menunjukkan end-to-end process: research → wireframe → prototype → handoff",
+        "Mahir Figma (advanced: auto-layout, variants, design tokens, design systems)",
+        "Paham user research methods: usability testing, interviews, heuristic evaluation",
+        "Pengalaman designing untuk data-dense UI: tables, dashboards, complex forms",
+        "Bisa kolaborasi erat dengan Product Manager & Engineer (design handoff, spec, QA)",
+        "Familiar dengan HTML/CSS/JS basics untuk komunikasi teknis yang efektif",
+        "Bahasa Inggris aktif (docs, meeting dengan stakeholder global)"
+      ],
+      "responsibilities": [
+        "Merancang UX/UI untuk fitur-fitur baru Base360.ai: dashboard, vendor mgmt, procurement flow",
+        "Melakukan user research & usability testing dengan user nyata (supply chain managers)",
+        "Membuat wireframe, high-fidelity mockup, interactive prototype di Figma",
+        "Mengembangkan & maintain design system: components, tokens, patterns, documentation",
+        "Berkolaborasi dengan PM untuk discovery, definition, dan validation solusi desain",
+        "Design QA saat development: review implementasi, feedback ke engineer",
+        "Menganalisis metrics UX (task success, time-on-task, error rate) untuk iterasi berkelanjutan"
+      ],
+      "benefits": [
+        "Gaji kompetitif + bonus performa + ESOP",
+        "BPJS Ketenagakerjaan & Kesehatan lengkap",
+        "Asuransi kesehatan swasta untuk karyawan & keluarga",
+        "Hybrid flexible: WFO 2-3x/minggu di Jakarta (SCBD), sisanya remote",
+        "MacBook Pro + external monitor + design tools license (Figma Pro, etc.)",
+        "Budget learning: kursus UX, conference, sertifikasi (Nielsen Norman Group, dll.)",
+        "Tim produk & engineering yang senior, collaborative, low-ego",
+        "Produk B2B SaaS dengan user base enterprise nyata — impact terbukti"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan UX/UI Designer di The Flex. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4436391199/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4436391199/",
+      "featured": false
+    },
+    {
+      "slug": "ui-ux-designer-dana-indonesia-jakarta",
+      "title": "UI/UX Designer (KYB/KYC)",
+      "company": "DANA Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-07-09",
+      "expires": "2026-08-08",
+      "description": "DANA Indonesia, super-app fintech terkemuka dengan 150+ juta user, mencari UI/UX Designer untuk tim KYB (Know Your Business) & KYC (Know Your Customer). Kamu akan merancang pengalaman verifikasi identitas & onboarding bisnis yang aman, cepat, dan compliant regulasi OJK/BI. Posisi ini strategis: desainmu langsung memengaruhi conversion rate jutaan merchant & user, serta keamanan ekosistem finansial Indonesia.",
+      "requirements": [
+        "Pengalaman 3-5 tahun UI/UX Designer di fintech / banking / financial services (wajib)",
+        "Portfolio menunjukkan project KYC/KYB, onboarding flow, identity verification (prioritas)",
+        "Mahir Figma: design system, component library, prototyping advanced",
+        "Paham regulasi KYC/AML Indonesia (OJK, BI, UUPK) — atau cepat belajar",
+        "Pengalaman design untuk mobile app (iOS/Android guidelines) & web responsive",
+        "Strong visual design: typography, color, layout, motion, accessibility (WCAG 2.1 AA)",
+        "Bisa presentasi desain ke stakeholder non-design: compliance, legal, engineering, C-level",
+        "Familiar dengan design handoff tools (Zeplin, Figma DevMode) & design QA"
+      ],
+      "responsibilities": [
+        "Merancang end-to-end flow KYB/KYC: registrasi, verifikasi dokumen, biometric, approval",
+        "Mengoptimasi conversion funnel onboarding merchant & user melalui UX iteration",
+        "Berkolaborasi dengan Product, Engineering, Compliance, Risk, Legal untuk requirement",
+        "Membuat design spec, component states, error handling, edge cases lengkap",
+        "Melakukan usability testing dengan user nyata & iterate berdasarkan findings",
+        "Maintain & evolve DANA design system untuk konsistensi cross-platform",
+        "Audit aksesibilitas & compliance regulasi pada setiap release fitur verifikasi"
+      ],
+      "benefits": [
+        "Gaji kompetitif + bonus performa + RSU (stock units)",
+        "BPJS Ketenagakerjaan & Kesehatan lengkap",
+        "Asuransi kesehatan premium untuk karyawan & keluarga",
+        "Hybrid flexible: WFO 2x/minggu di Jakarta (SCBD), remote sisanya",
+        "MacBook Pro M-series + monitor 4K + budget setup WFH",
+        "Budget learning tidak terbatas: kursus, sertifikasi, conference (UX, fintech, compliance)",
+        "Wellness program: gym, mental health, annual health checkup",
+        "Diskon & benefit eksklusif di ekosistem DANA & mitra"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan UI/UX Designer (KYB/KYC) di DANA Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4415996108/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4415996108/",
+      "featured": true
+    },
+    {
+      "slug": "content-writer-seedbacklink-jakarta",
+      "title": "Content Writer",
+      "company": "seedbacklink",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-07-09",
+      "expires": "2026-08-08",
+      "description": "seedbacklink, platform marketplace backlink dan konten digital terkemuka di Indonesia, mencari Content Writer yang punya passion pada SEO writing, digital PR, dan content marketing. Kamu akan menulis artikel, guest post, press release, dan konten link-building untuk klien beragam: startup teknologi, e-commerce, finance, health, hingga brand lifestyle. Posisi ini cocok untuk penulis yang mau deep-dive SEO, paham E-E-A-T, dan suka tantangan ranking di SERP kompetitif.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai Content Writer, Copywriter, atau SEO Writer",
+        "Kemampuan menulis & editing Bahasa Indonesia & Inggris excellent (EYD baku, grammar lancar)",
+        "Paham SEO writing: keyword research, search intent, content structure, internal linking",
+        "Familiar dengan tools: Ahrefs, SEMrush, SurferSEO, Google Search Console (minimal salah satu)",
+        "Bisa adaptasi tone of voice: professional, conversational, authoritative, persuasive",
+        "Portfolio wajib: minimal 5 artikel live yang ranking di page 1 Google (lampirkan URL/keyword)",
+        "Detail-oriented, deadline-driven, bisa handle multiple project sekaligus",
+        "Nice to have: basic HTML/Markdown, CMS (WordPress, Webflow), Canva/Figma basics"
+      ],
+      "responsibilities": [
+        "Menulis artikel SEO-optimized untuk blog klien & guest post di publisher tier-1",
+        "Melakukan keyword research & competitor content gap analysis",
+        "Menyusun content brief & outline berdasarkan search intent & target keyword",
+        "Mengoptimasi existing content: update stats, improve structure, add internal links",
+        "Berkolaborasi dengan tim Outreach untuk pitch topic ke publisher & journalist",
+        "Melaporkan performa content: ranking, traffic, backlink acquired, conversion",
+        "Stay updated: Google algorithm update, SEO trends, AI content guidelines"
+      ],
+      "benefits": [
+        "Gaji kompetitif + bonus performa (berbasis ranking & traffic)",
+        "BPJS Ketenagakerjaan & Kesehatan",
+        "Flexible hybrid: WFO 2x/minggu di Jakarta, remote sisanya",
+        "Akses penuh ke tools SEO premium (Ahrefs, SEMrush, SurferSEO, dll.)",
+        "MacBook Pro + monitor eksternal",
+        "Budget learning: kursus SEO, conference (Chiang Mai SEO, Brighton SEO, dll.)",
+        "Tim marketing & SEO yang kolaboratif, data-driven, suka sharing knowledge",
+        "Klien beragam: startup unicorn, brand global, SME — portfolio diverse"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Content Writer di seedbacklink. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/content-writer-at-seedbacklink-4410475085/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/content-writer-at-seedbacklink-4410475085/",
+      "featured": false
+    },
     {
       "slug": "fresh-graduate-hiring-byd-indonesia-bandung",
       "title": "2026 Indonesia Fresh Graduate Hiring - Bandung",
@@ -100,7 +370,7 @@
       "salary": "Rp 6-12 Juta",
       "posted": "2026-07-02",
       "expires": "2026-08-01",
-      "description": "Monee, platform teknologi finansial yang berkembang pesat di Indonesia, membuka lowongan untuk Graphic Designer kreatif. Sebagai Graphic Designer di Monee, kamu akan bertanggung jawab untuk menciptakan aset visual yang engaging di seluruh touchpoint digital \u2014 mulai dari in-app visuals, campaign marketing, hingga brand communications. Posisi ini akan sangat cocok buat kamu yang punya jiwa kreatif tinggi, eye untuk detail, dan bisa bekerja cepat tanpa mengorbankan kualitas. Kamu akan jadi bagian dari tim kreatif yang mendukung pertumbuhan brand Monee.",
+      "description": "Monee, platform teknologi finansial yang berkembang pesat di Indonesia, membuka lowongan untuk Graphic Designer kreatif. Sebagai Graphic Designer di Monee, kamu akan bertanggung jawab untuk menciptakan aset visual yang engaging di seluruh touchpoint digital — mulai dari in-app visuals, campaign marketing, hingga brand communications. Posisi ini akan sangat cocok buat kamu yang punya jiwa kreatif tinggi, eye untuk detail, dan bisa bekerja cepat tanpa mengorbankan kualitas. Kamu akan jadi bagian dari tim kreatif yang mendukung pertumbuhan brand Monee.",
       "requirements": [
         "Minimal 1-2 tahun pengalaman sebagai Graphic Designer (digital portfolio wajib)",
         "Proficiency di Adobe Creative Suite (Photoshop, Illustrator, After Effects)",
@@ -349,7 +619,7 @@
       "salary": "Rp 15-25 Juta",
       "posted": "2026-07-08",
       "expires": "2026-08-07",
-      "description": "Bukalapak Gaming membuka lowongan Software Engineer II untuk bergabung dengan tim engineering yang membangun Lapakgaming dan Itemku \u2014 platform gaming terkemuka di Indonesia. Posisi ini cocok untuk engineer dengan fullstack mindset yang suka tantangan skala besar, high-traffic, dan real-time systems. Kamu akan bekerjasama dengan tim lintas fungsi untuk mengirim fitur yang langsung dinikmati jutaan gamer.",
+      "description": "Bukalapak Gaming membuka lowongan Software Engineer II untuk bergabung dengan tim engineering yang membangun Lapakgaming dan Itemku — platform gaming terkemuka di Indonesia. Posisi ini cocok untuk engineer dengan fullstack mindset yang suka tantangan skala besar, high-traffic, dan real-time systems. Kamu akan bekerjasama dengan tim lintas fungsi untuk mengirim fitur yang langsung dinikmati jutaan gamer.",
       "requirements": [
         "Pengalaman minimal 3 tahun sebagai Software Engineer / Full Stack Developer",
         "Mahir Go, Java, atau Node.js untuk backend development",
@@ -393,7 +663,7 @@
       "salary": "Rp 10-18 Juta",
       "posted": "2026-07-08",
       "expires": "2026-08-07",
-      "description": "Bukalapak mencari Business Operations Specialist untuk mendukung operasional bisnis dan memastikan kelancaran proses end-to-end. Posisi ini berperan sebagai jembatan antara tim bisnis, produk, dan operasi \u2014 menganalisis data, mengidentifikasi bottleneck, dan mengusulkan perbaikan proses. Cocok untuk lulusan fresh graduate hingga berpengalaman yang punya analytical thinking kuat dan ingin belajar operasional skala besar di perusahaan tech.",
+      "description": "Bukalapak mencari Business Operations Specialist untuk mendukung operasional bisnis dan memastikan kelancaran proses end-to-end. Posisi ini berperan sebagai jembatan antara tim bisnis, produk, dan operasi — menganalisis data, mengidentifikasi bottleneck, dan mengusulkan perbaikan proses. Cocok untuk lulusan fresh graduate hingga berpengalaman yang punya analytical thinking kuat dan ingin belajar operasional skala besar di perusahaan tech.",
       "requirements": [
         "Pendidikan minimal S1 segala jurusan (diutamakan Bisnis, Teknik Industri, Ekonomi)",
         "Fresh graduate hingga 2 tahun pengalaman (Management Trainee / Business Operations / Strategy)",
@@ -1127,7 +1397,7 @@
         "Minimal S1 Akuntansi atau Keuangan",
         "Pengalaman 1-3 tahun di bidang Account Receivable atau collection",
         "Familiar dengan proses AR collection di industri jasa",
-        "Bahasa Inggris aktif (lisan dan tulisan) \u2014 wajib!",
+        "Bahasa Inggris aktif (lisan dan tulisan) — wajib!",
         "Teliti, disiplin, dan bisa kerja dengan target",
         "Menguasai Excel dan ERP software (pengalaman Odoo nilai plus)"
       ],
@@ -1470,7 +1740,7 @@
       "salary": "Rp 9-15 Juta",
       "posted": "2026-07-04",
       "expires": "2026-08-03",
-      "description": "Shopee, platform e-commerce terdepan di Asia Tenggara, sedang mencari Data Analyst untuk bergabung dengan tim Business Intelligence Regional BD. Posisi ini bakal jadi jembatan antara data dan keputusan bisnis \u2014 kamu akan membantu tim Regional BD mengambil keputusan berbasis data, menganalisis performa bisnis, dan memberikan rekomendasi strategis. Cocok buat kamu yang punya skill analitis kuat dan suka kerja dengan data besar.",
+      "description": "Shopee, platform e-commerce terdepan di Asia Tenggara, sedang mencari Data Analyst untuk bergabung dengan tim Business Intelligence Regional BD. Posisi ini bakal jadi jembatan antara data dan keputusan bisnis — kamu akan membantu tim Regional BD mengambil keputusan berbasis data, menganalisis performa bisnis, dan memberikan rekomendasi strategis. Cocok buat kamu yang punya skill analitis kuat dan suka kerja dengan data besar.",
       "requirements": [
         "Pengalaman minimal 2-3 tahun sebagai Data Analyst atau Business Intelligence Analyst",
         "Mahir SQL, spreadsheet, dan tools visualisasi data (Tableau, Looker, atau Power BI)",
@@ -1677,7 +1947,7 @@
     },
     {
       "slug": "finance-officer-scg-indonesia",
-      "title": "Finance Officer \u2013 SCG Indonesia",
+      "title": "Finance Officer – SCG Indonesia",
       "company": "SCG",
       "location": "Jakarta Raya",
       "type": "Full-time",
@@ -1712,10 +1982,10 @@
         "Lingkungan kerja profesional dan multikultural",
         "Tunjangan transportasi, komunikasi, dan THR"
       ],
-      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Finance Officer \u2013 SCG Indonesia di SCG. Informasi lebih lanjut bisa dicek di link sumber.",
-      "apply_url": "https://id.linkedin.com/jobs/view/finance-officer-\u2013-scg-indonesia-at-scg-4284115869",
+      "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Finance Officer – SCG Indonesia di SCG. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/finance-officer-–-scg-indonesia-at-scg-4284115869",
       "source": "LinkedIn",
-      "source_url": "https://id.linkedin.com/jobs/view/finance-officer-\u2013-scg-indonesia-at-scg-4284115869",
+      "source_url": "https://id.linkedin.com/jobs/view/finance-officer-–-scg-indonesia-at-scg-4284115869",
       "featured": false
     },
     {
@@ -1946,7 +2216,7 @@
       "salary": "Rp 15-25 Juta",
       "posted": "2026-07-04",
       "expires": "2026-08-03",
-      "description": "Xiaomi Technology, salah satu perusahaan teknologi terbesar dunia, mencari HR Manager untuk kantor perwakilan mereka di Indonesia. Kamu akan memimpin fungsi HR secara end-to-end \u2014 mulai dari rekrutmen, manajemen kinerja, pengembangan talenta, hubungan industrial, hingga compliance ketenagakerjaan. Posisi ini strategis dan akan bekerja langsung dengan senior management serta global HR team.",
+      "description": "Xiaomi Technology, salah satu perusahaan teknologi terbesar dunia, mencari HR Manager untuk kantor perwakilan mereka di Indonesia. Kamu akan memimpin fungsi HR secara end-to-end — mulai dari rekrutmen, manajemen kinerja, pengembangan talenta, hubungan industrial, hingga compliance ketenagakerjaan. Posisi ini strategis dan akan bekerja langsung dengan senior management serta global HR team.",
       "requirements": [
         "Pengalaman minimal 5-7 tahun di bidang Human Resources, minimal 2 tahun di posisi manajerial",
         "Paham regulasi ketenagakerjaan Indonesia (UU Ketenagakerjaan, PP, BPJS)",
@@ -2525,7 +2795,7 @@
       "salary": "Rp 8-15 Juta",
       "posted": "2026-07-03",
       "expires": "2026-08-02",
-      "description": "ASA Indonesia mencari Affiliate Marketing Specialist untuk meningkatkan jangkauan kami di pasar digital. Kamu akan mengembangkan strategi affiliate marketing, menganalisis performa kampanye, dan mema\u015fakan kolaborasi dengan publisher. Posisi ini ideal untuk yang hasrat berkarya dan bermanfokus pada hasil.",
+      "description": "ASA Indonesia mencari Affiliate Marketing Specialist untuk meningkatkan jangkauan kami di pasar digital. Kamu akan mengembangkan strategi affiliate marketing, menganalisis performa kampanye, dan memaşakan kolaborasi dengan publisher. Posisi ini ideal untuk yang hasrat berkarya dan bermanfokus pada hasil.",
       "requirements": [
         "S1 pendidikan di jurusan Marketing, Bisnis atau sebagainya",
         "Pengalaman kerja 3-5 tahun di marketing",
@@ -2573,7 +2843,7 @@
         "Kemampuan languages mathematics & Statistical",
         "Experienced with R dan Python",
         "Paham differential equation & algoritma",
-        "Ingin jalan ke satu paket\u0d47 Nathan"
+        "Ingin jalan ke satu paketേ Nathan"
       ],
       "responsibilities": [
         "Membangun model prediktif untuk bisnis",
@@ -2712,12 +2982,12 @@
     }
   ],
   "categories": [
-    "Marketing",
-    "Teknologi",
+    "Administrasi",
+    "Customer Service",
     "Desain",
     "Finance",
-    "Administrasi",
     "Konten & Kreatif",
-    "Customer Service"
+    "Marketing",
+    "Teknologi"
   ]
 }
