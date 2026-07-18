@@ -9,6 +9,168 @@
   },
   "jobs": [
     {
+      "slug": "frontend-developer-scg-jakarta",
+      "title": "Front-End Developer",
+      "company": "SCG Indonesia",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-18",
+      "expires": "2026-08-17",
+      "description": "SCG Indonesia, bagian dari Siam Cement Group yang telah berinvestasi di Indonesia selama lebih dari tiga dekade, membuka lowongan Front-End Developer untuk tim teknologi mereka. Kamu akan terlibat dalam pengembangan aplikasi digital untuk mendukung infrastruktur, inovasi packaging, dan perdagangan cross-border. Posisi ini cocok untuk developer yang ingin bekerja di perusahaan multinasional dengan dampak nyata bagi pembangunan Indonesia.",
+      "requirements": [
+        "Pengalaman minimal 3 tahun sebagai Front-End Developer",
+        "Mahir HTML5, CSS3, JavaScript (ES6+), dan TypeScript",
+        "Pengalaman solid dengan React.js atau Vue.js",
+        "Paham responsive design, cross-browser compatibility, dan web performance",
+        "Familiar dengan state management (Redux, Vuex, atau similar)",
+        "Pengalaman dengan build tools (Webpack, Vite) dan version control (Git)",
+        "Kemampuan berkomunikasi dalam Bahasa Inggris (lisan dan tulisan)",
+        "Bersedia bekerja di Jakarta dengan kemungkinan hybrid"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara front-end aplikasi web SCG Indonesia",
+        "Berkolaborasi dengan UX/UI Designer untuk implementasi desain yang responsif",
+        "Mengoptimalkan performa dan kecepatan loading aplikasi",
+        "Menulis kode yang bersih, terstruktur, dan mudah di-maintain",
+        "Berpartisipasi dalam code review dan diskusi teknis tim"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai standar multinasional",
+        "BPJS dan asuransi kesehatan premium",
+        "Tunjangan hari raya dan bonus tahunan",
+        "Program pengembangan karir dan pelatihan",
+        "Lingkungan kerja multikultural dan profesional"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4299322636",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4299322636",
+      "featured": false
+    },
+    {
+      "slug": "digital-marketing-specialist-container-packaging",
+      "title": "Digital Marketing Specialist",
+      "company": "Container and Packaging",
+      "location": "Remote / Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-07-18",
+      "expires": "2026-08-17",
+      "description": "Container and Packaging mencari Digital Marketing Specialist untuk mendorong pertumbuhan pelanggan baru melalui strategi paid media, SEO, dan optimasi konversi. Kamu akan bertanggung jawab merancang dan menjalankan kampanye digital yang efektif untuk meningkatkan brand awareness dan penjualan produk packaging industri.",
+      "requirements": [
+        "Pengalaman minimal 2-3 tahun di bidang digital marketing",
+        "Mahir Google Ads, Facebook Ads, dan platform iklan digital lainnya",
+        "Paham SEO (on-page, off-page, technical SEO) dan tools analisis",
+        "Pengalaman dengan Google Analytics, Google Tag Manager, dan tracking tools",
+        "Kemampuan membuat konten copywriting yang menarik",
+        "Analitis dan mampu menginterpretasi data untuk optimasi kampanye",
+        "Pengalaman di industri B2B atau manufacturing adalah nilai plus"
+      ],
+      "responsibilities": [
+        "Merencanakan dan menjalankan kampanye paid ads di berbagai platform",
+        "Mengoptimalkan website untuk SEO dan conversion rate",
+        "Menganalisis performa kampanye dan menyusun laporan berkala",
+        "Mengelola budget iklan dan memastikan ROI yang positif",
+        "Berkolaborasi dengan tim kreatif dan sales untuk kebutuhan konten"
+      ],
+      "benefits": [
+        "Remote work dengan fleksibilitas tinggi",
+        "Komisi berdasarkan performa kampanye",
+        "Akses ke tools dan platform marketing premium",
+        "Kesempatan berkembang di industri packaging yang berkembang pesat",
+        "BPJS Kesehatan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-container-and-packaging-4426981731",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-container-and-packaging-4426981731",
+      "featured": false
+    },
+    {
+      "slug": "smart-contract-developer-bjak-jakarta",
+      "title": "Smart Contract Developer",
+      "company": "BJAK",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-07-18",
+      "expires": "2026-08-17",
+      "description": "BJAK, perusahaan teknologi finansial yang inovatif, mencari Smart Contract Developer berpengalaman untuk bergabung dalam proyek stablecoin yang cutting-edge. Kamu akan memainkan peran kunci dalam merancang, mengembangkan, dan memelihara smart contract di blockchain. Posisi ini ideal untuk developer blockchain yang ingin menciptakan dampak nyata di ekosistem DeFi dan fintech Indonesia.",
+      "requirements": [
+        "Pengalaman minimal 2-3 tahun sebagai Blockchain/Smart Contract Developer",
+        "Mahir Solidity dan framework pengembangan smart contract (Hardhat, Foundry, Truffle)",
+        "Paham arsitektur Ethereum, EVM, dan standar token (ERC-20, ERC-721, ERC-1155)",
+        "Pengalaman dengan audit smart contract dan praktik keamanan blockchain",
+        "Familiar dengan layer 2 solutions, DeFi protocols, dan cross-chain bridges",
+        "Kemampuan menulis test yang komprehensif untuk smart contract",
+        "Pengalaman dengan Web3.js, Ethers.js, dan integrasi front-end blockchain",
+        "Background Computer Science atau bidang terkait"
+      ],
+      "responsibilities": [
+        "Merancang dan mengembangkan smart contract untuk proyek stablecoin",
+        "Melakukan security review dan memastikan keamanan smart contract",
+        "Mengoptimalkan gas cost dan efisiensi smart contract",
+        "Berkolaborasi dengan tim backend dan front-end untuk integrasi",
+        "Mendokumentasikan arsitektur dan prosedur smart contract"
+      ],
+      "benefits": [
+        "Gaji kompetitif di atas rata-rata industri",
+        "Token allocation dan equity options",
+        "Asuransi kesehatan lengkap untuk karyawan dan keluarga",
+        "Remote work flexibility",
+        "Kesempatan belajar langsung dari praktisi blockchain berpengalaman"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/smart-contract-developer-indonesia-at-bjak-4055858842",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/smart-contract-developer-indonesia-at-bjak-4055858842",
+      "featured": false
+    },
+    {
+      "slug": "accenture-indonesia-internship-technology-consulting",
+      "title": "Internship Program – Technology & Consulting",
+      "company": "Accenture Indonesia",
+      "location": "Jakarta, Indonesia",
+      "type": "Internship",
+      "category": "Teknologi",
+      "salary": "Rp 3-5 Juta",
+      "posted": "2026-07-18",
+      "expires": "2026-08-17",
+      "description": "Accenture Indonesia membuka program magang Technology & Consulting untuk fresh graduate dan mahasiswa tingkat akhir yang ingin memulai karir di bidang konsultan teknologi. Sebagai bagian dari Accenture Southeast Asia, kamu akan mendapat exposure ke proyek-proyek transformasi digital besar di berbagai industri. Program ini adalah stepping stone yang sempurna untuk memulai karir di perusahaan konsultan global terkemuka.",
+      "requirements": [
+        "Mahasiswa semester akhir (S1) atau fresh graduate dari jurusan IT, Teknik, Bisnis, atau terkait",
+        "IPK minimal 3.00 dari 4.00",
+        "Minat kuat pada teknologi dan transformasi digital",
+        "Kemampuan analitis dan problem-solving yang baik",
+        "Komunikasi lisan dan tulisan yang efektif dalam Bahasa Inggris",
+        "Siap belajar cepat dan bekerja dalam tim yang dinamis",
+        "Bersedia magang full-time selama minimal 3-6 bulan"
+      ],
+      "responsibilities": [
+        "Mendukung tim konsultan dalam analisis dan riset proyek",
+        "Membantu menyusun presentasi dan dokumen proyek",
+        "Berpartisipasi dalam workshop dan diskusi klien",
+        "Melakukan research teknologi dan best practice industri",
+        "Mendokumentasikan hasil kerja dan learning points"
+      ],
+      "benefits": [
+        "Uang saku magang kompetitif",
+        "Sertifikat magang dari Accenture",
+        "Peluang konversi ke karyawan tetap untuk performa terbaik",
+        "Mentorship dari konsultan berpengalaman",
+        "Exposure ke klien dan proyek multinasional"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4433252607",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4433252607",
+      "featured": false
+    },
+    {
       "slug": "symfony-developer-madeindonesia-sleman",
       "title": "Symfony Developer",
       "company": "MadeIndonesia",
