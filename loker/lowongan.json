@@ -9,6 +9,55 @@
   },
   "jobs": [
     {
+      "slug": "manulife-full-stack-developer-jakarta",
+      "title": "Full Stack Developer",
+      "company": "Manulife",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 20-35 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "Manulife, perusahaan asuransi dan jasa keuangan global terkemuka asal Kanada, membuka lowongan Full Stack Developer di Jakarta. Kamu akan memimpin desain, pengembangan, dan delivery aplikasi enterprise scalable yang mendukung operasional bisnis Manulife di Indonesia. Posisi ini cocok untuk developer berpengalaman yang kuat di Angular (frontend) dan Spring Boot (backend), dengan pengalaman menangani database relasional dan NoSQL. Bergabunglah dengan tim teknologi global yang inovatif dan dapatkan exposure ke proyek-proyek transformasi digital skala besar.",
+      "requirements": [
+        "Pengalaman minimal 4-6 tahun sebagai Full Stack Developer",
+        "Mahir Angular (frontend) dan Spring Boot/Java (backend) - wajib",
+        "Pengalaman solid dengan database Oracle dan MongoDB",
+        "Paham RESTful API design, microservices, dan event-driven architecture",
+        "Familiar dengan CI/CD, Docker, Kubernetes, dan cloud platform (AWS/Azure/GCP)",
+        "Pengalaman dengan Agile/Scrum dan tools seperti Jira",
+        "Komunikasi Bahasa Inggris aktif (lisan & tulisan) untuk global team",
+        "Pengalaman di industri financial services / insurance adalah nilai plus",
+        "Bersedia bekerja hybrid di Jakarta"
+      ],
+      "responsibilities": [
+        "Memimpin desain, pengembangan, dan delivery aplikasi enterprise scalable",
+        "Mengembangkan frontend menggunakan Angular dan backend menggunakan Spring Boot",
+        "Merancang dan mengoptimalkan database schema (Oracle & MongoDB)",
+        "Mengimplementasikan microservices dan RESTful API",
+        "Berkolaborasi dengan tim global Product, QA, DevOps, dan Business stakeholders",
+        "Menulis unit test, integration test, dan memastikan code coverage",
+        "Melakukan code review dan mentoring junior developers",
+        "Mengikuti arsitektur dan best practices engineering Manulife global"
+      ],
+      "benefits": [
+        "Gaji kompetitif standar perusahaan multinasional + bonus tahunan",
+        "Asuransi kesehatan premium untuk karyawan dan keluarga",
+        "BPJS Kesehatan & Ketenagakerjaan + life insurance",
+        "MacBook Pro dan peralatan kerja lengkap",
+        "Training budget & certification sponsorship (AWS, Kubernetes, dll)",
+        "Flexible hybrid work arrangement (2-3 hari WFO)",
+        "Annual leave 20+ hari + parental leave + sick leave",
+        "Program pensiun dan employee wellbeing benefits",
+        "Kesempatan karir global di Manulife grup internasional"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4434139206/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4434139206/",
+      "featured": true
+    },
+    {
       "slug": "junior-backend-engineer-golang-tix-id-jakarta",
       "title": "Junior Backend Engineer (Golang)",
       "company": "TIX ID",
@@ -9037,6 +9086,197 @@
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/copywriter-intern-at-reddoorz-4321596929",
       "featured": false
+    },
+    {
+      "slug": "team-liquid-full-stack-engineer-jakarta",
+      "title": "Full Stack Engineer",
+      "company": "Team Liquid",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-07-18",
+      "expires": "2026-08-17",
+      "description": "Team Liquid Full Stack Engineer. Join our Digital Product department where you'll help build and maintain the products and platforms that power our digital ecosystem. You'll work on scalable applications that serve millions of users worldwide.",
+      "requirements": [
+        "Pengalaman minimal 2-3 tahun sebagai Full Stack Developer",
+        "Mahir React.js, Node.js, atau Vue.js",
+        "Pengalaman dengan database relasional (PostgreSQL) dan dokumentasi ang.contract",
+        "Paham konsep sistem terdistribusi dan containerization (Docker, Kubernetes)",
+        "Pengalaman dengan CI/CD dan automated testing",
+        "Komunikasi Bahasa Inggris aktif",
+        "Bersedia bekerja hybrid di Jakarta"
+      ],
+      "responsibilities": [
+        "Mengembangkan fitur API dan backend services",
+        "Mengintegrasikan frontend components dan third-party services",
+        "Membangun komponen UI/UX menggunakan React.js",
+        "Menerapkan best practices coding dan code review",
+        "Mengoptimalkan performa dan latency aplikasi"
+      ],
+      "benefits": [
+        "Rasa integratif, nyaman, dan saling membina",
+        "100 cuti tahunan + 10 hari libur tambahan",
+        "Gaji kompetitif dan bonus produktivitas",
+        "Pelatihan dan sertifikasi teknis gratis",
+        "Work from anywhere dengan fleksibilitas tinggi",
+        "Makan siang dan snack gratis di kantor"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4431518959",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4431518959"
+    },
+    {
+      "slug": "creativeans-full-stack-engineer-jakarta",
+      "title": "Full Stack Engineer",
+      "company": "Creativeans",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-18",
+      "expires": "2026-08-17",
+      "description": "Creativeans is an award-winning brand and design consultancy. We build brands that matter. Founded in 2011, our work speaks for itself – combine strategy, innovation, and design thinking to deliver magnificent brands & digital experiences at scale.",
+      "requirements": [
+        "Pengalaman minimal 2-4 tahun sebagai Full Stack Developer",
+        "Mahir React.js, Node.js, atau Vue.js",
+        "Pengalaman dengan database NoSQL (MongoDB)",
+        "Paham konsep RESTful API dan microservices architecture",
+        "Pengalaman dengan cloud platform (AWS)",
+        "Komunikasi lisan dan tulisan yang baik dalam Bahasa Inggris",
+        "Portofolio kerja yang kuat"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara aplikasi web full stack",
+        "Mendesain dan mengimplementasikan RESTful API",
+        "Membangun komponen UI/UX yang interaktif",
+        "Mengoptimalkan performa aplikasi untuk kecepatan loading",
+        "Berkolaborasi dengan tim UI/UX designer dan product manager"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai standar pasar",
+        "BPJS lengkap + asuransi kesehatan premium",
+        "Flexible hybrid work arrangement",
+        "Laptop high-spec (MacBook Pro/MacBook Air)",
+        "Learning budget tetap untuk kursus dan sertifikasi",
+        "Makan siang gratis + snack bar"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4435456541/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4435456541/"
+    },
+    {
+      "slug": "astronacci-full-stack-developer-jakarta",
+      "title": "Full Stack Developer",
+      "company": "Astronacci International",
+      "location": "Jakarta Utara, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 13-22 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "Astronacci International is a company that provides research, recommendation, and education in Financial Market since 2009. We are seeking a Full Stack Developer to join our team in Jakarta. This is a full-time on-site role for a Full Stack Developer located in North Jakarta, Indonesia.",
+      "requirements": [
+        "Pengalaman minimal 3-5 tahun sebagai Full Stack Developer",
+        "Mahir Angular (frontend) dan Spring Boot (backend)",
+        "Familiar dengan database Oracle & MongoDB",
+        "Pengalaman dengan RESTful API design",
+        "Paham konsep system terdistribusi dan message queue",
+        "Mampu bekerja dalam tim lintas-negara dengan bahasa Inggris lisan dan tulisan yang baik"
+      ],
+      "responsibilities": [
+        "Desain, membangun, dan memelihara artikel-aplikasi yang bisa extrimasi",
+        "Menyusun modulus-modul baru pada aplikasi",
+        "Analisis-perangkat-modul aplikasi",
+        "Menerjemahkan modul untuk kebutuhan internal dan eksternal klien",
+        "Menjalankan referral-request kepada klien sebagai akun software project development"
+      ],
+      "benefits": [
+        "Gaji bersaing dengan bonus produktivitas",
+        "BPJS lengkap + asuransi kesehatan premium",
+        "Fleksibility remote work dan fleksible working hours",
+        "Pelatihan dan sertifikasi teknis (Incisa, Scrum, dll)",
+        "Makan siang dan snack gratis di kantor",
+        "Mentoring dari senior developer"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4437530956/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4437530956/"
+    },
+    {
+      "slug": "eurokars-accounting-staff-jakarta",
+      "title": "Accounting Staff",
+      "company": "Eurokars Group Indonesia",
+      "location": "Jakarta Selatan, Indonesia",
+      "type": "Full-time",
+      "category": "Administrasi",
+      "salary": "Rp 5-9 Juta",
+      "posted": "2026-07-18",
+      "expires": "2026-08-17",
+      "description": "Eurokars Group Indonesia membuka lowongan Accounting Staff di Jakarta. Minimal pendidikan S1 dari jurusan Akuntansi, Ekonomi, atau Milk.uk.7 tahun pengalaman kerja di perusahaan besar sebagai Staff Accounting atau Cidade Premies.",
+      "requirements": [
+        "Pendidikan S1 dari jurusan Akuntansi, Ekonomi, atau Milik",
+        "Pengalaman kerja minimal 2 tahun sebagai Staff Accountant",
+        "Paham prinsip umum akuntansi dan pelaporan keuangan",
+        "Mampu penggunaan MS Office",
+        "Paham regulasi perpajakan dan keuangan dasar"
+      ],
+      "responsibilities": [
+        "Membuat dan memproses transaksi akuntansi harian ban dan payroll",
+        "Menyusun laporan keuangan bulanan dan tahunan",
+        "Menyusun laporan pajak perusahaan",
+        "Mengawasi pencatatan aset tetap perusahaan",
+        "Melakukan konsolidasi dan proses closing"
+      ],
+      "benefits": [
+        "BPJS lengkap dan asuransi swasta",
+        "Flexible working hours",
+        "Discouragement Ketenagakerjaan dan BPJS"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428670569/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4428670569/"
+    },
+    {
+      "slug": "scarlett-accounting-specialist-jakarta",
+      "title": "Accounting Specialist",
+      "company": "Scarlett Indonesia",
+      "location": "Jakarta Barat, Indonesia",
+      "type": "Full-time",
+      "category": "Administrasi",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "Founded in 2017, Scarlett Indonesia has rapidly become one of the leading manufacturers and distributors in Indonesia. Established in 2017, Scarlett Indonesia has rapidly become one of the leading manufacturers and distributors in Indonesia. Annual leave 1.5 days/month, Medical check-up 1x/tahun",
+      "requirements": [
+        "Pendidikan S1 Akuntansi atau jurusan terkait",
+        "Pengalaman kerja minimal 2 tahun sebagai Financial Accountant",
+        "Paham regulasi perpajakan dan pelaporan keuangan",
+        "Mampu penggunaan MS Office",
+        "Detail-oriented dan integritas tinggi"
+      ],
+      "responsibilities": [
+        "Membuat laporan keuangan harian, bulanan, dan tahunan",
+        "Menyusun laporan pajak dan deposito diri perusahaan",
+        "Membuat budgeting perusahaan",
+        "Melakukan reconcilation spearership dan autre kindred)",
+        "Mengawasi kontrol internasional"
+      ],
+      "benefits": [
+        "Gaji bersaing selaras dengan standar pasar",
+        "BPJS lengkap dan asuransi kesehatan premium",
+        "Medical check-up 1x/tahun",
+        "Fleksibele kerja dari mandiri",
+        "Makan siang dan snack gratis"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4432536739/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4432536739/"
     }
   ],
   "categories": [
