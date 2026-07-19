@@ -9,6 +9,273 @@
   },
   "jobs": [
     {
+      "slug": "frontend-developer-one-indonesia-jakarta",
+      "title": "Frontend Developer",
+      "company": "ONE INDONESIA",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "ONE INDONESIA, perusahaan teknologi yang fokus pada solusi digital inovatif, membuka lowongan Frontend Developer untuk bergabung dengan tim engineering di Jakarta. Kamu akan bertanggung jawab mengembangkan dan mengimplementasikan komponen user interface menggunakan teknologi front-end modern, bekerja sama dengan tim UI/UX Designer untuk menciptakan pengalaman pengguna yang optimal. Posisi ini cocok untuk developer yang memiliki passion pada front-end development dan ingin berkontribusi pada produk digital yang berdampak luas.",
+      "requirements": [
+        "Pengalaman minimal 2-3 tahun sebagai Frontend Developer",
+        "Mahir HTML5, CSS3, JavaScript (ES6+), dan TypeScript",
+        "Pengalaman dengan React.js atau Vue.js dalam production",
+        "Paham responsive design, cross-browser compatibility, dan web performance optimization",
+        "Familiar dengan state management (Redux, Zustand, atau Vuex)",
+        "Pengalaman dengan Git dan build tools (Webpack, Vite)",
+        "Kemampuan komunikasi baik dan bisa kerja dalam tim",
+        "Bersedia bekerja di Jakarta (hybrid)"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara aplikasi front-end menggunakan teknologi modern",
+        "Berkolaborasi dengan UI/UX Designer untuk implementasi desain yang responsif dan user-friendly",
+        "Mengoptimalkan performa aplikasi untuk kecepatan loading dan user experience",
+        "Menulis kode yang bersih, terstruktur, dan mudah di-maintain",
+        "Berpartisipasi dalam code review dan diskusi teknis tim",
+        "Melakukan testing dan debugging untuk memastikan kualitas produk"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai standar industri",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan tambahan",
+        "Laptop dan peralatan kerja disediakan",
+        "Flexible working hours dan hybrid work arrangement",
+        "Kesempatan pengembangan karir dan pelatihan",
+        "Lingkungan kerja yang kolaboratif dan inovatif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/3799281045",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/3799281045",
+      "featured": true
+    },
+    {
+      "slug": "full-stack-engineer-produksee-depok",
+      "title": "Full Stack Engineer",
+      "company": "Produksee",
+      "location": "Depok, Jawa Barat, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "Produksee, perusahaan AI implementor yang membantu bisnis bertransformasi melalui adopsi AI praktis, mencari Full Stack Engineer untuk bergabung dengan tim awal mereka. Kamu akan menjadi bagian dari early hires di perusahaan AI agentic, membangun dan men-deploy aplikasi AI-driven nyata, dan bekerja dekat dengan founding team untuk membentuk arah produk dan strategi teknis. Posisi ini menawarkan kesempatan langka untuk membangun dari awal dan memiliki dampak besar pada pertumbuhan perusahaan.",
+      "requirements": [
+        "Pengalaman minimal 2-4 tahun sebagai Full Stack Developer",
+        "Mahir React.js atau Next.js untuk frontend development",
+        "Mahir Node.js atau Python untuk backend development",
+        "Paham database SQL (PostgreSQL/MySQL) dan NoSQL",
+        "Familiar dengan RESTful API design dan integrasi",
+        "Pengalaman dengan cloud platform (AWS/GCP) dan deployment",
+        "Familiar dengan Git, CI/CD, dan Docker",
+        "Tertarik dengan AI/ML dan pengembangan aplikasi AI-driven",
+        "Kemampuan problem-solving dan learning agility yang tinggi"
+      ],
+      "responsibilities": [
+        "Membangun dan mengembangkan aplikasi full-stack AI-driven dari awal hingga production",
+        "Bekerja dekat dengan founding team untuk menentukan arah produk dan strategi teknis",
+        "Mendesain dan mengimplementasikan arsitektur yang scalable dan maintainable",
+        "Mengintegrasikan AI/ML models ke dalam aplikasi production",
+        "Menulis kode yang bersih, ter-test, dan ter-dokumentasi dengan baik",
+        "Berpartisipasi dalam code review, design review, dan decision teknis",
+        "Membantu dalam proses deployment, monitoring, dan optimasi performa"
+      ],
+      "benefits": [
+        "Gaji kompetitif + equity (early-stage startup)",
+        "Kesempatan menjadi bagian dari early team yang membentuk arah perusahaan",
+        "Lingkungan kerja yang fleksibel dan remote-friendly",
+        "Exposure ke teknologi AI dan machine learning terkini",
+        "Mentoring langsung dari founding team yang berpengalaman",
+        "Kesempatan growth dan tanggung jawab yang besar sejak awal",
+        "Budget untuk learning dan pengembangan diri"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/full-stack-engineer-at-produksee-4323289603",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/full-stack-engineer-at-produksee-4323289603",
+      "featured": false
+    },
+    {
+      "slug": "copywriter-mifx-jakarta",
+      "title": "Copywriter",
+      "company": "MIFX (Monex Investindo Futures)",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "MIFX, platform trading terpercaya di Indonesia yang telah berpengalaman lebih dari 25 tahun di industri keuangan, mencari Copywriter kreatif untuk bergabung dengan tim marketing. Kamu akan bertanggung jawab menciptakan konten copywriting yang engaging untuk berbagai platform digital, membantu brand MIFX tetap relevan dan menarik di mata trader Indonesia. Posisi ini cocok untuk penulis kreatif yang memiliki minat di dunia trading dan finansial.",
+      "requirements": [
+        "Pengalaman minimal 1-2 tahun sebagai Copywriter, Content Writer, atau peran serupa",
+        "Portofolio copywriting yang kuat (wajib disertakan)",
+        "Kemampuan menulis dalam Bahasa Indonesia dan Inggris yang baik",
+        "Paham prinsip copywriting untuk digital marketing dan social media",
+        "Kreatif, detail-oriented, dan mampu bekerja dalam timeline",
+        "Familiar dengan SEO writing dan content strategy",
+        "Minat pada dunia trading, finansial, dan investasi adalah nilai plus"
+      ],
+      "responsibilities": [
+        "Menulis copy untuk website, landing page, email marketing, dan iklan digital",
+        "Membuat konten edukatif dan informatif seputar trading dan investasi",
+        "Berkolaborasi dengan tim marketing, design, dan product untuk campaign",
+        "Mengoptimalkan copy untuk SEO dan conversion rate",
+        "Melakukan riset topik dan tren industri untuk content planning",
+        "Mengelola brand voice dan konsistensi pesan di semua channel",
+        "Menganalisis performa konten dan memberikan rekomendasi improvement"
+      ],
+      "benefits": [
+        "Gaji kompetitif dengan bonus kinerja",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan tambahan",
+        "Lingkungan kerja profesional di perusahaan finansial terpercaya",
+        "Kesempatan belajar tentang trading dan pasar finansial",
+        "Pelatihan dan pengembangan karir",
+        "Fasilitas kantor yang nyaman di area Jakarta"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4416770965",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4416770965",
+      "featured": false
+    },
+    {
+      "slug": "brand-manager-heineken-multi-bintang-indonesia-jakarta",
+      "title": "Brand Manager - Heineken",
+      "company": "Multi Bintang Indonesia (Heineken Group)",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 18-30 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "Multi Bintang Indonesia, bagian dari HEINEKEN Group yang merupakan perusahaan bir premium global, mencari Brand Manager untuk memimpin brand Heineken di Indonesia. Kamu akan membangun kampanye, pengalaman, dan percakapan yang membuat brand tetap ikonik, relevan, dan tak terlupakan. Posisi ini membutuhkan pemahaman bahwa modern marketing adalah kombinasi kreativitas, commerce, budaya, dan eksekusi di bawah tekanan. Cocok untuk brand manager berpengalaman yang ingin bekerja di perusahaan multinasional terkemuka.",
+      "requirements": [
+        "Pengalaman minimal 4-6 tahun sebagai Brand Manager atau peran marketing senior",
+        "Pengalaman di FMCG, beverage, atau premium brand sangat diutamakan",
+        "Track record dalam mengelola brand campaign end-to-end",
+        "Pemahaman kuat tentang consumer insights, brand strategy, dan marketing analytics",
+        "Kemampuan storytelling dan creative campaign development",
+        "Pengalaman bekerja dengan creative agency dan media partner",
+        "Kemampuan Bahasa Inggris aktif (lisan & tulisan)",
+        "Bersedia bekerja di Jakarta (hybrid)"
+      ],
+      "responsibilities": [
+        "Memimpin brand strategy dan eksekusi untuk Heineken di Indonesia",
+        "Mengembangkan integrated marketing campaign yang innovatif dan impactful",
+        "Mengelola brand budget, P&L, dan marketing ROI",
+        "Berkolaborasi dengan sales, trade marketing, dan activation team",
+        "Melakukan consumer research dan market analysis untuk brand positioning",
+        "Mengelola brand communications di semua touchpoints",
+        "Membangun partnership dan sponsorship yang memperkuat brand equity"
+      ],
+      "benefits": [
+        "Gaji kompetitif standar perusahaan multinasional + bonus tahunan",
+        "Asuransi kesehatan premium untuk karyawan dan keluarga",
+        "BPJS Kesehatan, Ketenagakerjaan, dan life insurance",
+        "MacBook Pro dan peralatan kerja lengkap",
+        "Training dan development budget termasuk international exposure",
+        "Flexible hybrid work arrangement",
+        "Annual leave, parental leave, dan employee wellbeing program"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/brand-manager-heineken-at-multi-bintang-indonesia-4417460872",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/brand-manager-heineken-at-multi-bintang-indonesia-4417460872",
+      "featured": false
+    },
+    {
+      "slug": "data-analyst-enibly-technology-indonesia",
+      "title": "Data Analyst",
+      "company": "Enibly Technology",
+      "location": "Remote / Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "Enibly Technology, startup inovatif yang bergerak di bidang digital product development, mencari Data Analyst untuk bergabung dengan tim data mereka. Kamu akan bertanggung jawab melakukan analisis data, pemodelan statistik, dan mengkomunikasikan temuan kepada stakeholder untuk membantu pengambilan keputusan bisnis. Posisi ini cocok untuk analyst yang memiliki kemampuan analitis kuat dan nyaman bekerja dengan berbagai sistem data.",
+      "requirements": [
+        "Pengalaman minimal 1-2 tahun sebagai Data Analyst atau peran serupa",
+        "Mahir SQL untuk query dan manipulasi data",
+        "Pengalaman dengan Python atau R untuk analisis data",
+        "Paham statistical analysis, data modeling, dan data visualization",
+        "Pengalaman dengan tools seperti Tableau, Power BI, atau Google Data Studio",
+        "Kemampuan mengkomunikasikan insight data ke stakeholder non-teknis",
+        "Detail-oriented dan memiliki kemampuan problem-solving yang baik"
+      ],
+      "responsibilities": [
+        "Melakukan analisis data untuk mendukung pengambilan keputusan bisnis",
+        "Membangun dan memelihara dashboard serta laporan data",
+        "Melakukan data cleaning, validation, dan quality control",
+        "Mengidentifikasi tren dan pola dari data untuk business insight",
+        "Berkolaborasi dengan tim product, marketing, dan engineering",
+        "Menyusun presentasi data dan rekomendasi berbasis data",
+        "Mendokumentasikan proses analisis dan data pipeline"
+      ],
+      "benefits": [
+        "Gaji kompetitif dengan review tahunan",
+        "Remote work dengan fleksibilitas tinggi",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Akses ke tools dan platform data premium",
+        "Kesempatan belajar dan pengembangan karir",
+        "Lingkungan kerja startup yang dinamis dan inovatif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/3736884520",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/3736884520",
+      "featured": false
+    },
+    {
+      "slug": "product-designer-uiux-fore-coffee-jakarta",
+      "title": "Product Designer (UI/UX)",
+      "company": "Fore Coffee",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 10-17 Juta",
+      "posted": "2026-07-19",
+      "expires": "2026-08-18",
+      "description": "Fore Coffee, brand kopi kekinian yang berkembang pesat di Indonesia, mencari Product Designer (UI/UX) untuk bergabung dengan tim produk mereka. Kamu akan bertanggung jawab mendesain pengalaman pengguna yang intuitif dan menarik untuk aplikasi mobile Fore Coffee yang digunakan oleh jutaan pelanggan. Posisi ini ideal untuk desainer yang memiliki pemahaman kuat tentang user-centered design dan passion pada product design.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai UI/UX Designer atau Product Designer",
+        "Mahir menggunakan Figma untuk desain dan prototyping",
+        "Pemahaman kuat tentang user-centered design principles dan design thinking",
+        "Kemampuan visual design yang baik dan eye for detail",
+        "Pengalaman dengan usability testing dan user research",
+        "Portofolio yang menunjukkan proses desain end-to-end (wajib)",
+        "Kemampuan storytelling untuk mempresentasikan konsep desain",
+        "Familiar dengan design systems dan component libraries"
+      ],
+      "responsibilities": [
+        "Mendesain user experience dan user interface untuk aplikasi mobile Fore Coffee",
+        "Melakukan user research, usability testing, dan mengumpulkan feedback",
+        "Membuat wireframes, prototypes, dan high-fidelity mockups",
+        "Berkolaborasi dengan Product Manager dan Engineer dalam pengembangan fitur",
+        "Mengelola dan mengembangkan design system Fore Coffee",
+        "Menganalisis metrik produk dan data pengguna untuk iterasi desain",
+        "Menjaga konsistensi visual dan pengalaman di seluruh platform"
+      ],
+      "benefits": [
+        "Gaji kompetitif + bonus kinerja",
+        "BPJS Kesehatan, Ketenagakerjaan, dan asuransi tambahan",
+        "Minuman kopi gratis setiap hari di kantor",
+        "Laptop dan peralatan kerja disediakan",
+        "Lingkungan kerja startup yang kreatif dan dinamis",
+        "Kesempatan untuk menghadiri konferensi desain",
+        "Flexible working arrangement"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/product-designer-at-fore-coffee-4122762910",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/product-designer-at-fore-coffee-4122762910",
+      "featured": false
+    },
+    {
       "slug": "manulife-full-stack-developer-jakarta",
       "title": "Full Stack Developer",
       "company": "Manulife",
@@ -9280,12 +9547,12 @@
     }
   ],
   "categories": [
-    "Administrasi",
-    "Customer Service",
-    "Desain",
-    "Finance",
+    "Teknologi",
     "Konten & Kreatif",
     "Marketing",
-    "Teknologi"
+    "Desain",
+    "Customer Service",
+    "Administrasi",
+    "Finance"
   ]
 }
