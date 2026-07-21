@@ -9,6 +9,249 @@
   },
   "jobs": [
     {
+      "slug": "senior-software-engineer-core-experiences-speechify-jakarta",
+      "title": "Senior Software Engineer, Core Experiences",
+      "company": "Speechify",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 25-40 Juta",
+      "posted": "2026-07-21",
+      "expires": "2026-08-20",
+      "description": "Speechify, platform text-to-speech terkemuka dengan lebih dari 50 juta pengguna global, membuka lowongan Senior Software Engineer untuk bergabung dengan tim Core Experiences di Jakarta. Kamu akan bertanggung jawab membangun dan memelihara foundational services serta SDK yang menjadi tulang punggung pengalaman produk Speechify di berbagai platform. Posisi ini ideal untuk engineer yang passionate di intersection antara product dan infrastructure, dengan fokus pada design API yang jelas dan reliable.",
+      "requirements": [
+        "Minimal 5 tahun pengalaman sebagai Software Engineer",
+        "Mahir dalam TypeScript/JavaScript dan Node.js",
+        "Pengalaman solid dengan SDK development dan cross-platform services",
+        "Pemahaman kuat tentang API design, microservices, dan distributed systems",
+        "Pengalaman dengan cloud platform (AWS/GCP) dan containerization (Docker, Kubernetes)",
+        "Kemampuan problem-solving dan system design yang excellent",
+        "Bahasa Inggris aktif untuk kolaborasi tim global"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara foundational services dan SDK untuk produk Speechify",
+        "Merancang API yang jelas, reliable, dan scalable",
+        "Berkolaborasi dengan tim product dan infrastructure untuk deliver fitur",
+        "Melakukan code review dan memastikan kualitas kode sesuai standar",
+        "Mengoptimalkan performa sistem dan troubleshooting production issues",
+        "Berpartisipasi dalam technical planning dan architecture decisions"
+      ],
+      "benefits": [
+        "Gaji kompetitif dalam USD",
+        "Equity/stock options",
+        "Remote work dengan overlap timezone US",
+        "Flexible working hours",
+        "Health insurance untuk keluarga",
+        "Budget learning tahunan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/senior-software-engineer-core-experiences-jakarta-indonesia-at-speechify-4442501147",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/senior-software-engineer-core-experiences-jakarta-indonesia-at-speechify-4442501147",
+      "featured": true
+    },
+    {
+      "slug": "data-analyst-tukr-jakarta",
+      "title": "Data Analyst",
+      "company": "TUKR",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-14 Juta",
+      "posted": "2026-07-21",
+      "expires": "2026-08-20",
+      "description": "TUKR, perusahaan trading komoditas renewable yang berkembang pesat dengan fokus pada direct origination, membuka lowongan Data Analyst di Jakarta. Kamu akan bertanggung jawab menganalisis data untuk mengidentifikasi pola dan tren yang memberikan insight berharga untuk pengambilan keputusan strategis bisnis. Posisi ini cocok untuk profesional data yang ingin berkontribusi pada sektor renewable commodities yang sedang berkembang pesat di Indonesia.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Data Analyst",
+        "Mahir SQL dan database query (PostgreSQL, MySQL)",
+        "Pengalaman dengan Python untuk data analysis (Pandas, NumPy)",
+        "Familiar dengan BI tools (Tableau, Power BI, atau Looker)",
+        "Pemahaman tentang statistical analysis dan data visualization",
+        "Detail-oriented dan teliti dalam analisis"
+      ],
+      "responsibilities": [
+        "Menganalisis data untuk mengidentifikasi pola, tren, dan insight strategis",
+        "Membuat dashboard dan report untuk monitoring KPI bisnis",
+        "Berkolaborasi dengan tim trading dan operations untuk kebutuhan analisis",
+        "Menyajikan insight kepada stakeholder dalam format yang mudah dipahami",
+        "Melakukan ad-hoc analysis untuk kebutuhan bisnis"
+      ],
+      "benefits": [
+        "Gaji kompetitif + bonus kinerja",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Tunjangan makan dan transport",
+        "Pelatihan dan pengembangan skill",
+        "Lingkungan kerja startup yang dinamis"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/data-analyst-at-tukr-4080741810",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/data-analyst-at-tukr-4080741810",
+      "featured": false
+    },
+    {
+      "slug": "mobile-developer-code-id-jakarta",
+      "title": "Mobile Developer (React Native/Flutter)",
+      "company": "CODE.ID",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-21",
+      "expires": "2026-08-20",
+      "description": "CODE.ID, perusahaan teknologi yang fokus pada solusi mobile application development, membuka lowongan Mobile Developer di Jakarta. Kamu akan bertanggung jawab mengembangkan aplikasi mobile menggunakan React Native atau Flutter untuk berbagai klien enterprise. Posisi ini ideal untuk mobile developer yang ingin mengerjakan berbagai proyek menarik dengan teknologi terkini di lingkungan profesional.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Mobile Developer",
+        "Mahir React Native dan/atau Flutter",
+        "Pemahaman kuat tentang mobile application development dan best practices",
+        "Pengalaman dengan state management (Redux, Provider, Bloc)",
+        "Familiar dengan RESTful API integration",
+        "Bersedia bekerja di Jakarta"
+      ],
+      "responsibilities": [
+        "Mengembangkan aplikasi mobile menggunakan React Native atau Flutter",
+        "Mengimplementasikan UI/UX design menjadi kode yang performant",
+        "Mengintegrasikan aplikasi dengan backend API",
+        "Melakukan testing dan debugging untuk memastikan kualitas aplikasi",
+        "Berkolaborasi dengan tim design dan backend"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai pengalaman",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Tunjangan makan dan transport",
+        "Laptop kerja disediakan",
+        "Pelatihan dan sertifikasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/mobile-developer-at-code-id-4366934362",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/mobile-developer-at-code-id-4366934362",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-cetta-mandarin-cetta-online-class",
+      "title": "Content Writer (Cetta Mandarin)",
+      "company": "Cetta Online Class",
+      "location": "Remote, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 5-9 Juta",
+      "posted": "2026-07-21",
+      "expires": "2026-08-20",
+      "description": "Cetta Online Class, platform pembelajaran online yang menyediakan kelas bahasa Mandarin, membuka lowongan Content Writer untuk program Cetta Mandarin. Kamu akan bertanggung jawab mengembangkan konten edukatif untuk pembelajar bahasa Mandarin, mulai dari rencana konten bulanan hingga materi pembelajaran yang engaging dan interaktif. Posisi ini ideal untuk penulis kreatif yang memiliki minat besar di bidang pendidikan bahasa.",
+      "requirements": [
+        "Minimal S1 di bidang terkait (pendidikan, bahasa, komunikasi)",
+        "Kemampuan bahasa Mandarin minimal HSK 4",
+        "Pengalaman menulis konten minimal 1 tahun",
+        "Pemahaman tentang content strategy dan planning",
+        "Kreatif dan detail-oriented",
+        "Interest di bidang pendidikan dan pembelajaran bahasa"
+      ],
+      "responsibilities": [
+        "Mengembangkan rencana konten bulanan untuk pembelajar Mandarin",
+        "Membuat konten edukatif yang mengintegrasikan pembelajaran bahasa",
+        "Menulis materi pembelajaran, artikel, dan konten social media",
+        "Berkolaborasi dengan tim pengajar untuk memastikan akurasi konten",
+        "Mengoptimalkan konten berdasarkan feedback dan analytics"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai pengalaman",
+        "Work from home/remote",
+        "Jam kerja fleksibel",
+        "Akses gratis ke kelas bahasa Mandarin",
+        "Pelatihan dan pengembangan skill"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-cetta-mandarin-at-cetta-online-class-4392190601",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-cetta-mandarin-at-cetta-online-class-4392190601",
+      "featured": false
+    },
+    {
+      "slug": "graphic-designer-iseller-jakarta",
+      "title": "Graphic Designer",
+      "company": "iSeller Commerce",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-07-21",
+      "expires": "2026-08-20",
+      "description": "iSeller Commerce, platform POS dan manajemen bisnis all-in-one untuk merchant di Indonesia, membuka lowongan Graphic Designer di Jakarta. Kamu akan bertanggung jawab membuat desain visual yang menarik untuk berbagai kebutuhan marketing dan branding, mulai dari social media graphics, banner iklan, hingga materi presentasi. Posisi ini ideal untuk desainer kreatif yang ingin bekerja di lingkungan startup teknologi yang dinamis.",
+      "requirements": [
+        "Minimal 1 tahun pengalaman sebagai Graphic Designer",
+        "Mahir Adobe Creative Suite (Photoshop, Illustrator, After Effects)",
+        "Proficiency di Figma (nilai plus)",
+        "Portfolio yang menunjukkan kemampuan desain (wajib)",
+        "Kreatif dan memiliki eye for detail",
+        "Mampu bekerja dalam timeline dan target"
+      ],
+      "responsibilities": [
+        "Membuat desain visual untuk berbagai kebutuhan marketing dan branding",
+        "Mendesain social media graphics, banner iklan, dan materi promosi",
+        "Berkolaborasi dengan tim marketing untuk campaign visual",
+        "Menjaga konsistensi brand identity di semua platform",
+        "Membuat presentasi desain dan mockup untuk stakeholder"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Lingkungan kerja startup teknologi",
+        "Kesempatan develop portofolio",
+        "Jam kerja fleksibel"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/graphic-designer-at-iseller-commerce-4052953215",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/graphic-designer-at-iseller-commerce-4052953215",
+      "featured": false
+    },
+    {
+      "slug": "backend-developer-python-php-kazokku-jakarta",
+      "title": "Backend Developer (Python/PHP)",
+      "company": "KAZOKKU",
+      "location": "Jakarta Selatan, Indonesia",
+      "type": "Contract",
+      "category": "Teknologi",
+      "salary": "Rp 10-16 Juta",
+      "posted": "2026-07-21",
+      "expires": "2026-08-20",
+      "description": "KAZOKKU, perusahaan IT Outsourcing profesional yang merupakan bagian dari grup LOGIQUE, membuka lowongan Backend Developer untuk project klien BUMN di Jakarta Selatan. Posisi ini bersifat hybrid dengan kontrak minimal 3 bulan. Cocok untuk developer yang ingin mendapatkan eksposur proyek enterprise di lingkungan BUMN dengan fleksibilitas kontrak.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Backend Developer",
+        "Mahir Python (Django/Flask) atau PHP (Laravel)",
+        "Pengalaman dengan database PostgreSQL atau MySQL",
+        "Familiar dengan RESTful API design dan implementation",
+        "Pengalaman dengan Git workflow dan version control",
+        "Pemahaman tentang microservices adalah plus",
+        "Bersedia bekerja hybrid dari Pasar Minggu, Jakarta Selatan",
+        "Bersedia untuk kontrak minimal 3 bulan"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara backend services untuk klien BUMN",
+        "Merancang dan mengimplementasikan RESTful API",
+        "Berkolaborasi dengan tim frontend dan QA untuk deliver fitur",
+        "Menulis dokumentasi teknis dan API specification",
+        "Melakukan code review dan memastikan kualitas kode",
+        "Troubleshooting dan debugging production issues",
+        "Mengikuti standar dan prosedur klien BUMN"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai pengalaman",
+        "Kontrak fleksibel dengan possibility extension",
+        "BPJS selama masa kontrak",
+        "Hybrid working arrangement",
+        "Eksposur proyek enterprise BUMN",
+        "Mendapat pengalaman di lingkungan pemerintahan",
+        "Jam kerja reguler Senin-Jumat"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/backend-developer-python-php-at-kazokku-4251844114",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/backend-developer-python-php-at-kazokku-4251844114",
+      "featured": false
+    },
+    {
       "slug": "software-engineer-frontend-flip-jakarta",
       "title": "Software Engineer (Frontend) - Accept Payment Hybrid",
       "company": "Flip",
