@@ -1,247 +1,266 @@
+#!/usr/bin/env python3
+"""Insert new job listings into lowongan.json at index 0."""
 import json
-from datetime import date
+from datetime import datetime, timedelta
 
-# Read the original file
-with open('loker/lowongan.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
+today = datetime.now().strftime("%Y-%m-%d")
+expires = (datetime.now() + timedelta(days=30)).strftime("%Y-%m-%d")
 
-# New jobs to add (from web search results - real LinkedIn URLs)
 new_jobs = [
     {
-        "slug": "software-engineer-intern-oppo-indonesia",
-        "title": "Software Engineer Intern",
-        "company": "OPPO Indonesia Manufacturing",
-        "location": "Tangerang, Banten",
-        "type": "Internship",
-        "category": "Teknologi",
-        "salary": "Rp 4-7 Juta",
-        "posted": "2026-07-09",
-        "expires": "2026-10-09",
-        "description": "OPPO Indonesia Manufacturing membuka lowongan Software Engineer Intern untuk program magang 6 bulan (April - Oktober 2026). Lokasi di Kawasan Industri Bayur, Tangerang. Kamu akan belajar langsung dari engineer senior dalam mengembangkan sistem manufaktur dan aplikasi internal untuk operasional pabrik smartphone terdepan. Program ini cocok untuk mahasiswa semester akhir atau fresh graduate yang ingin hands-on experience di industri manufaktur teknologi global.",
-        "requirements": [
-            "Mahasiswa S1 Ilmu Komputer / Teknik Informatika / Teknik Elektro semester 6-8 atau fresh graduate max 1 tahun",
-            "Pemahaman dasar pemrograman: Python, Java, C++, atau Go",
-            "Paham konsep OOP, struktur data, dan algoritma dasar",
-            "Familiar dengan Git, Linux command line, dan database SQL",
-            "Bersedia full-time on-site di Tangerang selama 6 bulan",
-            "Komunikasi baik dan antusias belajar teknologi manufaktur (IoT, Automation, MES)"
-        ],
-        "responsibilities": [
-            "Membantu pengembangan dan maintenance aplikasi internal manufaktur (MES, WMS, QMS)",
-            "Berkolaborasi dengan tim IT & OT untuk integrasi sistem produksi",
-            "Membangun dashboard monitoring untuk production line menggunakan Python/Go",
-            "Mengotomatisasi tugas repetitif dengan script dan tooling internal",
-            "Melakukan testing, debugging, dan dokumentasi teknis",
-            "Belajar best practices software engineering di skala enterprise manufacturing"
-        ],
-        "benefits": [
-            "Uang saku magang kompetitif + transport + makan",
-            "Mentoring langsung dari Senior Software Engineer OPPO Global",
-            "Exposure ke teknologi manufaktur canggih (Smart Factory, IoT, AI Visual Inspection)",
-            "Sertifikat magang dan surat rekomendasi",
-            "Kesempatan karyawan tetap (PMT) untuk performa terbaik",
-            "Fasilitas kantin, gym, dan shuttle bus karyawan"
-        ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Software Engineer Intern di OPPO Indonesia Manufacturing. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-intern-at-oppo-indonesia-manufacturing-4403337642",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/software-engineer-intern-at-oppo-indonesia-manufacturing-4403337642",
-        "featured": True
-    },
-    {
-        "slug": "data-analytics-ai-analyst-new-graduate-abeam-consulting",
-        "title": "Data Analytics & AI Analyst - New Graduate 2026",
-        "company": "ABeam Consulting Indonesia",
-        "location": "Jakarta",
+        "slug": "backend-developer-asiatek-solusi-indonesia",
+        "title": "Backend Developer",
+        "company": "Asiatek Solusi Indonesia",
+        "location": "Jakarta, Indonesia",
         "type": "Full-time",
         "category": "Teknologi",
         "salary": "Rp 12-20 Juta",
-        "posted": "2026-07-09",
-        "expires": "2026-08-08",
-        "description": "ABeam Consulting Indonesia membuka program New Graduate Hiring 2026 untuk posisi Data Analytics & AI Analyst. Program ini dirancang untuk lulusan baru berperforma tinggi yang ingin memulai karir di konsultasi manajemen dan transformasi digital. Kamu akan bekerja pada proyek-proyek nyata: mengembangkan model prediktif, menganalisis big data, dan memberikan insight strategis untuk klien enterprise di berbagai industri (keuangan, manufaktur, retail, telekomunikasi). Pelatihan intensif dan mentorship dari consultant senior disediakan.",
+        "posted": today,
+        "expires": expires,
+        "description": "Asiatek Solusi Indonesia, perusahaan IT consulting yang fokus pada solusi perbankan digital, membuka lowongan Backend Developer untuk bergabung dengan tim pengembangan di Jakarta. Posisi ini menuntut pengalaman dalam pengembangan sistem backend berbasis Java dan Spring Boot, serta pemahaman mendalam tentang arsitektur microservices. Kamu akan terlibat dalam pengembangan dan pemeliharaan sistem perbankan skala enterprise yang melayani ribuan transaksi setiap harinya.",
         "requirements": [
-            "Fresh graduate S1/S2 (lulus 2025-2026) jurusan Statistika, Matematika, Ilmu Komputer, Data Science, atau terkait",
-            "IPK minimal 3.25/4.00",
-            "Kuantitatif kuat: statistik, machine learning, optimisasi, time series",
-            "Mahir Python (pandas, scikit-learn, TensorFlow/PyTorch) dan SQL",
-            "Pengalaman project/portfolio data science/ML (github/kaggle/academic) wajib dilampirkan",
-            "Bahasa Inggris aktif (lisan & tulisan) - wajib untuk engagement global",
-            "Logical thinking, problem solving, dan kemampuan presentasi ke klien"
+            "S1 di bidang Ilmu Komputer, Sistem Informasi, Teknik Informatika, atau bidang terkait",
+            "Minimal 3 tahun pengalaman sebagai Backend Developer",
+            "Pengalaman wajib di industri perbankan atau fintech",
+            "Mahir menggunakan Java, Spring Boot, dan JavaScript",
+            "Pengalaman dengan Microservices dan Apache Kafka",
+            "Pemahaman tentang RESTful API dan integrasi sistem",
+            "Kemampuan problem solving dan analisis yang baik"
         ],
         "responsibilities": [
-            "Mengembangkan model machine learning untuk kasus bisnis klien (churn prediction, demand forecasting, fraud detection, dll)",
-            "Melakukan exploratory data analysis pada dataset enterprise skala besar",
-            "Membangun dashboard dan visualisasi insight untuk C-level klien (Tableau/Power BI)",
-            "Berkolaborasi dengan consultant senior untuk define problem statement & solution design",
-            "Mendokumentasikan methodology, assumption, dan limitation model",
-            "Mengikuti program training terstruktur: consulting skill, domain knowledge, tech stack"
+            "Mengembangkan dan memelihara sistem backend untuk aplikasi perbankan",
+            "Merancang dan mengimplementasikan API dan microservices",
+            "Berkolaborasi dengan tim frontend dan QA untuk integrasi sistem",
+            "Melakukan code review dan memastikan kualitas kode",
+            "Mengoptimalkan performa dan keamanan sistem backend"
         ],
         "benefits": [
-            "Gaji kompetitif + sign-on bonus + performance bonus",
-            "BPJS Ketenagakerjaan & Kesehatan lengkap",
-            "Asuransi kesehatan global (cover keluarga)",
-            "Program pelatihan terstruktur 6 bulan (ABeam Academy)",
-            "Mentor dedicated senior consultant",
-            "Exposure proyek cross-industry & cross-border (APAC)",
-            "Jalur karir jelas: Analyst → Senior Analyst → Consultant → Manager"
+            "Gaji kompetitif (Rp 12-20 Juta)",
+            "BPJS Kesehatan dan Ketenagakerjaan",
+            "Asuransi kesehatan tambahan",
+            "Lingkungan kerja yang profesional",
+            "Kesempatan pengembangan karir"
         ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Data Analytics & AI Analyst New Graduate 2026 di ABeam Consulting Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/data-analytics-ai-analyst-new-graduate-2026-at-abeam-consulting-indonesia-4408658575",
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/backend-developer-at-asiatek-solusi-indonesia-4446053119",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/data-analytics-ai-analyst-new-graduate-2026-at-abeam-consulting-indonesia-4408658575",
-        "featured": False
+        "source_url": "https://id.linkedin.com/jobs/view/backend-developer-at-asiatek-solusi-indonesia-4446053119",
+        "featured": True
     },
     {
-        "slug": "digital-advertising-specialist-vritimes-indonesia",
-        "title": "Digital Advertising Specialist",
-        "company": "VRITIMES Indonesia",
-        "location": "Jakarta",
-        "type": "Full-time",
-        "category": "Marketing",
-        "salary": "Rp 8-15 Juta",
-        "posted": "2026-07-09",
-        "expires": "2026-08-08",
-        "description": "VRITIMES Indonesia, platform distribusi press release dan media monitoring terkemuka di Asia, mencari Digital Advertising Specialist untuk mengelola dan mengoptimalkan kampanye iklan digital across-platform. Kamu akan menjalankan iklan di Google Ads, Meta (Facebook/Instagram), TikTok Ads, X (Twitter), dan YouTube untuk mendorong akuisisi user B2B (PR professionals, marketer, corporate comms) serta brand awareness. Posisi ini hands-on, data-driven, dan cocok untuk digital marketer yang suka eksperimen creative, audience, dan bidding strategy.",
-        "requirements": [
-            "Pengalaman minimal 2 tahun hands-on digital advertising (agency atau in-house)",
-            "Mahir Google Ads (Search, Display, YouTube, Performance Max) dan Meta Ads Manager",
-            "Pengalaman TikTok Ads, X Ads, atau LinkedIn Ads adalah nilai plus",
-            "Paham funnel marketing B2B: lead gen, nurturing, conversion tracking",
-            "Kuantitatif: bisa analisis data dengan Excel/Google Sheets, Data Studio/Looker Studio",
-            "Kemampuan copywriting iklan singkat yang converting (ID & EN)",
-            "Portfolio kampanye dengan metric terukur (CPA, ROAS, CTR, CPL) wajib dilampirkan"
-        ],
-        "responsibilities": [
-            "Merencanakan, mengeksekusi, dan memonitor kampanye paid media harian di multi-platform",
-            "Mengelola budget iklan bulanan >Rp 500 juta dengan target ROAS efisien",
-            "Melakukan A/B testing creative, audience, landing page, dan bidding strategy",
-            "Membangun dan memaintain conversion tracking (GA4, GTM, CAPI, Enhanced Conversions)",
-            "Menyusun laporan performa mingguan/bulanan untuk management dengan actionable insight",
-            "Berkolaborasi dengan tim Creative & Content untuk produksi asset iklan",
-            "Riset kompetitor & eksplorasi channel/format iklan baru (misal: Reddit Ads, Quora Ads)"
-        ],
-        "benefits": [
-            "Gaji kompetitif + bonus performa bulanan berbasis ROAS/CPA target",
-            "BPJS Ketenagakerjaan dan Kesehatan",
-            "Budget iklan untuk eksperimen & pembelajaran (learning budget)",
-            "Flexible work arrangement (hybrid)",
-            "MacBook Pro dan tools kerja disediakan",
-            "Akses ke industri PRTech & MarTech Asia yang growing fast",
-            "Tim marketing yang collaborative dan data-driven"
-        ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Digital Advertising Specialist di VRITIMES Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/digital-advertising-specialist-at-vritimes-indonesia-4403335920",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/digital-advertising-specialist-at-vritimes-indonesia-4403335920",
-        "featured": False
-    },
-    {
-        "slug": "ui-ux-designer-remote-indonesia-hyge",
-        "title": "UI/UX Designer (Remote - Indonesia)",
-        "company": "Hyge Pte. Ltd.",
-        "location": "Remote (Indonesia)",
-        "type": "Full-time",
+        "slug": "internship-graphic-designer-seabank-indonesia",
+        "title": "Internship Graphic Designer",
+        "company": "SeaBank Indonesia",
+        "location": "Jakarta, Indonesia",
+        "type": "Internship",
         "category": "Desain",
-        "salary": "Rp 12-22 Juta",
-        "posted": "2026-07-09",
-        "expires": "2026-08-08",
-        "description": "Hyge, digital agency berbasis Singapura yang fokus pada UI/UX, engineering, dan project management untuk klien di Asia Tenggara, mencari UI/UX Designer fully remote berbasis Indonesia. Kamu akan merancang website dan aplikasi yang intuitif dan indah untuk klien beragam: startup teknologi, e-commerce, fintech, hingga brand lifestyle. Posisi ini cocok untuk desainer yang ingin kerja remote dengan standar global, kolaborasi cross-timezone (CET collaboration), dan project variety yang tinggi.",
+        "salary": "Rp 3-5 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "SeaBank Indonesia, bank digital yang berkembang pesat, membuka kesempatan magang untuk posisi Graphic Designer. Program magang ini berdurasi 6 bulan dengan jadwal kerja WFO (Work From Office) di kantor Jakarta. Cocok untuk mahasiswa tingkat akhir atau fresh graduate yang ingin mendapatkan pengalaman nyata di dunia desain grafis untuk industri perbankan digital.",
         "requirements": [
-            "Pengalaman minimal 2 tahun UI/UX Designer (agency atau in-house tech)",
-            "Portfolio kuat menunjukkan end-to-end process: research → wireframe → prototype → handoff",
-            "Mahir Figma (advanced: auto-layout, variants, design tokens, design systems)",
-            "Paham user research methods: usability testing, interviews, heuristic evaluation",
-            "Pengalaman design untuk responsive web & mobile app (iOS/Android guidelines)",
-            "Bisa kolaborasi efektif dengan developer (design handoff, spec, QA via Figma DevMode/Zeplin)",
-            "Bahasa Inggris aktif (lisan & tulisan) - wajib untuk meeting dengan klien/stakeholder global",
-            "Timezone flexible: available untuk overlap CET (sore/jam kerja malam Indonesia)"
+            "Mahasiswa tingkat akhir (tanpa kuliah offline) atau fresh graduate dari Jurusan Desain Komunikasi Visual, Seni Rupa, atau terkait",
+            "Bersedia magang 6 bulan penuh dengan jadwal WFO di Jakarta",
+            "Mulai bergabung Agustus 2026",
+            "Memahami design hierarchy: tipografi, grid system, color combination",
+            "Menguasai Adobe Photoshop, Illustrator, dan Figma",
+            "Memiliki portofolio desain yang menarik"
         ],
         "responsibilities": [
-            "Merancang UI/UX untuk website, web app, dan mobile app klien internasional",
-            "Melakukan user research & usability testing dengan user nyata",
-            "Membuat wireframe, high-fidelity mockup, interactive prototype di Figma",
-            "Mengembangkan & maintain design system: components, tokens, patterns, documentation",
-            "Berkolaborasi dengan PM & Engineer untuk discovery, definition, validasi solusi desain",
-            "Design QA saat development: review implementasi, feedback ke engineer",
-            "Presentasi desain ke klien non-teknis dengan narasi yang jelas & persuasif"
+            "Membuat aset desain untuk kebutuhan marketing digital",
+            "Mendesain materi promosi termasuk banner, poster, dan konten media sosial",
+            "Berkolaborasi dengan tim marketing dan brand",
+            "Membantu menjaga konsistensi brand identity",
+            "Mengikuti brief dan merealisasikan konsep desain"
         ],
         "benefits": [
-            "Gaji kompetitif (USD/IDR) + bonus performa",
-            "Fully remote - kerja dari mana saja di Indonesia",
-            "MacBook Pro M-series + monitor 4K + budget setup WFH",
-            "Budget learning tidak terbatas: kursus, sertifikasi (NN/g, Interaction Design Foundation), konferensi",
-            "Asuransi kesehatan premium",
-            "Tim multinasional, kolaboratif, low-ego",
-            "Project variety tinggi: fintech, SaaS, e-commerce, healthtech, lifestyle"
+            "Uang saku magang (Rp 3-5 Juta)",
+            "Pengalaman kerja di bank digital terkemuka",
+            "Sertifikat magang",
+            "Bimbingan dari mentor profesional",
+            "Relasi industri perbankan digital"
         ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan UI/UX Designer Remote Indonesia di Hyge. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-remote-%E2%80%93-indonesia-at-hyge-4262869476",
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/internship-graphic-designer-at-seabank-indonesia-4446009430",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-remote-%E2%80%93-indonesia-at-hyge-4262869476",
+        "source_url": "https://id.linkedin.com/jobs/view/internship-graphic-designer-at-seabank-indonesia-4446009430",
         "featured": False
     },
     {
-        "slug": "back-end-software-developer-timkado-indonesia",
-        "title": "Back End Software Developer",
-        "company": "PT Timkado Sejahtera Indonesia",
-        "location": "Jakarta",
-        "type": "Full-time",
-        "category": "Teknologi",
-        "salary": "Rp 15-25 Juta",
-        "posted": "2026-07-09",
-        "expires": "2026-08-08",
-        "description": "Timkado, travel technology company yang mengoperasikan jaringan WhatsApp Business private terbesar di Indonesia (kirim jutaan notifikasi bulanan untuk traveler internasional), mencari Back End Software Developer. Kamu akan membangun dan memelihara sistem backend skala besar: WhatsApp automation, AI-powered chatbot, notification engine, dan integration dengan 500+ travel consultant partners di Indonesia, Malaysia, dan Filipina. Tech stack: Go, Python, PostgreSQL, Redis, Kafka, Kubernetes, AWS. Cocok untuk engineer yang suka tantangan high-throughput, real-time messaging, dan distributed systems.",
+        "slug": "intern-brand-content-marketing-disney-plus",
+        "title": "Intern, Brand & Content Marketing (Disney+)",
+        "company": "The Walt Disney Company",
+        "location": "Jakarta, Indonesia",
+        "type": "Internship",
+        "category": "Marketing",
+        "salary": "Rp 5-8 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "The Walt Disney Company membuka lowongan Intern, Brand & Content Marketing untuk platform Disney+ Hotstar di Indonesia. Posisi ini akan mendukung kampanye marketing brand dan content, membantu koordinasi aset kreatif, bekerja sama dengan agency untuk mengelola aset campaign, serta memberikan dukungan strategis seperti mengembangkan brief dan mengumpulkan insight. Cocok untuk mahasiswa atau fresh graduate yang ingin merasakan pengalaman kerja di perusahaan hiburan kelas dunia.",
         "requirements": [
-            "Pengalaman minimal 3 tahun Backend Developer / Software Engineer",
-            "Mahir Go (primary) dan/atau Python untuk backend development",
-            "Pengalaman production dengan PostgreSQL, Redis, dan message queue (Kafka/RabbitMQ)",
-            "Paham microservices architecture, RESTful API, gRPC, dan API design",
-            "Pengalaman dengan Docker, Kubernetes (EKS/GKE), dan CI/CD (GitLab CI/GitHub Actions)",
-            "Strong understanding: concurrency, caching strategy, database indexing, observability (Prometheus/Grafana)",
-            "Pengalaman WhatsApp Business API / Twilio / messaging platform adalah nilai plus besar",
-            "Bisa komunikasi teknis efektif dalam Bahasa Inggris & Indonesia"
+            "Mahasiswa aktif atau fresh graduate dari jurusan Marketing, Komunikasi, Bisnis, atau bidang terkait",
+            "Minat kuat di bidang brand marketing dan content strategy",
+            "Kemampuan komunikasi dan koordinasi yang baik",
+            "Menguasai Microsoft Office (PowerPoint, Excel, Word)",
+            "Kreatif dan detail-oriented",
+            "Bersedia bekerja WFO di Jakarta"
         ],
         "responsibilities": [
-            "Mengembangkan & memelihara layanan backend core: notification engine, chatbot AI, partner API",
-            "Merancang arsitektur sistem untuk handle high concurrency (jutaan message/hari) dengan low latency",
-            "Membangun & mengoptimalkan database schema, query, dan indexing strategy",
-            "Implementasi observability: metrics, logs, traces, alerting untuk production reliability",
-            "Berkolaborasi dengan Frontend, Mobile, DevOps, dan Product untuk delivery fitur end-to-end",
-            "Code review, writing unit/integration test, drive engineering best practices",
-            "Troubleshooting production incidents, root cause analysis, dan postmortem"
+            "Mendukung pelaksanaan kampanye brand dan content marketing untuk Disney+",
+            "Membantu koordinasi pembuatan aset campaign dengan agency",
+            "Mengumpulkan dan menganalisis data insight untuk campaign",
+            "Membantu pengembangan brief kreatif",
+            "Melakukan riset kompetitor dan tren industri hiburan"
         ],
         "benefits": [
-            "Gaji kompetitif + bonus performa + ESOP (stock options)",
-            "BPJS Ketenagakerjaan dan Kesehatan lengkap",
-            "Asuransi kesehatan tambahan untuk keluarga",
-            "Flexible hybrid work arrangement (WFO/WFH)",
-            "MacBook Pro M-series + monitor eksternal + budget WFH setup",
-            "Budget pembelajaran & sertifikasi (AWS, GCP, CNCF, dll.)",
-            "Tim engineering senior, kolaboratif, engineering-culture kuat (RFC, tech sharing, hackathon)",
-            "Produk travel tech dengan user base nyata & impact bisnis terbukti"
+            "Pengalaman kerja di perusahaan hiburan global terkemuka",
+            "Uang saku magang kompetitif",
+            "Sertifikat pengalaman internasional",
+            "Networking dengan profesional industri kreatif",
+            "Akses ke platform Disney+"
         ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Back End Software Developer di PT Timkado Sejahtera Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/back-end-software-developer-at-pt-timkado-sejahtera-indonesia-4319355381",
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/intern-brand-content-marketing-disney+-jul-to-dec-2026-at-the-walt-disney-company-4382407207",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/back-end-software-developer-at-pt-timkado-sejahtera-indonesia-4319355381",
+        "source_url": "https://id.linkedin.com/jobs/view/intern-brand-content-marketing-disney+-jul-to-dec-2026-at-the-walt-disney-company-4382407207",
+        "featured": False
+    },
+    {
+        "slug": "creative-design-intern-wwf-indonesia",
+        "title": "Creative Design Intern",
+        "company": "WWF Indonesia",
+        "location": "Jakarta, Indonesia",
+        "type": "Internship",
+        "category": "Desain",
+        "salary": "Rp 3-5 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "WWF-Indonesia, organisasi konservasi terkemuka, mencari Creative Design Intern untuk mendukung pengembangan konten visual dan digital yang meningkatkan engagement staf serta mendukung adopsi inisiatif baru. Posisi ini berada di bawah tim People & Culture dan akan fokus pada desain komunikasi internal. Cocok untuk mahasiswa atau fresh graduate yang ingin mengembangkan portofolio di bidang desain untuk organisasi non-profit berskala internasional.",
+        "requirements": [
+            "Mahasiswa aktif atau fresh graduate dari jurusan Desain Komunikasi Visual, Seni Rupa, atau bidang terkait",
+            "Menguasai Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+            "Kemampuan desain grafis dan layout yang baik",
+            "Kreatif dan memiliki perhatian terhadap detail",
+            "Memahami brand guidelines dan konsistensi visual",
+            "Bersedia bekerja WFO di Jakarta"
+        ],
+        "responsibilities": [
+            "Membuat konten visual digital untuk komunikasi internal",
+            "Mendesain materi presentasi dan laporan",
+            "Membantu pengembangan aset visual untuk kampanye internal",
+            "Berkolaborasi dengan tim People & Culture",
+            "Menjaga konsistensi brand identity WWF"
+        ],
+        "benefits": [
+            "Uang saku magang kompetitif",
+            "Pengalaman kerja di organisasi konservasi global",
+            "Sertifikat magang",
+            "Jaringan profesional di sektor lingkungan dan konservasi",
+            "Kontribusi langsung pada misi pelestarian alam"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/creative-design-intern-at-wwf-indonesia-4319680479",
+        "source": "LinkedIn",
+        "source_url": "https://id.linkedin.com/jobs/view/creative-design-intern-at-wwf-indonesia-4319680479",
+        "featured": False
+    },
+    {
+        "slug": "accounting-staff-valbury-asia-group",
+        "title": "Accounting Staff",
+        "company": "Valbury Asia Group",
+        "location": "Jakarta, Indonesia",
+        "type": "Full-time",
+        "category": "Finance",
+        "salary": "Rp 6-9 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "Valbury Asia Group, perusahaan jasa keuangan terkemuka di Indonesia, membuka lowongan Accounting Staff. Posisi ini bertanggung jawab dalam mendukung tugas akuntansi sehari-hari termasuk pembukuan, persiapan laporan keuangan, dan rekonsiliasi data. Cocok untuk lulusan akuntansi yang ingin memulai karir di industri keuangan yang dinamis dan profesional.",
+        "requirements": [
+            "S1 Akuntansi dari universitas terkemuka",
+            "Memahami prinsip akuntansi dan standar pelaporan keuangan",
+            "Menguasai Microsoft Excel dan software akuntansi",
+            "Teliti, rapi, dan memiliki integritas tinggi",
+            "Kemampuan analisis data yang baik",
+            "Fresh graduate dipersilakan melamar"
+        ],
+        "responsibilities": [
+            "Membantu tugas akuntansi harian termasuk pembukuan",
+            "Mendukung persiapan laporan keuangan bulanan",
+            "Melakukan rekonsiliasi bank dan data transaksi",
+            "Membantu proses closing akuntansi bulanan",
+            "Mengelola dokumen dan arsip keuangan"
+        ],
+        "benefits": [
+            "Gaji kompetitif (Rp 6-9 Juta)",
+            "BPJS Kesehatan dan Ketenagakerjaan",
+            "Asuransi kesehatan",
+            "Pelatihan dan pengembangan karir",
+            "Lingkungan kerja profesional"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/accounting-staff-at-valbury-asia-group-4446043548",
+        "source": "LinkedIn",
+        "source_url": "https://id.linkedin.com/jobs/view/accounting-staff-at-valbury-asia-group-4446043548",
+        "featured": False
+    },
+    {
+        "slug": "content-creator-intern-red-comm-indonesia",
+        "title": "Content Creator Intern (Japan Pop Culture)",
+        "company": "RED Comm Indonesia",
+        "location": "Jakarta, Indonesia",
+        "type": "Internship",
+        "category": "Konten & Kreatif",
+        "salary": "Rp 3-5 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "RED Comm Indonesia, agensi komunikasi dan kreatif, membuka lowongan Content Creator Intern dengan fokus pada Japanese Pop Culture. Posisi ini cocok untuk mahasiswa atau fresh graduate yang kreatif, aktif di media sosial, dan memiliki passion terhadap budaya pop Jepang (anime, manga, J-music, dll). Kamu akan bertanggung jawab memproduksi konten TikTok kreatif berdurasi pendek yang engaging dan relevan dengan tren terkini.",
+        "requirements": [
+            "Mahasiswa aktif atau fresh graduate dari jurusan Komunikasi, Desain, atau terkait",
+            "Passion terhadap Japanese pop culture (anime, manga, J-pop, dll)",
+            "Kreatif dan up-to-date dengan tren TikTok",
+            "Pengalaman membuat konten video pendek (TikTok/Reels/Shorts)",
+            "Kemampuan editing video dasar (CapCut, Premiere Pro, atau sejenisnya)",
+            "Memiliki akun media sosial aktif"
+        ],
+        "responsibilities": [
+            "Memproduksi konten TikTok kreatif tentang Japanese pop culture",
+            "Membuat video pendek 15-30 detik yang engaging",
+            "Riset tren dan referensi konten yang relevan",
+            "Berkolaborasi dengan tim kreatif",
+            "Mengelola jadwal posting dan engagement"
+        ],
+        "benefits": [
+            "Uang saku magang (Rp 3-5 Juta)",
+            "Pengalaman di industri kreatif dan PR",
+            "Kebebasan berkreasi",
+            "Portofolio konten profesional",
+            "Networking dengan industri kreatif Jakarta"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/content-creator-intern-japan-pop-culture-at-red-comm-indonesia-4446007731",
+        "source": "LinkedIn",
+        "source_url": "https://id.linkedin.com/jobs/view/content-creator-intern-japan-pop-culture-at-red-comm-indonesia-4446007731",
         "featured": False
     }
 ]
 
-# Check for duplicates by slug
-existing_slugs = {job['slug'] for job in data['jobs']}
-new_jobs_filtered = [job for job in new_jobs if job['slug'] not in existing_slugs]
+# Read existing data
+with open('loker/lowongan.json', 'r') as f:
+    data = json.load(f)
 
-print(f"Existing jobs: {len(data['jobs'])}")
-print(f"New jobs to add: {len(new_jobs_filtered)}")
-for job in new_jobs_filtered:
-    print(f"  - {job['title']} ({job['company']}) - {job['source_url']}")
+# Insert new jobs at the beginning
+data['jobs'] = new_jobs + data['jobs']
 
-# Prepend new jobs to the jobs array
-data['jobs'] = new_jobs_filtered + data['jobs']
+# Recompute categories from unique job categories
+categories = sorted(list(set(j['category'] for j in data['jobs'] if j.get('category'))))
+data['categories'] = categories
 
 # Write back
-with open('loker/lowongan.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
+with open('loker/lowongan.json', 'w') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
 
-print(f"\nDone! Total jobs now: {len(data['jobs'])}")
+print(f"✅ Added {len(new_jobs)} new jobs at index 0")
+print(f"   Total jobs now: {len(data['jobs'])}")
+print(f"   Categories: {categories}")
+for j in new_jobs:
+    print(f"   - {j['title']} @ {j['company']} ({j['slug']})")
