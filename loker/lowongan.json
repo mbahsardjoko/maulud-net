@@ -9,6 +9,250 @@
   },
   "jobs": [
     {
+      "slug": "senior-software-engineer-quadrant-io",
+      "title": "Senior Software Engineer",
+      "company": "Quadrant.io",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 20-35 Juta",
+      "posted": "2026-07-31",
+      "expires": "2026-08-30",
+      "description": "Quadrant.io, perusahaan teknologi data yang berfokus pada pengembangan solusi data-driven untuk berbagai industri, sedang membuka lowongan Senior Software Engineer untuk tim di Jakarta. Posisi ini cocok untuk engineer berpengalaman yang ingin berkontribusi dalam merancang arsitektur sistem berskala besar, membangun layanan backend yang andal, dan memimpin inisiatif teknis bersama tim engineering. Kamu akan terlibat dalam siklus pengembangan produk secara penuh, mulai dari perancangan solusi, implementasi, hingga monitoring dan optimasi di production.",
+      "requirements": [
+        "S1 di bidang Ilmu Komputer, Teknik Informatika, atau bidang terkait",
+        "Minimal 5 tahun pengalaman sebagai software engineer",
+        "Menguasai minimal satu bahasa pemrograman backend seperti Go, Python, atau Node.js",
+        "Pengalaman merancang dan membangun RESTful API serta microservices",
+        "Familiar dengan database SQL dan NoSQL (PostgreSQL, MongoDB, atau sejenisnya)",
+        "Pengalaman dengan cloud platform (AWS, GCP, atau Azure)",
+        "Memahami konsep CI/CD, containerization (Docker), dan observability",
+        "Kemampuan komunikasi yang baik dan pengalaman mentoring engineer junior"
+      ],
+      "responsibilities": [
+        "Merancang dan mengembangkan fitur backend serta layanan data berskala tinggi",
+        "Memastikan kualitas kode melalui code review dan best practice engineering",
+        "Berkolaborasi dengan tim product, data, dan frontend dalam pengembangan fitur",
+        "Mengoptimalkan performa sistem dan menangani isu teknis di production",
+        "Mentoring engineer junior dan berbagi pengetahuan teknis ke tim"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 20-35 Juta)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan tambahan",
+        "Lingkungan kerja modern dan perangkat kerja yang memadai",
+        "Kesempatan berkembang bersama tim global",
+        "Program pengembangan diri dan pelatihan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/senior-software-engineer-at-quadrant-io-2929516425",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/senior-software-engineer-at-quadrant-io-2929516425",
+      "featured": true
+    },
+    {
+      "slug": "software-engineer-salesforce-interaktiv-technology",
+      "title": "Software Engineer - Salesforce.com",
+      "company": "InterAktiv Technology Pte Ltd",
+      "location": "Indonesia (Remote)",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-07-31",
+      "expires": "2026-08-30",
+      "description": "InterAktiv Technology Pte Ltd mencari Software Engineer dengan spesialisasi platform Salesforce.com. Kandidat ideal bertanggung jawab mengembangkan aplikasi berkualitas tinggi, merancang solusi yang testable dan scalable, serta mendukung kebutuhan bisnis klien yang menggunakan ekosistem Salesforce. Posisi ini terbuka untuk kandidat di Indonesia dengan skema kerja remote/fleksibel, cocok bagi engineer yang suka tantangan dan ingin berkembang di ekosistem CRM terbesar di dunia.",
+      "requirements": [
+        "S1 di bidang Ilmu Komputer, Teknik Informatika, atau bidang terkait",
+        "Pengalaman dengan platform Salesforce (Apex, Visualforce, Lightning Web Components)",
+        "Memahami konsep pengembangan aplikasi yang testable dan scalable",
+        "Familiar dengan bahasa pemrograman Java, JavaScript, atau sejenisnya",
+        "Pengalaman dengan REST/SOAP API dan integrasi sistem",
+        "Kemampuan analitis dan pemecahan masalah yang baik",
+        "Mampu bekerja mandiri maupun dalam tim"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara aplikasi berbasis platform Salesforce",
+        "Merancang solusi teknis yang testable dan scalable sesuai kebutuhan bisnis",
+        "Melakukan integrasi Salesforce dengan sistem internal maupun eksternal",
+        "Berkolaborasi dengan tim lintas fungsi untuk memahami requirement bisnis",
+        "Menulis dokumentasi teknis dan melakukan code review"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 12-20 Juta)",
+        "Skema kerja remote/fleksibel",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Kesempatan sertifikasi Salesforce",
+        "Lingkungan kerja internasional yang kolaboratif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-salesforce-com-at-interaktiv-technology-pte-ltd-3879760069",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/software-engineer-salesforce-com-at-interaktiv-technology-pte-ltd-3879760069",
+      "featured": false
+    },
+    {
+      "slug": "software-engineer-desktop-pt-inovasi-anak-indonesia",
+      "title": "Software Engineer (Desktop)",
+      "company": "PT Inovasi Anak Indonesia",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-07-31",
+      "expires": "2026-08-30",
+      "description": "PT Inovasi Anak Indonesia membuka lowongan Software Engineer (Desktop) untuk tim di Jakarta. Posisi ini fokus pada pengembangan aplikasi desktop, khususnya yang berkaitan dengan sistem micropayment dan Point of Sales (POS). Kandidat diharapkan memiliki pengalaman dengan Java dan Java Spring Boot, serta mampu bekerja dengan database relasional. Ini kesempatan bagus bagi engineer yang ingin mendalami pengembangan sistem desktop untuk industri ritel dan pembayaran.",
+      "requirements": [
+        "S1 di bidang Ilmu Komputer atau pengalaman setara",
+        "Minimal 1-3 tahun pengalaman sebagai software engineer",
+        "Menguasai Java dan Java Spring Boot",
+        "Pengalaman menangani sistem Micropayment dan Point of Sales menjadi nilai tambah",
+        "Familiar dengan database engine seperti PostgreSQL dan SQL Server",
+        "Mahir menggunakan tools versioning seperti Git",
+        "Pemahaman yang baik tentang relational database dan schema design"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara aplikasi desktop untuk sistem POS dan micropayment",
+        "Merancang database schema dan mengoptimalkan query",
+        "Berkoordinasi dengan tim produk dan tim teknis lainnya",
+        "Debugging dan perbaikan isu pada aplikasi production",
+        "Menjaga kualitas kode dan melakukan code review"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 7-12 Juta)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Lingkungan kerja yang mendukung pertumbuhan karier",
+        "Pengalaman menangani produk POS untuk pasar Indonesia",
+        "Tunjangan sesuai kebijakan perusahaan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-desktop-at-pt-inovasi-anak-indonesia-3359101548",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/software-engineer-desktop-at-pt-inovasi-anak-indonesia-3359101548",
+      "featured": false
+    },
+    {
+      "slug": "frontend-engineer-luwjistik",
+      "title": "Frontend Engineer",
+      "company": "Luwjistik",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-14 Juta",
+      "posted": "2026-07-31",
+      "expires": "2026-08-30",
+      "description": "Luwjistik, perusahaan teknologi logistik yang membangun platform digital untuk supply chain, sedang mencari Frontend Engineer untuk bergabung sebagai bagian dari pioneer team. Sebagai salah satu anggota tim awal, kamu akan berperan besar dalam membangun produk dari nol, menentukan arah teknis frontend, dan menciptakan user experience terbaik bagi pengguna platform logistik. Cocok untuk frontend engineer yang ambisius dan ingin memberikan dampak besar sejak awal.",
+      "requirements": [
+        "S1 di bidang Ilmu Komputer, Teknik Informatika, atau bidang terkait",
+        "Minimal 2 tahun pengalaman sebagai frontend engineer",
+        "Menguasai JavaScript modern (ES6+), HTML, dan CSS",
+        "Pengalaman dengan framework React.js atau Vue.js",
+        "Familiar dengan build tools seperti Webpack, Vite, atau sejenisnya",
+        "Pemahaman dasar tentang UI/UX dan responsive design",
+        "Pengalaman dengan REST API integration",
+        "Kemampuan bekerja dalam tim dan berkomunikasi dengan baik"
+      ],
+      "responsibilities": [
+        "Membangun dan mengembangkan aplikasi frontend untuk platform logistik",
+        "Berkolaborasi dengan desainer dan backend engineer dalam pengembangan fitur",
+        "Menentukan standar teknis frontend sebagai pioneer team",
+        "Mengoptimalkan performa aplikasi dan user experience",
+        "Melakukan code review dan memastikan kualitas kode"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 8-14 Juta)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Kesempatan membangun produk dari tahap awal",
+        "Lingkungan startup yang dinamis dan kolaboratif",
+        "Peluang pertumbuhan karier yang cepat"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/frontend-engineer-at-luwjistik-2823499398",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/frontend-engineer-at-luwjistik-2823499398",
+      "featured": false
+    },
+    {
+      "slug": "digital-marketing-manager-chery-indonesia",
+      "title": "Digital Marketing Manager",
+      "company": "Chery Indonesia",
+      "location": "Jakarta Selatan, Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-07-31",
+      "expires": "2026-08-30",
+      "description": "Chery Indonesia, anak perusahaan lokal dari Chery Automobile Co., Ltd., salah satu produsen otomotif terkemuka asal China, membuka lowongan Digital Marketing Manager. Posisi ini akan memimpin strategi pemasaran digital untuk brand otomotif, termasuk kampanye media sosial, digital advertising, dan pengelolaan ekosistem digital marketing secara menyeluruh. Kandidat ideal memiliki pengalaman kuat di bidang digital marketing, khususnya di industri otomotif atau consumer goods.",
+      "requirements": [
+        "S1 di bidang Marketing, Komunikasi, Bisnis, atau bidang terkait",
+        "Minimal 4-5 tahun pengalaman di bidang digital marketing",
+        "Pengalaman di industri otomotif atau consumer goods menjadi nilai tambah",
+        "Menguasai platform digital advertising (Google Ads, Meta Ads, TikTok Ads)",
+        "Pemahaman SEO, SEM, content marketing, dan social media strategy",
+        "Mampu menganalisis data dan menggunakan tools analytics (GA4, Looker Studio)",
+        "Kemampuan leadership dan manajemen tim yang baik",
+        "Fasih berkomunikasi dalam Bahasa Indonesia dan Bahasa Inggris"
+      ],
+      "responsibilities": [
+        "Menyusun dan mengeksekusi strategi digital marketing untuk brand Chery Indonesia",
+        "Mengelola kampanye digital advertising dan optimasi budget media",
+        "Memimpin tim digital marketing dan berkoordinasi dengan agency",
+        "Menganalisis performa kampanye dan menyusun laporan berkala",
+        "Berkolaborasi dengan tim brand, sales, dan product",
+        "Mengembangkan brand awareness dan engagement di kanal digital"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 10-18 Juta)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan tambahan",
+        "Kesempatan berkarier di perusahaan otomotif global",
+        "Lingkungan kerja profesional dan dinamis"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/digital-marketing-manager-at-chery-indonesia-4235877178",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/digital-marketing-manager-at-chery-indonesia-4235877178",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-berbagi-membagi",
+      "title": "Content Writer",
+      "company": "Berbagi Membagi",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 4-6 Juta",
+      "posted": "2026-07-31",
+      "expires": "2026-08-30",
+      "description": "Berbagi Membagi membuka lowongan Content Writer yang terbuka untuk mahasiswa semester 3 ke atas maupun fresh graduate. Posisi ini cocok untuk kamu yang punya kemampuan menulis yang baik, kreatif, dan tertarik mengembangkan konten yang inspiratif. Tidak wajib punya pengalaman — yang terpenting adalah semangat belajar dan kemampuan menulis yang rapi. Kamu akan terlibat dalam perencanaan dan produksi konten untuk berbagai kanal digital.",
+      "requirements": [
+        "Mahasiswa minimal semester 3 atau fresh graduate",
+        "Berpengalaman maupun belum berpengalaman diperbolehkan melamar",
+        "Kemampuan menulis dalam Bahasa Indonesia yang baik dan benar",
+        "Kreatif dan memiliki ide konten yang menarik",
+        "Teliti, rapi, dan mampu bekerja dalam tenggat waktu",
+        "Familiar dengan media sosial menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Menulis dan menyunting konten untuk berbagai kanal digital",
+        "Mengembangkan ide konten yang relevan dengan audiens",
+        "Berkolaborasi dengan tim konten dan desain",
+        "Melakukan riset topik sederhana untuk mendukung penulisan",
+        "Menjaga konsistensi tone of voice dan kualitas konten"
+      ],
+      "benefits": [
+        "Gaji sesuai standar (Rp 4-6 Juta)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Pengalaman kerja di industri konten digital",
+        "Lingkungan kerja yang suportif untuk fresh graduate",
+        "Kesempatan belajar dan berkembang bersama tim"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-berbagi-membagi-3030478227",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-berbagi-membagi-3030478227",
+      "featured": false
+    },
+    {
       "slug": "senior-web-frontend-engineer-julo",
       "title": "Senior Web Frontend Engineer",
       "company": "JULO",
