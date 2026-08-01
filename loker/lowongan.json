@@ -9,6 +9,215 @@
   },
   "jobs": [
     {
+      "slug": "frontend-developer-react-hirefeed",
+      "title": "Frontend Developer (React)",
+      "company": "Hire Feed",
+      "location": "Remote, Indonesia",
+      "type": "Contract",
+      "category": "Teknologi",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-08-01",
+      "expires": "2026-09-01",
+      "description": "Kami mencari Frontend Developer berbakat dengan pengalaman React untuk proyek contract. Anda akan membangun dan memelihara aplikasi web responsif menggunakan teknologi frontend modern. Bekerja dengan tim lintas fungsi untuk memberikan interface pengguna berkualitas tinggi dan meningkatkan pengalaman aplikasi. Posisi ini ideal untuk developer yang passionate tentang clean code dan ingin mengeksplorasi teknologi frontend terkini.",
+      "requirements": [
+        "Pengalaman minimal 1-2 tahun sebagai Frontend Developer",
+        "Kemampuan solid dengan React.js dan modern JavaScript (ES6+)",
+        "Pemahaman HTML, CSS, dan responsive design",
+        "Familiar dengan REST API dan async programming",
+        "Pengalaman dengan version control (Git)",
+        "Kemampuan komunikasi yang baik dan kolaboratif"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara aplikasi web responsif",
+        "Mengimplementasikan design mockup menjadi interactive components",
+        "Optimasi performa dan user experience aplikasi",
+        "Berkolaborasi dengan backend developer dan designer",
+        "Code review dan quality assurance",
+        "Debugging dan troubleshooting frontend issues"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 7-12 Juta)",
+        "Flexible working hours",
+        "Remote work opportunity",
+        "Professional development support"
+      ],
+      "how_to_apply": "Kirim lamaran Anda dengan portofolio GitHub atau portfolio website melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-react-remote-at-hire-feed-4434013900",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-react-remote-at-hire-feed-4434013900",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-seedbacklink",
+      "title": "Content Writer",
+      "company": "Seedbacklink",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 5-8 Juta",
+      "posted": "2026-08-01",
+      "expires": "2026-09-01",
+      "description": "Seedbacklink mencari Content Writer berbakat untuk bergabung dengan tim marketing kami. Anda akan bertanggung jawab membuat konten berkualitas tinggi dalam Bahasa Indonesia dan English untuk berbagai platform digital. Posisi ini cocok untuk penulis yang kreatif, memiliki kemampuan storytelling yang kuat, dan ingin mengembangkan karir di industri digital marketing.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Content Writer, Copywriter, atau posisi serupa",
+        "Kemampuan writing, editing, dan proofreading yang excellent dalam Bahasa Indonesia dan English",
+        "Pemahaman tentang SEO dan content optimization",
+        "Familiar dengan content management systems (CMS)",
+        "Kemampuan research dan fact-checking",
+        "Portfolio yang menunjukkan writing samples berkualitas"
+      ],
+      "responsibilities": [
+        "Membuat dan mengoptimasi konten untuk website dan blog",
+        "Menulis artikel, copywriting, dan marketing content",
+        "Mengedit dan proofreading konten sebelum publikasi",
+        "Mengimplementasikan SEO best practices",
+        "Berkolaborasi dengan marketing dan design team",
+        "Melacak content performance dan membuat improvement"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 5-8 Juta)",
+        "Asuransi kesehatan",
+        "Kesempatan professional development",
+        "Flexible working arrangement",
+        "Bonus performa bulanan"
+      ],
+      "how_to_apply": "Kirim lamaran dengan CV dan portfolio writing samples Anda melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/content-writer-at-seedbacklink-4410475085/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/content-writer-at-seedbacklink-4410475085/",
+      "featured": false
+    },
+    {
+      "slug": "product-manager-infinid-indonesia",
+      "title": "Product Manager",
+      "company": "Infinid Indonesia",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-18 Juta",
+      "posted": "2026-08-01",
+      "expires": "2026-09-01",
+      "description": "Infinid Indonesia sedang mencari Product Manager yang berpengalaman untuk memimpin strategi produk kami. Anda akan bertanggung jawab mendefinisikan dan memprioritaskan fitur produk, mengumpulkan requirements, dan memastikan delivery produk yang exceptional. Posisi ini ideal untuk PM yang visioner, data-driven, dan punya pengalaman dalam product development lifecycle.",
+      "requirements": [
+        "Minimal 3-5 tahun pengalaman sebagai Product Manager",
+        "Pemahaman mendalam tentang product development lifecycle",
+        "Kemampuan analytical dan data-driven decision making",
+        "Pengalaman dengan product roadmapping dan prioritization",
+        "Kemampuan berkomunikasi dengan stakeholder yang beragam",
+        "Familiar dengan Agile/Scrum methodology",
+        "Background teknis atau product analytics adalah plus"
+      ],
+      "responsibilities": [
+        "Mendefinisikan product vision dan strategy",
+        "Mengumpulkan dan menganalisis customer requirements",
+        "Membuat dan maintain product roadmap",
+        "Berkolaborasi dengan engineering, design, dan marketing team",
+        "Monitoring KPI dan product metrics",
+        "Iterasi produk berdasarkan user feedback dan market data",
+        "Presentasi product updates kepada stakeholder"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 12-18 Juta)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Bonus tahunan dan performance incentive",
+        "Laptop dan equipment premium",
+        "Flexible work arrangement",
+        "Professional development budget"
+      ],
+      "how_to_apply": "Kirim lamaran dengan CV, portfolio produk yang pernah dikerjakan, dan case study melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/3966586731",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/3966586731",
+      "featured": true
+    },
+    {
+      "slug": "data-analyst-spx-express",
+      "title": "Data Analyst",
+      "company": "SPX Express",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-08-01",
+      "expires": "2026-09-01",
+      "description": "SPX Express membuka lowongan Data Analyst untuk bergabung dengan tim data kami. Anda akan menganalisis data bisnis, membuat reports, dan memberikan insights untuk mendukung decision making perusahaan. Posisi ini cocok untuk analyst yang detail-oriented, analytical minded, dan punya passion dalam data visualization.",
+      "requirements": [
+        "Minimal 1-2 tahun pengalaman sebagai Data Analyst",
+        "Proficient dalam Google Spreadsheet dan Excel",
+        "Pengetahuan dasar SQL dan Python",
+        "Kemampuan data visualization dan storytelling",
+        "Familiar dengan analytics tools (Google Analytics, Tableau, atau Power BI)",
+        "Analytical dan problem-solving skills yang kuat",
+        "Attention to detail dan akurasi data"
+      ],
+      "responsibilities": [
+        "Menganalisis data bisnis dari berbagai sumber",
+        "Membuat reports dan dashboards untuk tracking KPI",
+        "Mengidentifikasi trends dan insights dari data",
+        "Membuat rekomendasi berdasarkan data analysis",
+        "Troubleshooting data issues dan data quality",
+        "Dokumentasi methodology dan analysis process",
+        "Kolaborasi dengan berbagai departemen untuk data needs"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 6-10 Juta)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Training untuk tools dan skills development",
+        "Hybrid work arrangement",
+        "Bonus performa",
+        "Career advancement opportunity"
+      ],
+      "how_to_apply": "Kirim lamaran dengan CV dan portfolio projects data analysis Anda melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/data-analyst-spx-express-jakarta-at-spx-express-4344316515",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/data-analyst-spx-express-jakarta-at-spx-express-4344316515",
+      "featured": false
+    },
+    {
+      "slug": "senior-frontend-developer-devstack",
+      "title": "Senior Frontend Developer",
+      "company": "DevStack",
+      "location": "Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-16 Juta",
+      "posted": "2026-08-01",
+      "expires": "2026-09-01",
+      "description": "DevStack mencari Senior Frontend Developer dengan pengalaman solid dalam membangun web dan React Native applications. Kami mencari developer yang passionate tentang clean code, reliable architecture, dan selalu explore teknologi frontend terkini. Posisi ini menawarkan kesempatan untuk lead technical direction dan mentor junior developers.",
+      "requirements": [
+        "Minimal 4-5 tahun pengalaman sebagai Frontend Developer",
+        "Expert level dengan React.js dan modern JavaScript",
+        "Pengalaman dengan React Native untuk mobile development",
+        "Solid understanding tentang web performance optimization",
+        "Familiar dengan state management libraries (Redux, Context API)",
+        "Pengalaman dengan testing frameworks dan best practices",
+        "Leadership dan mentoring skills"
+      ],
+      "responsibilities": [
+        "Develop dan maintain web dan mobile applications",
+        "Implementasi best practices untuk code quality dan performance",
+        "Mentor junior developers dan conduct code reviews",
+        "Design technical solutions untuk complex problems",
+        "Collaborate dengan product, design, dan backend teams",
+        "Lead frontend architecture decisions",
+        "Stay updated dengan latest frontend technologies dan trends"
+      ],
+      "benefits": [
+        "Gaji kompetitif (Rp 10-16 Juta)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Stock options atau equity opportunity",
+        "Equipment dan tools premium",
+        "Flexible working arrangement",
+        "Professional development budget",
+        "Health insurance dan wellness program"
+      ],
+      "how_to_apply": "Kirim lamaran dengan CV, GitHub profile, dan portfolio projects melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4380685800/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4380685800/",
+      "featured": false
+    },
+    {
       "slug": "ui-ux-designer-kredivo-group",
       "title": "UI/UX Designer",
       "company": "Kredivo Group",
