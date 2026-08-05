@@ -9,6 +9,217 @@
   },
   "jobs": [
     {
+      "slug": "bp-hse-internship-tangguh-lng",
+      "title": "HSE&C Internship Programme 2026 - Tangguh LNG",
+      "company": "bp",
+      "location": "Jakarta, Indonesia",
+      "type": "Internship",
+      "category": "Teknologi",
+      "salary": "Kompetitif (program magang)",
+      "posted": "2026-08-05",
+      "expires": "2026-09-04",
+      "description": "bp, perusahaan energi terkemuka global, membuka program magang HSE&C (Health, Safety, Environment & Carbon) 2026 untuk divisi Tangguh LNG. Program ini dirancang untuk mahasiswa atau fresh graduate yang ingin mengembangkan karir di industri energi dengan fokus pada keselamatan kerja, lingkungan, dan manajemen karbon. Peserta akan belajar langsung dari para ahli industri dan terlibat dalam proyek nyata di salah satu fasilitas LNG terbesar di Indonesia.",
+      "requirements": [
+        "Mahasiswa akhir atau fresh graduate S1 Teknik (Kimia, Mesin, Lingkungan, K3) atau bidang terkait",
+        "IPK minimal 3.00 skala 4.00",
+        "Memiliki minat kuat di bidang HSE, sustainability, dan industri energi",
+        "Kemampuan komunikasi Bahasa Indonesia dan Inggris yang baik",
+        "Bersedia ditempatkan di Jakarta dan/atau lokasi operasi Tangguh LNG",
+        "Mampu bekerja dalam tim dan memiliki sikap safety-first"
+      ],
+      "responsibilities": [
+        "Mendukung implementasi program HSE di area operasi Tangguh LNG",
+        "Mengasisten identifikasi risiko dan hazard assessment",
+        "Bertanggung jawab pada pelaporan insiden dan near-miss",
+        "Membantu pengembangan materi pelatihan safety untuk karyawan",
+        "Menganalisis data lingkungan dan emisi karbon",
+        "Berpartisipasi dalam audit internal dan eksternal HSE"
+      ],
+      "benefits": [
+        "Bantuan biaya transport dan makan selama magang",
+        "Mentoring dari senior HSE practitioner berpengalaman",
+        "Sertifikat magang dari perusahaan energi global",
+        "Kesempatan magang di proyek LNG kelas dunia",
+        "Jalur prioritas untuk program Graduate Programme bp",
+        "Asuransi kecelakaan kerja selama masa magang"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/2026-bp-id-tangguh-lng-hse-c-internship-programme-at-bp-4309549095",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/2026-bp-id-tangguh-lng-hse-c-internship-programme-at-bp-4309549095",
+      "featured": true
+    },
+    {
+      "slug": "aeon-indonesia-asisten-apoteker",
+      "title": "Asisten Apoteker",
+      "company": "AEON INDONESIA, PT",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Customer Service",
+      "salary": "Rp 5-8 Juta",
+      "posted": "2026-08-05",
+      "expires": "2026-09-04",
+      "description": "AEON INDONESIA, PT, brand ritel asal Jepang yang dikenal dengan omotenashi (hospitalitas khas Jepang), sedang membuka lowongan Asisten Apoteker untuk mendukung operasional apotek di berbagai outlet AEON Mall di Jakarta Raya. Posisi ini cocok untuk tenaga farmasi yang ingin berkarir di industri ritel modern dengan standar layanan internasional, berinteraksi langsung dengan pelanggan, dan memastikan ketersediaan serta keamanan produk farmasi.",
+      "requirements": [
+        "Lulusan D3/S1 Farmasi atau Profesi Apoteker",
+        "Memiliki STR (Surat Tanda Registrasi) Apoteker/Asisten Apoteker yang berlaku",
+        "Pengalaman minimal 1 tahun di apotek atau retail farmasi (fresh graduate dipersilakan melamar)",
+        "Memahami tata kelola apotek, obat keras, dan narcotika",
+        "Orientasi pelayanan pelanggan yang tinggi (customer-oriented)",
+        "Bersedia bekerja shift (malam/weekend) dan ditempatkan di outlet AEON Mall Jakarta Raya"
+      ],
+      "responsibilities": [
+        "Melayani pelanggan terkait konsultasi obat dan produk kesehatan",
+        "Mengelola penerimaan, penyimpanan, dan penataaan obat sesuai standar",
+        "Memastikan ketersediaan stok obat dan produk kesehatan",
+        "Mencatat dan melaporkan obat kedaluwarsa/kerusakan",
+        "Membantu apoteker tanggung jawab dalam compounding dan dispensing",
+        "Menjaga kebersihan dan ketertiban area apotek sesuai SOP"
+      ],
+      "benefits": [
+        "Gaji pokok + tunjangan shift + bonus kinerja",
+        "BPJS Kesehatan dan Ketenagakerjaan sehari pertama kerja",
+        "Diskon karyawan di seluruh outlet AEON Group",
+        "Program pelatihan dan pengembangan karir terstruktur",
+        "Tunjangan hari raya (THR) dan cuti tahunan",
+        "Lingkungan kerja dengan standar kebersihan dan keselamatan tinggi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/asisten-apoteker-at-aeon-indonesia-pt-4315574381",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/asisten-apoteker-at-aeon-indonesia-pt-4315574381",
+      "featured": false
+    },
+    {
+      "slug": "vidya-artha-teknisi-sipil-gedung",
+      "title": "Teknisi Sipil Gedung Apartemen",
+      "company": "PT Vidya Artha Tama",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-08-05",
+      "expires": "2026-09-04",
+      "description": "PT Vidya Artha Tama, perusahaan yang bergerak di bidang properti dan pengelolaan gedung apartemen, membuka lowongan Teknisi Sipil untuk penempatan di Jakarta. Posisi ini bertanggung jawab atas pemeliharaan rutin, perbaikan, dan inspeksi komponen struktur serta utilitas gedung apartemen tinggi. Cocok untuk teknisi sipil yang memiliki pengalaman di bangunan tinggi, memahami sistem MEP, dan mampu bekerja dalam tim maintenance properti.",
+      "requirements": [
+        "Lulusan D3/S1 Teknik Sipil atau Teknik Lingkungan",
+        "Pengalaman minimal 2 tahun sebagai teknisi sipil/maintenance di gedung bertingkat/apartemen",
+        "Memahami gambar teknik (denah, potongan, detail struktur)",
+        "Menguasai pemeliharaan struktur beton, finishing, dan waterproofing",
+        "Familiar dengan sistem MEP (listrik, plumbing, HVAC, fire protection)",
+        "Memiliki sertifikasi K3 (AHLI K3 Umum) menjadi nilai plus",
+        "Bersedia on-call dan bekerja shift jika diperlukan"
+      ],
+      "responsibilities": [
+        "Melakukan inspeksi rutin kondisi struktur gedung (lobbi, koridor, unit, area umum)",
+        "Menangani keluhan penyewa terkait kerusakan sipil (retak, bocor, kusen, lantai)",
+        "Menyusun jadwal dan melaksanakan preventive maintenance struktur",
+        "Koordinasi dengan vendor/contraktor untuk pekerjaan perbaikan besar",
+        "Mencatat dan mendokumentasikan hasil inspeksi serta perbaikan",
+        "Mendukung tim engineering dalam proyek renovasi/retrofit gedung"
+      ],
+      "benefits": [
+        "Gaji kompetitif + tunjangan teknis + overtime",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Seragam dan alat pelindung diri (APD) disediakan",
+        "Pelatihan teknis berkala (sertifikasi, safety, skill upgrade)",
+        "Tunjangan makan dan transport",
+        "Kesempatan karir ke posisi Senior Technician / Supervisor Maintenance"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/teknisi-sipil-gedung-apartement-at-pt-vidya-artha-tama-4360489650",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/teknisi-sipil-gedung-apartement-at-pt-vidya-artha-tama-4360489650",
+      "featured": false
+    },
+    {
+      "slug": "air-mas-perkasa-account-manager-b2b",
+      "title": "Account Manager Solusi B2B",
+      "company": "Air Mas Perkasa, PT",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 8-15 Juta + Komisi",
+      "posted": "2026-08-05",
+      "expires": "2026-09-04",
+      "description": "Air Mas Perkasa, PT, perusahaan yang bergerak di bidang solusi air dan layanan B2B, membuka lowongan Account Manager untuk mengelola hubungan dengan klien enterprise. Posisi ini bertanggung jawab mengembangkan dan memelihara portfolio klien korporat, memahami kebutuhan sistem air bersih/pengolahan air, serta menawarkan solusi yang tepat. Cocok untuk sales professional dengan latar belakang teknis atau engineering yang terbiasa siklus penjualan B2B panjang dan negosiasi tingkat manajemen.",
+      "requirements": [
+        "Lulusan S1 Teknik (Mesin, Kimia, Lingkungan, Sipil) atau Bisnis",
+        "Pengalaman minimal 3 tahun sales B2B, preferensi industri air/utility/engineering",
+        "Jaringan klien di sektor industri, komersial, atau pemerintah adalah nilai plus",
+        "Kemampuan presentasi teknis dan komersial yang meyakinkan",
+        "Mahir negosiasi kontrak, penawaran harga, dan closing deal",
+        "Bersedia travelling intensif di wilayah Jakarta dan sekitarnya",
+        "Fluent Bahasa Indonesia dan Inggris (lisan tulisan)"
+      ],
+      "responsibilities": [
+        "Mengidentifikasi dan mendekati calon klien enterprise untuk solusi air",
+        "Menyusun proposal teknis-komersial sesuai kebutuhan klien",
+        "Melakukan presentasi solusi ke stakeholder teknis dan pengambil keputusan",
+        "Mengelola siklus penjualan end-to-end: prospek → proposal → negosiasi → kontrak",
+        "Memelihara hubungan jangka panjang dengan klien existing (account retention)",
+        "Berkoordinasi dengan tim engineering dan operations untuk delivery proyek",
+        "Mencapai target revenue dan KPI bulanan/tahunan"
+      ],
+      "benefits": [
+        "Gaji pokok kompetitif + komisi penjualan yang menarik (uncapped)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Kendaraan operasional / tunjangan transport",
+        "Handphone dan laptop disediakan",
+        "Bonus pencapaian target kuartalan/tahunan",
+        "Pelatihan produk dan sales skill berkala"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/account-manager-solusi-b2b-at-pt-air-mas-perkasa-4312158415",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/account-manager-solusi-b2b-at-pt-air-mas-perkasa-4312158415",
+      "featured": false
+    },
+    {
+      "slug": "adient-it-operational-specialist",
+      "title": "IT Operational Specialist",
+      "company": "Adient (PT Adient Automotive Indonesia)",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-08-05",
+      "expires": "2026-09-04",
+      "description": "PT Adient Automotive Indonesia, bagian dari Adient global — pemasok sistem seating otomotif terbesar dunia — membuka lowongan IT Operational Specialist. Posisi ini bertanggung jawab memastikan kelancaran operasional infrastruktur IT di pabrik dan kantor, mencakup server, jaringan, virtualisasi, backup, dan keamanan sistem. Cocok untuk IT professional dengan latar belakang infrastructure yang ingin bekerja di lingkungan manufaktur kelas dunia dengan standar keamanan dan ketersediaan sistem yang ketat.",
+      "requirements": [
+        "S1 Teknik Informatika, Sistem Informasi, atau setara",
+        "Pengalaman minimal 3 tahun di IT Infrastructure / IT Operational",
+        "Menguasai: Windows Server, Active Directory, Group Policy, DNS, DHCP",
+        "Pengalaman dengan VMware vSphere / ESXi, Veeam Backup",
+        "Pemahaman jaringan: VLAN, VPN, Firewall, Switch/Router management",
+        "Familiar dengan ITIL framework dan incident/problem management",
+        "Sertifikasi (MCSA, VCP, ITIL, CCNA) menjadi nilai tambah",
+        "Bersedia on-site di area pabrik dan on-call rotation"
+      ],
+      "responsibilities": [
+        "Mengelola dan memonitor infrastruktur server, storage, dan virtualisasi",
+        "Memastikan ketersediaan sistem kritis produksi (MES, ERP, SCADA) 24/7",
+        "Melakukan patch management, backup/restore, dan disaster recovery testing",
+        "Mengelola Active Directory, user access, dan keamanan endpoint",
+        "Menangani incident IT tingkat lanjut dan koordinasi dengan vendor",
+        "Menyusun dan memperbarui dokumentasi infrastruktur & SOP operasional",
+        "Mendukung proyek digitalisasi pabrik (Industry 4.0, IoT, OT/IT convergence)"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai standar perusahaan multinasional",
+        "BPJS Kesehatan dan Ketenagakerjaan + asuransi tambahan",
+        "THR, bonus tahunan, dan tunjangan shift/on-call",
+        "Pelatihan sertifikasi IT (Microsoft, VMware, dll) dibiayakan perusahaan",
+        "Lingkungan kerja manufaktur global dengan standar safety tinggi",
+        "Jenjang karir ke IT Manager / Infrastructure Lead"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/it-operational-specialist-at-adient-4435022581",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/it-operational-specialist-at-adient-4435022581",
+      "featured": false
+    },
+    {
       "slug": "backend-engineer-paragoncorp-jakarta",
       "title": "Backend Engineer (Express.js & PostgreSQL)",
       "company": "ParagonCorp",
