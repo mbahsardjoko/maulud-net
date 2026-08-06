@@ -9,6 +9,252 @@
   },
   "jobs": [
     {
+      "slug": "backend-engineer-garena-jakarta",
+      "title": "Backend Engineer",
+      "company": "Garena",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "Garena Indonesia, perusahaan teknologi gaming dan e-commerce terkemuka di Asia Tenggara, membuka lowongan untuk posisi Backend Engineer. Kamu akan bertanggung jawab merancang, membangun, dan memelihara arsitektur server-side untuk aplikasi web skala besar, mengintegrasikan sistem backend tradisional dengan teknologi modern untuk mendukung jutaan pengguna aktif setiap harinya. Ini adalah kesempatan bergabung dengan tim engineering yang solid di perusahaan yang terus berkembang pesat.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Backend Engineer atau Software Engineer",
+        "Menguasai bahasa pemrograman backend (Node.js, Python, Go, Java, atau sejenisnya)",
+        "Pengalaman dengan database relasional (PostgreSQL, MySQL) dan NoSQL (MongoDB, Redis)",
+        "Paham konsep RESTful API, microservices, dan distributed systems",
+        "Familiar dengan cloud platform (AWS, GCP, atau Azure)",
+        "Kemampuan problem-solving yang kuat dan dapat bekerja dalam tim"
+      ],
+      "responsibilities": [
+        "Merancang dan membangun arsitektur server-side aplikasi web yang scalable",
+        "Mengintegrasikan sistem backend tradisional dengan teknologi modern",
+        "Mengoptimasi performa API dan database untuk mendukung traffic tinggi",
+        "Berkolaborasi dengan frontend engineer dan product manager",
+        "Melakukan code review dan memastikan kualitas code sesuai standar",
+        "Troubleshooting dan debugging issue production"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai pengalaman dan skill",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Bonus performa dan insentif tahunan",
+        "Kesempatan kerja di perusahaan teknologi regional",
+        "Fasilitas training dan pengembangan skill",
+        "Lingkungan kerja yang dinamis dan kolaboratif"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4432256339/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/4432256339/",
+      "featured": true
+    },
+    {
+      "slug": "data-analyst-pt-bank-central-asia",
+      "title": "Data Analyst",
+      "company": "PT Bank Central Asia Tbk",
+      "location": "Jakarta Pusat, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-14 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "PT Bank Central Asia Tbk (BCA), salah satu bank terbesar di Indonesia, membuka lowongan untuk posisi Data Analyst. Kamu akan bekerja dengan data dalam skala besar untuk menghasilkan insight bisnis yang mendukung pengambilan keputusan strategis bank. Posisi ini cocok untuk kamu yang memiliki passion di bidang data analytics dan ingin berkontribusi di industri perbankan yang terus bertransformasi digital.",
+      "requirements": [
+        "Minimal S1 dari berbagai jurusan (Statistik, Matematika, Teknik Informatika, atau terkait)",
+        "Pengalaman sebagai Data Analyst minimal 1-2 tahun (fresh graduate dengan skill kuat dipertimbangkan)",
+        "Menguasai SQL untuk query dan manipulasi data",
+        "Familiar dengan tools visualisasi data seperti Power BI, Qliksense, atau Tableau",
+        "Pengalaman dengan D3.js atau tools visualisasi lain merupakan nilai tambah",
+        "Kemampuan analisis data yang kuat dan detail-oriented"
+      ],
+      "responsibilities": [
+        "Mengumpulkan dan mengolah data dari berbagai sumber internal bank",
+        "Melakukan analisis data untuk mengidentifikasi trend dan pattern",
+        "Membuat dashboard dan visualisasi data menggunakan Power BI atau Qliksense",
+        "Menyusun laporan analisis untuk mendukung business decision making",
+        "Berkolaborasi dengan tim business dan IT untuk project data-driven",
+        "Memberikan rekomendasi actionable berdasarkan hasil analisis data"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai industri perbankan",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Tunjangan hari raya dan bonus tahunan",
+        "Program pelatihan dan sertifikasi profesional",
+        "Jenjang karir yang jelas di perusahaan BUMN",
+        "Kesempatan kerja di lingkungan perbankan modern"
+      ],
+      "how_to_apply": "Kirim lamaran melalui Kalibrr. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.kalibrr.com/c/bank-central-asia-1/jobs/152018/data-analyst",
+      "source": "Kalibrr",
+      "source_url": "https://www.kalibrr.com/c/bank-central-asia-1/jobs/152018/data-analyst",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-alodokter-jakarta",
+      "title": "Content Writer",
+      "company": "Alodokter",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "Alodokter, platform kesehatan digital terkemuka di Indonesia dengan jutaan pengguna aktif, membuka lowongan untuk Content Writer. Kamu akan bergabung dengan tim Content yang dikelola oleh Senior Content Editor berpengalaman dan Medical Editor profesional. Posisi ini ideal untuk kamu yang passionate dalam menulis konten kesehatan yang informatif, akurat, dan mudah dipahami oleh masyarakat luas.",
+      "requirements": [
+        "Minimal S1 dari berbagai jurusan (Komunikasi, Jurnalistik, atau terkait)",
+        "Pengalaman menulis konten minimal 1-2 tahun (fresh graduate dengan portfolio kuat dipertimbangkan)",
+        "Memiliki kemampuan menulis yang baik dengan bahasa Indonesia yang rapi",
+        "Mampu melakukan riset mendalam dan menulis konten berbasis data",
+        "Tertarik dengan topik kesehatan dan medis",
+        "Detail-oriented dan mampu bekerja dengan deadline"
+      ],
+      "responsibilities": [
+        "Menulis artikel kesehatan yang informatif, akurat, dan SEO-friendly",
+        "Melakukan riset mendalam untuk memastikan akurasi informasi medis",
+        "Berkolaborasi dengan Medical Editor untuk review konten",
+        "Mengoptimasi konten untuk search engine dan user experience",
+        "Menyusun editorial calendar dan content plan",
+        "Memastikan konsistensi tone of voice dan brand guideline Alodokter"
+      ],
+      "benefits": [
+        "Gaji kompetitif sesuai pengalaman",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Bonus performa dan insentif",
+        "Kesempatan belajar dari Medical Editor profesional",
+        "Lingkungan kerja yang mendukung growth dan learning",
+        "Kontribusi langsung pada literasi kesehatan masyarakat Indonesia"
+      ],
+      "how_to_apply": "Kirim lamaran melalui Kalibrr. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.kalibrr.com/c/alodokter/jobs/231770/content-writer",
+      "source": "Kalibrr",
+      "source_url": "https://www.kalibrr.com/c/alodokter/jobs/231770/content-writer",
+      "featured": false
+    },
+    {
+      "slug": "ui-ux-designer-jakarta-selatan",
+      "title": "UI/UX Designer",
+      "company": "Perusahaan Premium",
+      "location": "Jakarta Selatan, Indonesia",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 6-9 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "Sebuah perusahaan premium di Jakarta Selatan membuka lowongan untuk UI/UX Designer. Kamu akan bertanggung jawab merancang pengalaman pengguna yang intuitif dan interface yang menarik untuk produk digital perusahaan. Posisi ini cocok untuk designer yang passionate dalam menciptakan desain yang user-centric dan berdampak langsung pada kepuasan pengguna.",
+      "requirements": [
+        "Minimal 1-2 tahun pengalaman sebagai UI/UX Designer",
+        "Menguasai tools desain seperti Figma, Sketch, atau Adobe XD",
+        "Memahami prinsip User-Centered Design dan Design Thinking",
+        "Portfolio yang menunjukkan kemampuan UI/UX design",
+        "Familiar dengan user research dan usability testing",
+        "Kemampuan komunikasi yang baik untuk kolaborasi dengan tim"
+      ],
+      "responsibilities": [
+        "Melakukan user research untuk memahami kebutuhan dan pain points pengguna",
+        "Merancang wireframe, mockup, dan prototype untuk produk digital",
+        "Membuat design system dan guideline untuk konsistensi UI",
+        "Melakukan usability testing dan iterasi desain berdasarkan feedback",
+        "Berkolaborasi dengan product manager dan developer",
+        "Memastikan implementasi desain sesuai dengan spesifikasi"
+      ],
+      "benefits": [
+        "Gaji Rp 6-9 Juta sesuai pengalaman",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Bonus dan insentif performa",
+        "Lingkungan kerja yang kreatif dan supportive",
+        "Kesempatan mengembangkan skill di perusahaan premium",
+        "Flexible working arrangement"
+      ],
+      "how_to_apply": "Kirim lamaran melalui Glints. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://glints.com/id/find-jobs/loker-ui-ux-designer-jakarta",
+      "source": "Glints",
+      "source_url": "https://glints.com/id/find-jobs/loker-ui-ux-designer-jakarta",
+      "featured": false
+    },
+    {
+      "slug": "marketing-manager-gojek-jakarta",
+      "title": "Marketing Manager",
+      "company": "Gojek",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "Gojek, super app terkemuka di Indonesia dengan layanan transportasi, food delivery, payment, dan berbagai layanan on-demand lainnya, membuka lowongan untuk Marketing Manager. Kamu akan memimpin strategi marketing dan campaign untuk meningkatkan brand awareness serta user acquisition. Posisi ini cocok untuk marketer berpengalaman yang siap menghadapi tantangan di industri teknologi yang dinamis.",
+      "requirements": [
+        "Minimal 4-5 tahun pengalaman di bidang marketing, minimal 2 tahun di posisi manajerial",
+        "Pengalaman dalam digital marketing, campaign management, dan brand strategy",
+        "Memiliki track record sukses dalam mengelola marketing campaign skala besar",
+        "Data-driven mindset dengan kemampuan analisis marketing metrics yang kuat",
+        "Excellent communication dan leadership skills",
+        "Pengalaman di industri tech/startup menjadi nilai tambah"
+      ],
+      "responsibilities": [
+        "Merancang dan mengeksekusi strategi marketing untuk meningkatkan brand awareness",
+        "Mengelola marketing campaign multi-channel (digital, social media, offline)",
+        "Memimpin tim marketing dan berkolaborasi dengan tim product dan sales",
+        "Menganalisis marketing performance dan ROI campaign",
+        "Mengelola budget marketing dan memastikan efisiensi spending",
+        "Melakukan market research dan competitor analysis untuk insight strategis"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 15-25 Juta sesuai pengalaman",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Bonus tahunan dan stock option",
+        "Kesempatan kerja di super app terkemuka Indonesia",
+        "Lingkungan kerja yang fast-paced dan innovative",
+        "Career development dan leadership training"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/3608543322/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/3608543322/",
+      "featured": false
+    },
+    {
+      "slug": "backend-software-engineer-kimia-farma-jakarta",
+      "title": "Backend Software Engineer",
+      "company": "Kimia Farma (Persero) Tbk",
+      "location": "Jakarta Pusat, Indonesia",
+      "type": "Contract",
+      "category": "Teknologi",
+      "salary": "Rp 10-15 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "PT Kimia Farma (Persero) Tbk, perusahaan farmasi BUMN terbesar di Indonesia, membuka lowongan untuk Backend Software Engineer dengan kontrak kerja. Kamu akan mengembangkan dan mengoptimasi backend services untuk mendukung transformasi digital Kimia Farma. Posisi ini menggunakan tech stack PHP Laravel atau Node.js untuk backend, dengan integrasi frontend menggunakan Laravel Blade, React, atau Vue. Cocok untuk engineer yang ingin berkontribusi di industri kesehatan.",
+      "requirements": [
+        "Minimal S1 Teknik Informatika, Sistem Informasi, atau terkait",
+        "Pengalaman minimal 2-3 tahun sebagai Backend Engineer",
+        "Menguasai PHP Laravel atau Node.js untuk backend development",
+        "Familiar dengan frontend framework (Laravel Blade, React, atau Vue)",
+        "Pengalaman dengan RESTful API dan database (MySQL/PostgreSQL)",
+        "Kemampuan problem-solving dan teamwork yang baik"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan maintain backend services menggunakan PHP Laravel atau Node.js",
+        "Mengintegrasikan backend dengan frontend (Laravel Blade/React/Vue)",
+        "Merancang dan mengoptimasi database schema dan queries",
+        "Membangun RESTful API untuk aplikasi internal perusahaan",
+        "Melakukan testing dan debugging untuk memastikan kualitas code",
+        "Berkolaborasi dengan tim digital transformation untuk project implementasi"
+      ],
+      "benefits": [
+        "Gaji Rp 10-15 Juta per bulan (kontrak)",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Kesempatan kerja di BUMN terkemuka",
+        "Pengalaman di industri farmasi dan healthcare",
+        "Lingkungan kerja profesional",
+        "Potensi perpanjangan kontrak atau pengangkatan tetap"
+      ],
+      "how_to_apply": "Kirim lamaran melalui Jobstreet. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.jobstreet.co.id/backend-software-engineer-jobs",
+      "source": "Jobstreet",
+      "source_url": "https://www.jobstreet.co.id/backend-software-engineer-jobs",
+      "featured": false
+    },
+    {
       "slug": "bp-hse-internship-tangguh-lng",
       "title": "HSE&C Internship Programme 2026 - Tangguh LNG",
       "company": "bp",
