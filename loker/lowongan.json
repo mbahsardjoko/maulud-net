@@ -9,6 +9,218 @@
   },
   "jobs": [
     {
+      "slug": "fresh-graduate-byd-indonesia-bandung",
+      "title": "Fresh Graduate Hiring 2026",
+      "company": "BYD Indonesia",
+      "location": "Bandung, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-12 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "BYD Indonesia, perusahaan teknologi energi terbarukan dan kendaraan listrik global, membuka program Fresh Graduate Hiring 2026 untuk penempatan di Bandung. Program ini dirancang untuk lulusan baru yang ingin memulai karir di industri mobil listrik dan energi bersih yang berkembang pesat. Kamu akan mendapat pelatihan intensif dan kesempatan berkontribusi pada project nyata di perusahaan inovatif berbasis global.",
+      "requirements": [
+        "Lulusan S1/D3 terbaru (tahun 2024-2026) dari jurusan Teknik, Informatika, Bisnis, atau terkait",
+        "IPK minimal 3.00 skala 4.00",
+        "Memiliki minat kuat pada industri EV, energi terbarukan, atau manufaktur canggih",
+        "Bisa berkomunikasi dengan baik dalam Bahasa Indonesia dan Inggris",
+        "Bersedia ditempatkan di Bandung, Jawa Barat",
+        "Memiliki semangat belajar tinggi dan adaptif di lingkungan kerja multinasional"
+      ],
+      "responsibilities": [
+        "Mengikuti program onboarding dan pelatihan teknis/manajerial selama 6-12 bulan",
+        "Bertugas di divisi yang sesuai dengan latar belakang pendidikan dan minat",
+        "Mendukung tim senior dalam eksekusi project harian",
+        "Belajar proses bisnis, standar kualitas, dan kultur kerja BYD",
+        "Menyusun laporan progress mingguan dan bulanan",
+        "Berpartisipasi dalam program rotasi antar departemen (jika berlaku)"
+      ],
+      "benefits": [
+        "Gaji awal kompetitif Rp 8-12 Juta + tunjangan",
+        "BPJS Kesehatan dan Ketenagakerjaan sejak hari pertama",
+        "Program pelatihan terstruktur dan mentoring dari senior",
+        "Kesempatan karir internasional di jaringan BYD global",
+        "Fasilitas transportasi dan makan (sesuai kebijakan lokasi)",
+        "Lingkungan kerja inovatif di industri EV terdepan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/2026-indonesia-fresh-graduate-hiring-–-bandung-at-byd-indonesia-4400089141",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/2026-indonesia-fresh-graduate-hiring-–-bandung-at-byd-indonesia-4400089141",
+      "featured": true
+    },
+    {
+      "slug": "fullstack-developer-pt-loren-tech-solutions-jakarta",
+      "title": "Fullstack Developer (Golang & Angular)",
+      "company": "PT Loren Tech Solutions",
+      "location": "Jakarta Selatan, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "PT Loren Tech Solutions, perusahaan teknologi yang fokus pada pengembangan solusi software enterprise, sedang mencari Fullstack Developer dengan keahlian Golang untuk backend dan Angular untuk frontend. Posisi ini berbasis kontrak 6 bulan dengan potensi perpanjangan berdasarkan performa dan kebutuhan project. Kamu akan bekerja di tim engineering yang mengembangkan aplikasi skala besar untuk klien korporat.",
+      "requirements": [
+        "Pengalaman minimal 2-3 tahun sebagai Fullstack Developer",
+        "Menguasai Golang (Go) untuk pengembangan backend/API",
+        "Menguasai Angular (versi terbaru) untuk frontend development",
+        "Paham konsep RESTful API, microservices, dan database design",
+        "Pengalaman dengan PostgreSQL/MySQL dan Redis",
+        "Familiar dengan Git, CI/CD, dan containerization (Docker)",
+        "Bisa bekerja onsite/hybrid di Jakarta Selatan"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara backend services menggunakan Golang",
+        "Membangun UI/UX responsif dengan Angular dan TypeScript",
+        "Merancang dan mengoptimasi database schema serta query",
+        "Mengimplementasikan autentikasi, authorization, dan keamanan API",
+        "Berkolaborasi dengan tim product dan QA untuk delivery fitur",
+        "Melakukan code review dan menjaga kualitas codebase",
+        "Troubleshooting dan debugging issue production"
+      ],
+      "benefits": [
+        "Gaji Rp 12-20 Juta sesuai pengalaman",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Kontrak 6 bulan dengan potensi extend/permanent",
+        "Bekerja pada project enterprise yang menantang",
+        "Lingkungan kerja kolaboratif dan mendukung growth",
+        "Akses ke tools dan infrastructure modern"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/full-stak-development-golang-angular-at-pt-loren-tech-solutions-4412631547",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/full-stak-development-golang-angular-at-pt-loren-tech-solutions-4412631547",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-indoesports-jakarta",
+      "title": "Content Writer",
+      "company": "INDOESPORTS",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 5-9 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "INDOESPORTS, platform esports dan gaming terkemuka di Indonesia, membuka lowongan Content Writer untuk bergabung dengan tim kreatif mereka. Kamu akan bertanggung jawab membuat konten menarik seputar dunia esports, turnamen gaming, profil pemain, dan berita industri game. Posisi ini cocok untuk penulis yang passionate dengan budaya gaming dan esports Indonesia.",
+      "requirements": [
+        "Mahasiswa semester 7 atau fresh graduate jurusan Komunikasi, Jurnalistik, Sastra, atau terkait",
+        "Memiliki portfolio tulisan (artikel, blog, review game, dll)",
+        "Paham budaya gaming, esports, dan komunitas gamer Indonesia",
+        "Kemampuan menulis dalam Bahasa Indonesia yang baik dan kreatif",
+        "Mampu bekerja dengan deadline ketat dan riset cepat",
+        "Aktif menggunakan media sosial dan paham tren viral gaming"
+      ],
+      "responsibilities": [
+        "Menulis artikel berita esports, review game, dan feature story",
+        "Membuat konten untuk media sosial (Instagram, TikTok, Twitter/X)",
+        "Meliput turnamen dan event esports (onsite/remote)",
+        "Me-wawancarai pemain, coach, dan figur industri gaming",
+        "Berkolaborasi dengan tim video dan design untuk konten multimedia",
+        "Memantau trend gaming global dan adaptasi ke konteks lokal"
+      ],
+      "benefits": [
+        "Gaji Rp 5-9 Juta + insentif artikel/performance",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Akses gratis ke event dan turnamen esports besar",
+        "Lingkungan kerja penuh gamer dan kreator muda",
+        "Kesempatan byline dan membangun personal brand di industri gaming",
+        "Fleksibilitas WFH beberapa hari seminggu"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-indoesports-2852531181",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-indoesports-2852531181",
+      "featured": false
+    },
+    {
+      "slug": "mobile-developer-flutter-pt-sofco-graha-jakarta",
+      "title": "Mobile Developer (Flutter)",
+      "company": "PT Sofco Graha",
+      "location": "Jakarta Pusat, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-16 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "PT Sofco Graha, perusahaan teknologi yang fokus pada pengembangan aplikasi mobile dan solusi digital, sedang mencari Mobile Developer dengan spesialisasi Flutter. Posisi ini berbasis hybrid di Jakarta Pusat. Kamu akan mengembangkan aplikasi mobile native iOS dan Android menggunakan Flutter, berkolaborasi dengan tim backend dan UI/UX untuk menciptakan produk digital berkualitas.",
+      "requirements": [
+        "Pengalaman minimal 1-2 tahun mengembangkan aplikasi mobile dengan Flutter",
+        "Pernah terlibat minimal 1 project aplikasi Flutter native yang sudah di-deploy ke App Store/Play Store",
+        "Menguasai Dart, state management (Provider/Bloc/Riverpod), dan navigasi",
+        "Paham integrasi REST API, Firebase, dan local storage",
+        "Familiar dengan Git dan workflow tim development",
+        "Memahami guideline UI/UX iOS (Human Interface) dan Android (Material Design)",
+        "Bisa bekerja hybrid di Jakarta Pusat"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara aplikasi mobile iOS/Android dengan Flutter",
+        "Menerjemahkan design Figma ke kode Flutter yang pixel-perfect",
+        "Mengintegrasikan API backend dan layanan third-party (Firebase, dll)",
+        "Melakukan testing unit, widget, dan integration test",
+        "Mengoptimasi performa aplikasi (startup time, memory, battery)",
+        "Berkolaborasi dengan backend developer untuk kontrak API",
+        "Mengelola rilis ke App Store dan Play Store"
+      ],
+      "benefits": [
+        "Gaji Rp 10-16 Juta sesuai pengalaman",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Hybrid working (2-3 hari WFO di Jakarta Pusat)",
+        "Laptop dan device testing disediakan",
+        "Budget pembelian buku/kursus/sertifikasi Flutter",
+        "Tim engineering yang supportive dan code review culture"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/mobile-developer-flutter-at-pt-sofco-graha-4259959290",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/mobile-developer-flutter-at-pt-sofco-graha-4259959290",
+      "featured": false
+    },
+    {
+      "slug": "qa-engineer-feedloop-ai-jakarta",
+      "title": "Quality Assurance Engineer",
+      "company": "Feedloop AI",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-14 Juta",
+      "posted": "2026-08-06",
+      "expires": "2026-09-05",
+      "description": "Feedloop AI, startup AI conversational platform yang berkembang pesat di Indonesia, membuka lowongan Quality Assurance Engineer. Kamu akan bertanggung jawab memastikan kualitas produk melalui automated end-to-end (E2E) testing. Posisi ini cocok untuk QA Engineer yang memiliki pengalaman kuat dalam test automation dan ingin bekerja di lingkungan AI/ML yang inovatif.",
+      "requirements": [
+        "Pengalaman minimal 2 tahun sebagai QA Engineer / Software Tester",
+        "Mahir menulis automated test E2E menggunakan framework modern (Playwright, Cypress, atau Selenium)",
+        "Paham konsep test pyramid, test strategy, dan CI/CD integration",
+        "Pengalaman testing aplikasi web berbasis React/Vue dan REST API",
+        "Familiar dengan TypeScript/JavaScript untuk test scripting",
+        "Kemampuan analisis root cause bug dan komunikasi dengan developer",
+        "Berkedudukan di Jakarta Raya (hybrid/onsite)"
+      ],
+      "responsibilities": [
+        "Merancang dan mengimplementasikan test automation suite (E2E, integration)",
+        "Menyusun test plan, test case, dan test data untuk fitur baru",
+        "Mengintegrasikan automated test ke pipeline CI/CD (GitHub Actions/GitLab CI)",
+        "Melakukan manual testing exploratory untuk validasi UX dan edge case",
+        "Berkolaborasi dengan developer untuk reproduksi dan verifikasi bug fix",
+        "Memonitor flaky test dan maintain test suite reliability",
+        "Menyusun laporan kualitas rilis (release quality report)"
+      ],
+      "benefits": [
+        "Gaji Rp 8-14 Juta + bonus performa",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Bekerja di startup AI conversational platform terdepan",
+        "Flexible working arrangement (hybrid)",
+        "Budget learning dan sertifikasi QA/testing",
+        "Stock option (ESOP) untuk karyawan awal",
+        "Lingkungan kerja inovatif dengan tech stack modern"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/quality-assurance-engineer-at-feedloop-ai-4262382778",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/quality-assurance-engineer-at-feedloop-ai-4262382778",
+      "featured": false
+    },
+    {
       "slug": "general-manager-marketing-multitrend-indo-jakarta",
       "title": "General Manager Marketing",
       "company": "MULTITREND Indo Tbk",
