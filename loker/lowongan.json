@@ -2,12 +2,228 @@
   "site": {
     "title": "Maulud.net",
     "tagline": "Temukan Lowongan Kerja Terbaru",
-    "description": "Portal lowongan kerja Indonesia \u2014 temukan pekerjaan impianmu dari berbagai perusahaan terpercaya",
+    "description": "Portal lowongan kerja Indonesia — temukan pekerjaan impianmu dari berbagai perusahaan terpercaya",
     "url": "https://maulud.net",
     "lang": "id",
     "locale": "id_ID"
   },
   "jobs": [
+    {
+      "slug": "senior-frontend-developer-indodax",
+      "title": "Senior Frontend Developer",
+      "company": "INDODAX - Indonesia Digital Asset Exchange",
+      "location": "Jakarta Selatan, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "INDODAX (Indonesia Digital Asset Exchange) mencari Senior Frontend Developer untuk mengembangkan platform pertukaran aset digital mereka. Kandidat harus memiliki pengalaman dalam React, TypeScript, dan pengembangan antarmuka pengguna yang responsif.",
+      "requirements": [
+        "Minimal 4 tahun pengalaman sebagai Frontend Developer",
+        "Mahir React.js, TypeScript, dan state management",
+        "Pengalaman dengan testing frontend (Jest, React Testing Library)",
+        "Memahami konsep UI/UX dan kolaborasi dengan desainer"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara fitur frontend platform INDODAX",
+        "Kolaborasi dengan tim backend untuk integrasi API",
+        "Melakukan code review dan mentoring junior developer",
+        "Mengoptimasi performa aplikasi web"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Facility lunch dan transportasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/senior-frontend-developer-at-indodax-indonesia-digital-asset-exchange-4332240368",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/senior-frontend-developer-at-indodax-indonesia-digital-asset-exchange-4332240368",
+      "featured": false
+    },
+    {
+      "slug": "backend-developer-makmur",
+      "title": "Backend Developer",
+      "company": "Makmur",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "Makmur membuka posisi Backend Developer untuk mengembangkan layanan backend menggunakan Node.js, Express, dan TypeScript. Kandidat akan bekerja dalam tim teknologi untuk membangun sistem yang scalable dan reliable.",
+      "requirements": [
+        "Minimal 1 tahun pengalaman sebagai Backend Developer",
+        "Mahir Node.js, Express, dan TypeScript",
+        "Paham konsep RESTful API dan database (MySQL/MongoDB)",
+        "Pengalaman dengan Git dan kolaborasi tim"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara layanan backend",
+        "Mendesain dan mengimplementasikan API",
+        "Kolaborasi dengan frontend team untuk integrasi",
+        "Menulis dokumentasi teknis"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Fasilitas transportasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/backend-developer-at-makmur-4013960614",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/backend-developer-at-makmur-4013960614",
+      "featured": false
+    },
+    {
+      "slug": "backend-developer-youtap-technology-ltd",
+      "title": "Back End Developer",
+      "company": "Youtap Technology Ltd",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "Youtap Technology Ltd mencari Back End Developer dengan pengalaman dalam pengembangan backend menggunakan Go dan NestJS. Kandidat akan terlibat dalam pembuatan sistem pembayaran dan layanan keuangan digital.",
+      "requirements": [
+        "Minimal 3 tahun pengalaman sebagai Backend Developer",
+        "Mahir Go dan/atau NestJS (TypeScript)",
+        "Paham konsep microservices dan API gateway",
+        "Pengalaman dengan database relasional dan NoSQL",
+        "Familiar dengan Docker dan Kubernetes"
+      ],
+      "responsibilities": [
+        "Mengembangkan layanan backend berbasis Go/NestJS",
+        "Mengimplementasikan dan mengelola API",
+        "Kolaborasi dengan tim produk untuk fitur baru",
+        "Memastikan keamanan dan performa sistem"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Asuransi kesehatan",
+        "Fasilitas transportasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/back-end-developer-at-youtap-technology-ltd-4304604634?position=24&pageNum=0",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/back-end-developer-at-youtap-technology-ltd-4304604634?position=24&pageNum=0",
+      "featured": false
+    },
+    {
+      "slug": "backend-developer-goodcommerce-co",
+      "title": "Back End Developer",
+      "company": "Goodcommerce.co",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "Goodcommerce.co membuka posisi Back End Developer untuk mengembangkan platform micro-services. Kandidat akan bekerja secara remote atau dari kantor di Jakarta Raya.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Backend Developer",
+        "Mahir dalam pembuatan micro-services",
+        "Paham konsep REST dan GraphQL",
+        "Pengalaman dengan Node.js atau Python",
+        "Familiar dengan cloud services (AWS/GCP)"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara layanan backend",
+        "Mendesain arkitektur micro-services",
+        "Kolaborasi dengan tim frontend dan data",
+        "Mengoptimasi performa dan skalabilitas sistem"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Asuransi kesehatan",
+        "Fasilitas kerja remote"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/back-end-developer-at-goodcommerce-co-3481602853",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/back-end-developer-at-goodcommerce-co-3481602853",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-indoesports",
+      "title": "Content Writer",
+      "company": "INDOESPORTS",
+      "location": "Jakarta Raya, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 6-12 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "INDOESPORTS mencari Content Writer untuk membuat konten olahraga dan berita terkait industri olahraga di Indonesia. Kandidat akan bertanggung jawab menulis artikel, news, dan konten media sosial.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Content Writer",
+        "Mahir menulis dalam Bahasa Indonesia yang baik dan benar",
+        "Paham konsep SEO dan content marketing",
+        "Pengalaman dengan platform olahraga atau berita"
+      ],
+      "responsibilities": [
+        "Menulis artikel olahraga harian",
+        "Membuat konten untuk media sosial",
+        "Melakukan riset topik olahraga terkini",
+        "Kolaborasi dengan tim editing dan desain"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Asuransi kesehatan",
+        "Fasilitas transportasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-indoesports-2852531181?position=19&pageNum=0",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-indoesports-2852531181?position=19&pageNum=0",
+      "featured": false
+    },
+    {
+      "slug": "content-writer-tbwa-indonesia",
+      "title": "Content Writer (B2B Writer)",
+      "company": "TBWA Indonesia",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 8-15 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "TBWA Indonesia mencari B2B Writer yang能够 menulis konten bisnis dan teknis menjadi cerita yang menarik dan mudah dimengerti. Kandidat akan bekerja dengan klien dari berbagai industri untuk membuat konten marketing dan komunikasi.",
+      "requirements": [
+        "Minimal 3 tahun pengalaman sebagai Content Writer atau Copywriter",
+        "Mahir menulis dalam Bahasa Indonesia dan Bahasa Inggris",
+        "Paham konsep B2B marketing dan komunikasi teknis",
+        "Pengalaman menulis untuk industri teknologi atau industri berat"
+      ],
+      "responsibilities": [
+        "Menulis konten B2B seperti kasus studi, white paper, dan artikel teknis",
+        "Membuat konten untuk kampanye marketing",
+        "Melakukan wawancara dengan ahli dan sumber ahli",
+        "Kolaborasi dengan tim kreatif dan account management"
+      ],
+      "benefits": [
+        "Gaji kompetitif",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Asuransi kesehatan",
+        "Fasilitas transportasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-tbwa-indonesia-—-powered-by-ai-driven-by-disruption-for-digital-growth-4325497609",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-tbwa-indonesia-—-powered-by-ai-driven-by-disruption-for-digital-growth-4325497609",
+      "featured": false
+    },
     {
       "slug": "frontend-developer-pt-kode-kolektif",
       "title": "Frontend Developer (React)",
@@ -347,7 +563,7 @@
       "responsibilities": [
         "Mencari dan mengkualifikasi lead B2B: sekolah, universitas, training center, korporasi",
         "Melakukan presentasi produk & demo platform KitaLulus kepada stakeholder",
-        "Mengelola sales pipeline end-to-end di CRM: prospeksi \u2192 proposal \u2192 negosiasi \u2192 closing",
+        "Mengelola sales pipeline end-to-end di CRM: prospeksi → proposal → negosiasi → closing",
         "Mencapai target bulanan/tahunan: revenue, new logo, upsell/cross-sell",
         "Berkolaborasi dengan Marketing untuk lead generation dan campaign support",
         "Mengkoordinasi dengan Customer Success untuk onboarding klien baru yang smooth",
@@ -363,7 +579,7 @@
         "Laptop dan smartphone disediakan",
         "Budget transport & meal allowance harian",
         "Training sales methodology: MEDDIC, Challenger Sale, SPIN Selling",
-        "Karier path ke Senior Account Executive \u2192 Sales Manager \u2192 Head of Sales",
+        "Karier path ke Senior Account Executive → Sales Manager → Head of Sales",
         "Produk edtech yang meaningful: membantu pelajar Indonesia lulus & dapat beasiswa",
         "Tim sales yang energetic, collaborative, dan high-energy culture"
       ],
@@ -568,14 +784,14 @@
     {
       "slug": "ui-ux-designer-zera-project-based",
       "title": "UI/UX Designer (Project Based / Remote)",
-      "company": "Z\u00c9RA",
+      "company": "ZÉRA",
       "location": "Remote (Indonesia)",
       "type": "Contract",
       "category": "Desain",
       "salary": "Rp 8-15 Juta",
       "posted": "2026-08-20",
       "expires": "2026-09-19",
-      "description": "Z\u00c9RA, studio produk digital, mencari UI/UX Designer kreatif dan detail-oriented untuk bergabung dalam pengembangan produk digital berbasis project. Posisi ini bersifat Project Based (Remote) dengan peluang kerja sama jangka panjang bagi kandidat yang memiliki performa baik. Kamu akan merancang user experience dan interface untuk berbagai klien mulai dari startup hingga enterprise, dengan fokus pada problem solving dan design thinking.",
+      "description": "ZÉRA, studio produk digital, mencari UI/UX Designer kreatif dan detail-oriented untuk bergabung dalam pengembangan produk digital berbasis project. Posisi ini bersifat Project Based (Remote) dengan peluang kerja sama jangka panjang bagi kandidat yang memiliki performa baik. Kamu akan merancang user experience dan interface untuk berbagai klien mulai dari startup hingga enterprise, dengan fokus pada problem solving dan design thinking.",
       "requirements": [
         "Minimal 2 tahun pengalaman UI/UX Designer atau Product Designer",
         "Portfolio kuat menunjukkan design process: research, wireframe, prototype, testing",
@@ -608,9 +824,9 @@
         "Budget tools: Figma Pro, testing tools, design resources"
       ],
       "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-      "apply_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-indonesia-\u2014-project-based-at-z\u00e9ra-4432602318",
+      "apply_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-indonesia-—-project-based-at-zéra-4432602318",
       "source": "LinkedIn",
-      "source_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-indonesia-\u2014-project-based-at-z\u00e9ra-4432602318",
+      "source_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-indonesia-—-project-based-at-zéra-4432602318",
       "featured": false
     },
     {
@@ -623,7 +839,7 @@
       "salary": "Rp 7-13 Juta",
       "posted": "2026-08-20",
       "expires": "2026-09-19",
-      "description": "TBWA Indonesia, jaringan kreatif global dengan pendekatan Disruption\u00ae dan AI-powered, mencari Content Writer untuk mendukung pertumbuhan digital klien-klien utama. Kamu akan menulis konten B2B dan B2C dalam Bahasa Indonesia untuk berbagai platform: website, blog, social media, email marketing, dan campaign terintegrasi. Posisi ini cocok untuk writer yang paham branding, conversion copywriting, dan mampu beradaptasi dengan berbagai tone of voice klien berbeda.",
+      "description": "TBWA Indonesia, jaringan kreatif global dengan pendekatan Disruption® dan AI-powered, mencari Content Writer untuk mendukung pertumbuhan digital klien-klien utama. Kamu akan menulis konten B2B dan B2C dalam Bahasa Indonesia untuk berbagai platform: website, blog, social media, email marketing, dan campaign terintegrasi. Posisi ini cocok untuk writer yang paham branding, conversion copywriting, dan mampu beradaptasi dengan berbagai tone of voice klien berbeda.",
       "requirements": [
         "Minimal 2 tahun pengalaman Content Writer / Copywriter di agency atau in-house brand",
         "Portfolio tulisan B2B & B2C: blog article, social media, email, landing page, case study",
@@ -650,16 +866,16 @@
         "Gaji Rp 7-13 Juta + bonus performa campaign",
         "BPJS Kesehatan dan Ketenagakerjaan",
         "THR dan annual bonus",
-        "Exposure klien global & brand ternama (Disruption\u00ae methodology)",
+        "Exposure klien global & brand ternama (Disruption® methodology)",
         "Budget AI tools premium (ChatGPT Plus, Claude, Jasper, dll)",
         "Hybrid working (2-3 hari WFO di Jakarta)",
         "Learning budget: kursus writing, marketing, AI, design",
         "Tim kreatif yang kolaboratif, fun, dan award-winning culture"
       ],
       "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-tbwa-indonesia-\u2014-powered-by-ai-driven-by-disruption-for-digital-growth-4325497609",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-tbwa-indonesia-—-powered-by-ai-driven-by-disruption-for-digital-growth-4325497609",
       "source": "LinkedIn",
-      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-tbwa-indonesia-\u2014-powered-by-ai-driven-by-disruption-for-digital-growth-4325497609",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-tbwa-indonesia-—-powered-by-ai-driven-by-disruption-for-digital-growth-4325497609",
       "featured": false
     },
     {
@@ -1056,7 +1272,7 @@
       "salary": "Rp 10-18 Juta",
       "posted": "2026-08-19",
       "expires": "2026-09-18",
-      "description": "Electrum, perusahaan teknologi finansial (fintech) yang menyediakan solusi pembayaran digital terintegrasi, mencari UI/UX Designer untuk merancang pengalaman pengguna yang intuitif, efisien, dan visually engaging di seluruh ekosistem digital mereka \u2014 dari mobile apps, web applications, hingga partner dashboards. Kamu akan berperan kunci dalam membentuk produk yang digunakan jutaan pengguna Indonesia.",
+      "description": "Electrum, perusahaan teknologi finansial (fintech) yang menyediakan solusi pembayaran digital terintegrasi, mencari UI/UX Designer untuk merancang pengalaman pengguna yang intuitif, efisien, dan visually engaging di seluruh ekosistem digital mereka — dari mobile apps, web applications, hingga partner dashboards. Kamu akan berperan kunci dalam membentuk produk yang digunakan jutaan pengguna Indonesia.",
       "requirements": [
         "Minimal 3 tahun pengalaman sebagai UI/UX Designer atau Product Designer",
         "Portfolio kuat menunjukkan end-to-end product design process untuk web & mobile",
@@ -1106,7 +1322,7 @@
       "salary": "Rp 7-12 Juta",
       "posted": "2026-08-19",
       "expires": "2026-09-18",
-      "description": "BINUS Group, institusi pendidikan dan ekosistem digital terkemuka di Indonesia, membuka lowongan Content Writer untuk tim komunikasi dan marketing. Kamu akan bertanggung jawab membuat konten berkualitas untuk berbagai channel \u2014 website, blog, social media, email marketing, dan materi edukasi \u2014 yang mendukung brand awareness dan student acquisition. Posisi ini cocok untuk writer yang paham SEO, education industry, dan memiliki kemampuan storytelling yang kuat.",
+      "description": "BINUS Group, institusi pendidikan dan ekosistem digital terkemuka di Indonesia, membuka lowongan Content Writer untuk tim komunikasi dan marketing. Kamu akan bertanggung jawab membuat konten berkualitas untuk berbagai channel — website, blog, social media, email marketing, dan materi edukasi — yang mendukung brand awareness dan student acquisition. Posisi ini cocok untuk writer yang paham SEO, education industry, dan memiliki kemampuan storytelling yang kuat.",
       "requirements": [
         "Minimal 2 tahun pengalaman sebagai Content Writer, Copywriter, atau Marketing Writer",
         "Portfolio tulisan yang menunjukkan versatility: blog, artikel edukasi, social media, email",
@@ -3099,7 +3315,7 @@
     },
     {
       "slug": "ecomobi-social-livestream-operation",
-      "title": "Livestream Operation \u2013 Indonesia",
+      "title": "Livestream Operation – Indonesia",
       "company": "Ecomobi Social",
       "location": "Jakarta, Indonesia",
       "type": "Full-time",
@@ -4003,7 +4219,7 @@
       "salary": "Rp 6-10 Juta",
       "posted": "2026-08-11",
       "expires": "2026-09-10",
-      "description": "seedbacklink, platform marketing #1 di Asia Tenggara yang menghubungkan brand dengan KOL, media, dan blog, membuka posisi Marketing Copywriter / Content Writer. Kamu akan bertanggung jawab membuat copy marketing yang compelling dan konten engaging untuk berbagai platform digital \u2014 website, blog, social media, hingga email campaign. Posisi ini cocok untuk writer yang paham SEO, copywriting persuasif, dan up-to-date dengan tren digital marketing.",
+      "description": "seedbacklink, platform marketing #1 di Asia Tenggara yang menghubungkan brand dengan KOL, media, dan blog, membuka posisi Marketing Copywriter / Content Writer. Kamu akan bertanggung jawab membuat copy marketing yang compelling dan konten engaging untuk berbagai platform digital — website, blog, social media, hingga email campaign. Posisi ini cocok untuk writer yang paham SEO, copywriting persuasif, dan up-to-date dengan tren digital marketing.",
       "requirements": [
         "Minimal 2 tahun pengalaman sebagai Content Writer, Copywriter, atau Marketing Writer",
         "Portfolio tulisan yang menunjukkan versatility: blog, ads copy, social media, email",
@@ -4541,14 +4757,14 @@
     {
       "slug": "content-writer-lengua",
       "title": "Content Writer",
-      "company": "L\u00e8ngua",
+      "company": "Lèngua",
       "location": "Jakarta Raya, Indonesia",
       "type": "Full-time",
       "category": "Konten & Kreatif",
       "salary": "Rp 5-9 Juta",
       "posted": "2026-08-10",
       "expires": "2026-09-10",
-      "description": "L\u00e8ngua mencari Content Writer yang kreatif dan up-to-date dengan tren digital. Kamu akan bertanggung jawab membuat konten yang engaging untuk berbagai platform digital, mulai dari social media hingga blog dan website. Posisi ini perfect untuk writer yang paham pop culture, social media trends, dan bisa menghadirkan konten yang relevan dan menarik untuk audience Indonesia.",
+      "description": "Lèngua mencari Content Writer yang kreatif dan up-to-date dengan tren digital. Kamu akan bertanggung jawab membuat konten yang engaging untuk berbagai platform digital, mulai dari social media hingga blog dan website. Posisi ini perfect untuk writer yang paham pop culture, social media trends, dan bisa menghadirkan konten yang relevan dan menarik untuk audience Indonesia.",
       "requirements": [
         "Minimal 1-2 tahun pengalaman sebagai Content Writer atau Copywriter",
         "Portfolio tulisan yang menunjukkan versatility dan kreativitas",
@@ -4580,9 +4796,9 @@
         "Team outing dan company events"
       ],
       "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-l\u00e8ngua-3830317284",
+      "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-lèngua-3830317284",
       "source": "LinkedIn",
-      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-l\u00e8ngua-3830317284",
+      "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-lèngua-3830317284",
       "featured": false
     },
     {
@@ -4857,7 +5073,7 @@
         "Laptop tinggi disediakan",
         "Budget sertifikasi (ISTQB, automation tools, cloud)",
         "Hybrid working (2-3 hari WFO)",
-        "Tim QA baru \u2014 kesempatan membangun fondasi QA culture",
+        "Tim QA baru — kesempatan membangun fondasi QA culture",
         "Produk B2B SaaS dengan skala global"
       ],
       "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
