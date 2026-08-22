@@ -9,6 +9,253 @@
   },
   "jobs": [
     {
+      "slug": "frontend-developer-gradin-digital-agency",
+      "title": "Frontend Developer",
+      "company": "Gradin Digital Agency",
+      "location": "Surabaya, Jawa Timur, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-15 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "Gradin Digital Agency mencari Frontend Developer untuk membangun antarmuka web modern dan responsif menggunakan Vue.js. Kandidat akan bekerja dalam tim kreatif untuk mengembangkan website dan aplikasi web klien dari berbagai industri.",
+      "requirements": [
+        "Minimal 1 tahun pengalaman sebagai Frontend Developer",
+        "Mahir Vue.js (Vue 2 atau Vue 3), HTML5, CSS3, JavaScript ES6+",
+        "Paham konsep component-based architecture",
+        "Pengalaman dengan state management (Vuex/Pinia)",
+        "Familiar dengan Git dan workflow kolaborasi tim"
+      ],
+      "responsibilities": [
+        "Mengembangkan user interface responsif dan cross-browser",
+        "Menerjemahkan desain Figma ke kode Vue.js yang clean",
+        "Mengoptimasi performa frontend (lazy loading, code splitting)",
+        "Kolaborasi dengan backend developer untuk integrasi API",
+        "Melakukan code review dan maintain code quality"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 8-15 Juta",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Laptop disediakan",
+        "Flexible working hours"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-gradin-digital-agency-4329660796",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-gradin-digital-agency-4329660796",
+      "featured": false
+    },
+    {
+      "slug": "backend-developer-pt-astra-international",
+      "title": "Backend Developer - Common Services",
+      "company": "PT Astra International Tbk",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 12-22 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "PT Astra International Tbk, salah satu konglomerat terbesar di Indonesia, membuka posisi Backend Developer untuk Common Services. Kandidat akan mengembangkan dan memelihara layanan backend skala enterprise yang digunakan oleh berbagai unit bisnis di grup Astra.",
+      "requirements": [
+        "Minimal 3 tahun pengalaman sebagai Backend Developer",
+        "Mahir Java Spring Boot dan/atau Node.js",
+        "Paham konsep microservices, RESTful API, dan message queue",
+        "Pengalaman dengan database relasional (PostgreSQL/MySQL) dan Redis",
+        "Familiar dengan Docker, Kubernetes, dan CI/CD pipeline",
+        "Paham konsep system design: caching, rate limiting, circuit breaker"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara common services/backend platform",
+        "Mendesain API yang scalable dan maintainable",
+        "Kolaborasi cross-team untuk integrasi sistem",
+        "Mengoptimasi performa database dan query",
+        "Implementasi observability: logging, monitoring, tracing",
+        "Code review dan mentoring junior developer"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 12-22 Juta + bonus",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Asuransi kesehatan premium untuk karyawan dan keluarga",
+        "Program pengembangan karir dan training",
+        "Fasilitas transportasi dan makan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/backend-developer-common-services-admo-at-pt-astra-international-tbk-4358120601",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/backend-developer-common-services-admo-at-pt-astra-international-tbk-4358120601",
+      "featured": true
+    },
+    {
+      "slug": "backend-developer-vascomm",
+      "title": "Back End Developer (Node.js)",
+      "company": "Vascomm",
+      "location": "Sidoarjo, Jawa Timur, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-16 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "Vascomm mencari Back End Developer yang mahir Node.js untuk mengembangkan aplikasi backend in-house. Posisi ini hybrid di Sidoarjo, Jawa Timur. Kandidat akan bertanggung jawab membangun dan memelihara layanan backend sesuai kebutuhan bisnis.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman Backend Development dengan Node.js",
+        "Mahir Express.js atau framework Node.js lain",
+        "Paham konsep RESTful API dan database (MySQL/PostgreSQL/MongoDB)",
+        "Pengalaman dengan authentication (JWT, OAuth)",
+        "Familiar dengan Git dan testing (Jest/Mocha)",
+        "Bisa bekerja hybrid di Sidoarjo, Jawa Timur"
+      ],
+      "responsibilities": [
+        "Mengembangkan dan memelihara backend application menggunakan Node.js",
+        "Mendesain dan mengimplementasikan RESTful API",
+        "Optimasi database query dan performa aplikasi",
+        "Kolaborasi dengan frontend team untuk integrasi",
+        "Menulis unit test dan integration test",
+        "Deployment dan monitoring aplikasi di production"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 8-16 Juta",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Hybrid working arrangement",
+        "Laptop disediakan",
+        "Budget learning dan sertifikasi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/back-end-developer-node-js-at-vascomm-4348220100",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/back-end-developer-node-js-at-vascomm-4348220100",
+      "featured": false
+    },
+    {
+      "slug": "product-manager-pt-distributor-gadget-indonesia",
+      "title": "Product Manager / Merchandiser / Buyer",
+      "company": "PT Distributor Gadget Indonesia",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 12-20 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "PT Distributor Gadget Indonesia membuka posisi Product Manager yang juga berperan sebagai Merchandiser dan Buyer. Kandidat akan mengelola siklus hidup produk gadget, mulai dari riset pasar, pemilihan produk, negosiasi dengan supplier, hingga strategi pricing dan distribusi.",
+      "requirements": [
+        "Minimal 3 tahun pengalaman sebagai Product Manager/Merchandiser/Buyer",
+        "Background industri gadget/elektronik konsumen diutamakan",
+        "Mahir analisis pasar, trend produk, dan competitor research",
+        "Pengalaman negosiasi kontrak dengan vendor/supplier",
+        "Kemampuan forecasting demand dan inventory planning",
+        "Paham e-commerce marketplace Indonesia (Tokopedia, Shopee, Lazada, TikTok Shop)"
+      ],
+      "responsibilities": [
+        "Riset dan identifikasi produk gadget potensial untuk didistribusikan",
+        "Negosiasi harga, termin pembayaran, dan kontrak dengan supplier",
+        "Mengelola katalog produk, pricing strategy, dan margin",
+        "Koordinasi dengan tim marketing untuk go-to-market strategy",
+        "Monitor performa sales, inventory turnover, dan profitabilitas",
+        "Membangun relasi jangka panjang dengan principal/vendor"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 12-20 Juta + insentif sales",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Asuransi kesehatan",
+        "Diskon produk gadget karyawan",
+        "Career growth di industri distribusi teknologi"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/product-manager-merchandiser-buyer-at-pt-distributor-gadget-indonesia-4441908733",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://id.linkedin.com/jobs/view/product-manager-merchandiser-buyer-at-pt-distributor-gadget-indonesia-4441908733",
+      "featured": false
+    },
+    {
+      "slug": "senior-content-writer-kotakgame",
+      "title": "Senior Content Writer",
+      "company": "KotakGame",
+      "location": "Jakarta, DKI Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Konten & Kreatif",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "KotakGame, media gaming & tech terkemuka untuk Gen Z Indonesia, mencari Senior Content Writer yang obsessed dengan gadget, PC hardware, smartphone, dan teknologi terbaru. Kandidat akan menulis konten teknis yang engaging: review hardware, news tech, panduan beli, dan artikel mendalam untuk audience gamer dan tech enthusiast.",
+      "requirements": [
+        "Minimal 3 tahun pengalaman Content Writer/Tech Writer",
+        "Paham mendalam: PC hardware, smartphone, gadget, komponen komputer",
+        "Mahir menulis Bahasa Indonesia yang engaging dan SEO-friendly",
+        "Pengalaman review produk teknologi (hands-on)",
+        "Familiar dengan CMS (WordPress), Google Analytics, SEO tools",
+        "Portfolio tulisan tech/gaming wajib dilampirkan"
+      ],
+      "responsibilities": [
+        "Menulis review hardware/gadget mendalam dan objektif",
+        "Membuat konten news tech harian dan trending topic",
+        "Menulis panduan beli (buying guide) dan perbandingan produk",
+        "Kolaborasi dengan video team untuk script video review",
+        "Optimasi SEO on-page untuk artikel",
+        "Riset tren teknologi dan gadget terbaru global/lokal"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 10-18 Juta + bonus performa",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Akses early review unit gadget/hardware terbaru",
+        "Budget beli game/perangkat untuk konten",
+        "Hybrid working fleksibel",
+        "Tim kreatif kecil tapi high-autonomy"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/senior-content-writer-at-kotakgame-4220978814",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/senior-content-writer-at-kotakgame-4220978814",
+      "featured": false
+    },
+    {
+      "slug": "devops-engineer-pt-sentra-vidya-utama",
+      "title": "Devops Engineer",
+      "company": "PT Sentra Vidya Utama (SEVIMA)",
+      "location": "Surabaya, Jawa Timur, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-08-22",
+      "expires": "2026-09-21",
+      "description": "PT Sentra Vidya Utama (SEVIMA), perusahaan edtech yang mengembangkan platform pembelajaran digital untuk perguruan tinggi, mencari DevOps Engineer untuk membangun dan memelihara infrastruktur cloud modern. Kandidat akan bekerja pada CI/CD pipeline, containerization, dan observability untuk mendukung platform yang digunakan ribuan mahasiswa dan dosen.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman DevOps / Infrastructure Engineering",
+        "Mahir Docker, Kubernetes (EKS/GKE/AKS), dan Helm",
+        "Pengalaman CI/CD: GitHub Actions, GitLab CI, atau Jenkins",
+        "Paham Infrastructure as Code: Terraform atau Ansible",
+        "Familiar cloud provider: AWS/GCP/Azure (salah satu minimal)",
+        "Pengalaman monitoring: Prometheus, Grafana, ELK/Loki",
+        "Scripting: Bash dan/atau Python untuk automation"
+      ],
+      "responsibilities": [
+        "Membangun dan memelihara CI/CD pipeline untuk microservices",
+        "Mengelola Kubernetes cluster: deployment, scaling, upgrade",
+        "Implementasi Infrastructure as Code dengan Terraform",
+        "Setup monitoring, logging, dan alerting (Prometheus/Grafana/Loki)",
+        "Optimasi cloud cost dan resource utilization",
+        "Kolaborasi dengan dev team untuk developer experience",
+        "Incident response dan postmortem production issues"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 10-18 Juta + bonus",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "THR dan bonus tahunan",
+        "Laptop high-spec disediakan",
+        "Budget learning: konferensi, sertifikasi cloud (Rp 10jt/tahun)",
+        "Hybrid working fleksibel di Surabaya",
+        "Produk edtech berdampak pada ribuan pengguna pendidikan"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4442229324/",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/4442229324/",
+      "featured": false
+    },
+    {
       "slug": "senior-frontend-developer-indodax",
       "title": "Senior Frontend Developer",
       "company": "INDODAX - Indonesia Digital Asset Exchange",
