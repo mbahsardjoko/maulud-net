@@ -2,309 +2,254 @@
 import json
 from datetime import datetime, timedelta
 
-# Load existing data
-with open('/tmp/maulud-net/loker/lowongan.json', 'r', encoding='utf-8') as f:
+# Read existing JSON
+with open('/tmp/maulud-net/loker/lowongan.json', 'r') as f:
     data = json.load(f)
 
-# Today's date
-today = datetime(2026, 8, 2).strftime('%Y-%m-%d')
-expires = (datetime(2026, 8, 2) + timedelta(days=30)).strftime('%Y-%m-%d')
+# Today and expiry date
+today = "2026-08-23"
+expires = "2026-09-22"
 
-# New jobs to add (based on real LinkedIn postings found via web_search)
+# New jobs to add (5 jobs)
 new_jobs = [
     {
-        "slug": "fresh-graduate-hiring-byd-indonesia-bandung",
-        "title": "Fresh Graduate Hiring 2026 – Bandung",
-        "company": "BYD Indonesia",
-        "location": "Bandung, Jawa Barat",
-        "type": "Full-time",
-        "category": "Teknologi",
-        "salary": "Rp 6-10 Juta",
-        "posted": today,
-        "expires": expires,
-        "description": "BYD Indonesia membuka program Fresh Graduate Hiring 2026 untuk lulusan terbaik yang siap memulai karir di perusahaan teknologi otomotif global. Program ini dirancang untuk mengembangkan bakat muda melalui training intensif, mentoring, dan rotasi kerja di berbagai divisi. Cocok untuk fresh graduate dari berbagai jurusan teknik, IT, bisnis, dan lainnya yang ingin berkontribusi pada inovasi kendaraan listrik dan energi terbarukan.",
-        "requirements": [
-            "Lulusan baru (Fresh Graduate) angkatan 2025/2026 atau final year student",
-            "S1 dari universitas terakreditasi A/B (Teknik, Informatika, Bisnis, atau relevan)",
-            "IPK minimal 3.00 skala 4.00",
-            "Memiliki passion di industri otomotif dan energi hijau",
-            "Kemampuan komunikasi Bahasa Indonesia dan Inggris yang baik",
-            "Bersedia ditempatkan di Bandung, Jawa Barat",
-            "Leadership potential dan growth mindset"
-        ],
-        "responsibilities": [
-            "Mengikuti program onboarding dan training intensif 6-12 bulan",
-            "Bekerja pada project nyata di divisi yang ditugaskan (Engineering, IT, Production, Quality, dll)",
-            "Belajar dari senior mentor dan berkontribusi pada inovasi produk",
-            "Melakukan rotasi antar departemen untuk pemahaman holistic bisnis",
-            "Menyusun laporan progress dan presentasi hasil project",
-            "Berpartisipasi dalam continuous improvement initiatives"
-        ],
-        "benefits": [
-            "Gaji kompetitif (Rp 6-10 Juta) + bonus performa",
-            "BPJS Kesehatan dan Ketenagakerjaan",
-            "Program training dan development terstruktur",
-            "Mentoring dari senior leader BYD",
-            "Kesempatan karir internasional di jaringan BYD global",
-            "Asuransi kesehatan comprehensive",
-            "Transport dan meal allowance"
-        ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn BYD Indonesia. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/2026-indonesia-fresh-graduate-hiring-–-bandung-at-byd-indonesia-4400089141",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/2026-indonesia-fresh-graduate-hiring-–-bandung-at-byd-indonesia-4400089141",
-        "featured": True
-    },
-    {
-        "slug": "devops-engineer-pt-siaga-abdi-utama",
-        "title": "DevOps Engineer",
-        "company": "PT Siaga Abdi Utama",
-        "location": "Jakarta, Indonesia",
-        "type": "Full-time",
-        "category": "Teknologi",
-        "salary": "Rp 8-14 Juta",
-        "posted": today,
-        "expires": expires,
-        "description": "PT Siaga Abdi Utama mencari DevOps Engineer entry-level/junior untuk bergabung dengan tim infrastructure mereka. Posisi ini cocok untuk lulusan baru atau junior engineer yang ingin mengembangkan karir di bidang cloud infrastructure, CI/CD pipeline, dan automation. Perusahaan bergerak di bidang jasa dan solusi teknologi dengan lingkungan kerja yang mendukung pembelajaran.",
-        "requirements": [
-            "Minimal D3/S1 Teknik Informatika, Sistem Informasi, atau setara",
-            "Fresh graduate atau maksimal 1-2 tahun pengalaman",
-            "Pemahaman dasar Linux/Unix system administration",
-            "Familiar dengan Docker dan containerization concepts",
-            "Pengetahuan dasar CI/CD (GitLab CI, Jenkins, atau GitHub Actions)",
-            "Basic scripting (Bash, Python, atau Go)",
-            "Tertarik belajar cloud platforms (AWS, GCP, atau Azure)",
-            "Kemampuan problem-solving dan komunikasi yang baik"
-        ],
-        "responsibilities": [
-            "Membantu maintain dan monitor CI/CD pipelines",
-            "Assist deployment aplikasi ke staging dan production",
-            "Mengelola container orchestration (Docker, Kubernetes basics)",
-            "Monitoring infrastructure health dan logging",
-            "Automate repetitive tasks dengan scripting",
-            "Berkolaborasi dengan development team untuk improve deployment process",
-            "Dokumentasi runbooks dan standard operating procedures",
-            "Belajar dan implement best practices DevOps"
-        ],
-        "benefits": [
-            "Gaji kompetitif (Rp 8-14 Juta)",
-            "BPJS Kesehatan dan Ketenagakerjaan",
-            "Training dan sertifikasi cloud/DevOps",
-            "Mentoring dari senior DevOps engineer",
-            "Flexible working arrangement",
-            "Laptop dan tools development",
-            "Career growth path ke Senior DevOps/Platform Engineer"
-        ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn PT Siaga Abdi Utama. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/devops-engineer-at-pt-siaga-abdi-utama-4361822824",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/devops-engineer-at-pt-siaga-abdi-utama-4361822824",
-        "featured": False
-    },
-    {
-        "slug": "frontend-engineer-nextjs-bibit-id",
-        "title": "Frontend Engineer (Next.js)",
-        "company": "Bibit.id",
-        "location": "Jakarta, Indonesia",
-        "type": "Full-time",
-        "category": "Teknologi",
-        "salary": "Rp 10-18 Juta",
-        "posted": today,
-        "expires": expires,
-        "description": "Bibit.id, platform investasi digital terkemuka di Indonesia, mencari Frontend Engineer dengan keahlian Next.js untuk mengembangkan user-facing features pada platform investasi mereka. Anda akan bekerja pada aplikasi web yang digunakan ratusan ribu investor, dengan fokus pada performance, accessibility, dan user experience yang seamless. Tim engineering Bibit menerapkan modern frontend practices termasuk TypeScript, React ecosystem, dan automated testing.",
-        "requirements": [
-            "Minimal 2-3 tahun pengalaman Frontend Development",
-            "Expert dengan React.js dan Next.js (App Router, Server Components)",
-            "Solid TypeScript dan modern JavaScript (ES6+)",
-            "Pengalaman dengan state management (Zustand, Redux, atau React Query/TanStack Query)",
-            "Familiar dengan CSS-in-JS (Tailwind CSS, Styled Components, atau CSS Modules)",
-            "Pemahaman tentang web performance optimization (Core Web Vitals, SSR/SSG/ISR)",
-            "Pengalaman testing (Jest, React Testing Library, Playwright/Cypress)",
-            "Familiar dengan Git, CI/CD, dan code review practices",
-            "Portfolio project Next.js yang bisa ditunjukkan adalah plus"
-        ],
-        "responsibilities": [
-            "Mengembangkan dan maintain frontend features menggunakan Next.js dan React",
-            "Implement UI/UX designs dengan focus pada performance dan accessibility",
-            "Optimasi bundle size, loading time, dan Core Web Vitals",
-            "Berkolaborasi dengan backend team untuk API integration",
-            "Menulis unit, integration, dan e2e tests",
-            "Code review dan mentoring junior frontend engineers",
-            "Migration legacy pages ke Next.js App Router",
-            "Stay updated dengan latest React/Next.js ecosystem"
-        ],
-        "benefits": [
-            "Gaji kompetitif (Rp 10-18 Juta) + stock options",
-            "BPJS Kesehatan dan Ketenagakerjaan",
-            "Asuransi kesehatan premium untuk keluarga",
-            "MacBook Pro dan monitor external",
-            "Learning budget dan conference allowance",
-            "Flexible hybrid work (WFH + office)",
-            "Snack, lunch, dan wellness program",
-            "Kesempatan build product untuk jutaan user"
-        ],
-        "how_to_apply": "Kirim lamaran dengan CV dan portfolio GitHub melalui LinkedIn Bibit.id. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/frontend-engineer-next-js-at-bibit-id-4409275943",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/frontend-engineer-next-js-at-bibit-id-4409275943",
-        "featured": False
-    },
-    {
-        "slug": "web-developer-detikcom",
-        "title": "Web Developer",
-        "company": "detikcom",
-        "location": "Jakarta, Indonesia",
+        "slug": "frontend-developer-scout-inc",
+        "title": "Frontend Developer",
+        "company": "Scout.inc",
+        "location": "Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia",
         "type": "Full-time",
         "category": "Teknologi",
         "salary": "Rp 8-15 Juta",
         "posted": today,
         "expires": expires,
-        "description": "detikcom, portal berita online terbesar di Indonesia, mencari Web Developer untuk mengembangkan dan memelihara platform digital mereka yang melayani jutaan pembaca harian. Posisi ini menawarkan tantangan unik: high-traffic website, real-time content delivery, dan skalabilitas yang masif. Anda akan bekerja dengan stack modern pada legacy dan new platform, berkolaborasi dengan editorial, product, dan data teams.",
+        "description": "Scout.inc membuka peluang bagi Frontend Developer untuk bergabung dengan tim kreatif mereka di Yogyakarta. Kandidat akan bertanggung jawab membangun antarmuka pengguna yang responsif dan modern untuk berbagai proyek digital klien, mulai dari website korporat hingga aplikasi web interaktif.",
         "requirements": [
-            "Minimal 2-4 tahun pengalaman Web Development",
-            "Solid PHP (Laravel/Symfony) atau Node.js backend",
-            "Frontend: Vanilla JS, Vue.js, atau React",
-            "Database: MySQL/PostgreSQL, Redis, Elasticsearch",
-            "Pemahaman caching strategies (Varnish, CDN, Redis)",
-            "Familiar dengan Docker, Kubernetes, dan CI/CD",
-            "Pengalaman high-traffic, high-availability systems adalah plus",
-            "Pemahaman SEO technical dan web vitals",
-            "Kemampuan debugging dan performance profiling"
+            "Minimal 1 tahun pengalaman sebagai Frontend Developer",
+            "Mahir HTML5, CSS3, JavaScript ES6+, dan TypeScript",
+            "Pengalaman dengan React.js atau Vue.js (salah satu minimal)",
+            "Paham konsep responsive design dan cross-browser compatibility",
+            "Familiar dengan Git dan workflow kolaborasi tim",
+            "Portofolio proyek frontend wajib dilampirkan"
         ],
         "responsibilities": [
-            "Develop dan maintain web applications untuk platform detikNetwork",
-            "Optimasi performance untuk jutaan pageviews/hari",
-            "Implement real-time features (live blog, breaking news, notifications)",
-            "Berkolaborasi dengan editorial team untuk CMS enhancements",
-            "Maintain dan improve CI/CD pipelines",
-            "Troubleshoot production issues dan incidents",
-            "Technical debt reduction dan legacy modernization",
-            "Mentoring junior developers"
+            "Mengembangkan UI komponen yang reusable dan maintainable",
+            "Menerjemahkan desain Figma/Adobe XD ke kode yang clean dan semantic",
+            "Mengoptimasi performa frontend: lazy loading, code splitting, bundle size",
+            "Kolaborasi dengan backend developer untuk integrasi RESTful API",
+            "Melakukan code review dan menjaga standar kualitas kode",
+            "Troubleshooting dan debugging cross-browser issues"
         ],
         "benefits": [
-            "Gaji kompetitif (Rp 8-15 Juta) + bonus tahunan",
+            "Gaji kompetitif Rp 8-15 Juta",
             "BPJS Kesehatan dan Ketenagakerjaan",
-            "Asuransi kesehatan extended family",
-            "MacBook Pro / high-spec laptop",
+            "THR dan bonus tahunan",
+            "Laptop disediakan",
             "Flexible working hours",
-            "Professional development budget",
-            "Akses ke industry events dan conference",
-            "Unique challenge: scale media platform di Indonesia"
+            "Budget learning dan sertifikasi (Rp 5jt/tahun)",
+            "Lokasi kerja Nyaman di Yogyakarta"
         ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn detikcom. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/web-developer-at-detikcom-4411608760",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/web-developer-at-detikcom-4411608760",
-        "featured": False
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/front-end-developer-yogyakarta-at-scout-inc-3493500390",
+        "source": "LinkedIn Indonesia",
+        "source_url": "https://id.linkedin.com/jobs/view/front-end-developer-yogyakarta-at-scout-inc-3493500390",
+        "featured": True
     },
     {
-        "slug": "fullstack-developer-gositus",
-        "title": "Fullstack Developer",
-        "company": "Gositus (PT Go Online Solusi)",
+        "slug": "frontend-developer-net-idstar",
+        "title": "Frontend Developer (.Net)",
+        "company": "PT. IDStar Cipta Teknologi",
         "location": "Jakarta Raya, Indonesia",
-        "type": "Full-time",
-        "category": "Teknologi",
-        "salary": "Rp 9-16 Juta",
-        "posted": today,
-        "expires": expires,
-        "description": "Gositus, platform pembuatan website dan digital solution untuk UMKM Indonesia, mencari Fullstack Developer untuk membangun dan memelihara produk SaaS mereka. Perusahaan ini berfokus pada empowering UMKM melalui teknologi website builder, e-commerce, dan digital marketing tools. Anda akan bekerja end-to-end: dari database design, API development, hingga frontend implementation menggunakan stack modern.",
-        "requirements": [
-            "Minimal 2-3 tahun pengalaman Fullstack Development",
-            "Backend: Node.js (Express/NestJS) atau Go, PostgreSQL/MongoDB",
-            "Frontend: React.js (Next.js preferred), TypeScript, Tailwind CSS",
-            "Database design, ORM (Prisma/TypeORM), query optimization",
-            "RESTful API design, GraphQL adalah plus",
-            "Authentication/Authorization (JWT, OAuth, RBAC)",
-            "Docker, basic AWS/GCP, CI/CD (GitHub Actions/GitLab CI)",
-            "Testing: unit, integration, e2e",
-            "Portfolio SaaS/product-based project adalah nilai plus"
-        ],
-        "responsibilities": [
-            "Design dan develop fullstack features untuk platform Gositus",
-            "Build scalable APIs dan microservices",
-            "Develop responsive frontend dengan Next.js dan React",
-            "Database modeling dan migration management",
-            "Implement payment integration, webhook handling",
-            "Optimasi database queries dan API performance",
-            "Berkolaborasi dengan product dan design team",
-            "Code review, testing, dan documentation",
-            "Deploy dan monitor production services"
-        ],
-        "benefits": [
-            "Gaji kompetitif (Rp 9-16 Juta) + equity/ESOP",
-            "BPJS Kesehatan dan Ketenagakerjaan",
-            "Asuransi kesehatan keluarga",
-            "MacBook Pro / high-spec workstation",
-            "Flexible hybrid (3 days office, 2 days WFH)",
-            "Learning budget Rp 5jt/tahun",
-            "Lunch provided, snack bar",
-            "Impact langsung ke ribuan UMKM Indonesia"
-        ],
-        "how_to_apply": "Kirim lamaran dengan CV dan portfolio project melalui LinkedIn Gositus. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/fullstack-developer-at-gositus-pt-go-online-solusi-4378029794",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/fullstack-developer-at-gositus-pt-go-online-solusi-4378029794",
-        "featured": False
-    },
-    {
-        "slug": "android-developer-mnc-group",
-        "title": "Android Developer",
-        "company": "MNC Group (PT MNC Asia Holding Tbk)",
-        "location": "Jakarta, Indonesia",
         "type": "Full-time",
         "category": "Teknologi",
         "salary": "Rp 10-18 Juta",
         "posted": today,
         "expires": expires,
-        "description": "MNC Group, konglomerat media dan hiburan terbesar di Indonesia, mencari Android Developer untuk mengembangkan aplikasi mobile milik grup (streaming, news, entertainment, e-commerce). Anda akan bekerja pada aplikasi dengan jutaan active users, menghadapi challenge scale, video streaming, offline-first architecture, dan integrasi dengan ecosystem digital MNC. Tim mobile MNC menerapkan modern Android development: Kotlin, Jetpack Compose, Clean Architecture, dan modularization.",
+        "description": "PT. IDStar Cipta Teknologi (IDstar), perusahaan solusi teknologi terkemuka, mencari Frontend Developer dengan keahlian ekosistem .NET. Posisi ini akan mengembangkan antarmuka pengguna untuk aplikasi enterprise menggunakan Blazor, ASP.NET Core, dan teknologi frontend modern.",
         "requirements": [
-            "Minimal 2-4 tahun pengalaman Android Development",
-            "Expert Kotlin dan modern Android stack (Jetpack Compose, Coroutines, Flow)",
-            "Solid understanding Android SDK, lifecycle, memory management",
-            "Arsitektur: Clean Architecture, MVVM, MVI, Modularization",
-            "Dependency Injection: Hilt/Koin, Navigation Component",
-            "Testing: JUnit, Espresso, Compose Testing, Turbine",
-            "CI/CD: GitHub Actions/Bitrise, Play Console management",
-            "Video streaming (ExoPlayer), offline-first, push notification (FCM)",
-            "Published apps di Play Store adalah wajib",
-            "Kontribusi open source atau tech talk adalah plus"
+            "Minimal 2 tahun pengalaman Frontend Development",
+            "Mahir C#, ASP.NET Core, dan Blazor (WebAssembly/Server)",
+            "Kuasai HTML5, CSS3, JavaScript ES6+, TypeScript",
+            "Pengalaman dengan frontend framework: React, Angular, atau Vue.js",
+            "Paham konsep RESTful API dan integrasi dengan backend .NET",
+            "Familiar dengan Entity Framework Core dan SQL Server",
+            "Pengalaman Azure/AWS untuk deployment (diutamakan)"
         ],
         "responsibilities": [
-            "Develop dan maintain aplikasi Android flagship MNC Group",
-            "Implement features baru: live streaming, video on demand, personalization",
-            "Optimasi app performance: startup time, memory, battery, APK size",
-            "Migration legacy XML/View ke Jetpack Compose",
-            "Modularisasi codebase untuk build time dan team autonomy",
-            "Berkolaborasi dengan backend, design, QA, dan product team",
-            "Setup dan maintain CI/CD pipeline untuk mobile",
-            "Monitor crash analytics (Firebase Crashlytics/Play Console)",
-            "Mentoring junior Android engineers"
+            "Membangun UI component library menggunakan Blazor",
+            "Mengembangkan Single Page Application (SPA) dengan performa tinggi",
+            "Kolaborasi tim backend untuk desain API contract",
+            "Implementasi authentication/authorization (IdentityServer, JWT)",
+            "Optimasi rendering: server-side vs client-side Blazor",
+            "Menulis unit test dan integration test (bUnit, xUnit)",
+            "CI/CD pipeline setup dengan Azure DevOps/GitHub Actions"
         ],
         "benefits": [
-            "Gaji kompetitif (Rp 10-18 Juta) + performance bonus",
+            "Gaji kompetitif Rp 10-18 Juta + bonus performa",
             "BPJS Kesehatan dan Ketenagakerjaan",
-            "Asuransi kesehatan premium (spouse + children)",
-            "MacBook Pro + Android device untuk testing",
-            "Flexible hybrid work arrangement",
-            "Annual learning budget Rp 10jt + conference access",
-            "Employee perks: streaming subscriptions, gym, cafeteria",
-            "Karir di media company terbesar Indonesia dengan jutaan users"
+            "THR dan bonus tahunan",
+            "Asuransi kesehatan premium",
+            "Sertifikasi Microsoft/Azure dibiayai perusahaan",
+            "Hybrid working arrangement",
+            "Laptop high-spec disediakan"
         ],
-        "how_to_apply": "Kirim lamaran dengan CV, GitHub, dan link Play Store apps melalui LinkedIn MNC Group. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/android-developer-at-mnc-group-pt-mnc-asia-holding-tbk-4399160181",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/android-developer-at-mnc-group-pt-mnc-asia-holding-tbk-4399160181",
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-net-at-pt-idstar-cipta-teknologi-idstar-3691710409",
+        "source": "LinkedIn Indonesia",
+        "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-net-at-pt-idstar-cipta-teknologi-idstar-3691710409",
+        "featured": False
+    },
+    {
+        "slug": "cloud-devops-engineer-nri-indonesia",
+        "title": "Cloud DevOps Engineer",
+        "company": "NRI Indonesia",
+        "location": "Jakarta Raya, Indonesia",
+        "type": "Full-time",
+        "category": "Teknologi",
+        "salary": "Rp 15-25 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "NRI Indonesia (Nomura Research Institute), perusahaan konsulting TI dan sistem informasi Jepang terkemuka, mencari Cloud DevOps Engineer untuk membangun dan mengelola infrastruktur cloud modern. Kandidat akan bekerja pada proyek-proyek enterprise skala besar untuk klien korporat Indonesia dan global.",
+        "requirements": [
+            "Minimal 3 tahun pengalaman DevOps / Cloud Engineering",
+            "Mahir AWS (EC2, ECS/EKS, RDS, Lambda, CloudFormation) atau GCP/Azure",
+            "Pengalaman Kubernetes (EKS/GKE/AKS): deployment, scaling, troubleshooting",
+            "Infrastructure as Code: Terraform (wajib) dan/atau Ansible",
+            "CI/CD: GitHub Actions, GitLab CI, Jenkins, atau ArgoCD",
+            "Containerization: Docker, Helm, container security scanning",
+            "Monitoring & Observability: Prometheus, Grafana, ELK/EFK, Jaeger",
+            "Scripting: Python, Bash, atau Go untuk automation"
+        ],
+        "responsibilities": [
+            "Mendesain dan mengimplementasikan arsitektur cloud native yang scalable",
+            "Membangun dan memelihara CI/CD pipeline untuk microservices",
+            "Mengelola Kubernetes cluster production: upgrade, backup, disaster recovery",
+            "Implementasi GitOps workflow dengan ArgoCD/Flux",
+            "Setup observability stack: logging, metrics, tracing, alerting",
+            "Optimasi cloud cost: right-sizing, reserved instances, spot instances",
+            "Security hardening: network policies, RBAC, secrets management",
+            "Kolaborasi dengan dev team untuk developer self-service platform"
+        ],
+        "benefits": [
+            "Gaji kompetitif Rp 15-25 Juta + bonus proyek",
+            "BPJS Kesehatan dan Ketenagakerjaan",
+            "THR dan bonus tahunan",
+            "Budget sertifikasi AWS/GCP/Azure (Rp 15jt/tahun)",
+            "Laptop high-spec (MacBook Pro / ThinkPad)",
+            "Hybrid working fleksibel",
+            "Exposure proyek enterprise skala global",
+            "Budaya kerja profesional standar Jepang"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/cloud-devops-engineer-at-nri-indonesia-4279564538",
+        "source": "LinkedIn Indonesia",
+        "source_url": "https://id.linkedin.com/jobs/view/cloud-devops-engineer-at-nri-indonesia-4279564538",
+        "featured": False
+    },
+    {
+        "slug": "senior-backend-developer-go-kazokku",
+        "title": "Senior Backend Developer (Go)",
+        "company": "KAZOKKU",
+        "location": "Jakarta Raya, Indonesia",
+        "type": "Full-time",
+        "category": "Teknologi",
+        "salary": "Rp 18-30 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "KAZOKKU, platform teknologi properti dan real estate terkemuka, mencari Senior Backend Developer yang mahir Go (Golang) untuk mengembangkan layanan backend skala tinggi. Kandidat akan membangun API, microservices, dan sistem terdistribusi yang mendukung transaksi properti digital.",
+        "requirements": [
+            "Minimal 4 tahun pengalaman Backend Development",
+            "Mahir Go (Golang): goroutines, channels, interface, generics",
+            "Pengalaman framework: Gin, Echo, atau standard library net/http",
+            "Paham konsep microservices, gRPC, Protocol Buffers",
+            "Database: PostgreSQL (advanced), Redis, MongoDB",
+            "Message queue: RabbitMQ, Kafka, atau NATS",
+            "Container & Orchestration: Docker, Kubernetes",
+            "Testing: unit, integration, contract testing",
+            "System design: caching strategy, rate limiting, circuit breaker"
+        ],
+        "responsibilities": [
+            "Mendesain dan mengembangkan RESTful API dan gRPC services",
+            "Membangun microservices architecture dengan Go",
+            "Optimasi performa database: query tuning, indexing, connection pooling",
+            "Implementasi event-driven architecture dengan message queue",
+            "Setup observability: structured logging, distributed tracing, metrics",
+            "Code review dan mentoring junior/mid-level developer",
+            "Troubleshooting production incidents dan postmortem",
+            "Riset dan adopsi teknologi Go terbaru (Go 1.22+ features)"
+        ],
+        "benefits": [
+            "Gaji kompetitif Rp 18-30 Juta + bonus equity/ESOP",
+            "BPJS Kesehatan dan Ketenagakerjaan",
+            "THR dan bonus tahunan",
+            "Asuransi kesehatan premium untuk keluarga",
+            "Laptop MacBook Pro M-series disediakan",
+            "Budget konferensi GopherCon / Go training (Rp 10jt/tahun)",
+            "Flexible remote/hybrid arrangement",
+            "Produk proptech berdampak pada industri real estate Indonesia"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/senior-backend-developer-go-at-kazokku-4278014365",
+        "source": "LinkedIn Indonesia",
+        "source_url": "https://id.linkedin.com/jobs/view/senior-backend-developer-go-at-kazokku-4278014365",
+        "featured": False
+    },
+    {
+        "slug": "senior-appsec-engineer-phincon",
+        "title": "Senior Application Security Engineer",
+        "company": "PHINCON",
+        "location": "Jakarta Raya, Indonesia",
+        "type": "Full-time",
+        "category": "Teknologi",
+        "salary": "Rp 20-35 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "PHINCON, perusahaan cybersecurity dan digital transformation terkemuka, mencari Senior Application Security Engineer untuk memperkuat tim AppSec mereka. Posisi ini bertanggung jawab mengamankan aplikasi enterprise mulai dari kode, pipeline, hingga runtime di lingkungan production.",
+        "requirements": [
+            "Minimal 4 tahun pengalaman Application Security / Secure SDLC",
+            "Mahir SAST/DAST/IAST/SCA tools: SonarQube, Checkmarx, Fortify, Snyk, Semgrep",
+            "Paham OWASP Top 10, ASVS, MASVS, SAMM framework",
+            "Secure coding review: Java, Go, Python, Node.js, .NET",
+            "Container security: image scanning, runtime protection, admission control",
+            "CI/CD security: pipeline hardening, supply chain security (SLSA)",
+            "Threat modeling: STRIDE, PASTA, attack tree analysis",
+            "Sertifikasi relevan: OSCP, OSWE, GWAPT, atau eWPTX (diutamakan)"
+        ],
+        "responsibilities": [
+            "Menyematkan security ke SDLC: SAST/DAST/SCA di pipeline CI/CD",
+            "Melakukan secure code review dan threat modeling untuk aplikasi kritis",
+            "Membangun dan mengelola AppSec program: policy, metrics, reporting",
+            "Vulnerability management: triage, risk assessment, remediation tracking",
+            "Security champions program: training dan mentoring dev team",
+            "Incident response untuk application-layer security incidents",
+            "Evaluasi dan implementasi security tools baru (WAF, RASP, API gateway)",
+            "Compliance support: ISO 27001, PCI DSS, POJK keamanan siber"
+        ],
+        "benefits": [
+            "Gaji kompetitif Rp 20-35 Juta + bonus performa",
+            "BPJS Kesehatan dan Ketenagakerjaan",
+            "THR dan bonus tahunan",
+            "Budget sertifikasi security (OffSec, SANS, GIAC) full covered",
+            "Laptop high-spec disediakan",
+            "Hybrid working fleksibel di Jakarta",
+            "Exposure klien enterprise: banking, telco, e-commerce, gov",
+            "Karir di perusahaan cybersecurity pure-play bereputasi"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/senior-application-security-engineer-at-phincon-4394434497",
+        "source": "LinkedIn Indonesia",
+        "source_url": "https://id.linkedin.com/jobs/view/senior-application-security-engineer-at-phincon-4394434497",
         "featured": False
     }
 ]
 
-# Insert new jobs at the beginning of the jobs array
+# Insert new jobs at the beginning of jobs array (after site config)
+# Keep existing jobs, just prepend new ones
 data['jobs'] = new_jobs + data['jobs']
 
 # Write back
-with open('/tmp/maulud-net/loker/lowongan.json', 'w', encoding='utf-8') as f:
+with open('/tmp/maulud-net/loker/lowongan.json', 'w') as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 print(f"Added {len(new_jobs)} new jobs to lowongan.json")
 for i, job in enumerate(new_jobs, 1):
-    print(f"{i}. {job['title']} ({job['company']}) - {job['source_url']}")
+    print(f"  {i}. {job['title']} at {job['company']} - {job['source_url']}")
