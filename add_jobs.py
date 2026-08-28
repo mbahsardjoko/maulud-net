@@ -1,316 +1,306 @@
+#!/usr/bin/env python3
+"""Add new job listings to lowongan.json"""
 import json
-from datetime import date, timedelta
+from datetime import datetime, timedelta
+from pathlib import Path
 
-# Load existing data
-with open('/tmp/maulud-net/loker/lowongan.json', 'r') as f:
+BASE = Path(__file__).resolve().parent
+JSON_PATH = BASE / 'loker' / 'lowongan.json'
+
+with open(JSON_PATH) as f:
     data = json.load(f)
 
-today = date(2026, 8, 26)
-expires = today + timedelta(days=30)
+today = datetime.now().strftime('%Y-%m-%d')
+expires = (datetime.now() + timedelta(days=30)).strftime('%Y-%m-%d')
 
 new_jobs = [
     {
-        "slug": "blue-bird-group-backend-developer",
-        "title": "Back End Developer",
-        "company": "Blue Bird Group",
-        "location": "Jakarta, Indonesia",
+        "slug": "bosshire-executive-software-engineer",
+        "title": "Software Engineer",
+        "company": "BOSSHIRE Executive",
+        "location": "Jakarta, Indonesia (WFO)",
         "type": "Full-time",
         "category": "Teknologi",
-        "salary": "Rp 12-20 Juta",
-        "posted": today.isoformat(),
-        "expires": expires.isoformat(),
-        "description": "Blue Bird Group, grup transportasi terkemuka di Indonesia yang terus berinovasi di bidang teknologi, mencari Back End Developer untuk mengembangkan dan memelihara sistem backend yang mendukung operasi transportasi skala nasional. Kandidat akan bekerja pada arsitektur microservices, membangun API yang scalable, dan mengintegrasikan dengan berbagai layanan internal serta eksternal. Posisi ini menawarkan tantangan membangun teknologi yang berdampak langsung pada jutaan pengguna harian.",
+        "salary": "Rp 12-22 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "BOSSHIRE Executive, executive search firm terkemuka di Indonesia, membuka lowongan Software Engineer untuk bergabung dengan tim engineering klien enterprise mereka. Kandidat akan bekerja pada pengembangan aplikasi skala besar, membangun sistem backend yang scalable, dan berkolaborasi dengan cross-functional team untuk deliver solusi teknologi berkualitas tinggi. Posisi ini menawarkan peluang bekerja pada project-project menantang dari berbagai industri dengan exposure teknologi modern.",
         "requirements": [
-            "Minimal 2 tahun pengalaman Backend Development",
-            "Mahir Go (Golang) atau Java Spring Boot / Node.js",
-            "Pengalaman dengan database: PostgreSQL, MySQL, Redis",
-            "Paham microservices architecture, RESTful API, gRPC",
-            "Familiar dengan message queue: Kafka, RabbitMQ",
-            "Pengalaman Docker, Kubernetes, dan CI/CD pipeline",
-            "Paham observability: logging, monitoring, distributed tracing",
-            "Bisa bekerja hybrid di Jakarta"
+            "Minimal 2 tahun pengalaman Software Engineering / Backend Development",
+            "Mahir minimal satu bahasa: Go, Java, Python, Node.js, atau .NET",
+            "Pengalaman dengan database: PostgreSQL, MySQL, MongoDB, atau Redis",
+            "Paham konsep microservices, RESTful API, dan system design",
+            "Familiar dengan Docker, Kubernetes, dan CI/CD pipeline",
+            "Pengalaman cloud platform: AWS, GCP, atau Azure",
+            "Kemampuan problem solving dan debugging yang kuat",
+            "Bisa bekerja on-site di Jakarta (WFO)"
         ],
         "responsibilities": [
-            "Mengembangkan dan memelihara backend services untuk platform transportasi Blue Bird",
-            "Merancang dan mengimplementasikan RESTful API dan gRPC services",
-            "Membangun microservices architecture yang scalable dan resilient",
-            "Integrasi dengan payment gateway, mapping service, dan third-party API",
-            "Optimasi performa database dan query untuk transaksi volume tinggi",
-            "Setup observability stack: logging, metrics, tracing, alerting",
-            "Code review, mentoring junior engineer, dan troubleshooting production",
-            "Berkolaborasi dengan product, frontend, dan DevOps team"
+            "Mengembangkan dan memelihara backend services untuk aplikasi enterprise",
+            "Merancang dan mengimplementasikan RESTful API dan microservices",
+            "Optimasi performa database dan query untuk high-throughput systems",
+            "Code review, mentoring junior engineer, dan establish engineering standards",
+            "Berkolaborasi dengan Product Manager dan Designer untuk definisi fitur",
+            "Troubleshooting production incidents dan root cause analysis",
+            "Riset dan adopsi teknologi terbaru untuk improvement berkelanjutan"
         ],
         "benefits": [
-            "Gaji kompetitif Rp 12-20 Juta + bonus performa",
+            "Gaji kompetitif Rp 12-22 Juta + bonus performa + THR",
             "BPJS Kesehatan dan Ketenagakerjaan",
             "Asuransi kesehatan premium untuk karyawan + keluarga",
             "Laptop high-spec disediakan (MacBook Pro / ThinkPad)",
             "Budget learning: konferensi, sertifikasi, kursus (Rp 10jt/tahun)",
-            "Hybrid working fleksibel (3 hari WFO)",
-            "Produk transportasi berdampak jutaan pengguna Indonesia",
-            "Tim engineering berkualitas, culture of ownership & innovation"
+            "Career growth path jelas: Engineer → Senior → Lead → Architect",
+            "Exposure project diverse: fintech, e-commerce, healthtech, logistics",
+            "Tim engineering berkualitas, culture of ownership & excellence"
         ],
         "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/back-end-developer-at-blue-bird-group-4365234393",
+        "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-at-bosshire-executive-4444353795",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/back-end-developer-at-blue-bird-group-4365234393",
+        "source_url": "https://id.linkedin.com/jobs/view/software-engineer-at-bosshire-executive-4444353795",
         "featured": True
     },
     {
-        "slug": "ajari-ai-product-manager",
-        "title": "Product Manager (IT)",
-        "company": "AJARI.AI",
-        "location": "Jakarta Metropolitan Area, Indonesia",
-        "type": "Full-time",
-        "category": "Teknologi",
-        "salary": "Rp 15-25 Juta",
-        "posted": today.isoformat(),
-        "expires": expires.isoformat(),
-        "description": "AJARI.AI, startup AI-native yang fokus pada pengembangan solusi kecerdasan buatan untuk enterprise, mencari Product Manager untuk memimpin pengembangan produk AI B2B. Kandidat akan berkolaborasi dengan tim cross-fungsi (engineering, data science, design, business) untuk mengkonsep, memvalidasi, dan meluncurkan produk-produk AI yang memecahkan masalah bisnis nyata klien. Posisi ini ideal untuk PM yang ingin membangun produk AI dari nol dengan ownership penuh.",
-        "requirements": [
-            "Minimal 3 tahun pengalaman Product Management (SaaS/AI/ML diutamakan)",
-            "Background teknis: Computer Science, Engineering, atau setara",
-            "Pengalaman end-to-end product lifecycle: discovery, validation, build, launch",
-            "Paham konsep ML/AI: supervised/unsupervised learning, NLP, LLM, RAG",
-            "Kuat analisis data: SQL, Python/R, Mixpanel/Amplitude untuk product analytics",
-            "Familiar dengan Agile/Scrum, Jira, Confluence, Figma",
-            "Kemampuan komunikasi stakeholder: engineering, data science, design, business, leadership",
-            "Bersedia bekerja hybrid di Jakarta"
-        ],
-        "responsibilities": [
-            "Mendefinisikan product vision, strategy, dan roadmap untuk produk AI enterprise",
-            "Melakukan user research, competitor analysis, dan market sizing",
-            "Berkolaborasi dengan Data Science/ML Engineering untuk definisi requirement model",
-            "Mengelola product backlog dan prioritisasi berbasis impact vs effort (RICE, MoSCoW)",
-            "Bekerja sama dengan UX Designer untuk wireframe, user flow, dan prototype",
-            "Koordinasi dengan Engineering untuk sprint planning dan delivery berkualitas",
-            "Menganalisis metric produk post-launch: adoption, retention, engagement, ROI",
-            "Presentasi progress dan rekomendasi ke leadership untuk go/no-go decision"
-        ],
-        "benefits": [
-            "Gaji kompetitif Rp 15-25 Juta + equity (ESOP) signifikan",
-            "BPJS Kesehatan dan Ketenagakerjaan",
-            "Asuransi kesehatan premium untuk karyawan + keluarga",
-            "Laptop MacBook Pro disediakan",
-            "Budget AI/ML learning unlimited: konferensi internasional, sertifikasi, GPU cloud",
-            "Hybrid working fleksibel, autonomy tinggi",
-            "Ownership penuh pada produk AI dari ide hingga launch",
-            "Tim kecil, move fast, culture of experimentation & research"
-        ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-ajari-ai-4331983451",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-ajari-ai-4331983451",
-        "featured": False
-    },
-    {
-        "slug": "indodax-devops-engineer",
-        "title": "DevOps Engineer",
-        "company": "INDODAX (Indonesia Digital Asset Exchange)",
+        "slug": "starlight-hangars-software-engineer",
+        "title": "Software Engineer",
+        "company": "Starlight Hangars",
         "location": "Jakarta Raya, Indonesia",
         "type": "Full-time",
         "category": "Teknologi",
         "salary": "Rp 15-25 Juta",
-        "posted": today.isoformat(),
-        "expires": expires.isoformat(),
-        "description": "INDODAX, platform pertukaran aset digital terbesar di Indonesia dengan jutaan pengguna terdaftar, mencari DevOps Engineer untuk membangun dan memelihara infrastruktur cloud-native yang secure, scalable, dan high-availability. Kandidat akan bekerja pada sistem transaksi kripto volume tinggi, mengelola Kubernetes cluster, CI/CD pipeline, dan observability stack. Posisi ini menawarkan tantangan unik di intersection fintech, blockchain, dan cloud engineering.",
+        "posted": today,
+        "expires": expires,
+        "description": "Starlight Hangars, sister company of FORMULATRIX yang bergerak di industri otomatisasi laboratorium dan life sciences, mencari Software Engineer untuk mengembangkan software yang menggerakkan instrumen analitik canggih. Kandidat akan bekerja pada embedded software, firmware, dan aplikasi desktop yang interface dengan hardware precision. Posisi ini unik karena menggabungkan software engineering dengan domain sains kimia dan biologi molecular.",
         "requirements": [
-            "Minimal 3 tahun pengalaman DevOps / Site Reliability Engineering",
-            "Mahir Kubernetes (EKS/GKE/AKS), Docker, Helm, Kustomize",
-            "Pengalaman cloud platform: AWS (diutamakan), GCP, atau Azure",
-            "Mahir Infrastructure as Code: Terraform, Crossplane, atau Pulumi",
-            "Pengalaman CI/CD: GitHub Actions, GitLab CI, ArgoCD, atau Tekton",
-            "Paham observability: Prometheus, Grafana, Loki, Tempo, OpenTelemetry",
-            "Familiar dengan service mesh: Istio, Linkerd, atau Consul",
-            "Pengalaman database: PostgreSQL, Redis, Cassandra, atau ScyllaDB",
-            "Bisa bekerja hybrid di Jakarta"
+            "Minimal 3 tahun pengalaman Software Engineering",
+            "Mahir C++ (modern C++17/20) dan/atau Python",
+            "Pengalaman embedded systems, firmware, atau real-time systems",
+            "Paham hardware interfaces: UART, SPI, I2C, USB, Ethernet",
+            "Familiar dengan Qt framework untuk desktop application development",
+            "Pengalaman version control (Git), CI/CD, dan automated testing",
+            "Background Computer Science, Electrical Engineering, atau setara",
+            "Minat kuat pada domain life sciences / laboratory automation menjadi nilai plus"
         ],
         "responsibilities": [
-            "Mendesain, membangun, dan memelihara Kubernetes clusters production-grade",
-            "Mengelola CI/CD pipeline untuk microservices (build, test, deploy, rollback)",
-            "Implementasi Infrastructure as Code untuk semua resource cloud",
-            "Setup dan maintenance observability stack: metrics, logs, traces, alerting",
-            "Optimasi biaya cloud (FinOps) dan capacity planning",
-            "Implementasi security best practices: network policies, secrets management, RBAC",
-            "Incident response, root cause analysis, dan postmortem",
-            "Berkolaborasi dengan engineering team untuk platform enablement"
+            "Mengembangkan embedded software untuk instrumen analitik laboratory",
+            "Membangun desktop application (Qt/C++) untuk instrument control & data acquisition",
+            "Integrasi software dengan hardware: motor control, sensor, camera, fluidics",
+            "Implementasi communication protocols antara instrument dan cloud/backend",
+            "Code review, testing (unit, integration, hardware-in-the-loop)",
+            "Berkolaborasi dengan mechanical, electrical, dan application scientist team",
+            "Dokumentasi teknis: design spec, test plan, user manual"
         ],
         "benefits": [
-            "Gaji kompetitif Rp 15-25 Juta + bonus performa + token allocation",
+            "Gaji kompetitif Rp 15-25 Juta + bonus performa + equity",
             "BPJS Kesehatan dan Ketenagakerjaan",
             "Asuransi kesehatan extensif (karyawan + pasangan + anak)",
-            "Laptop MacBook Pro M-series disediakan",
-            "Budget learning unlimited: konferensi, sertifikasi (CKA, CKAD, AWS certs), buku",
-            "Hybrid working fleksibel (2 hari WFO)",
-            "Exposure sistem kripto/fintech skala jutaan user, high-throughput",
-            "Tim engineering-driven, culture of automation & reliability"
+            "Laptop high-spec + development hardware disediakan",
+            "Budget learning: konferensi embedded systems, sertifikasi (Rp 15jt/tahun)",
+            "Hybrid working arrangement",
+            "Produk nyata: instrumen yang digunakan lab di 50+ negara",
+            "Tim kecil, engineering-driven, culture of precision & innovation"
         ],
         "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/devops-engineer-at-indodax-indonesia-digital-asset-exchange-4435447029",
+        "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-at-starlight-hangars-4451976996",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/devops-engineer-at-indodax-indonesia-digital-asset-exchange-4435447029",
+        "source_url": "https://id.linkedin.com/jobs/view/software-engineer-at-starlight-hangars-4451976996",
         "featured": False
     },
     {
-        "slug": "glints-ui-ux-designer",
-        "title": "UI/UX Designer (Product Design ‒ Web & Mobile)",
-        "company": "Glints",
-        "location": "Jakarta Raya, Indonesia",
+        "slug": "dhl-supply-chain-ngt-mt-program-2026",
+        "title": "Next Generation Talent (NGT MT Program 2026)",
+        "company": "DHL Supply Chain Indonesia",
+        "location": "Greater Jakarta, Indonesia",
+        "type": "Full-time",
+        "category": "Administrasi",
+        "salary": "Rp 10-15 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "DHL Supply Chain Indonesia, bagian dari Deutsche Post DHL Group — perusahaan logistik terkemuka dunia, membuka program Next Generation Talent (NGT) Management Trainee 2026. Program ini dirancang untuk fresh graduate dan young professional dengan potensi tinggi untuk dikembangkan menjadi future leader di industri supply chain & logistics. Peserta akan melalui rotasi cross-functional, mentorship dari senior leader, dan project strategis dengan impact global.",
+        "requirements": [
+            "Fresh graduate atau maksimal 2 tahun pengalaman kerja (S1 semua jurusan)",
+            "IPK minimal 3.00 dari universitas terakreditasi A",
+            "Mahir Bahasa Inggris (lisan & tulis) — TOEFL/IELTS menjadi nilai plus",
+            "Leadership potential: pernah memimpin organisasi, komite, atau project",
+            "Analytical thinking, problem solving, dan adaptability tinggi",
+            "Bersedia ditempatkan di Greater Jakarta dan melakukan travel domestik",
+            "Passion pada industri logistics, supply chain, dan operations"
+        ],
+        "responsibilities": [
+            "Mengikuti program MT 18-24 bulan dengan rotasi di 3-4 divisi (Operations, Commercial, Solutions, Project Management)",
+            "Mengerjakan strategic project dengan sponsor C-level yang berimpact pada bisnis",
+            "Belajar end-to-end supply chain: warehousing, transportation, freight, value-added services",
+            "Berpartisipasi dalam leadership development workshop, coaching, dan mentoring session",
+            "Presentasi project outcome ke senior leadership dan regional/global stakeholders",
+            "Membangun network cross-functional dan cross-country dalam organisasi DHL Global"
+        ],
+        "benefits": [
+            "Gaji kompetitif Rp 10-15 Juta + allowances + performance bonus",
+            "BPJS Kesehatan dan Ketenagakerjaan sejak hari pertama",
+            "Asuransi kesehatan global coverage (karyawan + keluarga)",
+            "Relocation package untuk kandidat dari luar Jabodetabek",
+            "Structured career path: MT → Specialist/Supervisor → Manager → Senior Leader",
+            "Global exposure: assignment/secondment opportunity ke negara lain",
+            "World-class learning: DHL Certified International Specialist, MBA sponsorship track",
+            "Employee share purchase plan, pension fund, wellness program"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/next-generation-talent-ngt-mt-program-2026-at-dhl-supply-chain-4454019978",
+        "source": "LinkedIn",
+        "source_url": "https://id.linkedin.com/jobs/view/next-generation-talent-ngt-mt-program-2026-at-dhl-supply-chain-4454019978",
+        "featured": False
+    },
+    {
+        "slug": "amartek-backend-developer-golang-nodejs",
+        "title": "Backend Developer (Golang/Node.js)",
+        "company": "Bumi Amartha Teknologi Mandiri (Amartek)",
+        "location": "Jakarta, Indonesia",
+        "type": "Full-time",
+        "category": "Teknologi",
+        "salary": "Rp 12-20 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "Bumi Amartha Teknologi Mandiri (Amartek), system integrator terkemuka yang menyediakan solusi IT infrastructure, cloud, dan cybersecurity untuk enterprise di Indonesia, mencari Backend Developer dengan keahlian Golang dan Node.js. Kandidat akan membangun dan memelihara backend services untuk platform internal dan client-facing, termasuk API gateway, microservices, dan data processing pipelines. Posisi ini menawarkan exposure pada tech stack modern dan project skala enterprise.",
+        "requirements": [
+            "Minimal 2 tahun pengalaman Backend Development",
+            "Mahir Go (Golang): goroutines, channels, interface, generics",
+            "Mahir Node.js: Express/NestJS/Fastify, async patterns, event loop",
+            "Pengalaman database: PostgreSQL (advanced), Redis, MongoDB",
+            "Paham microservices architecture, gRPC, RESTful API design",
+            "Familiar dengan message queue: Kafka, RabbitMQ, atau NATS",
+            "Container & Orchestration: Docker, Kubernetes (EKS/GKE)",
+            "Pengalaman system integrator / enterprise IT menjadi nilai plus"
+        ],
+        "responsibilities": [
+            "Mendesain dan mengembangkan backend services dengan Go dan Node.js",
+            "Membangun RESTful API dan gRPC services untuk microservices architecture",
+            "Optimasi performa: query tuning, caching strategy, connection pooling",
+            "Implementasi event-driven architecture dengan message queue",
+            "Setup observability: logging, metrics, tracing, alerting (Prometheus/Grafana)",
+            "Code review, mentoring junior developer, dan establish best practices",
+            "Berkolaborasi dengan DevOps, Frontend, dan Solution Architect team"
+        ],
+        "benefits": [
+            "Gaji kompetitif Rp 12-20 Juta + bonus performa + THR",
+            "BPJS Kesehatan dan Ketenagakerjaan",
+            "Asuransi kesehatan premium (karyawan + pasangan + anak)",
+            "Laptop MacBook Pro / ThinkPad disediakan",
+            "Budget sertifikasi: AWS/GCP/Azure, CKAD, Go/Node.js certifications",
+            "Hybrid working (2-3 hari WFO)",
+            "Exposure project enterprise: banking, telco, government, manufacturing",
+            "Tim engineering solid, culture of learning & knowledge sharing"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/backend-developer-golang-node-js-at-bumi-amartha-teknologi-mandiri-4304369493",
+        "source": "LinkedIn",
+        "source_url": "https://id.linkedin.com/jobs/view/backend-developer-golang-node-js-at-bumi-amartha-teknologi-mandiri-4304369493",
+        "featured": False
+    },
+    {
+        "slug": "pt-intikom-berlian-mustika-ui-ux-designer",
+        "title": "UI/UX Designer",
+        "company": "PT Intikom Berlian Mustika",
+        "location": "DKI Jakarta, Indonesia",
         "type": "Full-time",
         "category": "Desain",
         "salary": "Rp 10-18 Juta",
-        "posted": today.isoformat(),
-        "expires": expires.isoformat(),
-        "description": "Glints, platform karir dan HR technology terkemuka di Asia Tenggara, mencari UI/UX Designer untuk membantu membentuk pengalaman pengguna platform berbasis subscription food-tech mereka. Kandidat akan berkolaborasi erat dengan founder dan tim development untuk mengubah operasi real-world yang kompleks menjadi produk digital yang intuitive dan delightful. Posisi ini menawarkan ownership penuh pada product design dari research hingga handoff.",
+        "posted": today,
+        "expires": expires,
+        "description": "PT Intikom Berlian Mustika, perusahaan teknologi informasi yang fokus pada solusi banking dan financial services, mencari UI/UX Designer untuk mendesain pengalaman pengguna aplikasi mobile dan web banking. Kandidat akan bertanggung jawab penuh atas design process: user research, wireframing, prototyping, visual design, hingga usability testing. Posisi ini menawarkan tantangan mendesain untuk produk finansial yang digunakan jutaan nasabah dengan standar keamanan dan regulasi ketat.",
         "requirements": [
-            "Minimal 2 tahun pengalaman UI/UX Design / Product Design",
-            "Portfolio kuat menampilkan case study end-to-end (research → wireframe → prototype → handoff)",
-            "Mahir Figma (auto layout, components, prototyping, design systems)",
+            "Minimal 2 tahun pengalaman UI/UX Design (banking/fintech diutamakan)",
+            "Portfolio kuat: case study end-to-end dari research hingga final design",
+            "Mahir Figma (advanced: auto layout, variants, design systems, prototyping)",
             "Paham user research methods: interview, usability testing, card sorting, analytics",
-            "Familiar dengan design tokens, component libraries, dan design handoff (Zeplin/Figma dev mode)",
-            "Pemahaman dasar frontend: HTML, CSS, React Native/Flutter constraints",
-            "Kemampuan komunikasi desain ke stakeholder non-teknis (product, engineering, leadership)",
+            "Familiar dengan design system, component library, dan handoff ke developer",
+            "Paham aksesibilitas (WCAG) dan mobile platform guidelines (iOS HIG, Material Design)",
+            "Kemampuan komunikasi design rationale ke stakeholder teknis & non-teknis",
             "Bersedia bekerja hybrid di Jakarta"
         ],
         "responsibilities": [
-            "Melakukan user research: interview, survey, usability testing untuk identifikasi pain point",
-            "Membuat user flow, wireframe, high-fidelity prototype untuk fitur baru",
-            "Mendesain dan maintain design system/component library yang konsisten",
-            "Berkolaborasi dengan Product Manager untuk definisi requirement dan success metric",
-            "Bekerja sama dengan Engineer untuk design handoff, QA visual, dan implementasi",
-            "Menjalankan design review dan mengiterasi berdasarkan feedback user & stakeholder",
-            "Menganalisis metric UX: task success rate, time-to-complete, NPS, drop-off points",
-            "Mendokumentasikan design decision, rationale, dan accessibility guidelines"
-        ],
-        "benefits": [
-            "Gaji kompetitif Rp 10-18 Juta + bonus performa + equity (ESOP)",
-            "BPJS Kesehatan dan Ketenagakerjaan",
-            "Asuransi kesehatan premium untuk karyawan + keluarga",
-            "Laptop MacBook Pro disediakan",
-            "Budget design learning: konferensi (Figma Config, UX conferences), kursus, buku (Rp 10jt/tahun)",
-            "Hybrid working fleksibel (3 hari WFO)",
-            "Produk HR/karir berdampak jutaan talenta di Asia Tenggara",
-            "Tim design & product collaborative, culture of craft & user-centricity"
-        ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-at-glints-4319890660",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-at-glints-4319890660",
-        "featured": False
-    },
-    {
-        "slug": "tbwa-indonesia-content-writer",
-        "title": "Content Writer (B2B Writer - Bahasa Indonesia)",
-        "company": "TBWA Indonesia",
-        "location": "Jakarta, Indonesia",
-        "type": "Full-time",
-        "category": "Konten & Kreatif",
-        "salary": "Rp 8-14 Juta",
-        "posted": today.isoformat(),
-        "expires": expires.isoformat(),
-        "description": "TBWA Indonesia, agency kreatif global yang dikenal dengan metodologi Disruption® dan kini dipadu dengan AI untuk digital growth, mencari Content Writer untuk menulis konten B2B berbahasa Indonesia. Kandidat akan menciptakan thought leadership article, case study, white paper, dan konten strategis untuk klien-klien enterprise dari berbagai industri. Posisi ini menawarkan peluang menulis untuk brand-brand top tier dengan dukungan tools AI cutting-edge.",
-        "requirements": [
-            "Minimal 2 tahun pengalaman Content Writing / Copywriting (B2B, agency, atau in-house)",
-            "Portfolio writing kuat: article, case study, white paper, blog post berbahasa Indonesia",
-            "Paham content strategy: topic cluster, SEO basics, content funnel, thought leadership",
-            "Kemampuan riset topik teknis/bisnis dan menerjemahkannya jadi tulisan accessible",
-            "Familiar dengan AI writing tools: ChatGPT, Claude, Jasper, atau sejenisnya",
-            "Mahir Bahasa Indonesia baku dan kreatif, Bahasa Inggris passive (baca referensi global)",
-            "Deadline-driven, detail-oriented, bisa handle multiple project paralel",
-            "Bersedia bekerja hybrid di Jakarta"
-        ],
-        "responsibilities": [
-            "Menulis thought leadership article, case study, white paper untuk klien B2B enterprise",
-            "Melakukan riset industri, competitor, dan audience untuk content planning",
-            "Berkolaborasi dengan Strategist dan Account Manager untuk content brief & messaging",
-            "Mengoptimasi konten untuk SEO: keyword research, on-page, content structure",
-            "Menggunakan AI tools untuk riset, outline, drafting, dan editing (human-in-the-loop)",
-            "Editing dan proofreading konten tim lain untuk konsistensi tone of voice",
-            "Menganalisis performa konten: traffic, engagement, lead generation, conversion",
-            "Presentasi ide konten dan rekomendasi ke klien/internal stakeholder"
-        ],
-        "benefits": [
-            "Gaji kompetitif Rp 8-14 Juta + bonus performa + THR",
-            "BPJS Kesehatan dan Ketenagakerjaan",
-            "Asuransi kesehatan extensif (karyawan + pasangan + anak)",
-            "Laptop disediakan",
-            "Budget learning: writing workshop, AI tools training, konferensi kreatif (Rp 8jt/tahun)",
-            "Hybrid working arrangement",
-            "Exposure brand-brand top tier Indonesia & global, portfolio prestisius",
-            "Akses tools AI premium (ChatGPT Enterprise, Claude, Midjourney, dll)",
-            "Budaya kreatif: disruption sessions, hackathon, creative showcase"
-        ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/content-writer-at-tbwa-indonesia-—-powered-by-ai-driven-by-disruption-for-digital-growth-4325497609",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/content-writer-at-tbwa-indonesia-—-powered-by-ai-driven-by-disruption-for-digital-growth-4325497609",
-        "featured": False
-    },
-    {
-        "slug": "lemonilo-digital-marketing-specialist",
-        "title": "Digital Marketing Specialist",
-        "company": "Lemonilo",
-        "location": "Jakarta, Indonesia",
-        "type": "Full-time",
-        "category": "Marketing",
-        "salary": "Rp 10-18 Juta",
-        "posted": today.isoformat(),
-        "expires": expires.isoformat(),
-        "description": "Lemonilo, brand makanan sehat dan gaya hidup terkemuka di Indonesia yang dikenal dengan mi instan berbasis sayur, mencari Digital Marketing Specialist untuk mengembangkan strategi digital marketing komprehensif yang selaras dengan tujuan bisnis. Kandidat akan mengelola budget, mengalokasikan resource efektif, dan mengeksekusi kampanye di berbagai channel digital. Posisi ini cocok untuk marketing professional yang ingin berkarya di brand FMCG growth-stage dengan community loyal.",
-        "requirements": [
-            "Minimal 3 tahun pengalaman Digital Marketing (FMCG/e-commerce diutamakan)",
-            "Mahir performance marketing: Meta Ads, Google Ads, TikTok Ads, programmatic",
-            "Pengalaman marketing analytics: GA4, Mixpanel, AppsFlyer, attribution modeling",
-            "Paham growth marketing: A/B testing, CRO, funnel optimization, LTV/CAC",
-            "Kemampuan manajemen budget & alokasi resource across channel",
-            "Familiar dengan creative strategy: brief creative, creative testing, DCO",
-            "Mahir Bahasa Indonesia dan Inggris (lisan & tulis)",
-            "Bersedia bekerja hybrid di Jakarta"
-        ],
-        "responsibilities": [
-            "Mengembangkan strategi digital marketing komprehensif (brand + performance)",
-            "Mengelola end-to-end campaign: planning, execution, optimization, reporting",
-            "Mengelola budget marketing bulanan/kuartalan dan alokasi across channel",
-            "Melakukan A/B testing berkelanjutan: creative, audience, bidding, landing page",
-            "Berkolaborasi dengan Creative team untuk brief dan produksi asset iklan",
-            "Menganalisis metric: ROAS, CAC, LTV, conversion rate, retention cohort",
-            "Koordinasi dengan agency/partner eksternal untuk eksekusi kampanye skala besar",
-            "Melaporkan performance ke leadership dengan insight actionable"
+            "Melakukan user research dan competitive analysis untuk produk banking digital",
+            "Mendesain user flow, wireframe, prototype (low-fi hingga high-fi) di Figma",
+            "Membangun dan maintain design system untuk konsistensi multi-platform",
+            "Berkolaborasi dengan Product Manager untuk definisi requirement & prioritization",
+            "Handoff design ke developer: spec, asset, annotation, design token",
+            "Melakukan usability testing dan iterasi berdasarkan feedback pengguna",
+            "Berkontribusi pada design review, design critique session, dan design ops"
         ],
         "benefits": [
             "Gaji kompetitif Rp 10-18 Juta + bonus performa + THR",
             "BPJS Kesehatan dan Ketenagakerjaan",
-            "Asuransi kesehatan premium untuk karyawan + keluarga",
-            "Laptop disediakan",
-            "Budget learning: sertifikasi Meta/Google/TikTok Ads, konferensi marketing (Rp 12jt/tahun)",
-            "Hybrid working fleksibel",
-            "Produk FMCG sehat berdampak jutaan konsumen Indonesia",
-            "Free product Lemonilo unlimited, snack sehat di kantor",
-            "Tim marketing data-driven, culture of experimentation & growth"
+            "Asuransi kesehatan extensif (karyawan + pasangan + anak)",
+            "MacBook Pro + iPhone/Android untuk testing disediakan",
+            "Budget learning: Figma config, UX conference, design certification (Rp 8jt/tahun)",
+            "Hybrid working arrangement",
+            "Produk banking skala jutaan user, impact nasional",
+            "Tim design & product kolaboratif, design-driven culture"
         ],
         "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://www.linkedin.com/jobs/view/3963908490",
+        "apply_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-at-pt-intikom-berlian-mustika-4375116314",
         "source": "LinkedIn",
-        "source_url": "https://www.linkedin.com/jobs/view/3963908490",
+        "source_url": "https://id.linkedin.com/jobs/view/ui-ux-designer-at-pt-intikom-berlian-mustika-4375116314",
+        "featured": False
+    },
+    {
+        "slug": "pt-berca-hardayaperkasa-fullstack-developer",
+        "title": "Pengembang Fullstack",
+        "company": "PT Berca Hardayaperkasa",
+        "location": "Jakarta, Indonesia",
+        "type": "Full-time",
+        "category": "Teknologi",
+        "salary": "Rp 10-18 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "PT Berca Hardayaperkasa, perusahaan teknologi yang menyediakan solusi digital transformation untuk berbagai industri, mencari Fullstack Developer untuk membangun aplikasi web end-to-end. Kandidat akan bekerja pada frontend (React/Next.js) dan backend (ASP.NET Core / Laravel), database design, serta deployment ke cloud. Posisi ini cocok untuk developer yang suka ownership penuh pada product development lifecycle dan ingin exposure teknologi fullstack yang beragam.",
+        "requirements": [
+            "Minimal 1-2 tahun pengalaman Fullstack Web Development",
+            "Frontend: Mahir React.js, Next.js, TypeScript, Tailwind CSS / CSS-in-JS",
+            "Backend: Mahir ASP.NET Core (C#) ATAU Laravel (PHP) — minimal satu",
+            "Database: PostgreSQL, MySQL, SQL Server — query optimization, migration",
+            "State management: Redux Toolkit, Zustand, React Query / TanStack Query",
+            "Authentication: JWT, OAuth2, OIDC, ASP.NET Core Identity",
+            "Familiar dengan Docker, Git, CI/CD (GitHub Actions / GitLab CI)",
+            "Paham RESTful API design, clean architecture, SOLID principles"
+        ],
+        "responsibilities": [
+            "Mengembangkan fitur frontend (React/Next.js) dan backend (ASP.NET/Laravel) end-to-end",
+            "Merancang database schema, migration, dan optimasi query",
+            "Membangun reusable component library dan design system implementation",
+            "Implementasi authentication, authorization, dan security best practices",
+            "Setup CI/CD pipeline untuk automated build, test, dan deployment",
+            "Code review, pairing session, dan knowledge sharing dengan tim",
+            "Berkolaborasi dengan Designer, PM, dan QA untuk delivery berkualitas"
+        ],
+        "benefits": [
+            "Gaji kompetitif Rp 10-18 Juta + bonus project + performance bonus",
+            "BPJS Kesehatan dan Ketenagakerjaan",
+            "THR dan tunjangan hari raya lengkap",
+            "Laptop disediakan (MacBook / Windows high-spec)",
+            "Budget learning: kursus, sertifikasi, konferensi (Rp 8jt/tahun)",
+            "Hybrid working fleksibel",
+            "Exposure diverse project: enterprise apps, SaaS, e-gov, e-commerce",
+            "Tim kecil, flat hierarchy, ownership tinggi, fast learning curve"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/pengembang-fullstack-at-pt-berca-hardayaperkasa-4320101070",
+        "source": "LinkedIn",
+        "source_url": "https://id.linkedin.com/jobs/view/pengembang-fullstack-at-pt-berca-hardayaperkasa-4320101070",
         "featured": False
     }
 ]
 
-# Check for duplicates
-existing_slugs = {job['slug'] for job in data['jobs']}
-new_jobs_filtered = [job for job in new_jobs if job['slug'] not in existing_slugs]
-
-print(f"Existing jobs: {len(data['jobs'])}")
-print(f"New jobs to add: {len(new_jobs_filtered)}")
-for job in new_jobs_filtered:
-    print(f"  - {job['slug']}: {job['title']} at {job['company']}")
-
 # Insert new jobs at the beginning (index 0)
-data['jobs'] = new_jobs_filtered + data['jobs']
+data['jobs'] = new_jobs + data['jobs']
 
-# Write back
-with open('/tmp/maulud-net/loker/lowongan.json', 'w') as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
+# Also update categories array - compute from jobs
+categories = sorted(list(set(job['category'] for job in data['jobs'] if job.get('category'))))
+data['categories'] = categories
 
-print(f"\nTotal jobs after update: {len(data['jobs'])}")
-print("Done!")
+with open(JSON_PATH, 'w') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
+
+print(f"Added {len(new_jobs)} new jobs to lowongan.json")
+print(f"Categories: {categories}")
+for job in new_jobs:
+    print(f"  - {job['title']} at {job['company']} ({job['slug']})")
