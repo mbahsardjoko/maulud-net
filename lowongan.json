@@ -1,0 +1,194 @@
+{
+  "jobs": [
+    {
+      "slug": "maverick-data-analyst-jakarta",
+      "title": "Data Analyst",
+      "company": "Maverick Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-08-30",
+      "expires": "2026-09-30",
+      "description": "Maverick Indonesia is seeking a Data Analyst to join our team. The ideal candidate will be responsible for collecting, processing, and analyzing data to support business decisions. You will work closely with marketing and product teams to derive actionable insights from customer data.",
+      "requirements": [
+        "Bachelor's degree in Data Science, Statistics, Economics, or related field",
+        "2+ years of experience in data analysis",
+        "Proficiency in Python, SQL, and Excel",
+        "Strong analytical and problem-solving skills",
+        "Ability to communicate findings to non-technical stakeholders"
+      ],
+      "responsibilities": [
+        "Collect and analyze data from various sources",
+        "Develop dashboards and reports for stakeholders",
+        "Identify trends and patterns in customer behavior",
+        "Create data visualizations to communicate insights",
+        "Collaborate with cross-functional teams"
+      ],
+      "benefits": [
+        "Competitive salary",
+        "Health insurance",
+        "Remote work options",
+        "Professional development opportunities"
+      ],
+      "how_to_apply": "Kirim lamaran melalui email ke hr@maverick-indonesia.com",
+      "apply_url": "https://www.linkedin.com/jobs/view/data-analyst-at-maverick-indonesia-4435428388",
+      "source": "LinkedIn Indonesia",
+      "source_url": "https://www.linkedin.com/jobs/view/data-analyst-at-maverick-indonesia-4435428388",
+      "featured": true
+    },
+    {
+      "slug": "scg-data-analyst-engineer",
+      "title": "Data Analyst / Data Engineer",
+      "company": "SCG Indonesia",
+      "location": "Jakarta",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-14 Juta",
+      "posted": "2026-08-28",
+      "expires": "2026-09-28",
+      "description": "SCG Indonesia is looking for a Data Analyst / Data Engineer to support their data-driven decision making. You will be responsible for collecting, processing, and analyzing data to support business intelligence initiatives across the organization.",
+      "requirements": [
+        "Bachelor's degree in Computer Science, Engineering, or related field",
+        "3+ years of experience in data analysis or data engineering",
+        "Proficiency in Python, SQL, and data visualization tools",
+        "Experience with cloud platforms (AWS, Azure, or GCP)",
+        "Strong problem-solving and analytical skills"
+      ],
+      "responsibilities": [
+        "Design and maintain data pipelines",
+        "Develop ETL processes for data integration",
+        "Create and maintain data models and reports",
+        "Support business intelligence and reporting initiatives",
+        "Ensure data quality and integrity"
+      ],
+      "benefits": [
+        "Competitive salary",
+        "Performance bonuses",
+        "Health insurance",
+        "Career growth opportunities",
+        "Flexible work hours"
+      ],
+      "how_to_apply": "Kirim lamaran melalui portal karyawan SCG",
+      "apply_url": "https://www.linkedin.com/jobs/view/data-analyst-data-engineer-–-scg-indonesia-at-scg-4299315688/",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/jobs/view/data-analyst-data-engineer-–-scg-indonesia-at-scg-4299315688/",
+      "featured": false
+    },
+    {
+      "slug": "forecoffee-qa-automation",
+      "title": "QA Automation Engineer",
+      "company": "Fore Coffee",
+      "location": "Jakarta Pusat",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 5-9 Juta",
+      "posted": "2026-08-29",
+      "expires": "2026-09-29",
+      "description": "Fore Coffee is seeking a QA Automation Engineer to join our quality assurance team. You will be responsible for developing and maintaining automated test scripts to ensure the quality of our software applications.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "2+ years of experience in QA automation",
+        "Proficiency in Python and Selenium",
+        "Knowledge of API testing",
+        "Strong analytical and problem-solving skills"
+      ],
+      "responsibilities": [
+        "Develop and maintain automated test scripts",
+        "Execute manual and automated test cases",
+        "Identify and report software defects",
+        "Collaborate with developers to fix bugs",
+        "Ensure test coverage of all application features"
+      ],
+      "benefits": [
+        "Competitive salary",
+        "Health insurance",
+        "Remote work options",
+        "Professional development opportunities",
+        "Team building activities"
+      ],
+      "how_to_apply": "Kirim lamaran melalui email ke recruitment@forecoffee.co",
+      "apply_url": "https://id.linkedin.com/jobs/view/qa-automation-engineer-at-fore-coffee-4352282417",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/qa-automation-engineer-at-fore-coffee-4352282417",
+      "featured": false
+    },
+    {
+      "slug": "acclime-it-project-manager",
+      "title": "IT Project Manager",
+      "company": "Acclime",
+      "location": "Jakarta Selatan",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 10-18 Juta",
+      "posted": "2026-08-27",
+      "expires": "2026-09-27",
+      "description": "Acclime is looking for an experienced IT Project Manager to lead strategic IT initiatives. You will be responsible for managing complex projects from inception to completion, including infrastructure modernization and cloud migrations.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "5+ years of experience as an IT Project Manager",
+        "Proven track record of delivering projects on time and within budget",
+        "Experience with Agile/Scrum methodologies",
+        "Strong leadership and communication skills"
+      ],
+      "responsibilities": [
+        "Lead cross-functional project teams",
+        "Develop project plans and timelines",
+        "Manage project resources and budgets",
+        "Coordinate with stakeholders and vendors",
+        "Ensure project deliverables are met"
+      ],
+      "benefits": [
+        "Competitive salary",
+        "Performance bonuses",
+        "Health insurance",
+        "Career advancement opportunities",
+        "Flexible work arrangements"
+      ],
+      "how_to_apply": "Kirim lamaran melalui portal karyawan Acclime",
+      "apply_url": "https://id.linkedin.com/jobs/view/it-project-manager-id26006-at-acclime-4425584592",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/it-project-manager-id26006-at-acclime-4425584592",
+      "featured": false
+    },
+    {
+      "slug": "daya-cipta-devops-engineer",
+      "title": "DevOps Engineer",
+      "company": "PT DAYA CIPTA MANDIRI SOLUSI",
+      "location": "Jakarta Pusat",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 7-12 Juta",
+      "posted": "2026-08-31",
+      "expires": "2026-09-30",
+      "description": "PT DAYA CIPTA MANDIRI SOLUSI is seeking a DevOps Engineer to join our team. You will be responsible for designing, implementing, and maintaining cloud infrastructure and CI/CD pipelines.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "3+ years of experience in DevOps or cloud engineering",
+        "Proficiency in AWS, Azure, or GCP",
+        "Experience with IaC tools (Terraform, Ansible)",
+        "Strong scripting skills (Python, Bash)",
+        "Knowledge of CI/CD pipelines"
+      ],
+      "responsibilities": [
+        "Design and maintain cloud infrastructure",
+        "Implement and manage CI/CD pipelines",
+        "Monitor and troubleshoot production systems",
+        "Collaborate with development teams",
+        "Ensure system reliability and security"
+      ],
+      "benefits": [
+        "Competitive salary",
+        "Health insurance",
+        "Remote work options",
+        "Professional development opportunities",
+        "Team building activities"
+      ],
+      "how_to_apply": "Kirim lamaran melalui email ke hr@daya-cipta-mandiri-solusi.com",
+      "apply_url": "https://id.linkedin.com/jobs/view/dev-ops-engineer-at-pt-daya-cipta-mandiri-solusi-4341799754",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/dev-ops-engineer-at-pt-daya-cipta-mandiri-solusi-4341799754",
+      "featured": false
+    }
+  ]
+}
