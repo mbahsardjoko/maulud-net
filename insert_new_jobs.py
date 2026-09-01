@@ -1,238 +1,215 @@
-#!/usr/bin/env python3
-"""Insert new jobs at index 0 of lowongan.json jobs array."""
 import json
 from datetime import datetime, timedelta
 
-with open('loker/lowongan.json', 'r') as f:
+# Baca existing data
+with open('lowongan.json', 'r') as f:
     data = json.load(f)
 
-today = datetime(2026, 7, 6)
-posted = today.strftime("%Y-%m-%d")
-expires = (today + timedelta(days=30)).strftime("%Y-%m-%d")
+# Data lowongan baru berdasarkan hasil web_search REAL
+today = datetime.now().strftime("%Y-%m-%d")
+expires = (datetime.now() + timedelta(days=30)).strftime("%Y-%m-%d")
 
 new_jobs = [
     {
-        "slug": "back-end-engineer-lingotalk",
-        "title": "Back-end Engineer",
-        "company": "LingoTalk",
+        "slug": "project-manager-e-solutions-jakarta",
+        "title": "Project Manager",
+        "company": "E-Solutions",
         "location": "Jakarta",
         "type": "Full-time",
         "category": "Teknologi",
-        "salary": "Rp 12-22 Juta",
-        "posted": posted,
+        "salary": "Rp 12-18 Juta",
+        "posted": today,
         "expires": expires,
-        "description": "LingoTalk, platform pembelajaran bahasa terkemuka di Asia Tenggara, sedang mencari Back-end Engineer berbakat untuk bergabung dengan tim engineering mereka di Jakarta. Kamu akan bertanggung jawab merancang, membangun, dan memelihara layanan back-end yang scalable menggunakan teknologi modern. Posisi ini cocok untuk engineer yang suka tantangan arsitektur sistem dan ingin berdampak pada produk yang digunakan ribuan pelajar bahasa.",
+        "description": "E-Solutions mencari Project Manager berpengalaman untuk memimpin tim teknologi. Posisi ini bertanggung jawab mengelola siklus hidup proyek dari perencanaan hingga implementasi, memastikan delivery tepat waktu dengan kualitas tinggi.",
         "requirements": [
-            "Pengalaman minimal 2+ tahun dalam pengembangan back-end atau full-stack",
-            "Berbasis di Jakarta, lancar berbahasa Inggris dan Bahasa Indonesia",
-            "Nyaman bekerja langsung dengan leadership di lingkungan fast-paced",
-            "Mahir dalam bahasa pemrograman seperti Go, Python, atau Node.js",
-            "Pengalaman dengan database relasional (PostgreSQL/MySQL) dan NoSQL",
-            "Paham desain RESTful API dan arsitektur microservices",
-            "Familiar dengan Git dan workflow kolaboratif tim"
+            "Pengalaman minimal 3 tahun sebagai Project Manager di bidang teknologi",
+            "Mampu mengelola tim 8-10 orang dan stakeholder lintas fungsi",
+            "Pemahaman kuat tentang project planning, risk management, dan change management",
+            "Sertifikasi PMP atau Agile/Scrum adalah nilai tambah",
+            "Komunikasi dan leadership skills yang baik"
         ],
         "responsibilities": [
-            "Mengembangkan dan memelihara layanan back-end untuk platform LingoTalk",
-            "Merancang arsitektur sistem yang scalable dan maintainable",
-            "Berkolaborasi dengan tim frontend, mobile, dan product dalam pengembangan fitur",
-            "Mengimplementasikan best practices keamanan dan validasi data",
-            "Memastikan kinerja tinggi dan uptime layanan",
-            "Berpartisipasi dalam code review dan diskusi teknis"
+            "Mengelola siklus hidup proyek dari inisiasi hingga closure",
+            "Melakukan project planning, estimasi, dan resource allocation",
+            "Mengelola risiko proyek dan melakukan change management",
+            "Memimpin tim 8-10 orang dan koordinasi dengan stakeholder",
+            "Monitoring progress dan reporting ke management"
         ],
         "benefits": [
-            "Gaji kompetitif sesuai industri edtech",
-            "BPJS Ketenagakerjaan dan Kesehatan",
-            "Flexible working hours",
-            "Budget pembelajaran dan sertifikasi teknologi",
-            "Laptop dan peralatan kerja disediakan",
-            "Lingkungan kerja yang mendukung pertumbuhan bahasa dan teknologi"
+            "Gaji kompetitif",
+            "Asuransi kesehatan",
+            "Bonus berbasis kinerja",
+            "Pelatihan dan sertifikasi profesional",
+            "Lingkungan kerja yang dinamis"
         ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Back-end Engineer di LingoTalk. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/back-end-engineer-at-lingotalk-4354850416",
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/project-manager-at-e-solutions-4394604802",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/back-end-engineer-at-lingotalk-4354850416",
+        "source_url": "https://id.linkedin.com/jobs/view/project-manager-at-e-solutions-4394604802",
         "featured": True
     },
     {
-        "slug": "ml-engineer-pt-astra-international-tbk",
-        "title": "ML Engineer",
-        "company": "PT Astra International Tbk",
+        "slug": "software-engineer-golang-bank-sinarmas",
+        "title": "Software Engineer (Golang)",
+        "company": "PT Bank Sinarmas Tbk",
         "location": "Jakarta",
         "type": "Full-time",
         "category": "Teknologi",
-        "salary": "Rp 15-25 Juta",
-        "posted": posted,
+        "salary": "Rp 8-14 Juta",
+        "posted": today,
         "expires": expires,
-        "description": "PT Astra International Tbk, salah satu konglomerat terbesar di Indonesia, membuka lowongan ML Engineer untuk bergabung dengan tim data science dan AI mereka di Jakarta. Posisi ini strategis dalam mengembangkan solusi machine learning yang mendukung berbagai bisnis unit Astra, dari otomotif, keuangan, hingga properti. Kamu akan bekerja pada proyek-proyek nyata dengan dampak bisnis yang signifikan di skala nasional.",
+        "description": "PT Bank Sinarmas membuka kesempatan untuk Software Engineer dengan spesialisasi Golang. Bergabunglah dengan tim engineering yang solid untuk membangun solusi perbankan digital yang inovatif dan scalable.",
         "requirements": [
-            "Pengalaman minimal 3 tahun sebagai ML Engineer atau Data Scientist",
-            "Mahir dalam Python dan framework ML (TensorFlow, PyTorch, scikit-learn)",
-            "Pengalaman dengan MLOps, model deployment, dan CI/CD untuk ML",
-            "Paham konsep deep learning, NLP, computer vision, atau time series",
-            "Pengalaman dengan cloud platform (AWS/GCP/Azure) dan containerization",
-            "Kemampuan komunikasi baik untuk kolaborasi lintas tim bisnis dan teknis",
-            "Lulusan S1/S2 Ilmu Komputer, Statistik, Matematika, atau bidang terkait"
+            "Minimal 1 tahun pengalaman dengan Golang",
+            "Strong proficiency dalam Go programming language",
+            "Pemahaman tentang microservices architecture",
+            "Pengalaman dengan database relational dan NoSQL",
+            "Familiar dengan Git dan CI/CD pipeline"
         ],
         "responsibilities": [
-            "Merancang, mengembangkan, dan mendeploy model machine learning ke production",
-            "Membangun pipeline data dan MLOps yang robust dan scalable",
-            "Berkolaborasi dengan stakeholder bisnis untuk mengidentifikasi use case ML",
-            "Mengoptimalkan performa model dan monitoring di production",
-            "Melakukan riset dan eksperimen teknik ML terbaru untuk problem solving",
-            "Mendokumentasikan proses development dan best practices ML"
+            "Develop dan maintain aplikasi backend menggunakan Golang",
+            "Design dan implement RESTful APIs",
+            "Collaborate dengan tim product dan frontend",
+            "Write clean, maintainable, dan well-tested code",
+            "Troubleshoot dan optimize aplikasi untuk performa maksimal"
         ],
         "benefits": [
-            "Gaji kompetitif dengan bonus performa",
-            "BPJS Ketenagakerjaan dan Kesehatan lengkap",
-            "Asuransi kesehatan tambahan",
-            "International working environment di konglomerat terkemuka",
-            "Kesempatan belajar dan pelatihan AI/ML",
-            "Flexible hybrid working arrangement",
-            "MacBook Pro dan peralatan kerja disediakan"
+            "Gaji kompetitif sesuai pengalaman",
+            "BPJS Kesehatan dan Ketenagakerjaan",
+            "Tunjangan transportasi",
+            "Program training dan development",
+            "Career growth di industri perbankan"
         ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan ML Engineer di PT Astra International Tbk. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/ml-engineer-at-pt-astra-international-tbk-4069505789",
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-at-pt-bank-sinarmas-tbk-4302493019",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/ml-engineer-at-pt-astra-international-tbk-4069505789",
+        "source_url": "https://id.linkedin.com/jobs/view/software-engineer-at-pt-bank-sinarmas-tbk-4302493019",
         "featured": False
     },
     {
-        "slug": "product-manager-pintarnya",
-        "title": "Product Manager",
-        "company": "Pintarnya",
-        "location": "Jakarta Raya",
+        "slug": "software-engineer-hicolleagues-jakarta",
+        "title": "Software Engineer",
+        "company": "HiColleagues",
+        "location": "Jakarta",
         "type": "Full-time",
         "category": "Teknologi",
-        "salary": "Rp 18-30 Juta",
-        "posted": posted,
+        "salary": "Rp 7-12 Juta",
+        "posted": today,
         "expires": expires,
-        "description": "Pintarnya, platform edukasi teknologi yang berkembang pesat, mencari Product Manager yang exceptional untuk mengambil kepemilikan visi, strategi, dan eksekusi produk mereka di Jakarta. Sebagai PM, kamu akan menjadi jembatan antara kebutuhan user, kendala teknis, tujuan bisnis, dan dinamika pasar. Posisi ini menawarkan otonomi tinggi dan dampak langsung pada produk yang digunakan ribuan pelajar.",
+        "description": "HiColleagues sedang berkembang pesat dan mencari Software Engineer untuk bergabung dengan tim teknologi kami. Anda akan bekerja pada produk yang digunakan oleh ribuan pengguna dan berkontribusi langsung pada pertumbuhan platform.",
         "requirements": [
-            "Pengalaman 3-5 tahun sebagai Product Manager di produk tech/konsumer",
-            "Track record mengelola siklus hidup produk dari ide sampe launch",
-            "Kemampuan analisis data dan pengambilan keputusan berbasis data",
-            "Paham metodologi agile, user research, dan product discovery",
-            "Kemampuan komunikasi dan stakeholder management yang kuat",
-            "Background teknis (CS/Engineering) menjadi nilai plus",
-            "Passion di industri edtech dan pembelajaran digital"
+            "Gelar Sarjana di bidang Computer Science, Information Technology, atau terkait",
+            "Pengalaman 1-3 tahun dalam software development",
+            "Proficient dengan bahasa pemrograman modern (Java, Python, atau JavaScript)",
+            "Pemahaman konsep OOP dan design patterns",
+            "Problem solving yang baik dan attitude positif"
         ],
         "responsibilities": [
-            "Merencanakan dan mengeksekusi strategi produk sesuai visi perusahaan",
-            "Mengelola product backlog, prioritisasi fitur, dan roadmap",
-            "Berkolaborasi dengan tim engineering, design, data, dan marketing",
-            "Melakukan user research, analisis metrik, dan kompetitor research",
-            "Mendefinisikan KPI produk dan memantau performa secara berkala",
-            "Memfasilitasi sprint planning, review, dan retrospective"
+            "Develop fitur baru sesuai requirement dari product team",
+            "Maintain dan improve existing codebase",
+            "Code review dan collaborate dengan tim developer",
+            "Write technical documentation",
+            "Participate dalam sprint planning dan daily standup"
         ],
         "benefits": [
-            "Gaji kompetitif dengan bonus performa",
-            "BPJS Ketenagakerjaan dan Kesehatan",
-            "Budget iklan untuk eksperimen growth",
-            "Flexible work arrangement",
-            "MacBook Pro disediakan",
-            "Akses gratis ke platform Pintarnya",
-            "Budget untuk pengembangan diri dan kursus"
+            "Kompensasi kompetitif",
+            "Asuransi kesehatan",
+            "Flexible working hours",
+            "Kesempatan belajar teknologi baru",
+            "Team building dan company outing"
         ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Product Manager di Pintarnya. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-pintarnya-4406922507",
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-at-hicolleagues-4375676705",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-pintarnya-4406922507",
+        "source_url": "https://id.linkedin.com/jobs/view/software-engineer-at-hicolleagues-4375676705",
         "featured": False
     },
     {
-        "slug": "infrastructure-engineer-duitku",
-        "title": "Infrastructure Engineer",
-        "company": "Duitku",
-        "location": "Area DKI Jakarta",
+        "slug": "freelance-seo-content-writer-acc",
+        "title": "Freelance SEO Content Writer (Remote)",
+        "company": "Astra Credit Companies (ACC)",
+        "location": "Remote",
+        "type": "Freelance",
+        "category": "Konten & Kreatif",
+        "salary": "Rp 4-7 Juta",
+        "posted": today,
+        "expires": expires,
+        "description": "Astra Credit Companies membuka kesempatan bagi Freelance SEO Content Writer untuk mengembangkan konten website perusahaan. Posisi ini cocok untuk content writer berpengalaman yang memahami SEO dan ingin bekerja secara remote dengan fleksibilitas tinggi.",
+        "requirements": [
+            "Pengalaman minimal 2 tahun sebagai content writer atau copywriter",
+            "Pemahaman kuat tentang SEO dan keyword research",
+            "Kemampuan menulis dalam Bahasa Indonesia yang baik dan menarik",
+            "Portfolio writing (artikel, blog, atau website content)",
+            "Self-motivated dan mampu bekerja secara mandiri"
+        ],
+        "responsibilities": [
+            "Menulis dan mengoptimasi konten website untuk SEO",
+            "Riset keyword dan competitor analysis",
+            "Develop content calendar dan content strategy",
+            "Edit dan proofread content sebelum publikasi",
+            "Collaborate dengan tim marketing untuk content alignment"
+        ],
+        "benefits": [
+            "Work from anywhere (fully remote)",
+            "Flexible working hours",
+            "Fee kompetitif per project",
+            "Kesempatan bekerja dengan brand besar",
+            "Portfolio building dengan perusahaan kredibel"
+        ],
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://www.linkedin.com/posts/tangguh-dwijayanto_freelancewriter-contentwriter-remotework-activity-7337754307422785536-hWgy",
+        "source": "LinkedIn",
+        "source_url": "https://www.linkedin.com/posts/tangguh-dwijayanto_freelancewriter-contentwriter-remotework-activity-7337754307422785536-hWgy",
+        "featured": False
+    },
+    {
+        "slug": "project-manager-wipro-jakarta",
+        "title": "Project Manager",
+        "company": "Wipro",
+        "location": "Jakarta",
         "type": "Full-time",
         "category": "Teknologi",
-        "salary": "Rp 15-25 Juta",
-        "posted": posted,
+        "salary": "Rp 15-22 Juta",
+        "posted": today,
         "expires": expires,
-        "description": "Duitku, payment gateway terkemuka di Indonesia, mencari Infrastructure Engineer untuk mengelola dan mengoptimalkan infrastruktur cloud mereka yang melayani jutaan transaksi. Posisi ini fokus pada reliability, scalability, dan security dari sistem pembayaran yang kritis. Kamu akan bekerja dengan tim engineering berbakat di lingkungan fintech yang fast-paced dan high-availability.",
+        "description": "Wipro, perusahaan teknologi global terkemuka, membuka posisi Project Manager untuk operasional di Jakarta. Anda akan mengelola project life cycle dan memberikan leadership kepada tim project dalam memastikan delivery yang sukses dan tepat waktu.",
         "requirements": [
-            "Pengalaman minimal 2+ tahun sebagai Infrastructure/DevOps/SRE Engineer",
-            "Mahir dengan cloud platform (AWS/GCP/Azure) dan Infrastructure as Code (Terraform)",
-            "Pengalaman dengan Kubernetes, Docker, dan container orchestration",
-            "Paham CI/CD pipeline, monitoring (Prometheus/Grafana), dan logging",
-            "Pengalaman dengan database, caching, dan message queue systems",
-            "Familiar dengan security best practices dan compliance (PCI-DSS nilai plus)",
-            "Kemampuan troubleshooting sistem distributed yang kompleks"
+            "Pengalaman minimal 5 tahun dalam project management di IT/teknologi",
+            "Sertifikasi PMP, Prince2, atau Agile/Scrum Master",
+            "Track record sukses mengelola large-scale projects",
+            "Excellent communication dan stakeholder management skills",
+            "Bahasa Inggris fluent (written dan verbal)"
         ],
         "responsibilities": [
-            "Mengelola dan mengoptimalkan infrastruktur cloud Duitku",
-            "Membangun dan memelihara CI/CD pipeline untuk deployment otomatis",
-            "Mengimplementasikan monitoring, alerting, dan incident response",
-            "Merancang arsitektur sistem yang high-availability dan scalable",
-            "Berkolaborasi dengan tim backend untuk optimasi performa infrastruktur",
-            "Memastikan compliance dan keamanan infrastruktur pembayaran"
+            "Manage project life cycle dari inisiasi hingga closure",
+            "Provide leadership kepada project resources",
+            "Ensure timely delivery sesuai budget dan scope",
+            "Risk management dan issue resolution",
+            "Client communication dan stakeholder reporting"
         ],
         "benefits": [
-            "Gaji kompetitif dengan bonus performa",
-            "BPJS Ketenagakerjaan dan Kesehatan lengkap",
-            "Asuransi kesehatan swasta",
-            "Flexible hybrid work arrangement",
-            "Budget untuk kursus dan sertifikasi cloud/DevOps",
-            "MacBook Pro dan peralatan kerja disediakan",
-            "Akses ke teknologi fintech terkini"
+            "Gaji sangat kompetitif dengan bonus",
+            "Asuransi kesehatan premium",
+            "International exposure dan training",
+            "Career progression di perusahaan global",
+            "Work-life balance programs"
         ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Infrastructure Engineer di Duitku. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/infrastructure-engineer-at-duitku-4339027236",
+        "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+        "apply_url": "https://id.linkedin.com/jobs/view/project-manager-at-wipro-4072458632",
         "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/infrastructure-engineer-at-duitku-4339027236",
-        "featured": False
-    },
-    {
-        "slug": "sales-manager-ming-yang-smart-energy",
-        "title": "Indonesia Sales Manager",
-        "company": "Ming Yang Smart Energy",
-        "location": "Jakarta Raya",
-        "type": "Full-time",
-        "category": "Marketing",
-        "salary": "Rp 20-35 Juta",
-        "posted": posted,
-        "expires": expires,
-        "description": "Ming Yang Smart Energy, perusahaan energi terbarukan global yang berfokus pada turbin angin dan sistem tenaga surya, mencari Indonesia Sales Manager untuk memimpin ekspansi pasar mereka di Indonesia. Posisi ini berbasis di Jakarta Raya dan bertanggung jawab mengembangkan strategi penjualan, membangun relasi dengan klien kunci (EPC, developer, utility), dan mengeksekusi deal untuk proyek pembangkit listrik terbarukan skala besar.",
-        "requirements": [
-            "Pengalaman minimal 5+ tahun sales di industri energi terbarukan/renewable energy",
-            "Network kuat di industri listrik Indonesia (PLN, IPP, EPC, developer)",
-            "Track record menangani proyek besar (utility-scale wind/solar)",
-            "Paham regulasi energi Indonesia (RUPTL, EBT, izin proyek)",
-            "Kemampuan negosiasi dan closing deal kompleks",
-            "Bahasa Inggris aktif (lisan dan tulisan) - wajib",
-            "Bersedia travel dalam dan luar kota untuk meeting klien"
-        ],
-        "responsibilities": [
-            "Mengembangkan dan mengeksekusi strategi sales untuk pasar Indonesia",
-            "Membangun dan memelihara relasi dengan key decision makers",
-            "Mengidentifikasi peluang proyek baru dan mengelola pipeline sales",
-            "Memimpin proses tender, proposal, dan negosiasi kontrak",
-            "Berkolaborasi dengan tim teknis global untuk solution selling",
-            "Melaporkan forecast sales dan aktivitas ke regional HQ"
-        ],
-        "benefits": [
-            "Gaji kompetitif + komisi penjualan yang menarik",
-            "BPJS Ketenagakerjaan dan Kesehatan",
-            "Asuransi kesehatan swasta",
-            "Company car dan allowance transportasi",
-            "International working environment di perusahaan global",
-            "Kesempatan training dan sertifikasi industri energi",
-            "Flexible working arrangement"
-        ],
-        "how_to_apply": "Kirim lamaran melalui LinkedIn dengan klik tombol Lamar di halaman lowongan Indonesia Sales Manager di Ming Yang Smart Energy. Informasi lebih lanjut bisa dicek di link sumber.",
-        "apply_url": "https://id.linkedin.com/jobs/view/indonesia-sales-manager-at-ming-yang-smart-energy-4317765282",
-        "source": "LinkedIn",
-        "source_url": "https://id.linkedin.com/jobs/view/indonesia-sales-manager-at-ming-yang-smart-energy-4317765282",
+        "source_url": "https://id.linkedin.com/jobs/view/project-manager-at-wipro-4072458632",
         "featured": False
     }
 ]
 
-# Insert at index 0 (newest first)
-data['jobs'] = new_jobs + data['jobs']
+# Insert di posisi 0 (paling atas)
+for job in reversed(new_jobs):
+    data['jobs'].insert(0, job)
 
-with open('loker/lowongan.json', 'w') as f:
+# Save ke file
+with open('lowongan.json', 'w') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
-print(f"✅ Successfully inserted {len(new_jobs)} new jobs at index 0")
-for job in new_jobs:
-    print(f"  - {job['title']} at {job['company']} ({job['source_url']})")
+print(f"✅ {len(new_jobs)} lowongan berhasil ditambahkan")
+for i, job in enumerate(new_jobs, 1):
+    print(f"{i}. {job['title']} ({job['company']}) - {job['source_url']}")
