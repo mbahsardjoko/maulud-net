@@ -9,6 +9,247 @@
   },
   "jobs": [
     {
+      "slug": "sun-life-indonesia-product-manager-digital-enablement",
+      "title": "Product Manager - Digital Enablement",
+      "company": "Sun Life Indonesia",
+      "location": "Jakarta Selatan, Indonesia",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 15-25 Juta",
+      "posted": "2026-09-03",
+      "expires": "2026-10-03",
+      "description": "Sun Life Indonesia, perusahaan asuransi jiwa dan manajemen aset terkemuka asal Kanada yang beroperasi di lebih dari 30 negara, membuka lowongan Product Manager - Digital Enablement untuk memimpin transformasi digital platform asuransi dan wealth management mereka. Sebagai Product Manager, Anda akan mengelola product roadmap untuk fitur digital termasuk corporate website, quick quote tool, dan find-an-advisor functionality. Anda akan bekerja cross-functionally dengan Asia Regional Office, tim development, content, UI/UX, dan production teams untuk memastikan launch yang successful. Posisi ini menawarkan kesempatan untuk impact di industri asuransi digital Indonesia yang terus berkembang.",
+      "requirements": [
+        "Minimal 3-5 tahun pengalaman sebagai Product Manager atau Business Analyst di fintech/insurance",
+        "Experience mengelola digital products: websites, web apps, atau mobile applications",
+        "Strong analytical skills dengan kemampuan data-driven decision making",
+        "Familiar dengan agile methodology dan product development lifecycle",
+        "Excellent communication skills untuk koordinasi dengan regional dan local teams",
+        "Track record dalam launching digital products yang successful",
+        "S1 di bidang Business, IT, Finance, atau related field",
+        "Fluency dalam Bahasa Indonesia dan English (written & verbal)"
+      ],
+      "responsibilities": [
+        "Manage digital product roadmap untuk Sun Life Indonesia corporate website dan tools",
+        "Collaborate dengan Asia Regional Office untuk align global product standards",
+        "Work dengan UI/UX team untuk improve user experience website corporate",
+        "Coordinate dengan development team untuk feature implementation dan timeline",
+        "Track dan analyze product metrics, conversion rates, dan user engagement",
+        "Conduct market research dan competitive analysis untuk insurance digital space",
+        "Present product performance ke stakeholders dan regional leadership",
+        "Identify opportunities untuk digital innovation dalam insurance distribution"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 15-25 Juta + performance bonus + THR",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan comprehensive untuk karyawan dan keluarga",
+        "Laptop MacBook dan latest tools untuk productivity",
+        "Hybrid working arrangement dengan fleksibilitas WFH",
+        "Professional development: product management certifications, conferences",
+        "Career path ke Senior Product Manager atau Digital Leadership roles",
+        "Exposure ke international work environment dengan regional team",
+        "Employee benefits: pension plan, flexible spending account"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-sun-life-4430385066",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-sun-life-4430385066",
+      "featured": true
+    },
+    {
+      "slug": "biota-smart-home-social-media-specialist",
+      "title": "Social Media Specialist",
+      "company": "BIOTA Smart Home",
+      "location": "Jakarta, Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 6-10 Juta",
+      "posted": "2026-09-03",
+      "expires": "2026-10-03",
+      "description": "BIOTA Smart Home, perusahaan teknologi rumah pintar Indonesia yang fokus pada solusi IoT untuk keamanan dan kenyamanan rumah modern, membuka lowongan Social Media Specialist untuk mengembangkan dan mengimplementasikan strategi media sosial yang meningkatkan brand awareness dan engagement dengan komunitas smart home enthusiasts. Anda akan menciptakan konten yang engaging untuk platform seperti Instagram, Facebook, Twitter, LinkedIn, dan TikTok yang mencerminkan identitas brand BIOTA. Tim marketing BIOTA bekerja dalam environment yang dinamis dan innovative di mana kreativitas dan data analytics bertemu untuk membentuk narrative brand di era digital.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai Social Media Specialist atau similar role",
+        "Strong understanding social media platforms, algorithms, dan analytics tools",
+        "Proven track record dalam growing social media accounts dan engagement",
+        "Ability untuk create engaging content: text, image, video, dan stories",
+        "Familiar dengan social media management tools: Hootsuite, Buffer, Sprout Social",
+        "Knowledge dalam social media advertising dan paid campaigns",
+        "Excellent writing skills dalam Bahasa Indonesia (English is a plus)",
+        "Creative mindset dengan ability untuk generate fresh content ideas"
+      ],
+      "responsibilities": [
+        "Develop dan execute comprehensive social media strategies across multiple platforms",
+        "Create, curate, dan manage engaging content (text, image, video) sesuai brand identity",
+        "Manage social media calendar dan posting schedule yang consistent",
+        "Monitor dan respond terhadap comments, messages, dan community interactions",
+        "Analyze social media metrics dan provide regular performance reports",
+        "Collaborate dengan product team untuk product launches dan campaign alignment",
+        "Research trends di smart home technology dan competitor social activities",
+        "Manage social media advertising budget dan optimize campaign performance"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 6-10 Juta + bonus + THR",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan untuk karyawan dan keluarga",
+        "Laptop disediakan",
+        "Pelatihan: social media courses, content creation workshops",
+        "Flexible working arrangement dengan opsi hybrid",
+        "Kesempatan belajar teknologi smart home terbaru",
+        "Career path: Senior Social Media -> Social Media Lead -> Marketing Manager",
+        "Fun working environment di startup tech company"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/social-media-specialist-biota-at-biota-smart-home-4443248347",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/social-media-specialist-biota-at-biota-smart-home-4443248347",
+      "featured": false
+    },
+    {
+      "slug": "vocagame-quality-assurance-engineer",
+      "title": "Quality Assurance Engineer",
+      "company": "VocaGame",
+      "location": "Indonesia (Remote/Hybrid)",
+      "type": "Full-time",
+      "category": "Teknologi",
+      "salary": "Rp 8-14 Juta",
+      "posted": "2026-09-03",
+      "expires": "2026-10-03",
+      "description": "VocaGame, perusahaan teknologi terkemuka di Asia Tenggara yang fokus pada solusi channel dan platform inovatif untuk industri hiburan dan media, membuka lowongan Quality Assurance Engineer untuk memastikan kualitas software products mereka sebelum release ke pasar. Sebagai QA Engineer, Anda akan berperan kritis dalam software development lifecycle dengan melakukan manual dan automation testing untuk aplikasi mobile dan web platform. Anda akan bekerja sama dengan developers dan product managers untuk identify bugs, verify fixes, dan maintain quality standards yang tinggi. Posisi ini ideal untuk QA professional yang ingin berkontribusi di perusahaan tech dengan jangkauan regional.",
+      "requirements": [
+        "2-5 tahun pengalaman di Software Quality Assurance",
+        "Fresh graduate dengan hands-on project/internship experience in manual atau automation testing welcome",
+        "Solid understanding QA methodologies, tools, dan SDLC",
+        "Experience dengan test case design, test planning, dan bug reporting",
+        "Familiar dengan automation testing tools merupakan nilai tambah",
+        "Knowledge dalam API testing dan database validation",
+        "Strong attention to detail dan analytical problem-solving skills",
+        "S1 Computer Science, Information Technology, atau related field"
+      ],
+      "responsibilities": [
+        "Develop dan execute test plans, test cases, dan test scripts",
+        "Perform manual testing untuk mobile apps, web applications, dan backend services",
+        "Identify, document, dan track bugs menggunakan bug tracking tools",
+        "Collaborate dengan developers untuk ensure bug resolution yang timely",
+        "Conduct regression testing setelah bug fixes dan new releases",
+        "Participate dalam code review sessions dan provide QA perspective",
+        "Create dan maintain test documentation dan quality reports",
+        "Support continuous integration/continuous deployment (CI/CD) processes"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 8-14 Juta + performance bonus",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan untuk karyawan",
+        "Laptop dan equipment disediakan",
+        "Remote work atau hybrid arrangement",
+        "Professional development: QA certifications, testing workshops",
+        "Exposure ke regional tech projects di SEA market",
+        "Career path: QA Engineer -> Senior QA -> QA Lead -> QA Manager",
+        "Dynamic work environment dengan latest tech stacks"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/quality-assurance-engineer-at-vocagame-4373077768",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/quality-assurance-engineer-at-vocagame-4373077768",
+      "featured": false
+    },
+    {
+      "slug": "pt-global-berkat-digital-ui-ux-designer",
+      "title": "UI/UX Designer",
+      "company": "PT Global Berkat Digital",
+      "location": "Cengkareng, Jakarta Barat",
+      "type": "Full-time",
+      "category": "Desain",
+      "salary": "Rp 7-11 Juta",
+      "posted": "2026-09-03",
+      "expires": "2026-10-03",
+      "description": "PT Global Berkat Digital, digital agency yang mengkhususkan diri dalam desain dan pengembangan web app untuk sektor B2B, membuka lowongan UI/UX Designer untuk bergabung dengan tim desain yang dinamis. Sebagai UI/UX Designer, Anda akan bertanggung jawab merancang interface yang intuitif dan engaging untuk berbagai client projects di sektor enterprise dan bisnis. Anda akan collaborate dengan developers, project managers, dan client stakeholders untuk translate business requirements menjadi design solutions yang visually appealing dan user-friendly. Posisi ini menawarkan kesempatan untuk work on diverse B2B projects dan berkembang dalam agency environment yang collaborative.",
+      "requirements": [
+        "Minimal 2 tahun pengalaman sebagai UI/UX Designer atau Product Designer",
+        "Proficiency dalam design tools: Figma (required), Adobe XD, Sketch, atau Photoshop",
+        "Strong understanding user-centered design principles dan design thinking",
+        "Experience dalam creating wireframes, mockups, dan interactive prototypes",
+        "Knowledge dalam responsive design dan mobile-first approach",
+        "Portfolio yang menunjukkan design process dan project outcomes",
+        "Familiar dengan front-end basics: HTML, CSS, JavaScript adalah nilai tambah",
+        "Strong communication skills untuk client presentations"
+      ],
+      "responsibilities": [
+        "Design intuitive user interfaces untuk web applications dan mobile apps",
+        "Create wireframes, user flows, dan process diagrams untuk communicate design ideas",
+        "Develop high-fidelity mockups dan interactive prototypes di Figma",
+        "Conduct user research dan usability testing untuk validate design decisions",
+        "Collaborate dengan developers untuk ensure accurate implementation",
+        "Present design concepts kepada clients dan stakeholders",
+        "Maintain dan evolve design system untuk consistent brand experience",
+        "Stay updated dengan latest design trends dan best practices dalam UI/UX"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 7-11 Juta + bonus + THR",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan",
+        "Laptop MacBook atau workstation untuk design work",
+        "Hybrid working arrangement",
+        "Pelatihan: design workshops, UX courses, conference attendance",
+        "Exposure ke diverse B2B client projects dari berbagai industri",
+        "Career path: Senior Designer -> Lead Designer -> Design Manager",
+        "Collaborative agency culture dengan creative team"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn atau Jobstreet. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.jora.com/lowongan-UI-Ux-Designer",
+      "source": "Jora",
+      "source_url": "https://id.jora.com/lowongan-UI-Ux-Designer",
+      "featured": false
+    },
+    {
+      "slug": "doxadigital-digital-marketing-strategist-media-planner",
+      "title": "Digital Marketing Strategist & Media Planner",
+      "company": "Doxadigital",
+      "location": "Jakarta Barat, Indonesia",
+      "type": "Full-time",
+      "category": "Marketing",
+      "salary": "Rp 8-13 Juta",
+      "posted": "2026-09-03",
+      "expires": "2026-10-03",
+      "description": "Doxadigital, digital agency award-winning yang berbasis di Jakarta dengan lebih dari 20 tahun pengalaman membantu bisnis di seluruh Indonesia menjalankan digital marketing campaigns yang berdampak tinggi, membuka lowongan Digital Marketing Strategist & Media Planner untuk bergabung dengan growing team mereka. Sebagai Digital Marketing Strategist, Anda akan merancang dan mengimplementasikan end-to-end digital marketing strategies untuk berbagai client brands termasuk IKEA Indonesia, Astra Group, Pegadaian, dan Indomaret. Anda akan bekerja dengan data-driven approach untuk create campaigns yang meningkatkan brand visibility, engagement, dan conversion. Doxadigital adalah Facebook Preferred Agency, Google Premier Partner, dan TikTok Media Buying Partner.",
+      "requirements": [
+        "Minimal 2-3 tahun pengalaman sebagai Digital Marketing Strategist atau Media Planner",
+        "Strong analytical skills dengan kemampuan interpretasi data untuk decision making",
+        "Experience dengan Google Ads, Facebook Ads, TikTok Ads, dan programmatic advertising",
+        "Proficiency dalam media planning tools dan analytics platforms (Google Analytics, Meta Business Suite)",
+        "Track record dalam successful digital campaigns dengan measurable results",
+        "Understanding dalam SEO, SEM, social media advertising, dan display advertising",
+        "Excellent communication skills untuk client presentations dan negotiations",
+        "S1 di bidang Marketing, Communications, atau related field"
+      ],
+      "responsibilities": [
+        "Develop comprehensive digital marketing strategies untuk diverse client portfolios",
+        "Create dan execute media plans dengan focus pada performance metrics",
+        "Manage paid advertising campaigns di Google, Meta, TikTok, dan programmatic platforms",
+        "Analyze campaign performance dan provide actionable insights untuk optimization",
+        "Collaborate dengan creative team untuk ensure ad creatives yang effective",
+        "Present strategies dan results kepada clients dengan clear storytelling",
+        "Stay updated dengan digital marketing trends dan platform algorithm changes",
+        "Identify opportunities untuk campaign innovation dan growth"
+      ],
+      "benefits": [
+        "Gaji kompetitif Rp 8-13 Juta + performance bonus + THR",
+        "BPJS Kesehatan dan Ketenagakerjaan",
+        "Asuransi kesehatan untuk karyawan",
+        "Laptop disediakan",
+        "On-site work arrangement di office Jakarta Barat",
+        "Budget untuk certifications: Google Ads, Meta Blueprint, HubSpot",
+        "Akses ke latest digital marketing tools dan platforms",
+        "Exposure ke major brand clients di berbagai industri",
+        "Professional development: conferences, workshops, industry events",
+        "Career path: Strategist -> Senior Strategist -> Strategy Director"
+      ],
+      "how_to_apply": "Kirim lamaran melalui LinkedIn. Informasi lebih lanjut bisa dicek di link sumber.",
+      "apply_url": "https://id.linkedin.com/jobs/view/digital-marketing-strategist-at-doxadigital-creative-digital-marketing-agency-4403963293",
+      "source": "LinkedIn",
+      "source_url": "https://id.linkedin.com/jobs/view/digital-marketing-strategist-at-doxadigital-creative-digital-marketing-agency-4403963293",
+      "featured": false
+    },
+    {
       "slug": "pt-deptech-digital-indonesia-senior-backend-developer",
       "title": "Senior Backend Developer",
       "company": "PT Deptech Digital Indonesia",
@@ -106,7 +347,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-anker-indonesia-4384644089/",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-anker-indonesia-4384644089/",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "bisa-tumbuh-customer-service-ecommerce",
@@ -304,7 +545,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/frontend-engineer-react-nextjs-at-pt-global-payment-solutions-4451234567",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/frontend-engineer-react-nextjs-at-pt-global-payment-solutions-4451234567",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "pt-solusi-data-analytics-senior-data-scientist",
@@ -539,7 +780,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/cloud-devops-engineer-level-middle-gcp-kubernetes-at-pt-loren-tech-solutions-4319342246",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/cloud-devops-engineer-level-middle-gcp-kubernetes-at-pt-loren-tech-solutions-4319342246",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "seedbacklink-content-writer-jakarta",
@@ -776,7 +1017,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/data-engineer-at-pt-lion-super-indo-4401831819",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/data-engineer-at-pt-lion-super-indo-4401831819",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "phincon-data-architect",
@@ -1012,7 +1253,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-detikcom-3959646891",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-detikcom-3959646891",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "djarum-ui-ux-designer-jakarta",
@@ -1249,7 +1490,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/2026-indonesia-fresh-graduate-hiring-–-jakarta-at-byd-indonesia-4437371994",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/2026-indonesia-fresh-graduate-hiring-–-jakarta-at-byd-indonesia-4437371994",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "pt-bank-mandiri-odp-it-2026",
@@ -1719,7 +1960,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-awan-dinata-teknologi-pt-3774116674",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-awan-dinata-teknologi-pt-3774116674",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "cv-anugrah-karya-indonesia-fullstack-developer",
@@ -1764,7 +2005,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/lowongan-full-stack-developer-at-cv-anugrah-karya-indonesia-2457530547",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/lowongan-full-stack-developer-at-cv-anugrah-karya-indonesia-2457530547",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "paydia-indonesia-frontend-developer",
@@ -1993,7 +2234,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-at-bosshire-executive-4444353795",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/software-engineer-at-bosshire-executive-4444353795",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "starlight-hangars-software-engineer",
@@ -2268,7 +2509,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/data-scientist-at-pt-merdeka-copper-gold-tbk-4436222102",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/data-scientist-at-pt-merdeka-copper-gold-tbk-4436222102",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "pt-erajaya-swasembada-backend-golang-developer",
@@ -2564,7 +2805,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/back-end-developer-at-blue-bird-group-4365234393",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/back-end-developer-at-blue-bird-group-4365234393",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "ajari-ai-product-manager",
@@ -2754,7 +2995,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/backend-developer-indonesia-at-bjak-4440945344",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/backend-developer-indonesia-at-bjak-4440945344",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "ocbc-indonesia-data-scientist-ai-automation-llm",
@@ -3045,7 +3286,7 @@
       "apply_url": "https://www.linkedin.com/jobs/view/4408658575/",
       "source": "LinkedIn",
       "source_url": "https://www.linkedin.com/jobs/view/4408658575/",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "pinhome-associate-product-manager",
@@ -3291,7 +3532,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/senior-frontend-developer-at-bukalapak-4456789012",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/senior-frontend-developer-at-bukalapak-4456789012",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "backend-developer-go-tokopedia",
@@ -3587,7 +3828,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/backend-java-developer-at-pt-barrans-global-mandiri-4183094631",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/backend-java-developer-at-pt-barrans-global-mandiri-4183094631",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "ntt-data-inc-backend-developer",
@@ -3876,7 +4117,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/fullstack-developer-at-ottodigital-group-4395706993",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/fullstack-developer-at-ottodigital-group-4395706993",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "paintpro-indonesia-mobile-engineer-flutter",
@@ -4119,7 +4360,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/data-scientist-ai-llm-applications-at-kredivo-group-4400721729",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/data-scientist-ai-llm-applications-at-kredivo-group-4400721729",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "pt-siaga-abdi-utama-devops-engineer",
@@ -4358,7 +4599,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/front-end-developer-yogyakarta-at-scout-inc-3493500390",
       "source": "LinkedIn Indonesia",
       "source_url": "https://id.linkedin.com/jobs/view/front-end-developer-yogyakarta-at-scout-inc-3493500390",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "frontend-developer-net-idstar",
@@ -4582,7 +4823,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/copywriter-english-hr-psychology-at-astrnt-4063486119",
       "source": "LinkedIn Indonesia",
       "source_url": "https://id.linkedin.com/jobs/view/copywriter-english-hr-psychology-at-astrnt-4063486119",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "social-media-specialist-leka-indonesia",
@@ -4851,7 +5092,7 @@
       "apply_url": "https://www.linkedin.com/jobs/view/backend-developer-common-services-admo-at-pt-astra-international-tbk-4358120601",
       "source": "LinkedIn Indonesia",
       "source_url": "https://www.linkedin.com/jobs/view/backend-developer-common-services-admo-at-pt-astra-international-tbk-4358120601",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "backend-developer-vascomm",
@@ -5265,7 +5506,7 @@
       "apply_url": "https://glints.com/id/opportunities/jobs/front-end-developer/64498421-7507-48a6-b928-e922adf29c81",
       "source": "PT KODE KOLEKTIF INDONESIA",
       "source_url": "https://glints.com/id/opportunities/jobs/front-end-developer/64498421-7507-48a6-b928-e922adf29c81",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "ui-ux-designer-pt-global-infotech",
@@ -5351,7 +5592,7 @@
       "apply_url": "https://glints.com/id/opportunities/jobs/junior-devops-engineer-can-join-asap-wfo-jakarta-area/0eb5440c-32fa-443f-8fa1-3affdfbc6400",
       "source": "PT Sigma Global Teknologi",
       "source_url": "https://glints.com/id/opportunities/jobs/junior-devops-engineer-can-join-asap-wfo-jakarta-area/0eb5440c-32fa-443f-8fa1-3affdfbc6400",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "senior-software-engineer-glints",
@@ -5400,7 +5641,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/software-engineer-at-glints-2680627115",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/software-engineer-at-glints-2680627115",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "frontend-engineer-react-native-pintarnya",
@@ -5648,7 +5889,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/senior-mobile-engineer-ios-android-at-traveloka-4368143927",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/senior-mobile-engineer-ios-android-at-traveloka-4368143927",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "senior-growth-marketing-jago-coffee",
@@ -5936,7 +6177,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-tixid-2893193610",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-tixid-2893193610",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "product-manager-finaccel",
@@ -6178,7 +6419,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/senior-frontend-developer-at-eduqat-3726573795",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/senior-frontend-developer-at-eduqat-3726573795",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "backend-developer-mkindo",
@@ -6517,7 +6758,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-klikcair-4375327263",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-klikcair-4375327263",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "digital-commerce-operations-executive-savoir-communications",
@@ -6903,7 +7144,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/devops-engineer-at-techtiera-services-indonesia-4426228873",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/devops-engineer-at-techtiera-services-indonesia-4426228873",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "php-developer-btab-group",
@@ -6998,7 +7239,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/data-scientist-at-dana-indonesia-3996165269",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/data-scientist-at-dana-indonesia-3996165269",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "data-scientist-monee",
@@ -7188,7 +7429,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/product-manager-indonesia-at-msi-4083816457",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/product-manager-indonesia-at-msi-4083816457",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "ocbc-indonesia-data-analyst",
@@ -7433,7 +7674,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-indico-by-telkomsel-4408212274",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-indico-by-telkomsel-4408212274",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "astra-financial-fullstack-engineer",
@@ -7668,7 +7909,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/devops-engineer-at-hcltech-3465215862",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/devops-engineer-at-hcltech-3465215862",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "pt-astra-international-backend-developer",
@@ -7906,7 +8147,7 @@
       "apply_url": "https://www.linkedin.com/jobs/view/2789646752/",
       "source": "LinkedIn",
       "source_url": "https://www.linkedin.com/jobs/view/2789646752/",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "dua-digital-solutions-backend-developer",
@@ -8188,7 +8429,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-traveloka-4303949603",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-traveloka-4303949603",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "paragoncorp-data-analyst",
@@ -8465,7 +8706,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-pt-mandiri-international-technology-4324631630",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-pt-mandiri-international-technology-4324631630",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "finku-digital-marketing",
@@ -8697,7 +8938,7 @@
       "apply_url": "https://www.linkedin.com/jobs/view/4391696734",
       "source": "LinkedIn",
       "source_url": "https://www.linkedin.com/jobs/view/4391696734",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "skilledup-life-content-writer-volunteer",
@@ -8917,7 +9158,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/international-english-content-writer-and-editor-jakarta-indonesia-communication-and-advocacy-section-1-year-remote-at-unicef-4446046980",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/international-english-content-writer-and-editor-jakarta-indonesia-communication-and-advocacy-section-1-year-remote-at-unicef-4446046980",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "content-creator-specialist-kitabisa",
@@ -9174,7 +9415,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/data-scientist-at-pt-indosat-tbk-4391527595",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/data-scientist-at-pt-indosat-tbk-4391527595",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "frontend-developer-ajari-ai",
@@ -9403,7 +9644,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/product-manager-at-infinid-indonesia-3968791430",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/product-manager-at-infinid-indonesia-3968791430",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "junior-product-manager-verihubs",
@@ -9671,7 +9912,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/backend-developer-at-sari-tirta-group-4319892764",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/backend-developer-at-sari-tirta-group-4319892764",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "ui-ux-designer-glints",
@@ -9906,7 +10147,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-mooselab-4394757779",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/frontend-developer-at-mooselab-4394757779",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "fullstack-developer-code-id",
@@ -10138,7 +10379,7 @@
       "apply_url": "https://www.linkedin.com/jobs/view/4433818737/",
       "source": "LinkedIn",
       "source_url": "https://www.linkedin.com/jobs/view/4433818737/",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "flutter-web-and-mobile-developer-hiloker",
@@ -10312,7 +10553,7 @@
       "apply_url": "https://id.linkedin.com/jobs/view/mobile-developer-flutter-at-pt-nextgen-inovasi-indonesia-4402756357",
       "source": "LinkedIn",
       "source_url": "https://id.linkedin.com/jobs/view/mobile-developer-flutter-at-pt-nextgen-inovasi-indonesia-4402756357",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "back-end-developer-pt-bank-digital-bca-bca-digital",
